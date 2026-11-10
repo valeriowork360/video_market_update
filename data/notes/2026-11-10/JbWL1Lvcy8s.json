@@ -1,0 +1,64 @@
+{
+  "summary": "The host examines why equities often decline despite reporting strong quarterly earnings beats, focusing on recent price action in semiconductor and tech names like AMD and Analog Devices. Using academic asset-pricing models, he explains that equity valuations reflect long-term cash flow expectations discounted by required returns, meaning current earnings matter far less than multi-year forward revisions and changes in risk premiums. He details how rising risk compresses price-to-earnings multiples and how heavy capital expenditures can lead to negative free cash flow even during profitable quarters. Finally, he outlines a four-step framework for investors to evaluate long-term earnings forecasts, multiple compression risk, true cash generation, and price trends before taking positions.",
+  "author_tone": "cautious",
+  "tone_evidence": "The presenter highlights that the VIX remains elevated above 23 points and repeatedly cautions viewers that strong accounting earnings cannot protect stocks when market risk premiums rise and forward growth estimates decelerate.",
+  "key_points": [
+    {
+      "point": "The VIX remains elevated above 20 points, signaling persistent volatility and market nervousness despite short-term market bounces.",
+      "timestamp": "01:17"
+    },
+    {
+      "point": "Options-derived expected move data prices a daily swing of roughly 59 points for the S&P 500, with an asymmetric tilt toward a mild positive close.",
+      "timestamp": "02:12"
+    },
+    {
+      "point": "AMD dropped sharply after reporting 45% revenue growth because the impressive performance was already priced in for perfection.",
+      "timestamp": "07:45"
+    },
+    {
+      "point": "Based on the Campbell-Shiller framework, equity returns depend on adjustments to long-term cash flows and fluctuations in the discount rate rather than current quarterly profits.",
+      "timestamp": "10:40"
+    },
+    {
+      "point": "A rising risk premium directly shrinks valuation multiples, meaning an equity can drop significantly without any downward revision in actual earnings.",
+      "timestamp": "14:15"
+    },
+    {
+      "point": "Energy producers such as ENI and ExxonMobil look artificially inexpensive because their low multiples reflect peak earnings that are projected to decline over coming years.",
+      "timestamp": "17:42"
+    },
+    {
+      "point": "Heavy infrastructure investments for artificial intelligence have pushed free cash flow into negative territory for companies like Alphabet despite robust reported net income.",
+      "timestamp": "19:40"
+    },
+    {
+      "point": "Investors should follow a disciplined four-step checklist reviewing multi-year earnings trajectories, multiple resilience to higher risk, free cash flow after capital expenditure, and technical price support.",
+      "timestamp": "24:50"
+    }
+  ],
+  "tickers": [
+    "AMD",
+    "ADI",
+    "ENI",
+    "XOM",
+    "GOOGL",
+    "MSFT",
+    "META",
+    "ORCL"
+  ],
+  "predictions": [
+    "If risk premiums and discount rates stay elevated, equity multiples will continue to compress even for firms reporting growing profits.",
+    "For the daily session, the market is pricing approximately 59 points of expected move in the S&P 500, favoring a neutral-to-mildly positive outcome."
+  ],
+  "catalysts": [
+    "In-person community events in Milan on November 11 and November 13.",
+    "Evening educational webinar announced for the host's audience."
+  ],
+  "rumors": [],
+  "is_sponsored_or_promo": true,
+  "video_id": "JbWL1Lvcy8s",
+  "title": "Perché le azioni scendono anche con utili in crescita",
+  "author": "Marco Casario EXTRA",
+  "url": "https://www.youtube.com/watch?v=JbWL1Lvcy8s",
+  "analysed_at": "2026-11-10T16:16:59.381202+00:00"
+}
