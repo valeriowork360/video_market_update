@@ -72,9 +72,14 @@ def ask_json(prompt, video_url=None, retries=3):
         media_resolution=types.MediaResolution.MEDIA_RESOLUTION_LOW if video_url else None,
     )
     global _model_ok
-    models = [_model_ok] if _model_ok else [CFG["model"]] + CFG.get("fallback_models", [])
+    models = [_model_ok] if _model_ok else [CFG["model"]] + CFG.get("fallback_models", []) + ["__auto__"]
     last = None
     for model in models:
+        if model == "__auto__":
+            model = newest_flash()
+            if not model:
+                break
+            print(f"  uso il modello trovato automaticamente: {model}")
         for i in range(retries):
             try:
                 r = gemini().models.generate_content(
@@ -97,6 +102,27 @@ def ask_json(prompt, video_url=None, retries=3):
 
 
 _model_ok = None
+
+
+def newest_flash():
+    """Pick the newest available 'flash' text model, so Google renames don't break the bot."""
+    try:
+        names = []
+        for m in gemini().models.list():
+            n = m.name.split("/")[-1]
+            actions = getattr(m, "supported_actions", None) or []
+            if "flash" in n and "generateContent" in actions and not re.search(
+                    r"lite|image|tts|live|audio|thinking|exp|embedding|preview", n):
+                names.append(n)
+        def ver(n):
+            v = re.search(r"(\d+(?:\.\d+)?)", n)
+            return float(v.group(1)) if v else 0
+        names.sort(key=ver, reverse=True)
+        print(f"  modelli flash disponibili: {names[:5]}")
+        return names[0] if names else None
+    except Exception as e:
+        print(f"  elenco modelli non disponibile: {e}")
+        return None
 
 
 def notes_between(start_date, end_date):
