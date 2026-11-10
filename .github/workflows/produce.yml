@@ -52,3 +52,11 @@ jobs:
             output/**/script.json
             !output/**/_tmp/**
           retention-days: 14
+      - name: Avvisa su Telegram in caso di errore
+        if: failure()
+        env:
+          TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          CHAT: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          curl -s "https://api.telegram.org/bot$TOKEN/sendMessage" -d chat_id="$CHAT" \
+            -d text="❌ ${{ github.workflow }} fallito: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"

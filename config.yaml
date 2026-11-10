@@ -40,7 +40,8 @@ news_feeds:
 languages: [it, en]
 
 # Modello AI (Gemini, piano gratuito). Se Google lo rinomina, cambialo qui.
-model: gemini-2.5-flash
+model: gemini-flash-latest
+fallback_models: [gemini-2.5-flash, gemini-2.0-flash]
 
 # Voce narrante (edge-tts, gratuita). Elenco voci: `edge-tts --list-voices`
 voices:

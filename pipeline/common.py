@@ -71,19 +71,32 @@ def ask_json(prompt, video_url=None, retries=3):
         temperature=0.6,
         media_resolution=types.MediaResolution.MEDIA_RESOLUTION_LOW if video_url else None,
     )
+    global _model_ok
+    models = [_model_ok] if _model_ok else [CFG["model"]] + CFG.get("fallback_models", [])
     last = None
-    for i in range(retries):
-        try:
-            r = gemini().models.generate_content(
-                model=CFG["model"], contents=[types.Content(role="user", parts=parts)], config=cfg)
-            txt = r.text.strip()
-            txt = re.sub(r"^```(json)?|```$", "", txt).strip()
-            return json.loads(txt)
-        except Exception as e:  # rate limits on free tier -> wait and retry
-            last = e
-            print(f"  Gemini errore ({e}); riprovo tra {30 * (i + 1)}s")
-            time.sleep(30 * (i + 1))
+    for model in models:
+        for i in range(retries):
+            try:
+                r = gemini().models.generate_content(
+                    model=model, contents=[types.Content(role="user", parts=parts)], config=cfg)
+                txt = r.text.strip()
+                txt = re.sub(r"^```(json)?|```$", "", txt).strip()
+                _model_ok = model
+                return json.loads(txt)
+            except Exception as e:
+                last = e
+                msg = str(e)
+                if "404" in msg or "NOT_FOUND" in msg or "not found" in msg.lower():
+                    print(f"  modello {model} non disponibile, provo il successivo")
+                    break
+                if "API_KEY" in msg or "API key" in msg or "PERMISSION_DENIED" in msg:
+                    raise RuntimeError(f"Chiave Gemini non valida: {msg[:200]}")
+                print(f"  Gemini errore ({msg[:200]}); riprovo tra {30 * (i + 1)}s")
+                time.sleep(30 * (i + 1))
     raise RuntimeError(f"Gemini fallito: {last}")
+
+
+_model_ok = None
 
 
 def notes_between(start_date, end_date):

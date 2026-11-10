@@ -57,6 +57,7 @@ def list_recent_videos(channel):
     cid = channel_id(channel)
     if cid:
         d = feedparser.parse(f"https://www.youtube.com/feeds/videos.xml?channel_id={cid}")
+        print(f"  RSS: {len(d.entries)} video (id {cid})")
         if d.entries:
             out = []
             for e in d.entries[:CFG["videos_per_channel"] * 2]:
@@ -67,7 +68,11 @@ def list_recent_videos(channel):
                     ts = calendar.timegm(e.published_parsed)
                 out.append({"id": vid, "title": e.get("title", ""), "duration": 0, "ts": ts})
             return out
-    return list_recent_videos_ytdlp(channel)
+    else:
+        print("  id canale NON trovato: controlla l'URL in config.yaml")
+    vids = list_recent_videos_ytdlp(channel)
+    print(f"  yt-dlp: {len(vids)} video")
+    return vids
 
 
 def list_recent_videos_ytdlp(channel):
@@ -148,6 +153,7 @@ def main():
             if v["id"] in seen:
                 continue
             if v.get("ts") and v["ts"] < cutoff:
+                print(f"  vecchio, salto: {v['title'][:60]}")
                 seen.add(v["id"])
                 continue
             ts, dur, live = video_upload_time(v["id"])
@@ -156,6 +162,7 @@ def main():
                 continue  # wait until the live ends
             seen.add(v["id"])
             if ts and ts < cutoff:
+                print(f"  vecchio, salto: {v['title'][:60]}")
                 continue
             if dur and dur > CFG["max_duration_min"] * 60:
                 print(f"  salto (troppo lungo): {v['title']}")
@@ -173,5 +180,28 @@ def main():
     print(f"Video nuovi analizzati: {new}")
 
 
+class Tee:
+    """Mirror console output into data/logs so it can be read from the repo."""
+    def __init__(self, path, stream):
+        path.parent.mkdir(parents=True, exist_ok=True)
+        self.f, self.s = open(path, "w", encoding="utf-8"), stream
+
+    def write(self, x):
+        self.s.write(x)
+        self.f.write(x)
+        self.f.flush()
+
+    def flush(self):
+        self.s.flush()
+
+
 if __name__ == "__main__":
-    main()
+    import sys
+    import traceback
+    from common import DATA
+    sys.stdout = Tee(DATA / "logs" / "collect_last.log", sys.stdout)
+    try:
+        main()
+    except Exception:
+        traceback.print_exc(file=sys.stdout)
+        raise
