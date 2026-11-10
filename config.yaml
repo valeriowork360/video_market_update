@@ -1,0 +1,67 @@
+# ============================================================
+#  CONFIGURAZIONE — modifica qui, non nel codice
+# ============================================================
+
+# Canali da seguire. Metti l'URL del canale (apri il canale su YouTube
+# e copia l'indirizzo, es. https://www.youtube.com/@NomeCanale).
+# Gli handle qui sotto sono stime: VERIFICALI uno per uno.
+channels:
+  - name: Jason Pizzino
+    url: https://www.youtube.com/@JasonPizzino
+  - name: Michael Pizzino
+    url: https://www.youtube.com/@MichaelPizzino
+  - name: Marco Casario
+    url: https://www.youtube.com/@MarcoCasario
+  - name: Marco Casario EXTRA
+    url: https://www.youtube.com/@MarcoCasarioEXTRA
+  - name: Financial Education (Jeremy Lefebvre)
+    url: https://www.youtube.com/@FinancialEducation
+  - name: Jeremy Lefebvre Clips
+    url: https://www.youtube.com/@JeremyLefebvreClips
+  - name: MindTheChart
+    url: https://www.youtube.com/@MindTheChart
+  - name: 0xTalks
+    url: https://www.youtube.com/@0xTalks
+
+# Quanti video recenti controllare per canale a ogni giro (ogni 4 ore)
+videos_per_channel: 3
+# Ignora video più vecchi di N ore
+max_age_hours: 30
+# Salta video più lunghi di N minuti (le live di 3 ore consumano molta quota)
+max_duration_min: 120
+
+# Feed RSS di notizie di mercato (gratuiti)
+news_feeds:
+  - https://feeds.content.dowjones.io/public/rss/mw_topstories
+  - https://www.cnbc.com/id/100003114/device/rss/rss.html
+  - https://finance.yahoo.com/news/rssindex
+  - https://www.investing.com/rss/news_25.rss
+
+languages: [it, en]
+
+# Modello AI (Gemini, piano gratuito). Se Google lo rinomina, cambialo qui.
+model: gemini-2.5-flash
+
+# Voce narrante (edge-tts, gratuita). Elenco voci: `edge-tts --list-voices`
+voices:
+  it: it-IT-DiegoNeural
+  en: en-US-AndrewNeural
+
+# Tono della voce narrante: news (serio), energetic (energico), calm (pacato)
+narrator_tone: news
+
+# Lunghezza indicativa del video lungo giornaliero / settimanale (minuti)
+daily_minutes: 6
+weekly_minutes: 10
+
+# Short per video lungo
+shorts_min: 3
+shorts_max: 7
+
+brand:
+  name: Market Pulse          # nome del tuo canale, appare nei video
+  accent: "#00D1A0"
+  bearish: "#FF4D5E"
+  bullish: "#00D1A0"
+  background: "#0B0F14"
+  text: "#F2F5F8"

@@ -1,0 +1,10 @@
+google-genai>=1.0
+youtube-transcript-api>=1.0
+yt-dlp
+feedparser
+edge-tts>=6.1
+yfinance
+matplotlib
+Pillow
+PyYAML
+requests
