@@ -1,40 +1,30 @@
 Canale: Jason Pizzino
   RSS: 15 video (id UCIb34uXDsfTq4PJKW0eztkA)
-  analizzo: Going Live with Ben Cowen - Miami Conference, 20-22 November 2026
+  analizzo: Last Time This Happened The Markets Crashed… (but there’s a catch)
     trascrizione non disponibile (RequestBlocked) -> uso Gemini sul video
-  Gemini errore (Server disconnected without sending a response.); riprovo tra 30s
-  Gemini errore (429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource has been exhausted (e.g. check quota).', 'status': 'RESOURCE_EXHAUSTED'}}); riprovo tra 60s
-  Gemini errore (429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource has been exhausted (e.g. check quota).', 'status': 'RESOURCE_EXHAUSTED'}}); riprovo tra 90s
+  Gemini errore (503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}); riprovo tra 30s
+  Gemini errore (503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}); riprovo tra 60s
+  Gemini errore (503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}); riprovo tra 90s
   modello gemini-flash-latest non disponibile, provo il successivo
   modelli flash disponibili: ['gemini-3.8-flash', 'gemini-3.7-flash', 'gemini-3.6-flash', 'gemini-3.5-flash', 'gemini-2.5-flash']
   uso il modello trovato automaticamente: gemini-3.8-flash
-  analizzo: Last Time This Happened The Markets Crashed… (but there’s a catch)
-    trascrizione non disponibile (RequestBlocked) -> uso Gemini sul video
-  Gemini errore (429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g); riprovo tra 30s
-  Gemini errore (429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g); riprovo tra 60s
-  Gemini errore (429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource has been exhausted (e.g. check quota).', 'status': 'RESOURCE_EXHAUSTED'}}); riprovo tra 90s
-  ERRORE analisi: Gemini fallito: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource has been exhausted (e.g. check quota).', 'status': 'RESOURCE_EXHAUSTED'}}
-  vecchio, salto: This Stock Market Bottom Is Different (trap revealed)
+  Gemini errore (503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}); riprovo tra 30s
+  Gemini errore (503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}); riprovo tra 60s
+  Gemini errore (503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}); riprovo tra 90s
+  ERRORE analisi: Gemini fallito: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}
 Canale: Michael Pizzino
   RSS: 15 video (id UCz2wzs4KacqHth7R_N5grgA)
-  analizzo: The Stock Market Is Trying to Bottom… But There's a Problem
-    trascrizione non disponibile (RequestBlocked) -> uso Gemini sul video
 Canale: Marco Casario
   RSS: 15 video (id UCZp2KqGRkO1goEAaxX5Huyg)
-  analizzo: Quanti soldi tenere sul conto: non sono euro, sono mesi (li calcoli così)
-    trascrizione non disponibile (RequestBlocked) -> uso Gemini sul video
-  Gemini errore (Server disconnected without sending a response.); riprovo tra 30s
-  Gemini errore (Server disconnected without sending a response.); riprovo tra 60s
 Canale: Marco Casario EXTRA
   RSS: 15 video (id UCngfIs8G9JHVTeyXPEyb_tQ)
 Canale: Financial Education (Jeremy Lefebvre)
   RSS: 15 video (id UCCmJVw9xQfYuuAAwZGedKRg)
 Canale: Jeremy Lefebvre Clips
   RSS: 15 video (id UC_xMKlHYdRNXLX9XzuOLjsg)
-  vecchio, salto: THIS Stock Is My Next Palantir‼️ EASY MONEY 💰
 Canale: MindTheChart
   RSS: 15 video (id UChkzwqfPPTPnuSef26idqcg)
 Canale: 0xTalks
   RSS: 15 video (id UCzqvRwYvABKPwhw8hgH5ugA)
 Notizie salvate: 35
-Video nuovi analizzati: 3
+Video nuovi analizzati: 0
