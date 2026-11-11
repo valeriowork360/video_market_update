@@ -1,0 +1,66 @@
+{
+  "summary": "In this livestream, Jason Pizzino covers the reported multibillion-dollar Binance security incident and its impact across cryptocurrency and traditional financial markets. He examines technical levels for Bitcoin, highlighting key support zones between $72,000 and $75,000 while noting structural market weakness. Pizzino cautions that the broader economic and credit cycles point toward prolonged consolidation or downturn rather than an immediate speculative mania. Across altcoins, precious metals, and mega-cap tech stocks, he stresses risk management, capital preservation in cash, and avoiding retail buy-and-hold traps.",
+  "author_tone": "cautious",
+  "tone_evidence": "Pizzino repeatedly urges viewers to prioritize risk-to-reward ratios and capital preservation in cash while warning that many popular assets and altcoins are failing key structural supports.",
+  "key_points": [
+    {
+      "point": "Binance reportedly experienced a massive multi-billion-dollar exploit, triggering rapid stablecoin freezes by Tether and Circle.",
+      "timestamp": "00:14"
+    },
+    {
+      "point": "Bitcoin rejected near $82,000 prior to the news, indicating underlying technical weakness before the dip.",
+      "timestamp": "04:00"
+    },
+    {
+      "point": "Major crypto assets such as Bitcoin, Ethereum, and BNB are testing critical 50% retracement and moving average support levels.",
+      "timestamp": "06:05"
+    },
+    {
+      "point": "Long-term altcoins like Polkadot, Cardano, and Dash display consistent patterns of lower highs and declining volume, resembling distribution rather than sustainable accumulation.",
+      "timestamp": "24:00"
+    },
+    {
+      "point": "Precious metals face heavy paper selling, with Silver breaking multi-week support and risking deeper retracements toward previous breakout zones.",
+      "timestamp": "52:21"
+    },
+    {
+      "point": "High interest rates make holding cash increasingly attractive compared to high-risk speculative assets during late-cycle macroeconomic conditions.",
+      "timestamp": "78:15"
+    }
+  ],
+  "tickers": [
+    "BTC",
+    "ETH",
+    "BNB",
+    "XRP",
+    "DOT",
+    "NEAR",
+    "TRX",
+    "SOL",
+    "TSLA",
+    "NVDA",
+    "AAPL",
+    "MSTR",
+    "PLTR"
+  ],
+  "predictions": [
+    "Bitcoin is vulnerable to testing support in the $72,000 to $75,000 region, with a breakdown below $67,000 signaling a deeper macro correction.",
+    "Ethereum is expected to revisit support around $2,150, with risk of dipping below $1,400 before establishing a macro cycle low.",
+    "Silver risks sliding further toward the mid-$40s and potentially into the $30s if current support fails to trigger buying volume.",
+    "The US Dollar Index (DXY) will eventually break below support at 97.5 to 98.5 over the multi-year macro cycle."
+  ],
+  "catalysts": [
+    "Upcoming U.S. presidential election and potential post-election market volatility.",
+    "Federal Reserve and global central bank interest rate decisions.",
+    "Resolution and official confirmation regarding the extent of the Binance exploit."
+  ],
+  "rumors": [
+    "Unverified reports claiming Binance lost between $5.6B and $5.7B in a suspected exploit involving potential North Korean state actors."
+  ],
+  "is_sponsored_or_promo": true,
+  "video_id": "EHr__1mFZdM",
+  "title": "LIVE: Bitcoin Crashing, Biggest Hack In History ($5.6 Billion and rising)",
+  "author": "Jason Pizzino",
+  "url": "https://www.youtube.com/watch?v=EHr__1mFZdM",
+  "analysed_at": "2026-11-11T01:00:45.113986+00:00"
+}
