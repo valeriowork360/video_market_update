@@ -1,0 +1,53 @@
+{
+  "summary": "The presenter reviews the market dynamics following volatile swings, observing that a current rebound in the Nasdaq might only represent a lower high. Heavy selling pressure is hitting Nvidia amid leadership controversies and rumors concerning CEO Jensen Huang, though its extended sell-off is bringing the stock toward key historical support zones. The broader technology and semiconductor sectors face technical headwinds as major assets linger below their daily 200 EMA levels. Meanwhile, Bitcoin and alternative cryptocurrencies remain technically weak and choppy, failing to match the performance of traditional equities.",
+  "author_tone": "cautious",
+  "tone_evidence": "The speaker delivers a measured and skeptical analysis, warning that current bounces may merely be lower highs while noting the technical ceiling imposed by the 200 EMA across multiple charts.",
+  "key_points": [
+    {
+      "point": "The market rebound on the Nasdaq is likely forming a lower high on lower timeframes rather than a full structural recovery.",
+      "timestamp": "00:58"
+    },
+    {
+      "point": "Nvidia faces sustained after-hours dumping due to leadership drama, yet it is nearing potential long-term support levels around $145 to $154.",
+      "timestamp": "02:12"
+    },
+    {
+      "point": "Major indices and prominent tech stocks remain capped below their daily 200 EMA, presenting a critical overhead hurdle.",
+      "timestamp": "04:24"
+    },
+    {
+      "point": "Bitcoin has printed multiple consecutive weeks of downward price action and continues to severely underperform the stock market.",
+      "timestamp": "04:47"
+    },
+    {
+      "point": "Sector rotation has inverted, with non-tech and consumer staples showing relative strength while previous tech leaders struggle.",
+      "timestamp": "08:14"
+    }
+  ],
+  "tickers": [
+    "BTC",
+    "CAT",
+    "GOOGL",
+    "IONQ",
+    "MCD",
+    "NKE",
+    "NVDA",
+    "SMH",
+    "SPX",
+    "US100"
+  ],
+  "predictions": [
+    "Nvidia may find technical support in the $153-$154 range after breaking through earlier lows.",
+    "The ongoing bounce on the Nasdaq and beaten-down tech names will likely run into resistance at their declining 200 EMAs."
+  ],
+  "catalysts": [],
+  "rumors": [
+    "Unverified reports alleging personal misconduct and potential board dismissal of Nvidia CEO Jensen Huang, including speculation that his daughter Madison Huang could replace him."
+  ],
+  "is_sponsored_or_promo": true,
+  "video_id": "ERImJDIgZ-c",
+  "title": "🚨☠️😱",
+  "author": "MindTheChart",
+  "url": "https://www.youtube.com/watch?v=ERImJDIgZ-c",
+  "analysed_at": "2026-11-12T13:37:48.802398+00:00"
+}
