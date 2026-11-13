@@ -1,0 +1,70 @@
+{
+ "market_relevance": 10,
+ "scope": "global",
+ "kind": "market update",
+ "summary": "The speaker analyzes current market conditions, focusing on the S&P 500, Nasdaq, Dow Jones, and various sector indices. He notes that while equity markets have rebounded from recent lows, volume remains a concern. Historical cycle analysis suggests potential for extended consolidation or volatility, drawing comparisons to past market patterns. Additionally, he reviews major tech stocks, Bitcoin, gold, and the US dollar index, pointing out key resistance and support levels.",
+ "digest_it": "L'autore analizza lo stato attuale dei mercati azionari, evidenziando la ripresa recente ma con volumi deboli. Sulla base di confronti storici, prevede la possibilità di una fase prolungata di volatilità o consolidamento prima di nuovi movimenti significativi.",
+ "author_tone": "cautious",
+ "tone_evidence": "The speaker emphasizes caution and patience due to declining volume on rallies and historical cycle comparisons.",
+ "key_points": [
+  {
+   "point": "S&P 500 needs sustained volume and weekly closes above 7,600 to confirm a strong base after the recent 5% drop.",
+   "timestamp": "00:48"
+  },
+  {
+   "point": "Nasdaq must break above 29,200 to flip the current weakness into strength ahead of upcoming sector IPOs.",
+   "timestamp": "03:15"
+  },
+  {
+   "point": "Dow Jones faces early warning signs if it fails to hold 53,000 points following recent volatility.",
+   "timestamp": "05:07"
+  },
+  {
+   "point": "Historical S&P 500 cycles indicate that after reaching major tops, markets can experience extended consolidation lasting several years.",
+   "timestamp": "13:16"
+  },
+  {
+   "point": "US Dollar Index has broken resistance at 102, pointing toward potential target levels around 102.7 and 105.",
+   "timestamp": "18:25"
+  },
+  {
+   "point": "Bitcoin is sitting near the 50% retracement level around 72,500 and needs to hold above key moving averages to avoid further correction.",
+   "timestamp": "26:11"
+  }
+ ],
+ "tickers": [
+  "SPX",
+  "NDX",
+  "DJI",
+  "DXY",
+  "GC1",
+  "SI1",
+  "CL1",
+  "MU",
+  "INTC",
+  "AAPL"
+ ],
+ "predictions": [
+  "S&P 500 may test 7,800 to 7,900 points before determining a breakout.",
+  "US Dollar Index could move towards 105 following its breakout above 102 resistance.",
+  "Bitcoin might retest moving averages around 67,000 if support fails to hold."
+ ],
+ "catalysts": [
+  "Upcoming tech sector IPOs next week"
+ ],
+ "rumors": [],
+ "curiosities": [
+  "Historical post-World War II S&P 500 data shows periods of up to 16 years without new real gains after major market peaks."
+ ],
+ "promo": false,
+ "language": "en",
+ "video_id": "rIPaeXF1QnY",
+ "title": "This Time Is Not Different",
+ "author": "Jason Pizzino",
+ "url": "https://www.youtube.com/watch?v=rIPaeXF1QnY",
+ "published": "2026-11-12T05:19:14.866010+00:00",
+ "duration_min": 28,
+ "partial": false,
+ "analysed_at": "2026-11-13T05:20:58.262613+00:00",
+ "model": "gemini-3.5-flash-lite"
+}

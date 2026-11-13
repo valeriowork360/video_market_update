@@ -1,0 +1,54 @@
+{
+ "market_relevance": 10,
+ "scope": "global",
+ "kind": "market update",
+ "summary": "The speaker reviews recent market volatility, highlighting strong rebounds in the Nasdaq alongside notable drops and controversies surrounding Nvidia. While major stock indices are recovering above key moving averages, cryptocurrency assets such as Bitcoin continue to lag behind. The video examines how specific sectors and individual stocks are reacting to key technical levels, noting potential support zones. Overall, the speaker urges caution and patience for long-term positions amid mixed macro signals.",
+ "digest_it": "Il mercato mostra un recupero generale guidato dai principali indici, mentre Nvidia e le criptovalute continuano a registrare fasi di debolezza. L'autore invita alla cautela nell'analizzare i livelli di supporto e le medie mobili chiave.",
+ "author_tone": "cautious",
+ "tone_evidence": "The speaker notes that markets remain in a choppy phase and urges careful attention to key resistance levels.",
+ "key_points": [
+  {
+   "point": "The VIX rose by seventy percent during a highly volatile week for financial markets.",
+   "timestamp": "00:25"
+  },
+  {
+   "point": "Nvidia experienced an overnight drop of approximately seven percent following reports regarding its CEO.",
+   "timestamp": "02:11"
+  },
+  {
+   "point": "Bitcoin has dropped for roughly seven consecutive weeks, staying near lower trading ranges.",
+   "timestamp": "04:46"
+  }
+ ],
+ "tickers": [
+  "SPX",
+  "NDX",
+  "BTC",
+  "NVDA",
+  "MSFT",
+  "GOOGL",
+  "AMZN",
+  "META",
+  "AMD",
+  "TSM"
+ ],
+ "predictions": [
+  "Nvidia might retest support levels around one hundred fifty-four to one hundred fifty-three."
+ ],
+ "catalysts": [],
+ "rumors": [
+  "Reports suggest potential management transitions or CEO changes at Nvidia."
+ ],
+ "curiosities": [],
+ "promo": false,
+ "language": "it",
+ "video_id": "ERImJDIgZ-c",
+ "title": "(senza titolo)",
+ "author": "MindTheChart",
+ "url": "https://www.youtube.com/watch?v=ERImJDIgZ-c",
+ "published": "2026-11-12T08:19:19.704542+00:00",
+ "duration_min": 10,
+ "partial": false,
+ "analysed_at": "2026-11-13T05:20:33.089716+00:00",
+ "model": "gemini-3.5-flash-lite"
+}

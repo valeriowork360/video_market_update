@@ -1,0 +1,49 @@
+{
+ "market_relevance": 9,
+ "scope": "italy",
+ "kind": "personal finance",
+ "summary": "The speaker argues that cash reserves should be measured in months of living expenses rather than a fixed monetary amount. Using official Italian statistical data on household expenditures, the video demonstrates how different household types and employment statuses require varying safety nets. Inflation and bank deposit interest rates erode purchasing power over time, making basic government bonds a better cash buffer alternative. A step-by-step calculation method helps individuals determine their specific emergency fund targets based on fixed living costs and job stability.",
+ "digest_it": "Il video spiega che i risparmi sul conto corrente vanno misurati in mesi di spese essenziali e non in euro. Vengono illustrati metodi di calcolo personalizzati in base alla situazione familiare e lavorativa.",
+ "author_tone": "cautious",
+ "tone_evidence": "The speaker emphasizes prioritizing financial security and maintaining liquid funds to prepare for unforeseen personal and economic difficulties.",
+ "key_points": [
+  {
+   "point": "For a single person living alone with 10000 euros, savings last about 7 months instead of 5.",
+   "timestamp": "02:10"
+  },
+  {
+   "point": "Official statistics indicate 47.7 percent of job seekers have been looking for work for over 12 months.",
+   "timestamp": "03:30"
+  },
+  {
+   "point": "Unemployment benefits like NASPI provide 75 percent of average monthly salary up to 1456 euros plus 25 percent of the excess.",
+   "timestamp": "04:50"
+  },
+  {
+   "point": "Leaving 10000 euros in a standard bank account yields a net loss of 340 euros of purchasing power over one year due to inflation.",
+   "timestamp": "07:00"
+  },
+  {
+   "point": "Investing cash buffers in 12-month government bonds reduces purchasing power loss to 160 euros.",
+   "timestamp": "07:15"
+  }
+ ],
+ "tickers": [],
+ "predictions": [],
+ "catalysts": [],
+ "rumors": [],
+ "curiosities": [
+  "The speaker mentions having zero months of cash cushion when starting their first business."
+ ],
+ "promo": false,
+ "language": "it",
+ "video_id": "mGdXdGufa4k",
+ "title": "Quanti soldi tenere sul conto: non sono euro, sono mesi (li calcoli così)",
+ "author": "Marco Casario",
+ "url": "https://www.youtube.com/watch?v=mGdXdGufa4k",
+ "published": "2026-11-12T05:19:16.691636+00:00",
+ "duration_min": 14,
+ "partial": false,
+ "analysed_at": "2026-11-13T05:20:50.252445+00:00",
+ "model": "gemini-3.5-flash-lite"
+}

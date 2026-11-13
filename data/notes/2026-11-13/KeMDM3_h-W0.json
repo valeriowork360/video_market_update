@@ -1,0 +1,62 @@
+{
+ "market_relevance": 9,
+ "scope": "global",
+ "kind": "market update",
+ "summary": "The author discusses how to manage trades when initial market analysis proves incorrect. He analyzes the 30-year government bond yield, noting a recent exponential rise and potential short-term slowdown. He observes that the US dollar is trending upward, which creates headwinds for other assets. Bitcoin is currently in a downtrend, with a critical resistance level at 75,000. Finally, he notes that stock markets are showing signs of weakness, with recent rallies lacking sufficient volume to sustain upward momentum.",
+ "digest_it": "L'autore spiega come gestire le posizioni quando le analisi di mercato iniziali si rivelano errate. Prevede una possibile debolezza per Bitcoin e per il mercato azionario, a causa della mancanza di volumi significativi durante i recenti tentativi di rialzo.",
+ "author_tone": "cautious",
+ "tone_evidence": "The speaker emphasizes the importance of having clear trading rules to manage risk when market predictions do not materialize.",
+ "key_points": [
+  {
+   "point": "The 30-year government bond yield is showing signs of a potential short-term slowdown near 5.5%.",
+   "timestamp": "02:06"
+  },
+  {
+   "point": "The US dollar is in an uptrend, with a break below 101-101.5 required to change this trend.",
+   "timestamp": "03:34"
+  },
+  {
+   "point": "Bitcoin is in a downtrend, with 75,000 acting as a key resistance level.",
+   "timestamp": "04:42"
+  },
+  {
+   "point": "Bitcoin may drop to 67,000 if it fails to find support in the 70,000-72,000 range.",
+   "timestamp": "05:52"
+  },
+  {
+   "point": "Stock markets are showing signs of weakness, with recent rallies lacking strong volume.",
+   "timestamp": "09:10"
+  },
+  {
+   "point": "Gold has broken below 4,000 per ounce, indicating potential further downside.",
+   "timestamp": "12:37"
+  },
+  {
+   "point": "A major support level for gold is identified at 3,600 per ounce.",
+   "timestamp": "13:08"
+  }
+ ],
+ "tickers": [
+  "BTC",
+  "GOLD",
+  "SILVER"
+ ],
+ "predictions": [
+  "Bitcoin may decline to 67,000 if it fails to hold the 70,000-72,000 support zone.",
+  "Gold could face further downside pressure if it fails to reclaim the 4,000 per ounce level."
+ ],
+ "catalysts": [],
+ "rumors": [],
+ "curiosities": [],
+ "promo": true,
+ "language": "en",
+ "video_id": "KeMDM3_h-W0",
+ "title": "Money Is Rushing for the Exits... Here's Where It's Going",
+ "author": "Michael Pizzino",
+ "url": "https://www.youtube.com/watch?v=KeMDM3_h-W0",
+ "published": "2026-11-13T00:19:15.821304+00:00",
+ "duration_min": 14,
+ "partial": false,
+ "analysed_at": "2026-11-13T05:20:23.795559+00:00",
+ "model": "gemini-3.1-flash-lite"
+}

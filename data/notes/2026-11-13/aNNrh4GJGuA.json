@@ -1,0 +1,54 @@
+{
+ "market_relevance": 10,
+ "scope": "global",
+ "kind": "crypto",
+ "summary": "Bitcoin has dropped below key support levels and moving averages following aggressive selling from recent highs. The author notes similarities to previous cycle corrections in 2018 and 2022, where November brought severe downward pressure. Other altcoins like Ethereum, Solana, and XRP have also given back a large portion of mid-August gains. The speaker analyses volume profiles, noting low buying interest during the decline, and highlights that a short-term reversal or bounce requires higher volume and reclaiming resistance levels around 73k and 75k.",
+ "digest_it": "Bitcoin e le principali criptovalute stanno subendo forti correzioni dai massimi di agosto, con volumi in calo e rottura dei supporti chiave. L'autore osserva similitudini con i cicli ribassisti del 2018 e del 2022, indicando che una ripresa richiederà volumi consistenti e il superamento delle resistenze a 73.000 e 75.000 dollari.",
+ "author_tone": "cautious",
+ "tone_evidence": "The speaker advises caution and states that positions should remain defensive until trend reversal signals appear.",
+ "key_points": [
+  {
+   "point": "Bitcoin dropped about 19 percent from its recent highs, breaking below the 50 percent level and 75000 dollars.",
+   "timestamp": "02:02"
+  },
+  {
+   "point": "Daily exchange volume for cryptocurrencies remains low, indicating a lack of buying interest.",
+   "timestamp": "02:40"
+  },
+  {
+   "point": "Ethereum and other altcoins have given back nearly all of their mid-August gains.",
+   "timestamp": "05:14"
+  },
+  {
+   "point": "Bond yields have spiked following a CPI announcement while bond prices dropped near their 50 percent level.",
+   "timestamp": "20:30"
+  }
+ ],
+ "tickers": [
+  "BTC",
+  "ETH",
+  "SOL",
+  "XRP",
+  "MSTR"
+ ],
+ "predictions": [
+  "Bitcoin may see a short-term bounce followed by a retest of support levels around 73k to 75k.",
+  "If Bitcoin rejects at resistance levels like 73k or 75k, further downside is likely."
+ ],
+ "catalysts": [
+  "Black Friday sale events for market education and portfolio strategy services."
+ ],
+ "rumors": [],
+ "curiosities": [],
+ "promo": true,
+ "language": "en",
+ "video_id": "aNNrh4GJGuA",
+ "title": "Bitcoin Crash: The Cycle Is Repeating (and how BTC can be saved)",
+ "author": "Jason Pizzino",
+ "url": "https://www.youtube.com/watch?v=aNNrh4GJGuA",
+ "published": "2026-11-13T03:19:14.865999+00:00",
+ "duration_min": 26,
+ "partial": false,
+ "analysed_at": "2026-11-13T05:19:33.287799+00:00",
+ "model": "gemini-3.5-flash-lite"
+}

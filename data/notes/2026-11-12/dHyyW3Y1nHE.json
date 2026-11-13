@@ -1,0 +1,61 @@
+{
+ "market_relevance": 10,
+ "scope": "global",
+ "kind": "market update",
+ "summary": "Michael Pizzino analyzes current market conditions across major stock indices, the US dollar, gold, crude oil, and Bitcoin. He highlights divergences between price action and trading volume, suggesting that recent upward moves in stocks lack strong volume backing and are vulnerable to sharp pullbacks. The US dollar maintains an upward trend above key moving averages, exerting pressure on commodities like gold and crude oil. Meanwhile, Bitcoin continues to struggle below the seventy-five thousand dollar resistance level, with lower potential support levels in view if buying momentum fails to materialize.",
+ "digest_it": "L'autore esamina l'andamento di indici azionari, dollaro, oro, petrolio e Bitcoin, evidenziando una divergenza tra i rialzi dei prezzi e la debolezza dei volumi di scambio. Si aspetta potenziali correzioni o movimenti laterali sui mercati azionari e materie prime, mentre le criptovalute faticano a rompere le resistenze chiave senza nuovi acquirenti.",
+ "author_tone": "cautious",
+ "tone_evidence": "The speaker advises caution because the recent rallies are accompanied by very uninspiring volume drops.",
+ "key_points": [
+  {
+   "point": "S&P 500 shows divergence between price action and low volume during recent upward attempts.",
+   "timestamp": "00:37"
+  },
+  {
+   "point": "US dollar holds support above the one hundred one to one hundred one point five range.",
+   "timestamp": "03:43"
+  },
+  {
+   "point": "Gold hovers around the four thousand dollar per ounce critical level.",
+   "timestamp": "05:00"
+  },
+  {
+   "point": "Crude oil remains in a downtrend unless a break and hold above eighty-nine dollars per barrel occurs.",
+   "timestamp": "05:57"
+  },
+  {
+   "point": "Bitcoin struggles below seventy-five thousand dollars without sustained buying volume.",
+   "timestamp": "06:25"
+  }
+ ],
+ "tickers": [
+  "SPY",
+  "DOW",
+  "QQQ",
+  "DXY",
+  "GC=F",
+  "CL=F",
+  "BTC"
+ ],
+ "predictions": [
+  "S&P 500 may experience a pullback due to low volume during recent price increases.",
+  "US dollar is expected to maintain its upward trend above key resistance levels.",
+  "Gold could test three thousand six hundred dollars per ounce if it breaks below four thousand dollars.",
+  "Crude oil downtrend will likely persist unless it breaks above eighty-nine dollars per barrel.",
+  "Bitcoin might retest the seventy to seventy-two thousand dollar range if momentum fails at seventy-five thousand dollars."
+ ],
+ "catalysts": [],
+ "rumors": [],
+ "curiosities": [],
+ "promo": false,
+ "language": "en",
+ "video_id": "dHyyW3Y1nHE",
+ "title": "Something Is Changing... Bitcoin, Stocks and Gold at a Turning Point?",
+ "author": "Michael Pizzino",
+ "url": "https://www.youtube.com/watch?v=dHyyW3Y1nHE",
+ "published": "2026-11-12T06:19:15.821313+00:00",
+ "duration_min": 10,
+ "partial": false,
+ "analysed_at": "2026-11-13T05:20:40.597014+00:00",
+ "model": "gemini-3.5-flash-lite"
+}
