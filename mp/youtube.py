@@ -72,6 +72,8 @@ def parse_tab(html):
         elif re.search(r'"content":"(?:Scheduled|Premieres|Waiting)', block) or "UPCOMING" in block:
             live = "upcoming"
         age = int(a.group(1)) * _UNIT[a.group(2)] if a else None
+        if not d and age is None and live == "no":
+            continue                    # a playlist or shelf card, not a video
         out.append({"id": m.group(1), "title": clean(_unescape(t.group(1))) if t else "",
                     "duration": _seconds(d.group(1)) if d else None,
                     "age": age, "live": live})
@@ -143,3 +145,15 @@ def feed(ch):
                         "published": e["published"], "exact": True, "duration": None, "live": "unknown"})
     src = "+".join(x for x, ok in (("pagine", pages), ("rss", rss)) if ok) or "nessuna fonte"
     return out, src
+
+
+def original_title(video_id, fallback=""):
+    """Channel pages may show auto-translated titles: oEmbed returns the real one."""
+    try:
+        r = requests.get("https://www.youtube.com/oembed", timeout=20,
+                         params={"url": f"https://www.youtube.com/watch?v={video_id}", "format": "json"})
+        if r.ok:
+            return clean(r.json().get("title", "")) or fallback
+    except Exception:
+        pass
+    return fallback

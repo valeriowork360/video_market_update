@@ -106,6 +106,8 @@ def main():
             break
         st = state.setdefault(v["id"], {"status": "pending", "attempts": 0, "channel": ch["name"],
                                         "title": v["title"], "first_seen": now().isoformat()})
+        v["title"] = youtube.original_title(v["id"], v["title"]) or "(senza titolo)"
+        st["title"] = v["title"]
         mins = f"{v['duration'] // 60} min" if v.get("duration") else "durata sconosciuta"
         log(f"  {ch['name']}: \"{v['title'][:70]}\" ({mins})")
         st["attempts"] += 1
