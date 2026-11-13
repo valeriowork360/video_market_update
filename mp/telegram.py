@@ -14,8 +14,8 @@ LIMIT = 49 * 1024 * 1024       # bots can upload up to ~50 MB
 
 def _api(method, files=None, **data):
     tok, chat = secret("TELEGRAM_BOT_TOKEN"), secret("TELEGRAM_CHAT_ID")
-    if not tok or not chat:
-        log(f"  [telegram non configurato] {method}: {str(data.get('text') or data.get('caption') or '')[:90]}")
+    if os.environ.get("MP_SILENT") or not tok or not chat:
+        log(f"  [telegram non inviato] {method}: {str(data.get('text') or data.get('caption') or '')[:90]}")
         return None
     for attempt in range(4):
         try:

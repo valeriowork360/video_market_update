@@ -20,6 +20,10 @@ on:
         description: "Rifai anche se gia' consegnato"
         type: boolean
         default: false
+      silent:
+        description: "Prova senza inviare su Telegram (i file restano negli Artifacts)"
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -60,6 +64,7 @@ jobs:
           GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          MP_SILENT: ${{ inputs.silent && '1' || '' }}
         run: python -m mp.produce ${{ steps.k.outputs.kind }} ${{ steps.k.outputs.force }}
       - name: Salva copioni e stato
         if: always()

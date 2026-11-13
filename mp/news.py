@@ -3,6 +3,7 @@ import calendar
 import os
 import re
 from datetime import datetime, timedelta
+from zoneinfo import ZoneInfo
 
 import feedparser
 import requests
@@ -130,7 +131,9 @@ def calendar_events():
         if not when or when < now() - timedelta(hours=6):
             continue
         out.append({"event": clean(ev.get("title", "")), "currency": ev["country"],
-                    "impact": ev["impact"], "when_utc": when.astimezone(UTC).strftime("%a %d %b %H:%M"),
+                    "impact": ev["impact"],
+                    "when_rome": when.astimezone(ZoneInfo("Europe/Rome")).strftime("%a %d %b %H:%M"),
+                    "when_new_york": when.astimezone(ZoneInfo("America/New_York")).strftime("%a %d %b %H:%M"),
                     "forecast": ev.get("forecast", ""), "previous": ev.get("previous", ""),
                     "_t": when.timestamp()})
     out.sort(key=lambda e: (e["impact"] != "High", e["_t"]))

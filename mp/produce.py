@@ -111,6 +111,7 @@ def make_social(lang, kind, day, script, folder, sdir, force):
         log("  scrivo short e caroselli")
         soc, meta = writer.derivatives(script, lang, kind)
         write_json(path, soc)
+        log(f"  {len(soc['shorts'])} short e {len(soc['carousels'])} caroselli scritti ({meta['model']})")
     label = date_label(day, lang, False)
     n_s = n_c = 0
     for i, s in enumerate(soc["shorts"], 1):
@@ -152,8 +153,9 @@ def main():
     a = ap.parse_args()
     kind, day = a.kind, local_day()
     key = f"{day}_{kind}"
-    ledger = OUT / "produced_offline.json" if a.offline else STATE / "produced.json"
-    produced = {} if a.offline else read_json(ledger, {})
+    silent = bool(os.environ.get("MP_SILENT"))      # trial run: nothing is sent, nothing is recorded
+    ledger = OUT / "produced_trial.json" if (a.offline or silent) else STATE / "produced.json"
+    produced = {} if (a.offline or silent) else read_json(ledger, {})
     rec = produced.setdefault(key, {"langs": {}, "notes": []})
     langs = [a.lang] if a.lang else CFG["languages"]
     todo = [l for l in langs if a.force or not (rec["langs"].get(l, {}).get("long") and rec["langs"].get(l, {}).get("social"))]
@@ -161,8 +163,9 @@ def main():
         log(f"{key}: gia' consegnato, niente da fare")
         return 0
     folder, sdir = OUT / key, SCRIPTS / key
-    if a.offline:
+    if a.offline or silent:
         sdir = OUT / key / "_scripts"
+    if a.offline:
         for l in todo:
             write_json(sdir / f"{l}.json", read_json(ROOT / "tests" / f"sample_{l}.json"))
             write_json(sdir / f"{l}_social.json", read_json(ROOT / "tests" / f"sample_{l}_social.json"))

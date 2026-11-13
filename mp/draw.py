@@ -107,10 +107,12 @@ def chart(prices, w, h, color):
     return im.resize((w, h), Image.LANCZOS)
 
 
-def _fmt(v):
+def _fmt(v, lang="en"):
     if v >= 1000:
-        return f"{v:,.0f}"
-    return f"{v:,.2f}" if v >= 10 else f"{v:,.4f}".rstrip("0").rstrip(".")
+        t = f"{v:,.0f}"
+    else:
+        t = f"{v:,.2f}" if v >= 10 else f"{v:,.4f}".rstrip("0").rstrip(".")
+    return t.translate(str.maketrans(",.", ".,")) if lang == "it" else t
 
 
 def chart_card(im, box, ticker, prices, lang):
@@ -123,8 +125,10 @@ def chart_card(im, box, ticker, prices, lang):
     pad = 40
     d.text((x0 + pad, y0 + pad), NAMES.get(ticker, ticker.replace("^", "").replace("=X", "").replace("-USD", "")),
            font=font("s", 34), fill=MUTED)
-    d.text((x0 + pad, y0 + pad + 48), _fmt(prices[-1]), font=font("x", 62), fill=TEXT)
+    d.text((x0 + pad, y0 + pad + 48), _fmt(prices[-1], lang), font=font("x", 62), fill=TEXT)
     label = f"{chg:+.1f}%  {L[lang]['months']}"
+    if lang == "it":
+        label = label.replace(".", ",")
     f = font("b", 30)
     tw = f.getlength(label)
     d.rounded_rectangle((x1 - pad - tw - 36, y0 + pad + 4, x1 - pad, y0 + pad + 58), 27, fill=mix(PANEL, col, 0.22))
@@ -293,20 +297,25 @@ def carousel(car, lang, folder):
         d = ImageDraw.Draw(im)
         d.text((m, 96), B["name"].upper(), font=font("x", 30), fill=ACCENT, anchor="lm")
         d.text((W - m, 96), f"{i + 1}/{n}", font=font("s", 28), fill=MUTED, anchor="rm")
+        top, bottom = 190, H - 230
         if i == 0:
-            d.text((m, 330), clean(car["topic"]).upper(), font=font("b", 32), fill=col, anchor="lm")
-            f, lines = fit(s["title"], "x", W - 2 * m, 4, 112, 72)
-            y = text_block(d, (m, 390), lines, f, TEXT, gap=1.08)
+            f, lines = fit(s["title"], "x", W - 2 * m, 4, 116, 72)
+            f2, l2 = fit(s.get("body", ""), "m", W - 2 * m, 4, 48, 36) if s.get("body") else (None, [])
+            h = 70 + len(lines) * round(f.size * 1.08) + 60 + (26 + len(l2) * round(f2.size * 1.3) if l2 else 0)
+            y = top + max(0, (bottom - top - h) * 0.42)
+            d.text((m, y + 16), clean(car["topic"]).upper(), font=font("b", 32), fill=col, anchor="lm")
+            y = text_block(d, (m, y + 70), lines, f, TEXT, gap=1.08)
             d.rounded_rectangle((m, y + 22, m + 160, y + 34), 6, fill=col)
-            if s.get("body"):
-                f2, l2 = fit(s["body"], "m", W - 2 * m, 4, 46, 36)
+            if l2:
                 text_block(d, (m, y + 86), l2, f2, MUTED, gap=1.3)
         else:
-            d.text((m, 270), f"{i + 1:02d}", font=font("x", 150), fill=mix(BG, col, 0.42), anchor="lm")
-            f, lines = fit(s["title"], "x", W - 2 * m, 3, 78, 56)
-            y = text_block(d, (m, 400), lines, f, TEXT, gap=1.12)
+            f, lines = fit(s["title"], "x", W - 2 * m, 3, 84, 56)
+            f2, l2 = fit(s.get("body", ""), "m", W - 2 * m, 8, 54, 38)
+            h = 190 + len(lines) * round(f.size * 1.12) + 76 + len(l2) * round(f2.size * 1.34)
+            y = top + max(0, (bottom - top - h) * 0.42)
+            d.text((m, y + 80), f"{i + 1:02d}", font=font("x", 150), fill=mix(BG, col, 0.42), anchor="lm")
+            y = text_block(d, (m, y + 190), lines, f, TEXT, gap=1.12)
             d.rounded_rectangle((m, y + 18, m + 120, y + 28), 5, fill=col)
-            f2, l2 = fit(s.get("body", ""), "m", W - 2 * m, 8, 50, 38)
             text_block(d, (m, y + 76), l2, f2, mix(TEXT, MUTED, 0.25), gap=1.34)
         # footer: progress dots, then "swipe" or the follow line
         dot_y = H - 96

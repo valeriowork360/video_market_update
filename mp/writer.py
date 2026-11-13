@@ -4,6 +4,7 @@
   B) derivatives  : the long video script           ->  shorts and Instagram carousels
 """
 import json
+import re
 
 from . import llm
 from .core import CFG, clean, log
@@ -18,11 +19,16 @@ MOODS = {
 
 RULES = """HARD RULES
 - Native, natural {lang}. Not a translation. Spoken style: short sentences, no lists read aloud.
+- Spelling must be perfect, including every accent of the language (Italian: è, é, à, ò, ù, ì,
+  "perché", "più", "città"). Never drop accents.
 - The narration is read by a voice: no emoji, no symbols, no markdown, no URLs. Write company
-  names instead of tickers ("Nvidia", not "NVDA"), "percent"/"per cento" instead of "%",
-  and round numbers the way people say them.
+  names instead of tickers ("Nvidia", not "NVDA") and "percent"/"per cento" instead of "%".
+- Say numbers the way a news anchor does: ROUND them. Index and price levels without decimals
+  ("about 7,590 points", "circa 68.700 dollari"), percentages with at most one decimal
+  ("down 0.4 percent"). Never read out decimals of a price. At most two or three numbers per sentence.
 - Numbers and prices: use ONLY the VERIFIED MARKET DATA block or figures stated in the inputs.
   Never invent a number, a date or a quote.
+- "sources" lists only names of creators and news outlets; for market data write "Yahoo Finance".
 - Opinions belong to their author: always attribute ("according to Marco Casario...").
   Paraphrase; never quote more than 8 consecutive words. We never reuse anyone's footage.
 - Say each author's tone when it matters (cautious, bullish...). Where authors disagree, say so.
@@ -35,12 +41,13 @@ Write the script of {what}. Date: {date}. Total narration: about {words} words.
 {rules}
 
 STRUCTURE (segments, in this order)
-1. kind "hook": 35-50 words. The 2-3 most important things of {period}, as a teaser.
-2. kind "market": what is moving the market right now, with the verified numbers.
-3. three to five kind "topic" segments: one theme each. Blend what the creators say with the
-   headlines. Lead with the most market-moving theme.
-4. kind "ahead": what could move markets in the next days (calendar events, catalysts the
-   creators flag), with dates.
+1. kind "hook": 35-50 words. Open directly with the biggest story of {period} - no greeting,
+   no "welcome", no channel name - then tease two more things. Heading = the big story.
+2. kind "market": 90-130 words. What is moving the market right now; only the 4-5 numbers that matter.
+3. three to five kind "topic" segments, 110-160 words each: one theme each. Blend what the
+   creators say with the headlines. Lead with the most market-moving theme.
+4. kind "ahead": 80-120 words. What could move markets in the next days (calendar events,
+   catalysts the creators flag), with dates. Calendar times: {tz_rule}
 5. optional kind "curious": one odd or surprising story, if the inputs contain one.
 6. kind "outro": 25-40 words, one-line "this is not financial advice", invite to follow.
 {extra}
@@ -158,22 +165,42 @@ def long_script(notes, news, market, cal, lang, kind, date_label, week_scripts=N
     fixed = A_PROMPT.format(
         brand=CFG["brand"]["name"], what=what, date=date_label, words=minutes * 145,
         rules=_rules(lang), period="the week" if weekly else "today", extra=extra,
+        tz_rule=('use "when_rome" and say "ora italiana".' if lang == "it"
+                 else 'use "when_new_york" and say "Eastern Time".'),
         market=json.dumps(market, ensure_ascii=False) if market else "not available today: do not cite prices",
         calendar=json.dumps(cal, ensure_ascii=False) if cal else "not available",
         notes="@@NOTES@@", news="@@NEWS@@")
 
-    def make(budget):
-        nv, hv = _fit(notes, news, max(2500, budget - len(fixed)))
-        return fixed.replace("@@NOTES@@", nv).replace("@@NEWS@@", hv)
+    target = minutes * 145
+    state = {"feedback": ""}
 
+    def make(budget):
+        nv, hv = _fit(notes, news, max(2500, budget - len(fixed) - 300))
+        return fixed.replace("@@NOTES@@", nv).replace("@@NEWS@@", hv) + state["feedback"]
+
+    best, best_meta, problem = None, None, None
     for attempt in (1, 2):
-        data, meta = llm.ask("write", make, temperature=0.6, patience=1)
         try:
-            return _check_long(data), meta
+            data, meta = llm.ask("write", make, temperature=0.6, patience=1)
+            script = _check_long(data)
+            _language_check(" ".join(x["narration"] for x in script["segments"]), lang)
         except llm.LLMError as e:
-            if attempt == 2:
-                raise
+            problem = e
+            if best or attempt == 2:
+                break
+            state["feedback"] = f"\n\nIMPORTANT: your previous draft was rejected ({e}). Fix exactly that.\n"
             log(f"    copione scartato ({e}): lo faccio riscrivere")
+            continue
+        if not best or script["words"] > best["words"]:
+            best, best_meta = script, meta
+        if script["words"] >= 0.6 * target:
+            break
+        state["feedback"] = (f"\n\nIMPORTANT: your previous draft had only {script['words']} words. "
+                             f"Write about {target} words: develop every topic segment fully.\n")
+        log(f"    copione corto ({script['words']} parole su {target}): chiedo una versione completa")
+    if not best:
+        raise problem or llm.LLMError("copione non riuscito")
+    return best, best_meta
 
 
 def derivatives(script, lang, kind):
@@ -192,11 +219,47 @@ def derivatives(script, lang, kind):
                          for s in script["segments"]]}
     body = B_PROMPT.format(brand=CFG["brand"]["name"], rules=_rules(lang), shorts_rule=shorts_rule,
                            carousel_rule=carousel_rule, script=json.dumps(slim, ensure_ascii=False))
-    data, meta = llm.ask("write", lambda n: body[:max(n, 9000)], temperature=0.7, patience=1)
-    return _check_deriv(data, script, kind), meta
+    feedback, last = "", None
+    for attempt in (1, 2):
+        data, meta = llm.ask("write", lambda n: body[:max(n, 9000)] + feedback, temperature=0.7, patience=1)
+        out = _check_deriv(data, script, kind)
+        try:
+            _language_check(" ".join([x["narration"] for x in out["shorts"]]
+                                     + [sl["body"] for c in out["carousels"] for sl in c["slides"]]), lang)
+            if kind == "daily" and not out["shorts"]:
+                raise llm.LLMError("no usable shorts")
+            if not out["carousels"]:
+                raise llm.LLMError("no usable carousels")
+            out["model"] = meta["model"]
+            return out, meta
+        except llm.LLMError as e:
+            last = e
+            feedback = f"\n\nIMPORTANT: your previous answer was rejected ({e}). Fix exactly that.\n"
+            log(f"    short e caroselli scartati ({e}): li faccio riscrivere")
+    raise last
 
 
 # ---------------------------------------------------------------- validation
+_SRC = {"verified market data": "Yahoo Finance", "market data": "Yahoo Finance",
+        "economic calendar": "Forex Factory", "calendar": "Forex Factory", "headlines": ""}
+
+
+def _sources(xs):
+    out = []
+    for x in xs or []:
+        x = clean(x)[:40]
+        x = _SRC.get(x.lower(), x)
+        if x and x not in out:
+            out.append(x)
+    return out[:5]
+
+
+def _language_check(text, lang):
+    """Some models drop Italian accents: that reads badly and sounds wrong."""
+    if lang == "it" and len(text) > 500 and len(re.findall("[àèéìòù]", text)) < 3:
+        raise llm.LLMError("the Italian text has no accented letters: write correct Italian with all accents")
+
+
 def _sent(x):
     x = str(x or "").lower()
     return x if x in ("bullish", "bearish", "neutral") else "neutral"
@@ -218,7 +281,7 @@ def _check_long(d):
                      "narration": nar,
                      "bullets": [clean(b)[:70] for b in (s.get("bullets") or []) if clean(b)][:4],
                      "ticker": _ticker(s.get("ticker")), "sentiment": _sent(s.get("sentiment")),
-                     "sources": [clean(x)[:40] for x in (s.get("sources") or []) if clean(x)][:5]})
+                     "sources": _sources(s.get("sources"))})
     words = sum(len(s["narration"].split()) for s in segs)
     if len(segs) < 3 or words < 250:
         raise llm.LLMError(f"copione troppo corto ({len(segs)} segmenti, {words} parole)")
