@@ -182,8 +182,8 @@ def main():
                "market": news.snapshot(), "calendar": news.calendar_events()}
         if weekly:
             week = []
-            for k in sorted(produced):
-                if k.endswith("_daily") and k[:10] >= local_day(-7):
+            for k in sorted(p.name for p in SCRIPTS.glob("*_daily")):
+                if k[:10] >= local_day(-7):
                     s = read_json(SCRIPTS / k / "en.json") or read_json(SCRIPTS / k / "it.json")
                     if s:
                         week.append({"day": k[:10], "title": s["title"],

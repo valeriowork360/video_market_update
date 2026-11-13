@@ -184,7 +184,22 @@ def test_writer():
     print("writer ok")
 
 
+def test_channel_page():
+    from mp import youtube
+    card = ('"lockupViewModel":{"contentImage":{"thumbnailBadgeViewModel":{"text":"%s"}},"contentId":"%s",'
+            '"metadata":{"lockupMetadataViewModel":{"title":{"content":"%s"},"rows":[{"text":{"content":"4.4K"}},'
+            '{"text":{"content":"%s"}}]}}}')
+    html = ("x" + card % ("25:43", "aNNrh4GJGuA", "Bitcoin \\u0026 Stocks", "2h ago")
+            + card % ("1:31:05", "e36oHWwLK34", "Live recap", "Streamed 2d ago")
+            + '"lockupViewModel":{"contentId":"PLAYLIST0001","metadata":{"lockupMetadataViewModel":{"title":{"content":"Playlist"}}}}')
+    v = youtube.parse_tab(html)
+    assert [(x["id"], x["duration"], x["age"]) for x in v] == [("aNNrh4GJGuA", 1543, 7200), ("e36oHWwLK34", 5465, 172800)], v
+    assert v[0]["title"] == "Bitcoin & Stocks"
+    print("channel page ok")
+
+
 if __name__ == "__main__":
+    test_channel_page()
     test_router()
     test_watch()
     test_writer()

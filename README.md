@@ -20,7 +20,7 @@ Non devi fare nulla: parte da solo. Per avviarlo a mano apri **Actions** su GitH
 
 - **0 - Controllo**: prova chiavi, AI, feed, voce e prezzi, e ti manda il referto su Telegram. Usalo se qualcosa non torna.
 - **1 - Raccolta**: analizza subito i video nuovi.
-- **2 - Produzione**: crea subito il giornaliero (o il settimanale). Con *force* lo rifà anche se già consegnato.
+- **2 - Produzione**: crea subito il giornaliero (o il settimanale). Con *force* lo rifà anche se già consegnato. Con *silent* fa una prova senza inviare nulla su Telegram: i file restano negli Artifacts della run.
 
 ## Perché adesso regge
 
@@ -29,6 +29,7 @@ La versione precedente non ha mai consegnato un video. I motivi, e cosa è cambi
 - **Quota Gemini.** Il piano gratuito concede circa 20 richieste al giorno ai modelli *flash* e circa 500 ai modelli *flash-lite*. Prima si usava *flash* per tutto e la quota finiva con la raccolta. Ora *flash-lite* guarda i video e *flash* resta libero per i copioni (ne servono 4 al giorno).
 - **Riserve vere.** Se un modello è sovraccarico (errore 503) o ha finito la quota (429) si passa subito al successivo: 3.8, 3.6, poi i *lite*, poi le AI di riserva. I nomi dei modelli vengono letti da Google a ogni giro, quindi un cambio di nome non rompe nulla.
 - **Niente si perde.** Un video che non si riesce ad analizzare resta in coda per il giro dopo. La produzione salva ogni passaggio: se si ferma, due riprese automatiche (20:43 e 23:13) completano solo quello che manca. Quello che è pronto ti arriva subito.
+- **Video nuovi da due fonti.** I feed RSS di YouTube dai server GitHub spesso non rispondono: ora i video nuovi si leggono anche dalle pagine dei canali, e basta che una delle due fonti funzioni.
 - **Video lunghi.** Vengono letti a pezzi da 40 minuti e con pochi fotogrammi (conta l'audio), così restano dentro i limiti gratuiti.
 - **Numeri verificati.** I prezzi arrivano da Yahoo Finance e l'AI può citare solo quelli. Le voci non confermate vengono chiamate "rumor". Promozioni, sponsor e clickbait degli autori vengono scartati.
 
@@ -64,6 +65,7 @@ Per ora spenti: X non offre più un accesso gratuito per leggere i post. L'elenc
 ```
 config.yaml          impostazioni
 mp/collect.py        raccolta ogni 4 ore (coda, tentativi, riassunto su Telegram)
+mp/youtube.py        video nuovi dei canali (pagine + RSS)
 mp/watch.py          da video a nota: contenuto, tono, previsioni, rumor
 mp/llm.py            scelta del modello, riserve, rispetto delle quote
 mp/news.py           notizie RSS, prezzi verificati, calendario economico

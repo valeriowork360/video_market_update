@@ -193,7 +193,7 @@ def long_script(notes, news, market, cal, lang, kind, date_label, week_scripts=N
             continue
         if not best or script["words"] > best["words"]:
             best, best_meta = script, meta
-        if script["words"] >= 0.6 * target:
+        if script["words"] >= 0.6 * target or attempt == 2:
             break
         state["feedback"] = (f"\n\nIMPORTANT: your previous draft had only {script['words']} words. "
                              f"Write about {target} words: develop every topic segment fully.\n")
