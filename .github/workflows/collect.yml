@@ -26,6 +26,7 @@ jobs:
       - name: Analizza nuovi video e notizie
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          TWITTERAPI_KEY: ${{ secrets.TWITTERAPI_KEY }}
         run: python pipeline/collect.py
       - name: Salva i dati nel repository
         if: always()

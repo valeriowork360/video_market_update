@@ -17,7 +17,8 @@ Write in native, natural {lang} (not a translation). Narrator style: {tone}.
 KIND: {kind}. Target length of the long video narration: about {words} words.
 
 Inputs below: (A) analyses of videos published by creators we follow, each with
-the author's tone; (B) market headlines.
+the author's tone; (B) market headlines; (C) pre-filtered useful extracts from X posts
+(already stripped of hype/promo; attribute them, e.g. "on X, @willywoo noted...").
 
 RULES
 - Lead with what is moving the market NOW, then what could move it next (catalysts, dates).
@@ -58,10 +59,13 @@ Carousels: one per main topic, 5-8 slides each, slide 1 is a hook, last slide is
 
 (B) HEADLINES:
 {news}
+
+(C) X POSTS (filtered):
+{xposts}
 """
 
 
-def build(notes, news, lang, kind="daily"):
+def build(notes, news, lang, kind="daily", xposts=None):
     minutes = CFG["weekly_minutes"] if kind == "weekly" else CFG["daily_minutes"]
     if kind == "weekly":
         kind_txt = "WEEKLY RECAP of the past 7 days: biggest moves, who was right, what's next week"
@@ -77,5 +81,7 @@ def build(notes, news, lang, kind="daily"):
         tone=TONE_GUIDE.get(CFG["narrator_tone"], TONE_GUIDE["news"]),
         kind=kind_txt, words=int(minutes * 150), shorts_rule=shorts_rule,
         notes=json.dumps(slim, ensure_ascii=False)[:250000],
-        news=json.dumps([{"t": n["title"], "s": n["source"]} for n in news], ensure_ascii=False))
+        news=json.dumps([{"t": n["title"], "s": n["source"]} for n in news], ensure_ascii=False),
+        xposts=json.dumps([{"a": x["author"], "t": x["extract"], "tickers": x.get("tickers"),
+                            "rumor": x.get("is_rumor")} for x in (xposts or [])], ensure_ascii=False)[:60000])
     return ask_json(prompt)

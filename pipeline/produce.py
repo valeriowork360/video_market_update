@@ -9,6 +9,7 @@ from datetime import datetime, timedelta
 
 import deliver
 import render
+import x_posts
 from common import CFG, OUT, now, notes_between, news_between, read_json, today_str, write_json
 from write import build
 
@@ -31,19 +32,20 @@ def main():
     folder = OUT / f"{date}_{a.kind}"
     langs = [a.lang] if a.lang else CFG["languages"]
 
-    notes = news = None
+    notes = news = xs = None
     if not a.package:
         notes = recent_notes(hours)
         news = news_between(today_str(-(hours // 24)), today_str())
-        print(f"Video analizzati nel periodo: {len(notes)} — notizie: {len(news)}")
-        if not notes:
+        xs = x_posts.recent(hours)
+        print(f"Video analizzati nel periodo: {len(notes)} — notizie: {len(news)} — post X utili: {len(xs)}")
+        if not notes and not xs:
             deliver.message(f"ℹ️ {a.kind}: nessun video nuovo dai canali seguiti, niente da produrre.")
             return
 
     report = []
     for lang in langs:
         print(f"== {lang.upper()} ==")
-        pkg = read_json(a.package) if a.package else build(notes, news, lang, a.kind)
+        pkg = read_json(a.package) if a.package else build(notes, news, lang, a.kind, xs)
         lf = folder / lang
         write_json(lf / "script.json", pkg)
         label = datetime.strptime(date, "%Y-%m-%d").strftime("%d/%m/%Y")

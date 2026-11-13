@@ -46,6 +46,13 @@ Apri `config.yaml` e verifica gli URL dei canali. Per alcuni ho stimato l'handle
 
 ---
 
+## Account X (opzionale)
+I post degli account in `x_accounts` (config.yaml) vengono letti tramite **twitterapi.io**
+(a pagamento, pochi centesimi al giorno) e filtrati da Gemini: restano solo le parti con
+informazioni concrete, mentre promozioni, link a corsi o Discord, giveaway e hype senza dati vengono scartati.
+Serve il secret `TWITTERAPI_KEY`. Senza questo secret il passaggio viene saltato e il resto funziona lo stesso.
+Puoi rendere il filtro più severo alzando `x_min_score`.
+
 ## Personalizzare
 In `config.yaml` puoi cambiare:
 - `narrator_tone`: `news`, `energetic` o `calm`

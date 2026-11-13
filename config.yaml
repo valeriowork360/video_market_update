@@ -30,6 +30,18 @@ max_age_hours: 30
 # Salta video più lunghi di N minuti (le live di 3 ore consumano molta quota)
 max_duration_min: 120
 
+# Account X da seguire (serve il secret TWITTERAPI_KEY). I post vengono filtrati:
+# restano solo le parti con informazioni utili, niente clickbait/promozioni.
+x_accounts:
+  - holysmokas
+  - amitisinvesting
+  - intheassembly
+  - nolimitgains
+  - willywoo
+  - jasonpizzino
+x_max_age_hours: 30
+x_min_score: 6        # da 0 a 10: alza per filtrare di più
+
 # Feed RSS di notizie di mercato (gratuiti)
 news_feeds:
   - https://feeds.content.dowjones.io/public/rss/mw_topstories

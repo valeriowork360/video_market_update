@@ -176,6 +176,11 @@ def main():
                 print(f"  ERRORE analisi: {e}")
                 seen.discard(v["id"])  # retry next run
     write_json(STATE, sorted(seen))
+    try:
+        import x_posts
+        x_posts.run()
+    except Exception as e:
+        print(f"X: errore {e}")
     collect_news()
     print(f"Video nuovi analizzati: {new}")
 
