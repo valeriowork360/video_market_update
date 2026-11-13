@@ -1,0 +1,54 @@
+{
+ "shorts": [
+  {
+   "title": "Nvidia: opportunity or trap?",
+   "hook": "Two experts, two opposite reads on Nvidia",
+   "narration": "Nvidia splits the experts. Financial Education is optimistic and calls it an opportunity for the long run. MindTheChart urges caution, because price is still below a key average. The next days will tell who is right, but one thing is clear: the bounce needs volume to confirm it. Without volume the recovery can stall quickly. Watch that level. For information only, not financial advice.",
+   "ticker": "NVDA",
+   "sentiment": "bearish",
+   "sources": [
+    "Financial Education",
+    "MindTheChart"
+   ],
+   "caption": "Nvidia splits the experts.",
+   "hashtags": [
+    "#nvidia",
+    "#borsa",
+    "#investimenti"
+   ]
+  }
+ ],
+ "carousels": [
+  {
+   "topic": "Nvidia divide gli esperti",
+   "sentiment": "bearish",
+   "caption": "Nvidia: occasione o trappola? Dicci la tua nei commenti.",
+   "hashtags": [
+    "#nvidia",
+    "#borsa"
+   ],
+   "slides": [
+    {
+     "title": "Nvidia: occasione o trappola?",
+     "body": "Due autori, due letture opposte dello stesso grafico."
+    },
+    {
+     "title": "Chi è ottimista",
+     "body": "Financial Education vede un'occasione per chi guarda al lungo periodo e non al singolo giorno."
+    },
+    {
+     "title": "Chi è prudente",
+     "body": "MindTheChart nota che il prezzo è ancora sotto una media importante: il rimbalzo può essere solo tecnico."
+    },
+    {
+     "title": "Cosa guardare",
+     "body": "I volumi. Senza volumi in crescita il recupero rischia di fermarsi presto."
+    },
+    {
+     "title": "In sintesi",
+     "body": "Rimbalzo da confermare. Segui Market Pulse per l'aggiornamento di domani."
+    }
+   ]
+  }
+ ]
+}

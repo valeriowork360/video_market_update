@@ -1,0 +1,94 @@
+{
+ "title": "Wall Street bounces, but creators stay cautious",
+ "description": "Esempio di prova.\nMercati, autori e prossimi eventi.\nFonti: Jason Pizzino, Marco Casario, Financial Education.",
+ "tags": [
+  "borsa",
+  "mercati",
+  "wall street",
+  "nvidia",
+  "bitcoin"
+ ],
+ "thumbnail_text": "Bounce or trap?",
+ "mood": "urgent",
+ "words": 300,
+ "segments": [
+  {
+   "id": "s1",
+   "kind": "hook",
+   "heading": "Bounce or trap?",
+   "narration": "Wall Street is trying to climb back, but three of the creators we follow urge caution. Today: why the bounce does not convince everyone, what is going on with Nvidia, and the data that could change the picture.",
+   "bullets": [
+    "The bounce is not convincing",
+    "Nvidia under pressure",
+    "Data ahead"
+   ],
+   "ticker": null,
+   "sentiment": "neutral",
+   "sources": []
+  },
+  {
+   "id": "s2",
+   "kind": "market",
+   "heading": "Indexes recover",
+   "narration": "Let's start with the numbers. The S and P five hundred is up about one percent after three red sessions. According to Michael Pizzino the market shows strength, but volume has not confirmed it yet.",
+   "bullets": [
+    "S&P 500 recovers",
+    "Volatility still elevated",
+    "Volume below average"
+   ],
+   "ticker": "^GSPC",
+   "sentiment": "bullish",
+   "sources": [
+    "Michael Pizzino",
+    "CNBC"
+   ]
+  },
+  {
+   "id": "s3",
+   "kind": "topic",
+   "heading": "Nvidia, the most debated",
+   "narration": "Nvidia remains the most debated stock. Financial Education is optimistic. MindTheChart is more cautious: price is still below a key average and the bounce could be only technical.",
+   "bullets": [
+    "Financial Education: optimistic",
+    "MindTheChart: cautious",
+    "Key level still above"
+   ],
+   "ticker": "NVDA",
+   "sentiment": "bearish",
+   "sources": [
+    "Financial Education",
+    "MindTheChart"
+   ]
+  },
+  {
+   "id": "s4",
+   "kind": "ahead",
+   "heading": "The data that matters",
+   "narration": "In the coming days all eyes are on US inflation and the Federal Reserve. A hotter number could cool the bounce, while an in-line print would give stocks room.",
+   "bullets": [
+    "US inflation due",
+    "Fed speakers",
+    "Retail earnings"
+   ],
+   "ticker": null,
+   "sentiment": "neutral",
+   "sources": [
+    "Marco Casario",
+    "Calendario economico"
+   ]
+  },
+  {
+   "id": "s5",
+   "kind": "outro",
+   "heading": "See you tomorrow",
+   "narration": "That was today's briefing. This is for information only and not financial advice. Follow for tomorrow's update.",
+   "bullets": [
+    "Not financial advice",
+    "Follow for tomorrow"
+   ],
+   "ticker": null,
+   "sentiment": "neutral",
+   "sources": []
+  }
+ ]
+}

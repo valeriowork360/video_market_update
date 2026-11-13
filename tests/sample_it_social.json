@@ -1,0 +1,70 @@
+{
+ "shorts": [
+  {
+   "title": "Nvidia: occasione o trappola?",
+   "hook": "Due esperti, due letture opposte su Nvidia",
+   "narration": "Nvidia divide gli esperti. Financial Education è ottimista e parla di occasione per il lungo periodo. MindTheChart invece invita alla prudenza, perché il prezzo resta sotto una media importante. Chi ha ragione lo diranno i prossimi giorni, ma una cosa è chiara: il rimbalzo va confermato dai volumi. Se i volumi non arrivano, il recupero può fermarsi presto. Tieni d'occhio quel livello. Questo è un contenuto informativo, non una consulenza finanziaria.",
+   "ticker": "NVDA",
+   "sentiment": "bearish",
+   "sources": [
+    "Financial Education",
+    "MindTheChart"
+   ],
+   "caption": "Nvidia divide gli esperti: tu da che parte stai?",
+   "hashtags": [
+    "#nvidia",
+    "#borsa",
+    "#investimenti"
+   ]
+  },
+  {
+   "title": "Il dato che può fermare il rimbalzo",
+   "hook": "Un solo dato può cambiare tutto",
+   "narration": "Il rimbalzo di Wall Street ha un esame davanti: l'inflazione americana. Marco Casario ricorda che un numero più alto delle attese potrebbe raffreddare subito l'entusiasmo. Un dato in linea, invece, darebbe ossigeno ai listini. Per questo molti autori restano prudenti anche se gli indici salgono. Prima di festeggiare, aspetta il dato. Contenuto informativo, non consulenza finanziaria.",
+   "ticker": null,
+   "sentiment": "neutral",
+   "sources": [
+    "Marco Casario"
+   ],
+   "caption": "Occhi sull'inflazione USA.",
+   "hashtags": [
+    "#inflazione",
+    "#fed",
+    "#mercati"
+   ]
+  }
+ ],
+ "carousels": [
+  {
+   "topic": "Nvidia divide gli esperti",
+   "sentiment": "bearish",
+   "caption": "Nvidia: occasione o trappola? Dicci la tua nei commenti.",
+   "hashtags": [
+    "#nvidia",
+    "#borsa"
+   ],
+   "slides": [
+    {
+     "title": "Nvidia: occasione o trappola?",
+     "body": "Due autori, due letture opposte dello stesso grafico."
+    },
+    {
+     "title": "Chi è ottimista",
+     "body": "Financial Education vede un'occasione per chi guarda al lungo periodo e non al singolo giorno."
+    },
+    {
+     "title": "Chi è prudente",
+     "body": "MindTheChart nota che il prezzo è ancora sotto una media importante: il rimbalzo può essere solo tecnico."
+    },
+    {
+     "title": "Cosa guardare",
+     "body": "I volumi. Senza volumi in crescita il recupero rischia di fermarsi presto."
+    },
+    {
+     "title": "In sintesi",
+     "body": "Rimbalzo da confermare. Segui Market Pulse per l'aggiornamento di domani."
+    }
+   ]
+  }
+ ]
+}

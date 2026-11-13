@@ -1,0 +1,94 @@
+{
+ "title": "Wall Street rimbalza, ma gli autori restano prudenti",
+ "description": "Esempio di prova.\nMercati, autori e prossimi eventi.\nFonti: Jason Pizzino, Marco Casario, Financial Education.",
+ "tags": [
+  "borsa",
+  "mercati",
+  "wall street",
+  "nvidia",
+  "bitcoin"
+ ],
+ "thumbnail_text": "Rimbalzo o trappola?",
+ "mood": "urgent",
+ "words": 300,
+ "segments": [
+  {
+   "id": "s1",
+   "kind": "hook",
+   "heading": "Rimbalzo o trappola?",
+   "narration": "Wall Street prova a risalire, ma tre degli autori che seguiamo invitano alla prudenza. Oggi vediamo perché il rimbalzo non convince tutti, cosa succede a Nvidia e quali dati possono cambiare il quadro nei prossimi giorni.",
+   "bullets": [
+    "Il rimbalzo non convince",
+    "Nvidia sotto pressione",
+    "I dati in arrivo"
+   ],
+   "ticker": null,
+   "sentiment": "neutral",
+   "sources": []
+  },
+  {
+   "id": "s2",
+   "kind": "market",
+   "heading": "Indici in recupero",
+   "narration": "Partiamo dai numeri. L'indice S and P cinquecento recupera circa l'uno per cento dopo tre sedute negative, mentre il Nasdaq fa leggermente meglio. La volatilità scende, ma resta sopra la media dell'ultimo mese. Secondo Michael Pizzino il mercato mostra forza, però manca ancora la conferma dei volumi.",
+   "bullets": [
+    "S&P 500 in recupero",
+    "Volatilità ancora alta",
+    "Volumi sotto la media"
+   ],
+   "ticker": "^GSPC",
+   "sentiment": "bullish",
+   "sources": [
+    "Michael Pizzino",
+    "CNBC"
+   ]
+  },
+  {
+   "id": "s3",
+   "kind": "topic",
+   "heading": "Nvidia, il titolo più discusso",
+   "narration": "Nvidia resta il titolo più discusso. Financial Education è ottimista e parla di un'occasione per chi guarda al lungo periodo. MindTheChart è più cauto: il prezzo è ancora sotto una media importante e il rimbalzo potrebbe essere solo tecnico. Due letture opposte dello stesso grafico.",
+   "bullets": [
+    "Financial Education: ottimista",
+    "MindTheChart: prudente",
+    "Livello chiave ancora sopra"
+   ],
+   "ticker": "NVDA",
+   "sentiment": "bearish",
+   "sources": [
+    "Financial Education",
+    "MindTheChart"
+   ]
+  },
+  {
+   "id": "s4",
+   "kind": "ahead",
+   "heading": "I dati che contano",
+   "narration": "Nei prossimi giorni l'attenzione va all'inflazione americana e alle parole della Federal Reserve. Marco Casario ricorda che un dato più alto delle attese potrebbe raffreddare il rimbalzo, mentre un dato in linea darebbe ossigeno ai listini.",
+   "bullets": [
+    "Inflazione USA in uscita",
+    "Parla la Federal Reserve",
+    "Trimestrali del settore retail"
+   ],
+   "ticker": null,
+   "sentiment": "neutral",
+   "sources": [
+    "Marco Casario",
+    "Calendario economico"
+   ]
+  },
+  {
+   "id": "s5",
+   "kind": "outro",
+   "heading": "A domani",
+   "narration": "Questo era il punto di oggi. Ricorda: è un contenuto informativo e non una consulenza finanziaria. Seguici per l'aggiornamento di domani.",
+   "bullets": [
+    "Non è consulenza finanziaria",
+    "Segui per domani"
+   ],
+   "ticker": null,
+   "sentiment": "neutral",
+   "sources": []
+  }
+ ]
+}

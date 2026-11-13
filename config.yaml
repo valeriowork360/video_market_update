@@ -1,80 +1,159 @@
 # ============================================================
-#  CONFIGURAZIONE — modifica qui, non nel codice
+#  MARKET PULSE - tutte le impostazioni sono in questo file.
+#  Non serve toccare il codice.
 # ============================================================
 
-# Canali da seguire. Metti l'URL del canale (apri il canale su YouTube
-# e copia l'indirizzo, es. https://www.youtube.com/@NomeCanale).
-# Gli handle qui sotto sono stime: VERIFICALI uno per uno.
-channels:
-  - name: Jason Pizzino
-    url: https://www.youtube.com/@JasonPizzinoOfficial
-  - name: Michael Pizzino
-    url: https://www.youtube.com/@MichaelPizzino
-  - name: Marco Casario
-    url: https://www.youtube.com/@MarcoCasario
-  - name: Marco Casario EXTRA
-    url: https://www.youtube.com/@MarcoCasarioEXTRA
-  - name: Financial Education (Jeremy Lefebvre)
-    url: https://www.youtube.com/@FinancialEducation
-  - name: Jeremy Lefebvre Clips
-    url: https://www.youtube.com/@jeremylefebvre-clips
-  - name: MindTheChart
-    url: https://www.youtube.com/@MindTheChart
-  - name: 0xTalks
-    url: https://www.youtube.com/@0xTalks
+brand:
+  name: Market Pulse            # nome del canale, appare in video e caroselli
+  handle: ""                    # es. "@marketpulse" (appare nell'ultima slide), facoltativo
+  background: "#0B0F14"
+  panel: "#131A23"
+  text: "#F2F5F8"
+  muted: "#8B98A8"
+  accent: "#00D1A0"
+  bullish: "#00D1A0"
+  bearish: "#FF4D5E"
+  neutral: "#F5B83D"
 
-# Quanti video recenti controllare per canale a ogni giro (ogni 4 ore)
-videos_per_channel: 3
-# Ignora video più vecchi di N ore
-max_age_hours: 30
-# Salta video più lunghi di N minuti (le live di 3 ore consumano molta quota)
-max_duration_min: 120
-
-# Account X da seguire (serve il secret TWITTERAPI_KEY). I post vengono filtrati:
-# restano solo le parti con informazioni utili, niente clickbait/promozioni.
-x_accounts:
-  - holysmokas
-  - amitisinvesting
-  - intheassembly
-  - nolimitgains
-  - willywoo
-  - jasonpizzino
-x_max_age_hours: 30
-x_min_score: 6        # da 0 a 10: alza per filtrare di più
-
-# Feed RSS di notizie di mercato (gratuiti)
-news_feeds:
-  - https://feeds.content.dowjones.io/public/rss/mw_topstories
-  - https://www.cnbc.com/id/100003114/device/rss/rss.html
-  - https://finance.yahoo.com/news/rssindex
-  - https://www.investing.com/rss/news_25.rss
-
+timezone: Asia/Bangkok          # il "giorno" e le date seguono questo fuso
 languages: [it, en]
 
-# Modello AI (Gemini, piano gratuito). Se Google lo rinomina, cambialo qui.
-model: gemini-3.8-flash
-fallback_models: [gemini-flash-latest]
+# ------------------------------------------------------------
+#  Canali YouTube seguiti. "id" e' l'identificativo del canale
+#  (inizia con UC). Per aggiungerne uno basta nome + url:
+#  l'id viene trovato da solo al primo giro.
+#  "hint" e' un suggerimento per l'analisi (facoltativo).
+# ------------------------------------------------------------
+channels:
+  - name: Jason Pizzino
+    id: UCIb34uXDsfTq4PJKW0eztkA
+    url: https://www.youtube.com/@JasonPizzinoOfficial
+  - name: Michael Pizzino
+    id: UCz2wzs4KacqHth7R_N5grgA
+    url: https://www.youtube.com/@MichaelPizzino
+  - name: Marco Casario
+    id: UCZp2KqGRkO1goEAaxX5Huyg
+    url: https://www.youtube.com/@MarcoCasario
+    hint: Italian creator. Some videos concern only Italy (Italian taxes, pensions, BTP, Italian politics) - mark those as scope "italy".
+  - name: Marco Casario EXTRA
+    id: UCngfIs8G9JHVTeyXPEyb_tQ
+    url: https://www.youtube.com/@MarcoCasarioEXTRA
+    hint: Italian creator. Some videos concern only Italy - mark those as scope "italy".
+  - name: Financial Education
+    id: UCCmJVw9xQfYuuAAwZGedKRg
+    url: https://www.youtube.com/@FinancialEducation
+    hint: Jeremy Lefebvre. Titles are hype-heavy; report the actual stock thesis and numbers, ignore the hype.
+  - name: Jeremy Lefebvre Clips
+    id: UC_xMKlHYdRNXLX9XzuOLjsg
+    url: https://www.youtube.com/@jeremylefebvre-clips
+    hint: Short clips of Jeremy Lefebvre. Titles are hype-heavy; report only the substance.
+  - name: MindTheChart
+    id: UChkzwqfPPTPnuSef26idqcg
+    url: https://www.youtube.com/@MindTheChart
+  - name: 0xTalks
+    id: UCzqvRwYvABKPwhw8hgH5ugA
+    url: https://www.youtube.com/@0xTalks
 
-# Voce narrante (edge-tts, gratuita). Elenco voci: `edge-tts --list-voices`
-voices:
-  it: it-IT-DiegoNeural
-  en: en-US-AndrewNeural
+# ------------------------------------------------------------
+#  Raccolta (ogni 4 ore)
+# ------------------------------------------------------------
+collect:
+  max_age_hours: 36             # ignora video piu' vecchi
+  max_videos_per_run: 10        # tetto per giro, il resto resta in coda
+  max_per_channel_per_run: 3
+  max_attempts: 5               # tentativi per video prima di rinunciare
+  telegram_digest: true         # ti manda il riassunto di ogni video nuovo
 
-# Tono della voce narrante: news (serio), energetic (energico), calm (pacato)
-narrator_tone: news
+video:
+  fps: 0.2                      # fotogrammi al secondo letti dall'AI (basso = consuma meno quota)
+  chunk_minutes: 40             # i video lunghi vengono analizzati a pezzi
+  max_minutes: 120              # delle live piu' lunghe analizza solo la prima parte
+  daily_hours_cap: 7            # Gemini gratis: massimo 8 ore di YouTube al giorno
 
-# Lunghezza indicativa del video lungo giornaliero / settimanale (minuti)
-daily_minutes: 6
-weekly_minutes: 10
+# ------------------------------------------------------------
+#  Notizie (feed RSS gratuiti). scope "italy" = solo edizione italiana.
+# ------------------------------------------------------------
+news:
+  max_age_hours: 30
+  feeds:
+    - {name: MarketWatch, url: "https://feeds.content.dowjones.io/public/rss/mw_topstories"}
+    - {name: CNBC, url: "https://www.cnbc.com/id/100003114/device/rss/rss.html"}
+    - {name: CNBC Markets, url: "https://www.cnbc.com/id/15839069/device/rss/rss.html"}
+    - {name: Yahoo Finance, url: "https://finance.yahoo.com/news/rssindex"}
+    - {name: Investing.com, url: "https://www.investing.com/rss/news_25.rss"}
+    - {name: CoinDesk, url: "https://www.coindesk.com/arc/outboundfeeds/rss/"}
+    - {name: ANSA Economia, url: "https://www.ansa.it/sito/notizie/economia/economia_rss.xml", scope: italy}
+    - {name: Il Sole 24 Ore, url: "https://www.ilsole24ore.com/rss/finanza.xml", scope: italy}
+  # Calendario economico della settimana (eventi che possono muovere il mercato)
+  calendar_url: "https://nfs.faireconomy.media/ff_calendar_thisweek.json"
+  calendar_currencies: [USD, EUR]
 
-# Short per video lungo
-shorts_min: 3
-shorts_max: 7
+# Prezzi verificati da Yahoo Finance: l'AI puo' citare solo questi numeri.
+market:
+  - {symbol: "^GSPC", name: S&P 500}
+  - {symbol: "^IXIC", name: Nasdaq Composite}
+  - {symbol: "^DJI", name: Dow Jones}
+  - {symbol: "FTSEMIB.MI", name: FTSE MIB}
+  - {symbol: "^STOXX50E", name: Euro Stoxx 50}
+  - {symbol: "^VIX", name: VIX}
+  - {symbol: "^TNX", name: US 10Y yield}
+  - {symbol: "EURUSD=X", name: EUR/USD}
+  - {symbol: "GC=F", name: Gold}
+  - {symbol: "CL=F", name: Crude oil WTI}
+  - {symbol: "BTC-USD", name: Bitcoin}
+  - {symbol: "ETH-USD", name: Ethereum}
 
-brand:
-  name: Market Pulse          # nome del tuo canale, appare nei video
-  accent: "#00D1A0"
-  bearish: "#FF4D5E"
-  bullish: "#00D1A0"
-  background: "#0B0F14"
-  text: "#F2F5F8"
+# ------------------------------------------------------------
+#  Intelligenza artificiale
+#  I modelli Gemini vengono scoperti da soli:
+#   - "flash-lite" (circa 500 richieste/giorno gratis) guarda i video
+#   - "flash"      (circa 20 richieste/giorno gratis)  scrive i copioni
+#  Se Gemini e' sovraccarico o ha finito la quota si passa al modello
+#  successivo e poi alle riserve qui sotto (solo se hai aggiunto la chiave).
+# ------------------------------------------------------------
+ai:
+  daily_caps: {flash: 18, lite: 450}     # richieste al giorno per modello (resta sotto il limite)
+  default_flash: [gemini-3.8-flash, gemini-3.6-flash]
+  default_lite: [gemini-3.5-flash-lite, gemini-3.1-flash-lite]
+  backups:
+    - name: mistral
+      secret: MISTRAL_API_KEY
+      base_url: https://api.mistral.ai/v1
+      models: [mistral-large-latest, mistral-medium-latest, mistral-small-latest]
+      max_chars: 60000
+      max_tokens: 6000
+    - name: groq
+      secret: GROQ_API_KEY
+      base_url: https://api.groq.com/openai/v1
+      models: [openai/gpt-oss-120b, llama-3.3-70b-versatile]
+      max_chars: 11000
+      max_tokens: 3200
+
+# ------------------------------------------------------------
+#  Voce narrante (Edge TTS, gratis)
+#  mode: auto = il tono viene scelto ogni giorno in base al mercato
+#        oppure fisso: calm | neutral | urgent | upbeat
+# ------------------------------------------------------------
+narrator:
+  mode: auto
+  voices:
+    it: [it-IT-DiegoNeural, it-IT-GiuseppeMultilingualNeural, it-IT-IsabellaNeural]
+    en: [en-US-AndrewNeural, en-US-BrianNeural, en-US-GuyNeural]
+
+daily:
+  minutes: 6                    # durata indicativa del video lungo
+  shorts_min: 3
+  shorts_max: 7
+  max_carousels: 6
+weekly:
+  minutes: 10
+
+captions: true                  # sottotitoli sincronizzati nei video
+
+# ------------------------------------------------------------
+#  Account X: per ora spenti (X non ha un accesso gratuito).
+#  L'elenco resta qui pronto per quando lo attiveremo.
+# ------------------------------------------------------------
+x:
+  enabled: false
+  accounts: [holysmokas, amitisinvesting, intheassembly, nolimitgains, willywoo, jasonpizzino]
