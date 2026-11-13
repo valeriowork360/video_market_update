@@ -1,0 +1,290 @@
+{
+ "shorts": [
+  {
+   "title": "Terremoto in Nvidia: dimissioni del CEO",
+   "hook": "Terremoto in Nvidia dopo l'addio del fondatore",
+   "narration": "Terremoto in Nvidia dopo l'addio del fondatore. Jensen Huang si è dimesso improvvisamente a seguito di indagini interne su relazioni personali e legami con fornitori di concorrenti cinesi. Il titolo ha ceduto oltre il 4 per cento nelle ultime sedute. La guida ad interim è stata affidata alla direttrice finanziaria Colette Kress. Secondo le analisi di CNBC, questo cambio ai vertici mette a dura prova la fiducia degli investitori nell'intero settore dell'intelligenza artificiale. Senza il suo fondatore, la società dovrà dimostrare la stabilità della propria struttura societaria.",
+   "ticker": "NVDA",
+   "sentiment": "bearish",
+   "sources": [
+    "CNBC",
+    "Investing.com"
+   ],
+   "caption": "Dimissioni a sorpresa per il CEO di Nvidia Jensen Huang. Quali saranno le conseguenze sul settore tecnologico?",
+   "hashtags": [
+    "#Nvidia",
+    "#JensenHuang",
+    "#IntelligenzaArtificiale",
+    "#WallStreet",
+    "#Borsa",
+    "#MercatiFinanziari"
+   ]
+  },
+  {
+   "title": "Bitcoin in forte calo sotto pressione",
+   "hook": "Il Bitcoin crolla e perde i principali livelli",
+   "narration": "Il Bitcoin crolla e perde i principali livelli. La criptovaluta perde il 3,5 per cento attestandosi a circa 68.866 dollari, dopo aver toccato un minimo a 67.735 dollari. Secondo l'analista MindTheChart, che mantiene un tono molto cauto, il quadro tecnico si è deteriorato sul grafico mensile. Gli ETF spot americani hanno registrato uscite per circa 300 milioni di dollari. Lo stesso analista dichiara di aver ridotto la propria esposizione sulle criptovalute. Si prevede ora una fase prolungata di consolidamento laterale anziché una rapida ripartenza verso nuovi massimi.",
+   "ticker": "BTC-USD",
+   "sentiment": "bearish",
+   "sources": [
+    "MindTheChart",
+    "Yahoo Finance"
+   ],
+   "caption": "Forte correzione per il Bitcoin. Ecco cosa sta succedendo sul mercato delle criptovalute secondo l'analisi di MindTheChart.",
+   "hashtags": [
+    "#Bitcoin",
+    "#Criptovalute",
+    "#Crypto",
+    "#MindTheChart",
+    "#ETF",
+    "#Mercati"
+   ]
+  },
+  {
+   "title": "Borse americane in rosso e VIX in rialzo",
+   "hook": "Wall Street chiude una giornata di forte tensione",
+   "narration": "Wall Street chiude una giornata di forte tensione. Negli Stati Uniti l'indice S&P 500 perde lo 0,8 per cento a circa 7.531 punti. Il Nasdaq cede l'1,4 per cento attorno ai 25.023 punti. Più stabile il Dow Jones con un calo dello 0,2 per cento. Intanto la volatilità cresce con l'indice VIX in aumento di quasi il 5 per cento vicino a quota 20. Sale anche il rendimento del titolo di Stato americano a 10 anni fino al 5,1 per cento.",
+   "ticker": "^GSPC",
+   "sentiment": "bearish",
+   "sources": [
+    "Yahoo Finance"
+   ],
+   "caption": "Giornata difficile per i listini americani tra tecnologici in calo e tassi in rialzo.",
+   "hashtags": [
+    "#WallStreet",
+    "#SP500",
+    "#Nasdaq",
+    "#Borsa",
+    "#Mercati",
+    "#VIX"
+   ]
+  },
+  {
+   "title": "Banco BPM valuta la fusione con Agricole",
+   "hook": "Banco BPM valuta la proposta di Credit Agricole",
+   "narration": "Banco BPM valuta la proposta di Credit Agricole. Il consiglio di amministrazione ha dato mandato al proprio amministratore delegato per approfondire l'offerta di fusione. Resta tuttavia da valutare con attenzione la perdita di contendibilità del gruppo. Nel frattempo Enel ha deliberato un acconto sul dividendo per il 2026 pari a 0,245 euro per azione. Arrivano segnali positivi anche da Webuild con nuovi ordini per oltre 11 miliardi di dollari. Piazza Affari mostra così una buona tenuta rispetto ai cali delle borse estere.",
+   "ticker": null,
+   "sentiment": "bullish",
+   "sources": [
+    "Il Sole 24 Ore",
+    "ANSA Economia"
+   ],
+   "caption": "Mossa strategica sul settore bancario italiano e buone notizie da Enel e Webuild.",
+   "hashtags": [
+    "#BancoBPM",
+    "#CreditAgricole",
+    "#PiazzaAffari",
+    "#Enel",
+    "#Webuild",
+    "#BorsaItaliana"
+   ]
+  },
+  {
+   "title": "Il business miliardario delle carte collezionabili",
+   "hook": "Il business delle carte collezionabili vale due miliardi",
+   "narration": "Il business delle carte collezionabili vale due miliardi. Tra le curiosità di oggi emerge una tendenza insolita segnalata da MarketWatch. Il mercato dell'apertura di bustine di carte da collezionismo ha raggiunto cifre da record a livello globale. La grande diffusione di applicazioni dedicate al pacchetto a sorpresa sta trasformando un semplice passatempo in un vero fenomeno di massa. Tuttavia gli esperti avvertono che le meccaniche di premio assomigliano sempre più a quelle delle slot machine, sollevando forti preoccupazioni sui rischi per i consumatori più giovani.",
+   "ticker": null,
+   "sentiment": "neutral",
+   "sources": [
+    "MarketWatch"
+   ],
+   "caption": "Le bustine di carte collezionabili diventano un business da due miliardi di dollari. Quali sono i rischi?",
+   "hashtags": [
+    "#CarteDaCollezione",
+    "#MarketWatch",
+    "#Business",
+    "#Collezionismo",
+    "#Tendenze",
+    "#Economia"
+   ]
+  }
+ ],
+ "carousels": [
+  {
+   "topic": "Crisi di leadership in Nvidia",
+   "caption": "Terremoto ai vertici di Nvidia dopo l'addio del fondatore Jensen Huang. Quali saranno gli impatti sul settore dell'intelligenza artificiale? Segui la nostra pagina per rimanere aggiornato.",
+   "sentiment": "bearish",
+   "hashtags": [
+    "#Nvidia",
+    "#JensenHuang",
+    "#AI",
+    "#Tech",
+    "#WallStreet",
+    "#Borsa",
+    "#Investimenti",
+    "#MarketPulse"
+   ],
+   "slides": [
+    {
+     "title": "Terremoto ai vertici di Nvidia",
+     "body": "Tutto quello che c'è da sapere sulle dimissioni del fondatore Jensen Huang."
+    },
+    {
+     "title": "Le dimissioni di Huang",
+     "body": "Jensen Huang lascia Nvidia dopo rivelazioni su relazioni personali e legami con fornitori di concorrenti cinesi."
+    },
+    {
+     "title": "Indagine interna in corso",
+     "body": "Il consiglio di amministrazione ha ingaggiato studi legali per avviare un'indagine approfondita."
+    },
+    {
+     "title": "Guida ad interim",
+     "body": "La direzione finanziaria Colette Kress assume temporaneamente la guida della società."
+    },
+    {
+     "title": "Reazione del mercato",
+     "body": "Il titolo cede oltre il 4 per cento. CNBC evidenzia timori sul settore dell'intelligenza artificiale."
+    },
+    {
+     "title": "Cosa succede ora",
+     "body": "Nvidia dovrà dimostrare di saper mantenere i ritmi di crescita anche senza il fondatore. Segui Market Pulse per altri aggiornamenti."
+    }
+   ]
+  },
+  {
+   "topic": "Bitcoin e la fase di calo",
+   "caption": "Forte pressione sul Bitcoin tra uscite dagli ETF e incertezze di mercato. Qual è la tua previsione per i prossimi mesi? Lascia un commento e segui il canale!",
+   "sentiment": "bearish",
+   "hashtags": [
+    "#Bitcoin",
+    "#Crypto",
+    "#MindTheChart",
+    "#ETF",
+    "#Finanza",
+    "#Mercati",
+    "#Trading",
+    "#MarketPulse"
+   ],
+   "slides": [
+    {
+     "title": "Bitcoin sotto pressione",
+     "body": "Analisi del momento critico per la principale criptovaluta sul mercato."
+    },
+    {
+     "title": "Calo dei prezzi",
+     "body": "Il Bitcoin perde il 3,5 per cento a 68.866 dollari, toccando un minimo di 67.735 dollari."
+    },
+    {
+     "title": "L'analisi tecnica",
+     "body": "Secondo MindTheChart il grafico mensile ha rotto i principali livelli di ritracciamento di Fibonacci."
+    },
+    {
+     "title": "Uscite dagli ETF",
+     "body": "Gli ETF spot americani sul Bitcoin registrano deflussi netti per circa 300 milioni di dollari."
+    },
+    {
+     "title": "Prospettive caute",
+     "body": "L'analista MindTheChart ha ridotto l'esposizione prevedendo una fase di consolidamento laterale. Segui Market Pulse per non perdere i prossimi dati."
+    }
+   ]
+  },
+  {
+   "topic": "Rendimenti USA in rialzo",
+   "caption": "Impennata dei rendimenti per i titoli di Stato americani. Temi un ulteriore rialzo dei tassi da parte della Fed? Dicci la tua nei commenti!",
+   "sentiment": "bearish",
+   "hashtags": [
+    "#Obbligazioni",
+    "#Fed",
+    "#Tassi",
+    "#MarketWatch",
+    "#Finanza",
+    "#Economia",
+    "#WallStreet",
+    "#MarketPulse"
+   ],
+   "slides": [
+    {
+     "title": "Balzo dei rendimenti USA",
+     "body": "Tensioni sul mercato obbligazionario americano e timori per i tassi d'interesse."
+    },
+    {
+     "title": "Decennale al 5,1%",
+     "body": "Il rendimento del Treasury a 10 anni sale raggiungendo quota 5,1 per cento."
+    },
+    {
+     "title": "Timori sulla Fed",
+     "body": "MarketWatch riporta preoccupazioni per possibili nuovi rialzi dei tassi per contrastare l'inflazione."
+    },
+    {
+     "title": "Impatto sulle azioni",
+     "body": "La volatilità dei tassi pesa sulle aziende growth e penalizza le valutazioni azionarie."
+    },
+    {
+     "title": "Mosse dei gestori",
+     "body": "Molti grandi gestori stanno riconsiderando l'allocazione della liquidità. Segui Market Pulse per rimanere informato."
+    }
+   ]
+  },
+  {
+   "topic": "Mossa di Credit Agricole su BPM",
+   "caption": "Riflettori puntati su Banco BPM, Enel e Webuild a Piazza Affari. Cosa ne pensi delle ultime novità societarie? Commenta e seguici per altri contenuti!",
+   "sentiment": "bullish",
+   "hashtags": [
+    "#BancoBPM",
+    "#CreditAgricole",
+    "#Enel",
+    "#Webuild",
+    "#PiazzaAffari",
+    "#BorsaItaliana",
+    "#Azioni",
+    "#MarketPulse"
+   ],
+   "slides": [
+    {
+     "title": "Novità a Piazza Affari",
+     "body": "Proposta di fusione per Banco BPM e buone notizie sul listino milanese."
+    },
+    {
+     "title": "Proposta Credit Agricole",
+     "body": "Banco BPM approfondisce la fusione valutando attentamente la perdita di contendibilità."
+    },
+    {
+     "title": "Dividendo Enel",
+     "body": "Enel delibera un acconto sul dividendo 2026 di 0,245 euro, in crescita del 7 per cento."
+    },
+    {
+     "title": "Ordini Webuild",
+     "body": "Webuild conferma le stime grazie a nuovi ordini per oltre 11 miliardi di dollari."
+    },
+    {
+     "title": "Tenuta di Milano",
+     "body": "Piazza Affari mostra una buona tenuta rispetto alla debolezza dei mercati esteri. Segui la pagina per altre news!"
+    }
+   ]
+  },
+  {
+   "topic": "Dati macro in arrivo",
+   "caption": "In arrivo i dati chiave sull'inflazione e i prezzi alla produzione negli Stati Uniti. Quali decisioni ti aspetti dalla Fed? Segui la pagina per rimanere aggiornato!",
+   "sentiment": "neutral",
+   "hashtags": [
+    "#Macroeconomia",
+    "#Fed",
+    "#Inflazione",
+    "#PPI",
+    "#DatiEconomici",
+    "#Mercati",
+    "#MarketPulse",
+    "#Borsa"
+   ],
+   "slides": [
+    {
+     "title": "Appuntamenti macro chiave",
+     "body": "Tutti gli indicatori da monitorare nei prossimi giorni per capire i mercati."
+    },
+    {
+     "title": "Dati PPI americani",
+     "body": "Venerdì 13 novembre alle 14:30 arrivano i dati sull'indice dei prezzi alla produzione."
+    },
+    {
+     "title": "Attese di mercato",
+     "body": "Le stime indicano uno 0,4 per cento per il dato generale e uno 0,3 per cento per quello di fondo."
+    },
+    {
+     "title": "Mosse delle Banche Centrali",
+     "body": "I dati forniranno spunti decisivi sulle prossime mosse della Federal Reserve sui tassi. Segui Market Pulse!"
+    }
+   ]
+  }
+ ],
+ "model": "gemini-3.6-flash"
+}

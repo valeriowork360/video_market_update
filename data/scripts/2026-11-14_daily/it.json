@@ -1,0 +1,172 @@
+{
+ "title": "Nvidia trema dopo le dimissioni del CEO, crollo Bitcoin e bond in rialzo",
+ "description": "Il terremoto societario in Nvidia scuote i mercati azionari, mentre il Bitcoin scende sotto i 69.000 dollari.\nTensioni anche sui titoli di Stato americani con i rendimenti al 5,1 per cento.\nIn Italia riflettori su Banco BPM ed Enel.\nFonti menzionate: MindTheChart, CNBC, MarketWatch, CoinDesk, ANSA.",
+ "tags": [
+  "Nvidia",
+  "Bitcoin",
+  "Borsa",
+  "Mercati Finanziari",
+  "SP500",
+  "Nasdaq",
+  "Criptovalute",
+  "Banco BPM",
+  "Enel",
+  "Federal Reserve"
+ ],
+ "thumbnail_text": "SHOCK NVIDIA E BITCOIN",
+ "mood": "urgent",
+ "segments": [
+  {
+   "id": "s1",
+   "kind": "hook",
+   "heading": "Terremoto Nvidia e mercati",
+   "narration": "Il terremoto dei chip scuote Wall Street dopo le dimissioni del fondatore di Nvidia, Jensen Huang. Tra indagini interne e timori sull'intelligenza artificiale, le borse arretrano. Oggi analizziamo anche la forte correzione del Bitcoin sotto i sessantanovemila dollari e la fiammata dei rendimenti obbligazionari americani.",
+   "bullets": [
+    "Dimissioni shock del CEO di Nvidia",
+    "Bitcoin in netto calo",
+    "Rendimenti obbligazionari in forte aumento"
+   ],
+   "ticker": "NVDA",
+   "sentiment": "bearish",
+   "sources": [
+    "CNBC",
+    "CoinDesk",
+    "MarketWatch"
+   ]
+  },
+  {
+   "id": "s2",
+   "kind": "market",
+   "heading": "Borse in rosso a Wall Street",
+   "narration": "Giornata di forte tensione sui mercati azionari mondiali. Negli Stati Uniti l'indice S&P 500 perde lo 0,8 per cento chiudendo a circa 7.531 punti, mentre il Nasdaq cede l'1,4 per cento attorno ai 25.023 punti. Più stabile il Dow Jones con un calo dello 0,2 per cento. In Europa il listino milanese FTSE MIB sale dello 0,1 per cento a quota 51.859 punti. La volatilità torna a farsi sentire, con l'indice VIX in aumento di quasi il 5 per cento vicino a quota 20. Nel frattempo il rendimento del titolo di Stato americano a 10 anni sale al 5,1 per cento.",
+   "bullets": [
+    "S&P 500 giù dello 0,8 per cento",
+    "Nasdaq in calo dell'1,4 per cento",
+    "FTSE MIB tiene a quota 51.859",
+    "Rendimento US 10Y sale al 5,1 per cento"
+   ],
+   "ticker": "^GSPC",
+   "sentiment": "bearish",
+   "sources": [
+    "Yahoo Finance"
+   ]
+  },
+  {
+   "id": "s3",
+   "kind": "topic",
+   "heading": "Crisi di leadership in Nvidia",
+   "narration": "L'uscita di scena improvvisa di Jensen Huang da Nvidia ha scatenato un'ondata di vendite sul titolo, in calo di oltre il 4 per cento nelle ultime sedute. Le dimissioni arrivano a seguito di rivelazioni su relazioni personali e legami con società fornitrici di concorrenti cinesi. Il consiglio di amministrazione ha affidato la guida ad interim alla direttrice finanziaria Colette Kress e ha ingaggiato importanti studi legali per un'indagine interna. Secondo le analisi di CNBC, questo cambio ai vertici mette a dura prova la fiducia degli investitori nell'intero settore dell'intelligenza artificiale. Senza il suo carismatico fondatore, Nvidia dovrà dimostrare che la propria struttura societaria è in grado di sostenere i ritmi di crescita finora garantiti.",
+   "bullets": [
+    "Jensen Huang lascia la guida di Nvidia",
+    "Colette Kress nominata CEO ad interim",
+    "Avviata indagine interna da studi legali"
+   ],
+   "ticker": "NVDA",
+   "sentiment": "bearish",
+   "sources": [
+    "CNBC",
+    "Investing.com"
+   ]
+  },
+  {
+   "id": "s4",
+   "kind": "topic",
+   "heading": "Bitcoin sotto pressione",
+   "narration": "Nel settore delle criptovalute la pressione di vendita si fa pesante. Il Bitcoin perde il 3,5 per cento attestandosi a circa 68.866 dollari, dopo aver toccato un minimo notturno a 67.735 dollari. Secondo il creatore MindTheChart, che mantiene un tono molto cauto, il quadro tecnico si è deteriorato poiché l'asse del grafico mensile ha rotto i principali livelli di ritracciamento di Fibonacci. MindTheChart evidenzia inoltre come gli ETF spot americani sul Bitcoin abbiano registrato uscite nette per circa 300 milioni di dollari. Tra le incertezze sulla Federal Reserve e i timori sul comparto tecnologico, lo stesso analista dichiara di aver ridotto la propria esposizione diretta sulle criptovalute, prevedendo una fase prolungata di consolidamento laterale anziché una rapida ripartenza verso nuovi massimi.",
+   "bullets": [
+    "Bitcoin scende a circa 68.866 dollari",
+    "Deflussi dagli ETF spot per 300 milioni",
+    "Analisi cauta e atteso consolidamento"
+   ],
+   "ticker": "BTC-USD",
+   "sentiment": "bearish",
+   "sources": [
+    "MindTheChart",
+    "Yahoo Finance"
+   ]
+  },
+  {
+   "id": "s5",
+   "kind": "topic",
+   "heading": "Rendimenti dei titoli in rialzo",
+   "narration": "Le tensioni non risparmiano il mercato obbligazionario americano, dove i rendimenti hanno registrato un balzo importante. Il rendimento del decennale statunitense ha raggiunto il 5,1 per cento. Secondo quanto riportato da MarketWatch, sui mercati stanno crescendo le preoccupazioni per possibili nuovi aumenti dei tassi d'interesse da parte della Federal Reserve. Gli investitori temono infatti che la banca centrale mantenga una linea monetaria più rigida del previsto per contrastare le pressioni inflazionistiche. La crescente volatilità sui titoli di Stato ripercuote le sue conseguenze sui mercati azionari, togliendo respiro alle valutazioni delle aziende growth. La combinazione di tassi elevati e incertezza tecnologica sta spingendo molti grandi gestori a riconsiderare l'allocazione della propria liquidità in questa fase di mercato.",
+   "bullets": [
+    "Decennale USA al 5,1 per cento",
+    "Timori di nuovi rialzi tassi Fed",
+    "Pressione continua sulle azioni growth"
+   ],
+   "ticker": "^TNX",
+   "sentiment": "bearish",
+   "sources": [
+    "MarketWatch",
+    "Yahoo Finance"
+   ]
+  },
+  {
+   "id": "s6",
+   "kind": "topic",
+   "heading": "Mossa di Credit Agricole su BPM",
+   "narration": "In Italia l'attenzione si concentra sul settore bancario e societario. Il consiglio di amministrazione di Banco BPM ha dato mandato al proprio amministratore delegato per approfondire la proposta di fusione avanzata da Crédit Agricole. Tuttavia la dirigenza sottolinea che andrà valutata con attenzione la perdita di contendibilità del gruppo. Nel frattempo Enel ha deliberato un acconto sul dividendo per il 2026 pari a 0,245 euro per azione, in crescita del 7 per cento rispetto al valore precedente. Notizie positive arrivano anche da Webuild, che conferma le proprie stime finanziarie grazie a nuovi ordini per oltre 11 miliardi di dollari ottenuti dall'inizio dell'anno. Piazza Affari mostra così una tenuta rispetto alla debolezza diffusa sui mercati esteri.",
+   "bullets": [
+    "Banco BPM analizza offerta Crédit Agricole",
+    "Enel alza dividendo del 7 per cento",
+    "Webuild registra 11 miliardi di ordini"
+   ],
+   "ticker": null,
+   "sentiment": "bullish",
+   "sources": [
+    "Il Sole 24 Ore",
+    "ANSA Economia"
+   ]
+  },
+  {
+   "id": "s7",
+   "kind": "ahead",
+   "heading": "I prossimi appuntamenti macro",
+   "narration": "Per i prossimi giorni gli operatori rimarranno concentrati sui dati macroeconomici chiave in arrivo dagli Stati Uniti. Venerdì 13 novembre alle ore 14:30 ora italiana saranno pubblicati i dati sull'indice dei prezzi alla produzione, sia generale che di fondo, attesi rispettivamente allo 0,4 per cento e allo 0,3 per cento. Questo appuntamento fornirà indicazioni fondamentali sull'andamento dei costi di produzione e sulle prossime mosse della Federal Reserve. Gli analisti seguiranno inoltre con attenzione i margini di manovra delle banche centrali in vista delle decisioni sui tassi di interesse nei prossimi mesi.",
+   "bullets": [
+    "Dati PPI USA venerdì alle 14:30 ora italiana",
+    "Attesa per l'inflazione alla produzione",
+    "Attenzione massima alle mosse della Fed"
+   ],
+   "ticker": null,
+   "sentiment": "neutral",
+   "sources": [
+    "Yahoo Finance"
+   ]
+  },
+  {
+   "id": "s8",
+   "kind": "curious",
+   "heading": "La febbre delle carte da collezionismo",
+   "narration": "Tra le curiosità di oggi emerge una tendenza insolita segnalata da MarketWatch. Il mercato dell'apertura di bustine di carte da collezionismo ha raggiunto una dimensione stimata in 2 miliardi di dollari. La diffusione di applicazioni dedicate al pacchetto a sorpresa sta trasformando l'acquisto di carte collezionabili in un fenomeno di massa. Tuttavia gli esperti avvertono che le meccaniche di premio di queste piattaforme assomigliano sempre più a quelle delle slot machine, sollevando preoccupazioni sui rischi per i consumatori più giovani.",
+   "bullets": [
+    "Mercato carte da 2 miliardi di dollari",
+    "Boom delle app per apripacchetti",
+    "Analisti lanciano allarme sulle meccaniche"
+   ],
+   "ticker": null,
+   "sentiment": "neutral",
+   "sources": [
+    "MarketWatch"
+   ]
+  },
+  {
+   "id": "s9",
+   "kind": "outro",
+   "heading": "Nota finale",
+   "narration": "Ricordiamo che i contenuti di questo video hanno scopi puramente informativi e non costituiscono consigli finanziari. Iscrivetevi al canale e attivate la campanella per non perdere i prossimi aggiornamenti di Market Pulse.",
+   "bullets": [
+    "Contenuti informativi, non consigli finanziari",
+    "Iscriviti a Market Pulse"
+   ],
+   "ticker": null,
+   "sentiment": "neutral",
+   "sources": []
+  }
+ ],
+ "words": 815,
+ "model": "gemini-3.5-flash",
+ "n_notes": 1,
+ "n_news": 86
+}

@@ -1,0 +1,294 @@
+{
+ "shorts": [
+  {
+   "title": "Nvidia Chief Executive Jensen Huang Resigns",
+   "hook": "Nvidia chief executive Jensen Huang has officially resigned",
+   "narration": "Nvidia chief executive Jensen Huang has officially resigned following personal conduct revelations. Chief Financial Officer Colette Kress is taking over as interim chief executive while the board searches for a permanent successor. Law firm Wachtell Lipton is leading an internal investigation. According to commentary from Jim Cramer, this departure feels like a betrayal to shareholders, and Nvidia will now become a fundamentally different business. Management experts at CNBC report that the flat organizational structure creates major operational challenges ahead. Meanwhile, competitor Cerebras jumped 17 percent after announcing a partnership with Microsoft. The takeaway is clear: while Nvidia struggles with internal crisis, competitors are rushing to take market share.",
+   "ticker": "NVDA",
+   "sentiment": "bearish",
+   "sources": [
+    "CNBC",
+    "Investing.com",
+    "MarketWatch"
+   ],
+   "caption": "Nvidia chief executive Jensen Huang has resigned following internal investigation findings. Chief Financial Officer Colette Kress steps in as interim CEO.",
+   "hashtags": [
+    "#Nvidia",
+    "#TechStocks",
+    "#JensenHuang",
+    "#AI",
+    "#StockMarket",
+    "#MarketPulse"
+   ]
+  },
+  {
+   "title": "Wall Street Drops as Tech Turmoil Spreads",
+   "hook": "Wall Street closed lower as tech turmoil spread",
+   "narration": "Wall Street closed lower as tech turmoil spread across major indexes. The Nasdaq Composite dropped 1.4 percent to finish near 25,023 points. The broader S&P 500 index declined 0.8 percent to close around 7,531 points. Meanwhile, the Dow Jones Industrial Average slipped 0.2 percent to about 52,198 points. European benchmarks were mixed, with the Euro Stoxx 50 down 0.2 percent while Italy's FTSE MIB gained 0.1 percent. Market volatility spiked as the VIX index jumped 4.8 percent to touch 20 points. The takeaway is that executive leadership uncertainty is weighing heavily on broader investor sentiment.",
+   "ticker": "^GSPC",
+   "sentiment": "bearish",
+   "sources": [
+    "Yahoo Finance"
+   ],
+   "caption": "Major benchmarks closed lower across Wall Street as tech executive turmoil weighed on market sentiment.",
+   "hashtags": [
+    "#WallStreet",
+    "#StockMarket",
+    "#Nasdaq",
+    "#SP500",
+    "#Markets",
+    "#MarketPulse"
+   ]
+  },
+  {
+   "title": "Bitcoin Drops Below 69,000 Dollars",
+   "hook": "Bitcoin is struggling below 69,000 dollars today",
+   "narration": "Bitcoin is struggling below 69,000 dollars today as crypto assets retreat. Bitcoin fell 3.5 percent over the past day, trading around 68,866 dollars. Ethereum declined 4.0 percent to approximately 1,936 dollars. According to financial creator MindTheChart, who maintains a cautious outlook on digital assets, Bitcoin fell as low as 67,735 dollars during overnight trading. MindTheChart notes that United States spot Bitcoin funds recorded roughly 300 million dollars in net outflows, driving technical liquidations. MindTheChart also points out that key support levels broke. The takeaway is that institutional outflows and macro headwinds continue to suppress crypto token valuations.",
+   "ticker": "BTC-USD",
+   "sentiment": "bearish",
+   "sources": [
+    "MindTheChart",
+    "CoinDesk",
+    "Yahoo Finance"
+   ],
+   "caption": "Bitcoin retreats below 69,000 dollars following 300 million dollars in net ETF outflows.",
+   "hashtags": [
+    "#Bitcoin",
+    "#Crypto",
+    "#Ethereum",
+    "#CryptoNews",
+    "#Markets",
+    "#MarketPulse"
+   ]
+  },
+  {
+   "title": "Surging Treasury Yields Pressure Tech Stocks",
+   "hook": "Surging bond yields are unsettling stock market investors",
+   "narration": "Surging bond yields are unsettling stock market investors today. The 10-year United States Treasury yield rose 0.5 percent to stand near 5.1 percent. According to reporting from MarketWatch, fixed income investors fear more interest rate hikes by the Federal Reserve. Higher yields reduce the present value of future corporate earnings, which puts heavy pressure on high valuation growth stocks. However, value stocks in healthcare, industrials, and consumer goods are holding steady. The takeaway is that while mega-cap tech shares pull down the major indexes, non-technology sectors are currently preventing a deeper market decline.",
+   "ticker": "^TNX",
+   "sentiment": "neutral",
+   "sources": [
+    "MarketWatch",
+    "CNBC",
+    "Yahoo Finance"
+   ],
+   "caption": "The 10-year Treasury yield rose near 5.1 percent as investors weigh interest rate outlooks.",
+   "hashtags": [
+    "#Bonds",
+    "#TreasuryYields",
+    "#StockMarket",
+    "#FederalReserve",
+    "#Economy",
+    "#MarketPulse"
+   ]
+  },
+  {
+   "title": "Wholesale Inflation Data Keeps Markets on Edge",
+   "hook": "Upcoming inflation data could trigger more market volatility",
+   "narration": "Upcoming inflation data could trigger more market volatility this week. Investors are focused on the Producer Price Index report scheduled for release at 8:30 AM Eastern Time. Wall Street economists expect monthly Producer Price inflation to increase by 0.4 percent. Core Producer Prices, which exclude volatile food and energy costs, are projected to rise 0.3 percent. Federal Reserve policymakers are carefully tracking persistent price pressures. Any unexpected spike in wholesale costs could reinforce expectations for tighter monetary policy. The takeaway for traders is to prepare for potential Treasury yield spikes and price swings following the morning announcement.",
+   "ticker": null,
+   "sentiment": "neutral",
+   "sources": [
+    "Yahoo Finance"
+   ],
+   "caption": "Investors look ahead to the Producer Price Index report as Federal Reserve policy expectations stay in focus.",
+   "hashtags": [
+    "#Inflation",
+    "#Economy",
+    "#FederalReserve",
+    "#Macro",
+    "#Markets",
+    "#MarketPulse"
+   ]
+  },
+  {
+   "title": "Trading Card Apps Become Two Billion Dollar Industry",
+   "hook": "Opening physical trading card packs is now massive",
+   "narration": "Opening physical trading card packs is now massive business in alternative markets. The trading card pack opening sector has expanded into a staggering 2 billion dollar industry. According to reporting from MarketWatch, digital pack-ripping mobile applications are revolutionizing how collectors buy and trade cards. However, industry analysts caution that the slot-machine-style mechanics of these apps present noticeable risks for consumers. Both wealthy investors and retail buyers are flocking toward alternative investments. The takeaway is that as gamified trading platforms gain popularity, regulatory bodies may soon pay much closer attention to these digital market dynamics.",
+   "ticker": null,
+   "sentiment": "neutral",
+   "sources": [
+    "MarketWatch"
+   ],
+   "caption": "Digital pack-ripping mobile apps have expanded trading card opening into a 2 billion dollar market.",
+   "hashtags": [
+    "#AlternativeInvestments",
+    "#TradingCards",
+    "#MarketTrends",
+    "#Finance",
+    "#MarketPulse"
+   ]
+  }
+ ],
+ "carousels": [
+  {
+   "topic": "Nvidia Chief Executive Resigns",
+   "caption": "Nvidia Chief Executive Jensen Huang has resigned following internal investigation findings. Chief Financial Officer Colette Kress steps in as interim CEO while tech stocks face volatility. What does this mean for the future of AI leadership?",
+   "sentiment": "bearish",
+   "hashtags": [
+    "#Nvidia",
+    "#TechNews",
+    "#AI",
+    "#StockMarket",
+    "#Investing",
+    "#MarketPulse",
+    "#Semiconductors",
+    "#Finance",
+    "#BusinessNews"
+   ],
+   "slides": [
+    {
+     "title": "Nvidia Leadership Shockwave",
+     "body": "Here is what Jensen Huang's resignation means for markets."
+    },
+    {
+     "title": "Jensen Huang Steps Down",
+     "body": "Nvidia co-founder Jensen Huang resigned following personal conduct revelations. Law firm Wachtell Lipton is leading an internal investigation."
+    },
+    {
+     "title": "Interim CEO Appointed",
+     "body": "Chief Financial Officer Colette Kress has taken over as interim chief executive while the board searches for a permanent successor."
+    },
+    {
+     "title": "Analysts Raise Concerns",
+     "body": "According to Jim Cramer, Huang's departure feels like a betrayal to shareholders. CNBC reports Nvidia's flat structure presents operational challenges."
+    },
+    {
+     "title": "Competitors Capitalize",
+     "body": "Competitor Cerebras surged 17 percent after announcing a partnership with Microsoft to capture artificial intelligence market share."
+    },
+    {
+     "title": "Market Takeaway",
+     "body": "Leadership turmoil at Nvidia creates uncertainty across tech stocks. Follow Market Pulse for daily market coverage and analysis."
+    }
+   ]
+  },
+  {
+   "topic": "Crypto Market Retracement",
+   "caption": "Bitcoin has pulled back below 69,000 dollars as ETF outflows accelerate technical liquidations. Altcoins like Ethereum are also feeling the macro pressure. Are you buying this dip or staying cautious?",
+   "sentiment": "bearish",
+   "hashtags": [
+    "#Bitcoin",
+    "#Ethereum",
+    "#Crypto",
+    "#CryptoNews",
+    "#MarketPulse",
+    "#Investing",
+    "#DigitalAssets",
+    "#Finance",
+    "#Trading"
+   ],
+   "slides": [
+    {
+     "title": "Crypto Markets Pull Back",
+     "body": "Bitcoin drops below key support levels as risk appetite fades."
+    },
+    {
+     "title": "Major Token Declines",
+     "body": "Bitcoin fell 3.5 percent over the past day near 68,866 dollars. Ethereum dropped 4.0 percent to approximately 1,936 dollars."
+    },
+    {
+     "title": "Overnight Trading Lows",
+     "body": "According to financial creator MindTheChart, who maintains a cautious outlook, Bitcoin dropped as low as 67,735 dollars during overnight trading."
+    },
+    {
+     "title": "Heavy ETF Outflows",
+     "body": "MindTheChart notes United States spot Bitcoin ETFs recorded roughly 300 million dollars in net outflows, driving liquidations."
+    },
+    {
+     "title": "Key Support Broken",
+     "body": "Weekly price action broke key Fibonacci support levels, making extended sideways trading more likely than a rapid recovery."
+    },
+    {
+     "title": "Market Takeaway",
+     "body": "Macro headwinds and institutional outflows weigh heavily on digital tokens. Follow Market Pulse for ongoing crypto updates."
+    }
+   ]
+  },
+  {
+   "topic": "Surging Yields Unsettle Traders",
+   "caption": "Treasury yields are rising sharply as bond investors brace for persistent interest rate hikes. While mega-cap tech shares take a hit, value sectors are holding steady. Follow Market Pulse for more insights.",
+   "sentiment": "neutral",
+   "hashtags": [
+    "#Bonds",
+    "#TreasuryYields",
+    "#StockMarket",
+    "#Fed",
+    "#Investing",
+    "#MarketPulse",
+    "#Economy",
+    "#Finance",
+    "#WallStreet"
+   ],
+   "slides": [
+    {
+     "title": "Treasury Yields Surge Higher",
+     "body": "Rising bond yields are pressuring high valuation tech stocks today."
+    },
+    {
+     "title": "Ten Year Yield Rises",
+     "body": "The 10-year United States Treasury yield rose 0.5 percent to stand near 5.1 percent, up 5.5 percent over five sessions."
+    },
+    {
+     "title": "Rate Hike Fears Return",
+     "body": "According to reporting from MarketWatch, fixed income investors are increasingly alarmed by prospective Federal Reserve interest rate hikes."
+    },
+    {
+     "title": "Tech Valuations Under Pressure",
+     "body": "Higher yields reduce the present value of future corporate earnings, creating headwinds for high valuation growth stocks."
+    },
+    {
+     "title": "Value Stocks Offer Support",
+     "body": "Value stocks across healthcare, industrials, and consumer goods remain stable, preventing deeper market losses across broader indexes."
+    },
+    {
+     "title": "Market Takeaway",
+     "body": "Sector rotation is helping cushion major indexes against bond yield pressure. Follow Market Pulse for daily financial analysis."
+    }
+   ]
+  },
+  {
+   "topic": "Wholesale Inflation Data Ahead",
+   "caption": "Wall Street is preparing for key wholesale inflation figures from the Producer Price Index report. Will persistent price pressures prompt tighter monetary policy? Share your thoughts below.",
+   "sentiment": "neutral",
+   "hashtags": [
+    "#Inflation",
+    "#PPI",
+    "#FederalReserve",
+    "#Economy",
+    "#MarketPulse",
+    "#StockMarket",
+    "#Finance",
+    "#WallStreet",
+    "#Macro"
+   ],
+   "slides": [
+    {
+     "title": "Key Inflation Report Ahead",
+     "body": "Wholesale price data could set the tone for market volatility."
+    },
+    {
+     "title": "Producer Price Expectations",
+     "body": "The Producer Price Index report releases at 8:30 AM Eastern Time. Economists expect monthly wholesale inflation to rise 0.4 percent."
+    },
+    {
+     "title": "Core Inflation Projections",
+     "body": "Core Producer Prices, excluding volatile food and energy costs, are projected to increase by 0.3 percent month over month."
+    },
+    {
+     "title": "Fed Policy Implications",
+     "body": "Federal Reserve policymakers are carefully tracking price pressures. Unexpected spikes could reinforce expectations for tighter monetary policy."
+    },
+    {
+     "title": "Market Volatility Ahead",
+     "body": "Higher wholesale inflation numbers could push Treasury yields up and trigger fresh volatility across equity benchmarks."
+    },
+    {
+     "title": "Market Takeaway",
+     "body": "Traders should closely monitor morning economic releases for market direction. Follow Market Pulse for real-time coverage."
+    }
+   ]
+  }
+ ],
+ "model": "gemini-3.6-flash"
+}
