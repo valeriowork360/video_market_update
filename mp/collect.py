@@ -25,19 +25,24 @@ def build_queue(state):
     cutoff = now() - timedelta(hours=C["max_age_hours"])
     queue = []
     for ch in CFG["channels"]:
-        vids = youtube.feed(ch)
+        vids, src = youtube.feed(ch)
         fresh = 0
-        for v in vids:
+        for rank, v in enumerate(vids):
             st = state.get(v["id"])
             if st and st["status"] in FINAL:
                 continue
+            if v["published"] is None and rank >= 2 and not st:
+                continue                    # age unknown: only the two newest count as new
             if v["published"] and v["published"] < cutoff:
                 if st:
                     st["status"] = "expired"
                 continue
+            if v["live"] in ("live", "upcoming"):
+                log(f"    \"{v['title'][:60]}\" e' una live non ancora finita: la guardo quando termina")
+                continue
             queue.append((ch, v))
             fresh += 1
-        log(f"  {ch['name']}: {len(vids)} nel feed, {fresh} da analizzare")
+        log(f"  {ch['name']}: {len(vids)} video visti ({src}), {fresh} da analizzare")
     # fewest attempts first, then newest; respect the per-channel and per-run caps
     queue.sort(key=lambda cv: (state.get(cv[1]["id"], {}).get("attempts", 0),
                                -(cv[1]["published"].timestamp() if cv[1]["published"] else 0)))
@@ -101,12 +106,7 @@ def main():
             break
         st = state.setdefault(v["id"], {"status": "pending", "attempts": 0, "channel": ch["name"],
                                         "title": v["title"], "first_seen": now().isoformat()})
-        m = youtube.meta(v["id"])
-        if m["live"] in ("live", "upcoming"):
-            log(f"  {ch['name']}: \"{v['title'][:60]}\" e' una live non ancora finita, rimando")
-            continue
-        v["duration"] = m["duration"]
-        mins = f"{m['duration'] // 60} min" if m["duration"] else "durata sconosciuta"
+        mins = f"{v['duration'] // 60} min" if v.get("duration") else "durata sconosciuta"
         log(f"  {ch['name']}: \"{v['title'][:70]}\" ({mins})")
         st["attempts"] += 1
         try:

@@ -54,25 +54,20 @@ def main():
         return ", ".join(out)
 
     def feeds():
-        tot, empty = 0, []
+        tot, empty, srcs = 0, [], set()
         for ch in CFG["channels"]:
-            v = youtube.feed(ch)
+            v, src = youtube.feed(ch)
             tot += len(v)
+            srcs.add(src)
             if not v:
                 empty.append(ch["name"])
             elif "sample" not in state:
-                state["sample"] = (ch, v[0])
+                ok = [x for x in v if x["live"] not in ("live", "upcoming") and (x["duration"] or 0) > 120]
+                if ok:
+                    state["sample"] = (ch, ok[0])
         if empty:
-            raise RuntimeError(f"feed vuoti: {empty}")
-        return f"{len(CFG['channels'])} canali, {tot} video nei feed"
-
-    def page():
-        ch, v = state["sample"]
-        m = youtube.meta(v["id"])
-        state["meta"] = m
-        if not m["duration"]:
-            return "durata non leggibile da qui: uso l'analisi a pezzi senza durata (funziona lo stesso)"
-        return f"durata letta ({m['duration'] // 60} min), live: {m['live']}"
+            raise RuntimeError(f"nessun video letto per: {empty}")
+        return f"{len(CFG['channels'])} canali, {tot} video visti (fonti: {', '.join(sorted(srcs))})"
 
     def video_clip():
         from . import watch
@@ -116,7 +111,6 @@ def main():
     check("AI di riserva", backups)
     check("Feed YouTube dei canali", feeds)
     if "sample" in state:
-        check("Pagina video (durata)", page)
         check("Gemini guarda un video", video_clip)
     check("Notizie RSS", headlines)
     check("Prezzi Yahoo Finance", prices)

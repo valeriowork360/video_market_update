@@ -13,5 +13,5 @@ jobs:
         with:
           python-version: "3.12"
           cache: pip
-      - run: pip install -q feedparser requests
-      - run: python mp/probe.py
+      - run: pip install -q feedparser requests PyYAML
+      - run: python -m mp.probe
