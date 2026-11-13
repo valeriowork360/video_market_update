@@ -1,0 +1,46 @@
+{
+ "market_relevance": 10,
+ "scope": "global",
+ "kind": "market update",
+ "summary": "Bitcoin recently fell to 67,735 dollars, pulling major altcoins down with it amidst broader macroeconomic pressures. The speaker notes that the Federal Reserve's stance and recent issues with Nvidia have impacted risk assets negatively. Furthermore, ETF outflows and liquidation cascades have accelerated the recent downturn. On a monthly chart, the current correction has broken standard retracement levels, suggesting a likely period of consolidation. Consequently, the speaker has reduced crypto exposure and remains cautious on digital assets.",
+ "digest_it": "Il relatore analizza il calo recente di Bitcoin e delle criptovalute, attribuendolo a pressioni macroeconomiche e deflussi sugli ETF. Non si attende una forte ripresa a breve e ha ridotto la propria esposizione nel settore.",
+ "author_tone": "cautious",
+ "tone_evidence": "The speaker advises caution and highlights a lack of strong bullish catalysts for cryptocurrencies.",
+ "key_points": [
+  {
+   "point": "Bitcoin dropped to 67,735 dollars during the recent overnight selloff.",
+   "timestamp": "00:15"
+  },
+  {
+   "point": "US spot Bitcoin ETFs registered approximately 300 million dollars in net outflows.",
+   "timestamp": "02:44"
+  },
+  {
+   "point": "Weekly Bitcoin chart shows the retracement closing below the 0.38 and 0.61 Fibonacci levels.",
+   "timestamp": "03:16"
+  }
+ ],
+ "tickers": [
+  "BTC",
+  "NVDA",
+  "SPX500",
+  "DXY"
+ ],
+ "predictions": [
+  "Expects prolonged sideways movement or range-bound trading for Bitcoin rather than immediate growth."
+ ],
+ "catalysts": [],
+ "rumors": [],
+ "curiosities": [],
+ "promo": true,
+ "language": "it",
+ "video_id": "iTYaIAKIqIc",
+ "title": "WARNINGBITCOIN CAPITOLA ANCORA",
+ "author": "MindTheChart",
+ "url": "https://www.youtube.com/watch?v=iTYaIAKIqIc",
+ "published": "2026-11-13T11:16:21+00:00",
+ "duration_min": 12,
+ "partial": false,
+ "analysed_at": "2026-11-13T16:33:42.256521+00:00",
+ "model": "gemini-3.5-flash-lite"
+}
