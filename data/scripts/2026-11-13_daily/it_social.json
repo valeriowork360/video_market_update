@@ -1,0 +1,291 @@
+{
+ "shorts": [
+  {
+   "title": "Terremoto in casa Nvidia",
+   "hook": "Il CEO di Nvidia si dimette all'improvviso",
+   "narration": "Il CEO di Nvidia si dimette all'improvviso. Jensen Huang lascia la guida del colosso dei chip a causa di indagini su presunti conflitti di interesse personali. La notizia ha sconvolto Wall Street e il titolo Nvidia ha perso oltre il quattro per cento. La direzione finanziaria viene temporaneamente affidata a Colette Kress. Il canale MindTheChart invita alla massima cautela, sottolineando la crescente confusione sul mercato e il forte rialzo dell'indice di volatilita VIX. Nel frattempo Cerebras ne approfitta e guadagna il diciassette per cento grazie a una nuova alleanza con Microsoft. In fasi cosi tempestose la prudenza e d'obbligo.",
+   "ticker": "NVDA",
+   "sentiment": "bearish",
+   "sources": [
+    "CNBC",
+    "Investing.com",
+    "MindTheChart"
+   ],
+   "caption": "Dimissioni a sorpresa ai vertici di Nvidia. Ecco cosa sta succedendo a Wall Street.",
+   "hashtags": [
+    "#Nvidia",
+    "#WallStreet",
+    "#MercatiFinanziari",
+    "#Borsa",
+    "#Tecnologia",
+    "#Azioni"
+   ]
+  },
+  {
+   "title": "Crollo delle criptovalute",
+   "hook": "Il Bitcoin crolla sotto settantamila dollari",
+   "narration": "Il Bitcoin crolla sotto settantamila dollari. Nelle ultime ventiquattro ore la regina delle criptovalute ha perso oltre il sette per cento, scivolando a quota sessantottomila settecentosettantuno dollari. Stessa sorte per Ethereum, in calo di oltre il sei per cento. L'analista Jason Pizzino manifesta forte cautela e avverte che la rottura dei supporti chiave, unita a volumi scarsi, rischia di spingere i prezzi verso i sessantasettemila dollari. Anche l'analista Michael Pizzino mantiene una posizione difensiva a causa della forza del dollaro americano. In questo contesto la pressione sulle criptovalute resta particolarmente alta.",
+   "ticker": "BTC-USD",
+   "sentiment": "bearish",
+   "sources": [
+    "CoinDesk",
+    "Jason Pizzino",
+    "Michael Pizzino"
+   ],
+   "caption": "Forte scivolone per Bitcoin ed Ethereum. Gli analisti invitano alla cautela.",
+   "hashtags": [
+    "#Bitcoin",
+    "#Ethereum",
+    "#Criptovalute",
+    "#Crypto",
+    "#AnalisiTecnica",
+    "#Mercati"
+   ]
+  },
+  {
+   "title": "Mercati in calo e tassi in salita",
+   "hook": "Giornata difficile per i mercati azionari",
+   "narration": "Giornata difficile per i mercati azionari. Nella seduta del tredici novembre ventisei ventisei, Wall Street chiude in rosso con l'indice SP cinquecento in calo dello zero virgola trentacinque per cento e il Nasdaq in flessione dello zero virgola trentanove. Anche in Europa il FTSE MIB cede lo zero virgola ventisette per cento. Sul fronte dell'obbligazionario sale il rendimento del decennale americano, che si porta sopra il cinque virgola uno per cento. Tra le materie prime, l'oro guadagna lo zero virgola nove per cento a quasi quattromila dollari l'oncia, mentre il petrolio scende a ottantotto dollari al barile. Un quadro dominato dall'incertezza.",
+   "ticker": "^GSPC",
+   "sentiment": "neutral",
+   "sources": [
+    "VERIFIED MARKET DATA"
+   ],
+   "caption": "Panoramica sui mercati: Wall Street e Milano in flessione, salgono i rendimenti USA.",
+   "hashtags": [
+    "#Mercati",
+    "#Borsa",
+    "#WallStreet",
+    "#FTSEMIB",
+    "#Oro",
+    "#Petrolio"
+   ]
+  },
+  {
+   "title": "Come gestire la liquidita personale",
+   "hook": "Troppi soldi fermi sul conto corrente",
+   "narration": "Troppi soldi fermi sul conto corrente rischiano di perdere valore ogni giorno. Secondo l'analisi di Marco Casario, che mantiene un approccio molto pragmatico e cauto, il fondo di emergenza non va calcolato in valore assoluto ma in mesi di spese necessarie. Tenere un'eccessiva liquidita fermo banca espone i risparmi all'erosione provocata dall'inflazione. Secondo l'esperto, utilizzare strumenti a brevissimo termine o titoli di stato a dodici mesi permette di proteggere il proprio patrimonio garantendo al tempo stesso la flessibilita utile ad affrontare gli imprevisti della vita. Calcolare bene le proprie coperture e la prima regola di tutela.",
+   "ticker": null,
+   "sentiment": "neutral",
+   "sources": [
+    "Marco Casario"
+   ],
+   "caption": "Marco Casario spiega come proteggere il fondo di emergenza dall'inflazione.",
+   "hashtags": [
+    "#FinanzaPersonale",
+    "#Risparmio",
+    "#Investimenti",
+    "#Liquidita",
+    "#MarcoCasario",
+    "#EducazioneFinanziaria"
+   ]
+  }
+ ],
+ "carousels": [
+  {
+   "topic": "Terremoto ai vertici di Nvidia",
+   "caption": "Le dimissioni improvvise di Jensen Huang scuotono Nvidia e l'intero settore dei chip. Scopri tutti i dettagli della giornata nell'analisi.",
+   "sentiment": "bearish",
+   "hashtags": [
+    "#Nvidia",
+    "#WallStreet",
+    "#Semiconduttori",
+    "#JensenHuang",
+    "#Borsa",
+    "#Tecnologia",
+    "#MercatiFinanziari",
+    "#Investimenti"
+   ],
+   "slides": [
+    {
+     "title": "Caos in casa Nvidia",
+     "body": "Cosa c'e dietro le dimissioni improvvise del CEO Jensen Huang."
+    },
+    {
+     "title": "Le dimissioni di Huang",
+     "body": "Il CEO lascia la guida a causa di indagini su presunte partecipazioni in aziende concorrenti."
+    },
+    {
+     "title": "La reazione di Wall Street",
+     "body": "Il titolo perde oltre il 4%. Nominata Colette Kress come CEO ad interim."
+    },
+    {
+     "title": "L'analisi dei mercati",
+     "body": "MindTheChart esprime cautela: l'indice di volatilita VIX sale del 6,92% indicando forte confusione."
+    },
+    {
+     "title": "Chi ne approfitta",
+     "body": "Cerebras balza del 17% dopo aver siglato un nuovo accordo strategico con Microsoft."
+    },
+    {
+     "title": "Rimani informato",
+     "body": "Fase di riorganizzazione nel settore dei chip. Segui Market Pulse per non perdere i prossimi aggiornamenti."
+    }
+   ]
+  },
+  {
+   "topic": "Bitcoin e criptovalute in calo",
+   "caption": "Forte pressione ribassista su Bitcoin ed Ethereum. Gli analisti invitano alla cautela in un contesto di volumi bassi.",
+   "sentiment": "bearish",
+   "hashtags": [
+    "#Bitcoin",
+    "#Ethereum",
+    "#Criptovalute",
+    "#Crypto",
+    "#JasonPizzino",
+    "#MichaelPizzino",
+    "#AnalisiTecnica",
+    "#Mercati"
+   ],
+   "slides": [
+    {
+     "title": "Criptovalute sotto pressione",
+     "body": "Bitcoin ed Ethereum registrano forti cali nelle ultime ventiquattro ore."
+    },
+    {
+     "title": "I numeri del crollo",
+     "body": "Bitcoin scende a 68.721,64 dollari (-7,09%). Ethereum cede il 6,41% a 1.924,07 dollari."
+    },
+    {
+     "title": "Rottura dei supporti",
+     "body": "Jason Pizzino avverte che i volumi restano bassi dopo la rottura di livelli chiave."
+    },
+    {
+     "title": "Target al ribasso",
+     "body": "Senza nuovi volumi di acquisto, il Bitcoin rischia di scivolare verso l'area dei 67.000 dollari."
+    },
+    {
+     "title": "Il peso del dollaro",
+     "body": "Michael Pizzino sottolinea l'impatto del dollaro sui massimi da 19 mesi sulle attivita a rischio."
+    },
+    {
+     "title": "Rimani aggiornato",
+     "body": "Fase delicata per il settore crypto. Segui Market Pulse per altri approfondimenti."
+    }
+   ]
+  },
+  {
+   "topic": "Tassi e volumi sui mercati",
+   "caption": "Perche la recente salita dell'S&P 500 potrebbe nascondere delle insidie legate ai volumi di scambio.",
+   "sentiment": "neutral",
+   "hashtags": [
+    "#SP500",
+    "#Borsa",
+    "#Trading",
+    "#TassiDiInteresse",
+    "#FederalReserve",
+    "#Obbligazioni",
+    "#Mercati",
+    "#AnalisiDiMercato"
+   ],
+   "slides": [
+    {
+     "title": "Segnali contrastanti in borsa",
+     "body": "Analizziamo la divergenza tra la salita dei prezzi e la flessione dei volumi."
+    },
+    {
+     "title": "Il rally dell'S&P 500",
+     "body": "L'indice guadagna il 3,25% in cinque giornate positive consecutive."
+    },
+    {
+     "title": "L'allarme sui volumi",
+     "body": "Jason e Michael Pizzino invitano alla prudenza per la calo costante dei volumi di scambio."
+    },
+    {
+     "title": "Rischio correzione",
+     "body": "Rimbalzi con scambi ridotti aumentano la probabilita di correzioni improvvise."
+    },
+    {
+     "title": "Tassi in aumento",
+     "body": "Il rendimento del decennale USA sale al 5,103%, condizionando le aspettative sulla Fed."
+    },
+    {
+     "title": "Segui il canale",
+     "body": "Monitorare i volumi e fondamentale. Segui Market Pulse per rimanere sempre aggiornato."
+    }
+   ]
+  },
+  {
+   "topic": "Gestione della liquidita personale",
+   "caption": "Come calcolare e proteggere il proprio fondo di emergenza secondo l'analisi di Marco Casario.",
+   "sentiment": "neutral",
+   "hashtags": [
+    "#FinanzaPersonale",
+    "#MarcoCasario",
+    "#Risparmio",
+    "#Inflazione",
+    "#TitoliDiStato",
+    "#EducazioneFinanziaria",
+    "#GestionePatrimonio",
+    "#Investimenti"
+   ],
+   "slides": [
+    {
+     "title": "Gestire il fondo emergenza",
+     "body": "Come proteggere la liquidita dall'erosione del potere d'acquisto."
+    },
+    {
+     "title": "Valutazione in mesi",
+     "body": "Marco Casario suggerisce di misurare la scorta in mesi di spese vitali e non in cifra fissa."
+    },
+    {
+     "title": "Il rischio inflazione",
+     "body": "Lasciare troppi fondi sul conto corrente causa una lenta perdita di potere d'acquisto."
+    },
+    {
+     "title": "Strumenti a breve",
+     "body": "L'uso di titoli di stato a 12 mesi protegge i risparmi mantenendo alta la flessibilita."
+    },
+    {
+     "title": "Prontezza negli imprevisti",
+     "body": "Una buona pianificazione garantisce la copertura necessaria per affrontare emergenze personali."
+    },
+    {
+     "title": "Pianifica oggi",
+     "body": "Proteggi i tuoi risparmi con consapevolezza. Segui Market Pulse per nuovi consigli."
+    }
+   ]
+  },
+  {
+   "topic": "I prossimi appuntamenti economici",
+   "caption": "I dati macroeconomici e le prossime quotazioni in borsa da monitorare con attenzione nei prossimi giorni.",
+   "sentiment": "neutral",
+   "hashtags": [
+    "#CalendarioEconomico",
+    "#Macroeconomia",
+    "#PPI",
+    "#IPO",
+    "#Tecnologia",
+    "#Mercati",
+    "#FederalReserve",
+    "#Borsa"
+   ],
+   "slides": [
+    {
+     "title": "Dati macro in arrivo",
+     "body": "Tutti gli appuntamenti principali del calendario economico da seguire."
+    },
+    {
+     "title": "Indice prezzi produzione",
+     "body": "Oggi 13 novembre alle 13:30 UTC vengono pubblicati i dati USA sul PPI."
+    },
+    {
+     "title": "Le stime sul PPI",
+     "body": "Prevista una variazione mensile dello 0,4% contro il 1,3% del dato precedente."
+    },
+    {
+     "title": "Nuove quotazioni tech",
+     "body": "Per la prossima settimana sono attese diverse sbarchi in borsa nel settore tecnologico."
+    },
+    {
+     "title": "L'impatto sul mercato",
+     "body": "I dati sull'inflazione guideranno le aspettative degli investitori sulle mosse dei tassi."
+    },
+    {
+     "title": "Rimani preparato",
+     "body": "Non farti cogliere impreparato dai dati. Segui Market Pulse per non perdere aggiornamenti."
+    }
+   ]
+  }
+ ]
+}

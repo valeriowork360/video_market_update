@@ -1,0 +1,162 @@
+{
+ "title": "Nvidia nel caos per le dimissioni del CEO e crollo del Bitcoin",
+ "description": "In questo appuntamento di Market Pulse analizziamo le dimissioni a sorpresa del CEO di Nvidia Jensen Huang, il forte calo del Bitcoin sotto quota settantamila dollari e la salita dei rendimenti obbligazionari USA.\n\nFonte analisi dei creator: Jason Pizzino, Michael Pizzino, MindTheChart e Marco Casario.",
+ "tags": [
+  "Nvidia",
+  "Bitcoin",
+  "Mercati finanziari",
+  "Borsa",
+  "S&P 500",
+  "Criptovalute",
+  "Rendimenti USA",
+  "Marco Casario",
+  "Jason Pizzino",
+  "Michael Pizzino"
+ ],
+ "thumbnail_text": "TERREMOTO NVIDIA E CRYPTO",
+ "mood": "neutral",
+ "segments": [
+  {
+   "id": "s1",
+   "kind": "hook",
+   "heading": "Benvenuti su Market Pulse",
+   "narration": "Benvenuti a una nuova puntata di Market Pulse. Oggi l'attenzione dei mercati è completamente catalizzata dalle dimissioni improvvise del CEO di Nvidia, Jensen Huang. Nel frattempo il Bitcoin crolla sotto quota settantamila dollari e i rendimenti dei titoli di stato americani tornano a salire.",
+   "bullets": [
+    "Dimissioni del CEO di Nvidia",
+    "Bitcoin sotto i 70.000 dollari",
+    "Tensioni sui rendimenti USA"
+   ],
+   "ticker": null,
+   "sentiment": "bearish",
+   "sources": [
+    "CNBC",
+    "CoinDesk"
+   ]
+  },
+  {
+   "id": "s2",
+   "kind": "market",
+   "heading": "Panoramica dei mercati",
+   "narration": "Guardiamo i dati di chiusura e le quotazioni aggiornate di oggi 13 novembre 2026. A Wall Street l'indice S&P 500 ha chiuso a 7592 virgola 4 punti, in calo dello 0,35 per cento. Il Nasdaq Composite ha ceduto lo 0,39 per cento a quota 25366 virgola 09. Anche il Dow Jones registra una flessione dello 0,36 per cento a 52297 virgola 09 punti. In Europa il FTSE MIB arretra dello 0,27 per cento a 51809 punti, mentre l'Euro Stoxx 50 resiste in lieve territorio positivo con un più 0,09 per cento a 6398 virgola 98 punti. Sul fronte dell'obbligazionario, il rendimento del titolo a dieci anni statunitense sale del 2,1 per cento portandosi al 5,103 per cento. Tra le materie prime, l'oro guadagna lo 0,9 per cento a 3920 virgola 2 dollari l'oncia, mentre il petrolio WTI scende a 88 virgola 22 dollari al barile con un calo dello 0,59 per cento.",
+   "bullets": [
+    "S&P 500: 7592,4 (-0,35%)",
+    "Nasdaq: 25366,09 (-0,39%)",
+    "USA 10 Anni: 5,103% (+2,1%)",
+    "Oro a 3920,2 dollari"
+   ],
+   "ticker": "^GSPC",
+   "sentiment": "neutral",
+   "sources": [
+    "VERIFIED MARKET DATA"
+   ]
+  },
+  {
+   "id": "s3",
+   "kind": "topic",
+   "heading": "Nvidia sotto shock",
+   "narration": "Il tema principale di oggi riguarda Nvidia. L'amministratore delegato Jensen Huang ha annunciato le proprie dimissioni a seguito di indagini e indiscrezioni su questioni personali che coinvolgono anche partecipazioni societarie in aziende concorrenti. La notizia ha scosso profondamente Wall Street, portando le azioni Nvidia a perdere oltre il quattro per cento. Il consiglio di amministrazione ha nominato ad interim la direttrice finanziaria Colette Kress e ha ingaggiato importanti studi legali per gestire la situazione. Secondo il canale MindTheChart, che mantiene un'impostazione molto cauta, il mercato si trova in una fase estremamente confusa e piena di scossoni. L'indice di volatilità VIX è infatti salito del 6,92 per cento a quota 18,7. Mentre il gigante dei chip affronta questa riorganizzazione al vertice, altre aziende del settore ne approfittano. Cerebras, per esempio, ha registrato un balzo del diciassette per cento grazie a un nuovo accordo strategico stipulato con Microsoft.",
+   "bullets": [
+    "Dimissioni di Jensen Huang",
+    "Colette Kress CEO ad interim",
+    "Titolo Nvidia in calo",
+    "Cerebras in rialzo del 17%"
+   ],
+   "ticker": "NVDA",
+   "sentiment": "bearish",
+   "sources": [
+    "CNBC",
+    "Investing.com",
+    "MindTheChart"
+   ]
+  },
+  {
+   "id": "s4",
+   "kind": "topic",
+   "heading": "Criptovalute in forte calo",
+   "narration": "Spostiamoci sul mercato delle criptovalute, dove si registra una netta flessione. Il Bitcoin è sceso a 68721 virgola 64 dollari, segnando una perdita del 7,09 per cento nelle ultime ventiquattro ore e portando il passivo degli ultimi cinque giorni a oltre il 9 per cento. Situazione analoga per Ethereum, che scende a 1924 virgola 07 dollari con un calo del 6,41 per cento. L'analista Jason Pizzino, nel suo consueto tono cauto, nota che il Bitcoin ha rotto supporti chiave importanti. Pizzino avverte che i volumi sui mercati restano bassi e che senza acquisti sostenuti la pressione ribassista potrebbe spingere i prezzi verso l'area dei sessantasettemila dollari. Anche l'analista Michael Pizzino conferma un atteggiamento difensivo. A suo avviso, la tenuta del dollaro statunitense ai massimi degli ultimi diciannove mesi sta creando un contesto difficile per tutte le attività a maggior rischio.",
+   "bullets": [
+    "Bitcoin a 68.721,64 dollari (-7,09%)",
+    "Ethereum giù del 6,41%",
+    "Volumi di acquisto molto bassi",
+    "Forte pressione dal dollaro USA"
+   ],
+   "ticker": "BTC-USD",
+   "sentiment": "bearish",
+   "sources": [
+    "CoinDesk",
+    "Jason Pizzino",
+    "Michael Pizzino"
+   ]
+  },
+  {
+   "id": "s5",
+   "kind": "topic",
+   "heading": "Tassi e volumi sui mercati",
+   "narration": "Passiamo all'analisi tecnica e macroeconomica sui mercati azionari tradizionali. Nonostante l'S&P 500 arrivi da cinque giornate positive con un progresso complessivo del 3,25 per cento, sia Jason Pizzino che Michael Pizzino invitano alla massima prudenza. Entrambi i creatori di contenuti sottolineano una forte divergenza tra la salita dei prezzi e la diminuzione dei volumi di scambio. Quando i rimbalzi avvengono con scambi ridotti, il rischio di una correzione improvvisa rimane elevato. A pesare sul clima generale ci sono anche i timori sul fronte dei tassi d'interesse. Il balzo dei rendimenti obbligazionari, con il titolo decennale USA salito al 5,103 per cento, suggerisce che gli investitori stanno riposizionando le proprie aspettative sulle future mosse della Federal Reserve.",
+   "bullets": [
+    "S&P 500 +3,25% in 5 giorni",
+    "Rally azionario con volumi bassi",
+    "Rendimento decennale USA al 5,103%",
+    "Cautela degli analisti per possibili correzioni"
+   ],
+   "ticker": "^TNX",
+   "sentiment": "neutral",
+   "sources": [
+    "Jason Pizzino",
+    "Michael Pizzino"
+   ]
+  },
+  {
+   "id": "s6",
+   "kind": "topic",
+   "heading": "Gestione della liquidità",
+   "narration": "Parliamo ora di finanza personale con l'analisi di Marco Casario. Con il suo consueto approccio pragmatico e cauto, Casario suggerisce di valutare il proprio fondo di emergenza non in cifra assoluta, ma in mesi di spese correnti necessarie per vivere. Lasciare troppa liquidità su un conto corrente tradizionale comporta un'erosione lenta del potere d'acquisto a causa dell'inflazione. Secondo i calcoli presentati dall'esperto, l'utilizzo di strumenti di brevissimo termine o titoli di stato a dodici mesi permette di proteggere meglio i propri risparmi senza rinunciare alla flessibilità finanziaria necessaria per affrontare imprevisti lavorativi o personali.",
+   "bullets": [
+    "Calcolare i risparmi in mesi di autonomia",
+    "Evitare troppa liquidità infruttuosa",
+    "Inflazione erode i conti correnti",
+    "Titoli a breve termine come alternativa"
+   ],
+   "ticker": null,
+   "sentiment": "neutral",
+   "sources": [
+    "Marco Casario"
+   ]
+  },
+  {
+   "id": "s7",
+   "kind": "ahead",
+   "heading": "I prossimi appuntamenti",
+   "narration": "Diamo uno sguardo al calendario economico. Oggi venerdì 13 novembre alle ore 13:30 UTC verranno pubblicati i dati statunitensi sull'indice dei prezzi alla produzione, con una stima mensile dello 0,4 per cento rispetto al 1,3 per cento precedente. Inoltre, per la prossima settimana il mercato guarderà con attenzione a una serie di nuove quotazioni in borsa previste nel settore tecnologico.",
+   "bullets": [
+    "Venerdì 13 Nov: Dati PPI USA",
+    "Previsione PPI mensile: 0,4%",
+    "Prossima settimana: IPO settore tech"
+   ],
+   "ticker": null,
+   "sentiment": "neutral",
+   "sources": [
+    "ECONOMIC CALENDAR",
+    "Jason Pizzino"
+   ]
+  },
+  {
+   "id": "s8",
+   "kind": "outro",
+   "heading": "Iscriviti a Market Pulse",
+   "narration": "Le informazioni contenute in questo video hanno scopo puramente informativo e non costituiscono consigli finanziari. Se volete rimanere sempre aggiornati sui mercati, iscrivetevi al canale e lasciate un mi piace. Ci vediamo al prossimo appuntamento.",
+   "bullets": [
+    "Non è un consiglio finanziario",
+    "Iscriviti al canale",
+    "Lascia un mi piace"
+   ],
+   "ticker": null,
+   "sentiment": "neutral",
+   "sources": []
+  }
+ ],
+ "words": 787,
+ "model": "gemini-3.6-flash",
+ "n_notes": 6,
+ "n_news": 101
+}

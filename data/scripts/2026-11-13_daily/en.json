@@ -1,0 +1,159 @@
+{
+ "title": "Nvidia Leadership Shock, Bitcoin Slides, and Bond Yields Surge",
+ "description": "Daily briefing for November 13, 2026. We cover the departure of Nvidia CEO Jensen Huang, the ongoing crypto market correction led by Bitcoin, surging US bond yields, and insights from creators Jason Pizzino, Michael Pizzino, and MindTheChart.",
+ "tags": [
+  "Nvidia",
+  "Bitcoin",
+  "Stock Market",
+  "Jensen Huang",
+  "Bond Yields",
+  "Federal Reserve",
+  "Crypto",
+  "S&P 500",
+  "Economy",
+  "Market Pulse"
+ ],
+ "thumbnail_text": "Nvidia CEO Resigns",
+ "mood": "urgent",
+ "segments": [
+  {
+   "id": "s1",
+   "kind": "hook",
+   "heading": "Markets Face Major Shocks",
+   "narration": "Nvidia faces a leadership crisis after the sudden resignation of Chief Executive Jensen Huang. Meanwhile, Bitcoin dips below seventy thousand dollars as bond yields surge, leaving traders scrambling for direction.",
+   "bullets": [
+    "Nvidia CEO Jensen Huang resigns",
+    "Bitcoin drops below seventy thousand",
+    "Bond yields hit multi-year highs"
+   ],
+   "ticker": "NVDA",
+   "sentiment": "bearish",
+   "sources": [
+    "CNBC",
+    "CoinDesk",
+    "Investing.com"
+   ]
+  },
+  {
+   "id": "s2",
+   "kind": "market",
+   "heading": "Today s Market Snapshot",
+   "narration": "The S&P 500 closed at 7,592, down about zero point thirty-five percent. The Nasdaq finished at 25,366, slipping zero point thirty-nine percent. The Dow Jones settled at 52,297, down zero point thirty-six percent. The VIX volatility index jumped nearly seven percent to 18.7. Over in commodities, gold holds strong at 3,920 dollars per ounce, while crude oil sits at 88.22 dollars per barrel. Bitcoin trades sharply lower at 68,721 dollars, losing over seven percent in a single day.",
+   "bullets": [
+    "S&P 500 down slightly to 7,592",
+    "VIX volatility index surges nearly 7%",
+    "Bitcoin tumbles to 68,721 dollars"
+   ],
+   "ticker": "^GSPC",
+   "sentiment": "bearish",
+   "sources": [
+    "Yahoo Finance"
+   ]
+  },
+  {
+   "id": "s3",
+   "kind": "topic",
+   "heading": "Nvidia Shocker and AI Fallout",
+   "narration": "Nvidia is reeling following the departure of longtime Chief Executive Jensen Huang amid revelations regarding his personal affairs. Chief Financial Officer Colette Kress has stepped in as interim CEO alongside board chair Harvey Jones. According to MindTheChart, Nvidia shares experienced sharp overnight drops, with potential support levels watched closely around 153 to 154 dollars. Analysts note that Nvidia's flat management structure and central role in AI financing leave the broader market testing its resilience.",
+   "bullets": [
+    "Jensen Huang steps down as CEO",
+    "CFO Colette Kress takes interim role",
+    "Analysts watch key support levels"
+   ],
+   "ticker": "NVDA",
+   "sentiment": "bearish",
+   "sources": [
+    "MindTheChart",
+    "CNBC",
+    "Investing.com"
+   ]
+  },
+  {
+   "id": "s4",
+   "kind": "topic",
+   "heading": "Bitcoin and Crypto Retracement",
+   "narration": "Cryptocurrency markets continue to face heavy selling pressure. Bitcoin has dropped roughly nineteen percent from recent highs, slipping beneath the seventy thousand dollar mark to trade near 68,721 dollars. According to Jason Pizzino, daily exchange volume remains low, signaling a lack of strong buying interest. Michael Pizzino notes that Bitcoin struggles below the 75,000 dollar resistance level, warning that a failure to hold current support could trigger a deeper retest toward the 67,000 to 70,000 dollar range.",
+   "bullets": [
+    "Bitcoin breaks below 70,000 dollars",
+    "Low volume signals weak buying interest",
+    "Support zones eyed near 67,000"
+   ],
+   "ticker": "BTC-USD",
+   "sentiment": "bearish",
+   "sources": [
+    "Jason Pizzino",
+    "Michael Pizzino",
+    "CoinDesk"
+   ]
+  },
+  {
+   "id": "s5",
+   "kind": "topic",
+   "heading": "Surging Yields and Dollar Strength",
+   "narration": "Bond markets are experiencing significant turbulence. The United States 10-year yield sits at 5.10 percent, driven by growing expectations for future Federal Reserve rate hikes. Michael Pizzino highlights that the 30-year government bond yield has shown an exponential rise, while the US Dollar Index has climbed to a 19-month high. This strong dollar trend continues to exert downward pressure on commodities and risk assets alike.",
+   "bullets": [
+    "US 10-year yield holds above 5.1%",
+    "US Dollar hits 19-month high",
+    "Rising rates pressure risk assets"
+   ],
+   "ticker": "^TNX",
+   "sentiment": "bearish",
+   "sources": [
+    "Michael Pizzino",
+    "MarketWatch",
+    "CoinDesk"
+   ]
+  },
+  {
+   "id": "s6",
+   "kind": "ahead",
+   "heading": "Upcoming Economic Catalysts",
+   "narration": "Looking ahead to the economic calendar, investors are focusing on crucial inflation data. On Friday, November 13 at 13:30 UTC, the United States will release Core PPI month-over-month figures, with economists forecasting zero point three percent against a previous zero point seven percent. Producer Price Index month-over-month numbers are also due at the same time, forecasted at zero point four percent. These releases will heavily influence market expectations surrounding Federal Reserve policy.",
+   "bullets": [
+    "Core PPI m/m out Friday at 13:30 UTC",
+    "PPI m/m forecasted at zero point four percent",
+    "Data will shape Federal Reserve outlook"
+   ],
+   "ticker": null,
+   "sentiment": "neutral",
+   "sources": [
+    "Economic Calendar"
+   ]
+  },
+  {
+   "id": "s7",
+   "kind": "curious",
+   "heading": "Alternative Assets Surge",
+   "narration": "In curious market news, alternative investments have officially surpassed traditional assets for the super-rich. According to BNY Wealth data cited by CNBC, alternative investments now account for sixty percent of single-family office portfolios as wealthy investors seek refuge from ongoing public market volatility.",
+   "bullets": [
+    "Super-rich pile into alternative assets",
+    "Alternative investments hit 60% of portfolios",
+    "Single-family offices shift strategy"
+   ],
+   "ticker": null,
+   "sentiment": "neutral",
+   "sources": [
+    "CNBC"
+   ]
+  },
+  {
+   "id": "s8",
+   "kind": "outro",
+   "heading": "Stay Informed with Market Pulse",
+   "narration": "This broadcast is for informational purposes only and is not financial advice. Thank you for watching Market Pulse. Hit subscribe and ring the bell to stay updated on the latest market movements.",
+   "bullets": [
+    "Not financial advice",
+    "Subscribe for daily briefings"
+   ],
+   "ticker": null,
+   "sentiment": "neutral",
+   "sources": [
+    "Market Pulse"
+   ]
+  }
+ ],
+ "words": 471,
+ "model": "gemini-3.5-flash-lite",
+ "n_notes": 5,
+ "n_news": 70
+}
