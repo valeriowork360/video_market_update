@@ -44,7 +44,7 @@ def build_queue(state):
             fresh += 1
         log(f"  {ch['name']}: {len(vids)} video visti ({src}), {fresh} da analizzare")
     # fewest attempts first, then newest; respect the per-channel and per-run caps
-    queue.sort(key=lambda cv: (state.get(cv[1]["id"], {}).get("attempts", 0),
+    queue.sort(key=lambda cv: (state.get(cv[1]["id"], {}).get("tries", 0),
                                -(cv[1]["published"].timestamp() if cv[1]["published"] else 0)))
     picked, per = [], {}
     for ch, v in queue:
@@ -110,15 +110,25 @@ def main():
         v["title"] = youtube.original_title(v["id"], v["title"]) or "(senza titolo)"
         st["title"] = v["title"]
         mins = f"{v['duration'] // 60} min" if v.get("duration") else "durata sconosciuta"
-        log(f"  {ch['name']}: \"{v['title'][:70]}\" ({mins})")
-        st["attempts"] += 1
+        age = f", pubblicato ~{(now() - v['published']).total_seconds() / 3600:.0f}h fa" if v.get("published") else ""
+        log(f"  {ch['name']}: \"{v['title'][:70]}\" ({mins}{age})")
+        st["tries"] = st.get("tries", 0) + 1
         try:
             note = watch.analyse(v, ch)
         except llm.KeyProblem:
             raise
+        except llm.VideoUnavailable as e:
+            # YouTube has not opened this video to Gemini yet (typical in the first hours after
+            # upload or after a live). Not a failure: we simply look again at the next round,
+            # until the video is too old to matter.
+            st["last_error"] = str(e)[:200]
+            log("    non ancora apribile da Gemini: riprovo al prossimo giro")
+            write_json(STATE / "videos.json", state)
+            continue
         except Exception as e:           # one bad video must never stop the others
             if not isinstance(e, llm.LLMError):
                 traceback.print_exc()
+            st["attempts"] += 1
             st["last_error"] = str(e)[:200]
             log(f"    rimandato: {st['last_error']}")
             if st["attempts"] >= C["max_attempts"]:
