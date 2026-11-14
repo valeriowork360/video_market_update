@@ -62,5 +62,37 @@
   "title": "AMD Investors! Nvidia Has Just SHIFTED the Entire Market",
   "first_seen": "2026-11-14T00:55:18.047237+00:00",
   "done_at": "2026-11-14T00:55:26.572141+00:00"
+ },
+ "gWXnijYyfoM": {
+  "status": "done",
+  "attempts": 1,
+  "channel": "0xTalks",
+  "title": "MI SBAGLIAVO? | 0xFriday | 13 Novembre 2026",
+  "first_seen": "2026-11-14T09:29:13.604927+00:00",
+  "done_at": "2026-11-14T09:33:17.086085+00:00"
+ },
+ "mAGkC9vYxSQ": {
+  "status": "pending",
+  "attempts": 1,
+  "channel": "Jeremy Lefebvre Clips",
+  "title": "AMD Investors! SHOCKING Development",
+  "first_seen": "2026-11-14T09:33:17.086487+00:00",
+  "last_error": "Gemini non riesce ad aprire questo video adesso (live appena finita, video riservato o rimosso)"
+ },
+ "669xn06UES4": {
+  "status": "pending",
+  "attempts": 1,
+  "channel": "Jeremy Lefebvre Clips",
+  "title": "This Stock is Ready to RUN! HUGE POTENTIAL",
+  "first_seen": "2026-11-14T09:33:17.370154+00:00",
+  "last_error": "Gemini non riesce ad aprire questo video adesso (live appena finita, video riservato o rimosso)"
+ },
+ "v5_XGLTohso": {
+  "status": "pending",
+  "attempts": 1,
+  "channel": "Jeremy Lefebvre Clips",
+  "title": "AMD's BIGGEST Opportunity is HERE!",
+  "first_seen": "2026-11-14T09:33:24.368250+00:00",
+  "last_error": "Gemini non riesce ad aprire questo video adesso (live appena finita, video riservato o rimosso)"
  }
 }

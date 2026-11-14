@@ -1,0 +1,85 @@
+{
+ "market_relevance": 10,
+ "scope": "global",
+ "kind": "market update",
+ "summary": "The video provides a comprehensive analysis of the current market landscape, focusing on Bitcoin's price action, macroeconomic pressures, and the broader crypto ecosystem. The speaker examines the impact of CPI and PPI data alongside institutional trends, noting that the market is currently in a wide gamma-negative regime with high volatility. He evaluates the competitive positioning of platforms like Hyperliquid and reviews specific altcoins through order flow and on-chain metrics. Despite some positive technical breakouts, the overall outlook remains guarded due to persistent inflationary concerns and potential downside risks. The speaker emphasizes the necessity of disciplined risk management as the market navigates this period of uncertainty and consolidation.",
+ "digest_it": "L'autore analizza la recente volatilità di Bitcoin e la correlazione con il Nasdaq, suggerendo che il mercato stia attraversando una fase di incertezza. Esamina la posizione di mercato di Hyperliquid e valuta diverse altcoin tramite analisi on-chain e strutture di gamma. L'analisi si concentra sui livelli di liquidità e sui supporti critici, avvertendo che il mercato si trova in un regime gamma-negativo che richiede una gestione prudente del rischio e un approccio cauto.",
+ "author_tone": "cautious",
+ "tone_evidence": "The speaker repeatedly emphasizes the need for caution, risk management, and waiting for clearer market signals before taking significant positions.",
+ "key_points": [
+  {
+   "point": "Bitcoin's recent price drop was anticipated, but the lack of strong demand at lower levels is concerning.",
+   "timestamp": "01:50"
+  },
+  {
+   "point": "The speaker closed his short hedge on Bitcoin at 74.3k, but remains cautious about the market's direction.",
+   "timestamp": "02:30"
+  },
+  {
+   "point": "Recent CPI and PPI data indicate persistent inflationary pressures, which are not ideal for current market conditions.",
+   "timestamp": "10:20"
+  },
+  {
+   "point": "The market is pricing in a high probability of a 25 basis point rate hike by the Federal Reserve in December 2026.",
+   "timestamp": "11:00"
+  },
+  {
+   "point": "The S&P 500 is currently trading below its 50-day moving average, signaling potential weakness.",
+   "timestamp": "16:30"
+  },
+  {
+   "point": "Anthropic's upcoming IPO is valued at approximately 1.4 trillion dollars, which the speaker views as expensive.",
+   "timestamp": "21:00"
+  },
+  {
+   "point": "Hyperliquid has secured a strong, defensible position in the perpetual futures market.",
+   "timestamp": "40:35"
+  },
+  {
+   "point": "The market is currently in a broad gamma-negative regime with high volatility expected.",
+   "timestamp": "81:05"
+  }
+ ],
+ "tickers": [
+  "BTC",
+  "NDX",
+  "SPX",
+  "NVDA",
+  "MSFT",
+  "AMZN",
+  "GOOGL",
+  "BRCM",
+  "AMD",
+  "ARM"
+ ],
+ "predictions": [
+  "The speaker expects the market to remain in a range-bound, sideways movement for some time rather than a quick recovery.",
+  "Expects Bitcoin to eventually break the $100,000 level in 2027.",
+  "Anticipates further price consolidation and potential downside for Bitcoin in the near term.",
+  "Expect continued high volatility while Bitcoin trades within the wide gamma-negative zone."
+ ],
+ "catalysts": [
+  "Anthropic IPO scheduled for November 19, 2026",
+  "FOMC meeting on December 9, 2026",
+  "Upcoming delisting of MicroStrategy from MSCI indices at the end of November 2026."
+ ],
+ "rumors": [
+  "Speculation regarding Binance's involvement in covering losses from a North Korea-linked hack.",
+  "Speculation that Binance is using market activity to recoup losses from a previous hack."
+ ],
+ "curiosities": [
+  "The speaker notes that Nvidia's valuation is at its lowest point in terms of forward price-to-earnings ratio since its early growth phase.",
+  "The speaker mentions suffering from allergic rhinitis, which affects his ability to work during certain months."
+ ],
+ "promo": true,
+ "language": "it",
+ "video_id": "gWXnijYyfoM",
+ "title": "MI SBAGLIAVO? | 0xFriday | 13 Novembre 2026",
+ "author": "0xTalks",
+ "url": "https://www.youtube.com/watch?v=gWXnijYyfoM",
+ "published": "2026-11-14T06:51:07+00:00",
+ "duration_min": 125,
+ "partial": true,
+ "analysed_at": "2026-11-14T09:33:17.085757+00:00",
+ "model": "gemini-3.5-flash-lite"
+}
