@@ -1,0 +1,273 @@
+{
+ "shorts": [
+  {
+   "title": "Nvidia tra voci di mercato e dubbi sulla leadership",
+   "hook": "Jensen Huang potrebbe davvero lasciare Nvidia",
+   "narration": "Jensen Huang potrebbe davvero lasciare Nvidia. Sui mercati previsionali si stima oggi una probabilità del quarantacinque per cento che il fondatore possa abbandonare la guida dell'azienda prima del 2028. A riferirlo è il canale Jeremy Lefebvre Clips con un tono cauto, citando anche le parole di Elon Musk sul rischio di perdere contratti vitali. Si rincorrono inoltre voci non confermate su presunte consegne di chip in Cina attraverso vie alternative. In questo scenario di incertezza, Lefebvre teme una forte correzione fino al cinquanta per cento, anche se la valutazione sui profitti attesi resta sui minimi storici.",
+   "ticker": "NVDA",
+   "sentiment": "bearish",
+   "sources": [
+    "Jeremy Lefebvre Clips",
+    "0xTalks",
+    "Investing.com"
+   ],
+   "caption": "Voci di mercato e dubbi sulla leadership scuotono il colosso dei chip Nvidia. Ecco l'analisi.",
+   "hashtags": [
+    "#Nvidia",
+    "#JensenHuang",
+    "#Semiconconduttori",
+    "#WallStreet",
+    "#Borsa",
+    "#Tech",
+    "#MercatiFinanziari"
+   ]
+  },
+  {
+   "title": "Bitcoin sotto pressione tra inflazione e cautela",
+   "hook": "Il Bitcoin rischia una lunga fase laterale",
+   "narration": "Il Bitcoin rischia una lunga fase laterale prima di poter puntare verso traguardi più ambiziosi. L'analista del canale 0xTalks mantiene un atteggiamento molto cauto, segnalando una forte debolezza e una mancanza di acquisti sui prezzi più bassi. Pur avendo chiuso la sua posizione ribassista attorno ai settantaquattro mila trecento dollari, l'esperto non vede una ripartenza immediata verso i centomila dollari previsti per il 2027. La pressione sale anche a causa dei dati sull'inflazione americana, che aumentano la possibilità di un rialzo dei tassi da parte della Federal Reserve.",
+   "ticker": "BTC-USD",
+   "sentiment": "bearish",
+   "sources": [
+    "0xTalks",
+    "CoinDesk"
+   ],
+   "caption": "Il mercato cripto soffre tra inflazione e cautela degli analisti. Quali sono le prospettive per il Bitcoin?",
+   "hashtags": [
+    "#Bitcoin",
+    "#Criptovalute",
+    "#Crypto",
+    "#Inflazione",
+    "#FederalReserve",
+    "#0xTalks",
+    "#Mercati"
+   ]
+  },
+  {
+   "title": "Anthropic prepara il monumentale sbarco in borsa",
+   "hook": "La valutazione di Anthropic è troppo alta",
+   "narration": "La valutazione di Anthropic è troppo alta secondo l'analista di 0xTalks. L'azienda di intelligenza artificiale punta a uno sbarco a Wall Street con un valore stimato di circa un bilione e quattrocento miliardi di dollari. L'operazione ha già visto l'esclusione degli investitori provenienti da Cina e Hong Kong. Nel frattempo, l'investitore Bill Ackman evidenzia il forte divario tra le enormi cifre spese dai colossi della tecnologia e i reali ritorni economici generati finora. Il settore tecnologico si trova ad affrontare una fase di grande riflessione sui profitti futuri dell'intelligenza artificiale.",
+   "ticker": "AMZN",
+   "sentiment": "neutral",
+   "sources": [
+    "0xTalks",
+    "Jeremy Lefebvre Clips",
+    "Yahoo Finance",
+    "ANSA Economia"
+   ],
+   "caption": "Attesa per l'IPO di Anthropic, ma non mancano i dubbi sui grandi numeri dell'intelligenza artificiale.",
+   "hashtags": [
+    "#Anthropic",
+    "#IntelligenzaArtificiale",
+    "#IPO",
+    "#WallStreet",
+    "#BillAckman",
+    "#Tech",
+    "#Investimenti"
+   ]
+  },
+  {
+   "title": "Il clamoroso aneddoto sulla nascita di FedEx",
+   "hook": "FedEx salvata da una giocata al casinò",
+   "narration": "FedEx salvata da una giocata al casinò sembra una storia inventata, ma è la realtà. Agli esordi dell'azienda, la società di spedizioni era rimasta con soli cinquemila dollari in cassa, insufficienti per continuare le operazioni. Il fondatore Fred Smith prese l'ultimo denaro disponibile e volò a Las Vegas. Giocando tutto al tavolo da blackjack riuscì a vincere ventisette mila dollari. Quella somma inaspettata consentì di pagare il carburante per gli aerei aziendali, tenendo viva la società fino all'arrivo dei finanziamenti decisivi che ne salvarono definitivamente il futuro.",
+   "ticker": null,
+   "sentiment": "neutral",
+   "sources": [
+    "Yahoo Finance"
+   ],
+   "caption": "Una storia incredibile dal mondo delle imprese: quando la sorte ha salvato un gigante delle spedizioni.",
+   "hashtags": [
+    "#FedEx",
+    "#FredSmith",
+    "#StorieDiSuccesso",
+    "#Curiosità",
+    "#Imprenditoria",
+    "#Business",
+    "#Aneddoti"
+   ]
+  },
+  {
+   "title": "Frenata a Wall Street ed Europa cauta",
+   "hook": "Seduta di forte cautela per le borse",
+   "narration": "Seduta di forte cautela per le borse americane ed europee. L'indice Standard and Poor 500 cede lo zero virgola quattro per cento fermandosi a circa sette mila cinquecento sessantadue punti. Più marcata la flessione del Nasdaq, che perde lo zero virgola nove per cento a circa venticinque mila cento trentasei punti, appesantito dal comparto dei semiconduttori. Resistono in modesto rialzo il Dow Jones e Piazza Affari a Milano. Intanto il Bitcoin scende a circa sessantacinque mila cinquecento dollari con un calo del quattro per cento. I mercati restano in attesa.",
+   "ticker": "^GSPC",
+   "sentiment": "neutral",
+   "sources": [
+    "Yahoo Finance"
+   ],
+   "caption": "Borse frenate dai chip e criptovalute in calo. Ecco la sintesi dell'ultima seduta sui mercati.",
+   "hashtags": [
+    "#WallStreet",
+    "#Borsa",
+    "#Nasdaq",
+    "#SP500",
+    "#Bitcoin",
+    "#Mercati",
+    "#Finanza"
+   ]
+  }
+ ],
+ "carousels": [
+  {
+   "topic": "Nvidia tra dubbi e voci",
+   "caption": "Nvidia affronta un momento delicato tra voci sulla leadership e timori di correzione sui mercati. Qual è la tua opinione sul futuro del gigante dei chip? Lascia un commento e segui Market Pulse.",
+   "sentiment": "bearish",
+   "hashtags": [
+    "#Nvidia",
+    "#JensenHuang",
+    "#Semiconconduttori",
+    "#WallStreet",
+    "#Borsa",
+    "#Tech",
+    "#Investimenti",
+    "#MarketPulse"
+   ],
+   "slides": [
+    {
+     "title": "Tensioni e voci su Nvidia",
+     "body": "Tutto quello che c'è da sapere sulle ultime indiscrezioni e sui rischi del settore dei chip."
+    },
+    {
+     "title": "Il nodo della leadership",
+     "body": "Secondo Jeremy Lefebvre Clips, i mercati stimano un 45 per cento di probabilità di addio di Jensen Huang entro il 2028."
+    },
+    {
+     "title": "L'allarme di Elon Musk",
+     "body": "Elon Musk ha evidenziato che l'addio del fondatore potrebbe far perdere contratti vitali alla società."
+    },
+    {
+     "title": "Voci sulle consegne in Cina",
+     "body": "Circolano indiscrezioni non confermate su spedizioni di chip in Cina attraverso canali alternativi."
+    },
+    {
+     "title": "Rischio correzione e valutazioni",
+     "body": "Lefebvre teme correzioni fino al 50 per cento, ma 0xTalks nota multipli sui minimi storici."
+    },
+    {
+     "title": "Punti chiave da ricordare",
+     "body": "Mercato cauto su Nvidia. Segui Market Pulse per non perdere i prossimi aggiornamenti finanziari."
+    }
+   ]
+  },
+  {
+   "topic": "Bitcoin sotto pressione e tassi Fed",
+   "caption": "Il Bitcoin affronta una fase di debolezza legata ai dati macroeconomici e alla cautela degli analisti. Dove credi che andrà il prezzo del Bitcoin nei prossimi mesi? Dicci la tua nei commenti e segui la pagina.",
+   "sentiment": "bearish",
+   "hashtags": [
+    "#Bitcoin",
+    "#Criptovalute",
+    "#Crypto",
+    "#FederalReserve",
+    "#Inflazione",
+    "#Mercati",
+    "#0xTalks",
+    "#MarketPulse"
+   ],
+   "slides": [
+    {
+     "title": "Bitcoin e pressione macro",
+     "body": "Analisi della fase di debolezza del mercato cripto e delle previsioni degli analisti."
+    },
+    {
+     "title": "Fase laterale prolungata",
+     "body": "L'analista di 0xTalks prevede una fase laterale prima del target di 100.000 dollari atteso per il 2027."
+    },
+    {
+     "title": "Mancanza di acquisti",
+     "body": "Nonostante la chiusura della posizione ribassista a 74.300 dollari, mancano acquisti sui livelli inferiori."
+    },
+    {
+     "title": "L'impatto dell'inflazione USA",
+     "body": "Dati CPI e PPI oltre le attese spingono la prospettiva di un rialzo tassi da 25 punti base."
+    },
+    {
+     "title": "Indiscrezioni su Binance",
+     "body": "Rumor indicano manovre straordinarie di Binance per recuperare perdite da un vecchio attacco informatico."
+    },
+    {
+     "title": "Conclusioni per l'investitore",
+     "body": "Scenario incerto nel breve termine. Segui Market Pulse per rimanere aggiornato sulle criptovalute."
+    }
+   ]
+  },
+  {
+   "topic": "Anthropic e i dubbi sull'IA",
+   "caption": "Con l'IPO di Anthropic alle porte, il mondo tech si interroga sui reali ritorni degli investimenti in intelligenza artificiale. Che cosa ne pensi? Scrivilo nei commenti e iscriviti al nostro canale.",
+   "sentiment": "neutral",
+   "hashtags": [
+    "#Anthropic",
+    "#IntelligenzaArtificiale",
+    "#IPO",
+    "#WallStreet",
+    "#BillAckman",
+    "#Tech",
+    "#SmallCap",
+    "#MarketPulse"
+   ],
+   "slides": [
+    {
+     "title": "Anthropic e la sfida IPO",
+     "body": "Valutazioni record e interrogativi sul ritorno economico dell'intelligenza artificiale."
+    },
+    {
+     "title": "Valutazione da 1,4 mila miliardi",
+     "body": "L'analista di 0xTalks considera troppo alta la stima della società per lo sbarco a Wall Street."
+    },
+    {
+     "title": "Investitori esclusi",
+     "body": "Le autorità hanno deciso di escludere gli investitori di Cina e Hong Kong dall'operazione."
+    },
+    {
+     "title": "Il dubbio di Bill Ackman",
+     "body": "Ackman nota un forte divario tra la spesa enorme dei giganti tech e i ricavi generati."
+    },
+    {
+     "title": "Focus sulle small cap",
+     "body": "Jeremy Lefebvre Clips vede invece forte ottimismo su The Honest Company verso i 5 dollari entro il 2026."
+    },
+    {
+     "title": "Cosa fare adesso",
+     "body": "L'intelligenza artificiale resta un tema chiave. Segui Market Pulse per altri approfondimenti."
+    }
+   ]
+  },
+  {
+   "topic": "I prossimi appuntamenti dei mercati",
+   "caption": "Dai debutti in borsa alle decisioni sui tassi di interesse, ecco le date chiave da segnare sul calendario. Quale evento ritieni più importante? Dicci la tua nei commenti e segui Market Pulse.",
+   "sentiment": "neutral",
+   "hashtags": [
+    "#Mercati",
+    "#CalendarioFinanziario",
+    "#Anthropic",
+    "#GTA6",
+    "#FederalReserve",
+    "#MicroStrategy",
+    "#MarketPulse",
+    "#Borsa"
+   ],
+   "slides": [
+    {
+     "title": "I prossimi eventi finanziari",
+     "body": "Le date più importanti da monitorare nei prossimi giorni ed eventi chiave a Wall Street."
+    },
+    {
+     "title": "19 Novembre 2026",
+     "body": "Debutto di Anthropic sul Nasdaq e lancio globale dell'atteso videogioco Grand Theft Auto VI."
+    },
+    {
+     "title": "Fine Novembre",
+     "body": "Prevista l'uscita ufficiale della società MicroStrategy dagli indici globali MSCI."
+    },
+    {
+     "title": "9 Dicembre 2026",
+     "body": "Riunione FOMC della Federal Reserve per la decisione sui tassi d'interesse alle ore venti italiane."
+    },
+    {
+     "title": "Come prepararsi",
+     "body": "Prepara la tua strategia in vista dei prossimi catalizzatori. Segui Market Pulse per rimanere aggiornato."
+    }
+   ]
+  }
+ ],
+ "model": "gemini-3.5-flash"
+}

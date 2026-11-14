@@ -1,0 +1,157 @@
+{
+ "title": "Nvidia Turmoil, Crypto Pullback, and Small Cap Earnings Surge",
+ "description": "Markets face a turbulent session as Nvidia leadership rumors and rising Treasury yields weigh on tech stocks. Meanwhile, Bitcoin consolidates while select small-cap companies report strong earnings growth.\n\nHere is your daily stock market briefing for November 14, 2026.\nFeatured creators: Jeremy Lefebvre Clips and 0xTalks.",
+ "tags": [
+  "stock market news",
+  "market pulse",
+  "nvidia",
+  "bitcoin",
+  "small cap stocks",
+  "sp 500",
+  "nasdaq",
+  "fed rates",
+  "inflation data",
+  "stock analysis"
+ ],
+ "thumbnail_text": "Tech Selloff & Crypto Slide",
+ "mood": "neutral",
+ "segments": [
+  {
+   "id": "s1",
+   "kind": "hook",
+   "heading": "Nvidia Turmoil Shakes Markets",
+   "narration": "Nvidia leadership concerns and market volatility sent major chip stocks tumbling this week. We will look at why top creators are turning cautious on tech leaders, how persistent inflation is hitting crypto, and one retail stock pulling off massive profit growth.",
+   "bullets": [
+    "Nvidia leadership rumors",
+    "Inflation pressure on crypto",
+    "Small cap profit surprises"
+   ],
+   "ticker": null,
+   "sentiment": "neutral",
+   "sources": [
+    "Jeremy Lefebvre Clips",
+    "0xTalks",
+    "CNBC"
+   ]
+  },
+  {
+   "id": "s2",
+   "kind": "market",
+   "heading": "Market Overview",
+   "narration": "Wall Street closed a mixed session as Treasury yields continued to move higher. The S and P 500 slipped 0.4 percent to about 7,562 points, while the tech-heavy Nasdaq Composite dropped 0.9 percent to finish around 25,136 points. The Dow Jones edged up 0.1 percent, ending near 52,348 points. European markets were quiet, with the Euro Stoxx 50 down 0.2 percent to 6,387 points. Bond yields pressed higher as the US 10-year yield rose 1.0 percent to 5.2 percent. The VIX volatility index gained 3.2 percent to reach 19 points. Meanwhile, cryptocurrencies saw sharp pullbacks, as Bitcoin dropped 4.0 percent to about 65,543 dollars and Ethereum fell 4.8 percent to 1,836 dollars.",
+   "bullets": [
+    "S&P 500 down 0.4 percent",
+    "Nasdaq Composite falls 0.9 percent",
+    "US 10-year yield reaches 5.2 percent",
+    "Bitcoin slides 4.0 percent"
+   ],
+   "ticker": "^GSPC",
+   "sentiment": "bearish",
+   "sources": [
+    "Yahoo Finance"
+   ]
+  },
+  {
+   "id": "s3",
+   "kind": "topic",
+   "heading": "Nvidia Turmoil & Chip Stocks",
+   "narration": "Semiconductor stocks are facing intense scrutiny after a turbulent week for mega-cap tech. According to creator Jeremy Lefebvre, who holds a cautious stance, holding Nvidia comes with elevated valuation and leadership risks. Prediction markets are currently pricing a 45 percent probability that Chief Executive Officer Jensen Huang could leave the company before 2028. Lefebvre warns that if short-term market sentiment turns severely negative, Nvidia stock could experience a dramatic drawdown of 50 to 60 percent. There are also unverified rumors circulating that Nvidia has been shipping chips to China through alternate avenues. Because of these risks, Lefebvre ranks Advanced Micro Devices as his top long-term pick in physical artificial intelligence. At the same time, reports from CNBC indicate that leadership turmoil at Nvidia could shift corporate enterprise demand toward rival chipmakers and other Big Tech players.",
+   "bullets": [
+    "Leadership uncertainty at Nvidia",
+    "Lefebvre warns of potential pullbacks",
+    "AMD favored for physical AI",
+    "Enterprise demand may shift"
+   ],
+   "ticker": "NVDA",
+   "sentiment": "bearish",
+   "sources": [
+    "Jeremy Lefebvre Clips",
+    "CNBC"
+   ]
+  },
+  {
+   "id": "s4",
+   "kind": "topic",
+   "heading": "Crypto Volatility & Inflation",
+   "narration": "Digital assets are struggling under broader macroeconomic headwinds and persistent price pressures. According to analyst 0xTalks, who remains cautious, the recent price drop in Bitcoin was anticipated, but a lack of strong buyer demand at lower levels is concerning. He notes that recent consumer price index and producer price index data indicate persistent inflation, which creates a difficult backdrop for risk assets. 0xTalks points out that the S and P 500 is currently trading below its 50-day moving average, signaling potential weakness across the broader market. Furthermore, traders are pricing in a high probability of a 25 basis point rate hike by the Federal Reserve in December 2026. He expects Bitcoin to experience continued consolidation and downside in a wide, volatile regime. Unverified market rumors also suggest speculation regarding exchange operations following previous security breaches.",
+   "bullets": [
+    "Bitcoin demand remains weak",
+    "Inflation data pressures risk assets",
+    "December Fed rate hike priced in",
+    "Expectations for sideways range"
+   ],
+   "ticker": "BTC-USD",
+   "sentiment": "bearish",
+   "sources": [
+    "0xTalks"
+   ]
+  },
+  {
+   "id": "s5",
+   "kind": "topic",
+   "heading": "Small Cap Earnings Highlights",
+   "narration": "Outside of mega-cap tech, select consumer and small-cap stocks are demonstrating remarkable operational strength. In a bullish update, creator Jeremy Lefebvre highlighted strong fundamentals across several smaller companies following recent earnings reports. He identified The Honest Company as a top pick, citing organic revenue growth of 9.2 percent and adjusted gross margins near 49 percent. Lefebvre predicts the stock will exit 2026 above 5 dollars per share. He also awarded Cheesecake Factory an A-plus grade after the company delivered 14 percent revenue growth and a 92 percent increase in net income year over year. Although Revolve experienced short-term expense issues that weighed on operating income, the retailer still generated 20 percent net sales growth. Lefebvre urges investors to look past short-term market fluctuations and focus on fundamental earnings power.",
+   "bullets": [
+    "The Honest Company revenue up 9.2%",
+    "Cheesecake Factory net income jumps 92%",
+    "Revolve net sales grow 20%",
+    "Focus on long-term fundamentals"
+   ],
+   "ticker": "HNST",
+   "sentiment": "bullish",
+   "sources": [
+    "Jeremy Lefebvre Clips"
+   ]
+  },
+  {
+   "id": "s6",
+   "kind": "ahead",
+   "heading": "What To Watch Next",
+   "narration": "Looking ahead to the coming weeks, several key calendar events could drive market action. On November 19, 2026, artificial intelligence researcher Anthropic is scheduled to launch its initial public offering at a valuation of around 1.4 trillion dollars, a figure analyst 0xTalks considers very expensive. Investors are also watching for potential market volatility at the end of November 2026, when MicroStrategy faces an upcoming delisting from MSCI indices. Further out on December 9, 2026, the Federal Open Market Committee will convene for its policy meeting, where investors will learn whether the Federal Reserve will implement a 25 basis point rate hike.",
+   "bullets": [
+    "Nov 19: Anthropic IPO scheduled",
+    "Late Nov: MicroStrategy MSCI delisting",
+    "Dec 9: FOMC interest rate decision"
+   ],
+   "ticker": null,
+   "sentiment": "neutral",
+   "sources": [
+    "0xTalks",
+    "CNBC"
+   ]
+  },
+  {
+   "id": "s7",
+   "kind": "curious",
+   "heading": "FedEx Las Vegas Blackjack Save",
+   "narration": "In a surprising piece of corporate history discussed this week, logistics giant FedEx was once saved by a desperate gamble at a casino. Decades ago, founder Fred Smith was down to just 5,000 dollars in remaining company cash. Facing immediate operational collapse, he flew to Las Vegas and sat down at a blackjack table. He won 27,000 dollars, which provided just enough money to keep the planes flying until he successfully raised 11 million dollars in equity funding.",
+   "bullets": [
+    "Founder gambled final $5,000",
+    "Won $27,000 playing blackjack",
+    "Kept FedEx operating until funding"
+   ],
+   "ticker": null,
+   "sentiment": "neutral",
+   "sources": [
+    "Yahoo Finance"
+   ]
+  },
+  {
+   "id": "s8",
+   "kind": "outro",
+   "heading": "Final Thoughts",
+   "narration": "This broadcast is strictly for informational and educational purposes and does not constitute financial advice. Be sure to hit the subscribe button, turn on notification alerts, and leave your thoughts in the comments. Thanks for watching Market Pulse.",
+   "bullets": [
+    "Not financial advice",
+    "Subscribe and turn on alerts"
+   ],
+   "ticker": null,
+   "sentiment": "neutral",
+   "sources": []
+  }
+ ],
+ "words": 770,
+ "model": "gemini-3.6-flash",
+ "n_notes": 3,
+ "n_news": 117
+}
