@@ -1,0 +1,64 @@
+{
+ "market_relevance": 10,
+ "scope": "global",
+ "kind": "stock pick",
+ "summary": "Jeremy Lefebvre examines Nvidia CEO Jensen Huang's situation amid market speculation regarding his potential departure and scrutiny over chip shipments to China. He analyzes top AI stocks, placing AMD first due to its strong position in physical AI, followed by Amazon, Google, and Caterpillar. The discussion extends to Micron and Nvidia, weighing the risks and rewards of holding these stocks in fluctuating markets, and touches on broader macroeconomic factors like US elections, inflation, and job reports.",
+ "digest_it": "Jeremy Lefebvre analizza la posizione di Nvidia e del CEO Jensen Huang, valutando le speculazioni sul futuro e i controlli sulle spedizioni in Cina. Esamina i migliori titoli AI, puntando su AMD come prima scelta per l'IA fisica, seguita da Amazon, Google, Caterpillar e Micron.",
+ "author_tone": "cautious",
+ "tone_evidence": "The speaker advises caution with Nvidia and highlights the importance of long-term positioning despite short-term market fears.",
+ "key_points": [
+  {
+   "point": "Prediction markets price a 45% probability of Jensen Huang leaving Nvidia before 2028.",
+   "timestamp": "00:10"
+  },
+  {
+   "point": "AMD is ranked as the top AI stock pick for long-term physical AI opportunities.",
+   "timestamp": "05:50"
+  },
+  {
+   "point": "Amazon and Google remain strong AI plays alongside AWS beneficiaries.",
+   "timestamp": "08:45"
+  },
+  {
+   "point": "Caterpillar is the fourth stock pick, offering exposure to industrial equipment and AI buildouts.",
+   "timestamp": "09:30"
+  },
+  {
+   "point": "Micron and Nvidia represent the fifth stock choice, with Nvidia facing valuation and leadership risk debates.",
+   "timestamp": "11:00"
+  }
+ ],
+ "tickers": [
+  "NVDA",
+  "AMD",
+  "AMZN",
+  "GOOGL",
+  "CAT",
+  "MU"
+ ],
+ "predictions": [
+  "AMD will win in physical AI over a 2030 to 2040 horizon.",
+  "Nvidia stock could experience a drawdown of 50-60% if short-term sentiment turns severely negative."
+ ],
+ "catalysts": [
+  "US elections",
+  "October nonfarm payrolls report"
+ ],
+ "rumors": [
+  "Nvidia is shipping chips to China through alternate avenues."
+ ],
+ "curiosities": [
+  "Nvidia was trading below two dollars a share when Lisa Su took over, viewed by many as near bankruptcy."
+ ],
+ "promo": true,
+ "language": "en",
+ "video_id": "S5vKKc6cX-k",
+ "title": "AMD Investors! Nvidia Has Just SHIFTED the Entire Market",
+ "author": "Jeremy Lefebvre Clips",
+ "url": "https://www.youtube.com/watch?v=S5vKKc6cX-k",
+ "published": "2026-11-13T19:55:16.297215+00:00",
+ "duration_min": 22,
+ "partial": false,
+ "analysed_at": "2026-11-14T00:55:26.571973+00:00",
+ "model": "gemini-3.5-flash-lite"
+}
