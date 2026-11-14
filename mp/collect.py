@@ -12,7 +12,7 @@ from datetime import timedelta
 os.environ.setdefault("MP_ROLE", "collect")
 
 from . import llm, news, quota, telegram, watch, youtube   # noqa: E402
-from .core import CFG, NEWS, NOTES, SCRIPTS, STATE, log, now, read_json, write_json  # noqa: E402
+from .core import CFG, NEWS, NOTES, SCRIPTS, STATE, clock, log, now, read_json, write_json  # noqa: E402
 
 C = CFG["collect"]
 TONE_IT = {"very bearish": "🔴 molto ribassista", "bearish": "🔴 ribassista", "cautious": "🟠 prudente",
@@ -94,6 +94,7 @@ def prune():
 
 
 def main():
+    clock(last_collect_try=now().isoformat())
     state = read_json(STATE / "videos.json", {})
     log("== Canali ==")
     picked, total = build_queue(state)
@@ -115,12 +116,15 @@ def main():
             note = watch.analyse(v, ch)
         except llm.KeyProblem:
             raise
-        except llm.LLMError as e:
+        except Exception as e:           # one bad video must never stop the others
+            if not isinstance(e, llm.LLMError):
+                traceback.print_exc()
             st["last_error"] = str(e)[:200]
             log(f"    rimandato: {st['last_error']}")
             if st["attempts"] >= C["max_attempts"]:
                 st["status"] = "gave_up"
                 gave_up.append(f"{ch['name']}: {v['title'][:60]}")
+            write_json(STATE / "videos.json", state)
             if not llm.chain("watch"):
                 stopped = "quota video di oggi finita"
                 break
@@ -144,6 +148,7 @@ def main():
     prune()
 
     waiting = max(0, total - len(new) - len(gave_up))
+    clock(last_collect_ok=now().isoformat())
     q = quota.summary()
     log(f"== Fatto: {len(new)} video nuovi, {waiting} in coda, {added} notizie nuove. "
         f"Richieste AI oggi: {q['requests']} · ore video: {q['video_hours']} ==")

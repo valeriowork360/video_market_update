@@ -1,9 +1,7 @@
-name: 1 - Raccolta (ogni 4 ore)
+name: 1 - Raccolta (a mano)
 
-# Guarda i video nuovi degli autori, salva note e notizie. Gira da solo, a PC spento.
+# Avvio manuale della raccolta. In automatico ci pensa "Market Pulse (automatico)".
 on:
-  schedule:
-    - cron: "17 */4 * * *"
   workflow_dispatch: {}
 
 permissions:

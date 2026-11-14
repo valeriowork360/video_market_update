@@ -101,6 +101,21 @@ def test_router():
     d, m = llm.ask("write", lambda n: "x", patience=0)
     assert d == {"a": 1}
 
+    # a 403 on one video is about that video: no key alarm, no other model burned
+    fm = fresh({"gemini-3.5-flash-lite": Err(403, "403 PERMISSION_DENIED. The caller does not have permission")})
+    try:
+        llm.ask("watch", lambda n: "x", video={"url": "u"}, patience=1)
+        raise AssertionError("should fail")
+    except llm.VideoUnavailable:
+        pass
+    assert fm.calls == ["gemini-3.5-flash-lite"]
+    try:
+        fresh({"gemini-3.8-flash": Err(400, "400 API key not valid. API_KEY_INVALID")})
+        llm.ask("write", lambda n: "x", patience=0)
+        raise AssertionError("should fail")
+    except llm.KeyProblem:
+        pass
+
     # rejected video parameters surface as BadVideoRequest
     fresh({"gemini-3.5-flash-lite": Err(400, "400 INVALID_ARGUMENT fps")})
     try:
@@ -198,7 +213,55 @@ def test_channel_page():
     print("channel page ok")
 
 
+def test_schedule():
+    import importlib.util
+    from datetime import datetime, timezone
+    spec = importlib.util.spec_from_file_location("due", Path(__file__).parent.parent / "scripts" / "due.py")
+    due = importlib.util.module_from_spec(spec)
+    spec.loader.exec_module(due)
+    cfg = (Path(__file__).parent.parent / "config.yaml").read_text(encoding="utf-8")   # Bangkok, 17:30, 9h
+
+    def at(y, m, d, hh, mm):          # local Bangkok time -> UTC
+        return datetime(y, m, d, hh, mm, tzinfo=due.ZoneInfo("Asia/Bangkok")).astimezone(timezone.utc)
+
+    done = lambda day, kind="daily": {f"{day}_{kind}": {"langs": {l: {"long": True, "social": True} for l in ("it", "en")}}}
+    fresh_clock = lambda t: {"last_collect_ok": t.isoformat(), "last_collect_try": t.isoformat()}
+    # Saturday 16:00: before the daily time -> nothing to produce
+    t = at(2026, 11, 14, 16, 0)
+    assert due.decide(t, cfg, fresh_clock(t), {})["produce"] == ""
+    # Saturday 17:34: daily for the 14th, and a refresh of the videos if the last collect is old
+    t = at(2026, 11, 14, 17, 34)
+    d = due.decide(t, cfg, fresh_clock(at(2026, 11, 14, 14, 0)), done("2026-11-13"))
+    assert (d["produce"], d["day"], d["collect"]) == ("daily", "2026-11-14", True), d
+    # GitHub 7 hours late (00:40 on the 15th): still the episode of the 14th, not of the 15th
+    t = at(2026, 11, 15, 0, 40)
+    d = due.decide(t, cfg, fresh_clock(t), {})
+    assert (d["produce"], d["day"]) == ("daily", "2026-11-14"), d
+    # ... and if it was already delivered, nothing; too late (03:00) -> nothing
+    assert due.decide(t, cfg, fresh_clock(t), done("2026-11-14"))["produce"] == ""
+    assert due.decide(at(2026, 11, 15, 3, 0), cfg, fresh_clock(t), {})["produce"] == ""
+    # Sunday 19:10: daily first, then the weekly recap
+    t = at(2026, 11, 15, 19, 10)
+    assert due.decide(t, cfg, fresh_clock(t), {})["produce"] == "daily"
+    d = due.decide(t, cfg, fresh_clock(t), done("2026-11-15"))
+    assert (d["produce"], d["day"]) == ("weekly", "2026-11-15"), d
+    both = {**done("2026-11-15"), **done("2026-11-15", "weekly")}
+    assert due.decide(t, cfg, fresh_clock(t), both)["work"] is False
+    # a failed attempt is retried, but not more often than every 40 minutes
+    c = dict(fresh_clock(t), last_produce_try=at(2026, 11, 15, 19, 0).isoformat())
+    assert due.decide(t, cfg, c, {})["produce"] == ""
+    assert due.decide(at(2026, 11, 15, 19, 45), cfg, c, {})["produce"] == "daily"
+    # collection every 4 hours, never twice within 40 minutes
+    t = at(2026, 11, 14, 12, 0)
+    assert due.decide(t, cfg, fresh_clock(at(2026, 11, 14, 7, 55)), {})["collect"] is True
+    assert due.decide(t, cfg, fresh_clock(at(2026, 11, 14, 9, 0)), {})["collect"] is False
+    assert due.decide(t, cfg, {"last_collect_try": at(2026, 11, 14, 11, 40).isoformat()}, {})["collect"] is False
+    assert due.decide(t, cfg, {}, {})["collect"] is True
+    print("schedule ok")
+
+
 if __name__ == "__main__":
+    test_schedule()
     test_channel_page()
     test_router()
     test_watch()

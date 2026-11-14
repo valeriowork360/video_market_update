@@ -8,19 +8,25 @@ Gira gratis su GitHub, anche a computer spento. Tu ricevi tutto su Telegram, app
 | Quando | Cosa succede |
 |---|---|
 | Ogni 4 ore | Guarda i video nuovi degli 8 canali, scrive per ognuno **cosa dice l'autore e con che tono**, salva le notizie di mercato. Ti manda su Telegram il riassunto di ogni video nuovo. |
-| Ogni giorno, 17:43 (Bangkok) | Per ogni lingua: **1 video lungo**, **3-7 short** ricavati da quel video, **1 carosello Instagram per argomento**, miniatura, titolo, descrizione e tag. |
-| Domenica, 19:13 | **Video lungo di riepilogo** della settimana e **carosello di riepilogo**. |
+| Ogni giorno, dalle 17:30 (Bangkok) | Prima aggiorna i video, poi per ogni lingua: **1 video lungo**, **3-7 short** ricavati da quel video, **1 carosello Instagram per argomento**, miniatura, titolo, descrizione e tag. |
+| Domenica, dalle 19:00 | **Video lungo di riepilogo** della settimana e **carosello di riepilogo**. |
 
 Il tono della voce narrante viene scelto ogni giorno in base al mercato (pacato, da telegiornale, incalzante, energico).
 I video che riguardano solo l'Italia (per esempio le tasse italiane di Marco Casario) entrano nell'edizione italiana e restano fuori da quella inglese.
+
+### Sugli orari
+
+Il servizio gratuito di GitHub non è puntuale: può partire con ritardo, anche di ore, e saltare dei turni.
+Per questo c'è un solo automatismo, **Market Pulse (automatico)**, che scatta ogni 15 minuti, guarda l'orologio e fa quello che manca. Basta che uno qualsiasi degli scatti arrivi. Se GitHub è molto in ritardo il video del giorno esce comunque (fino a 9 ore dopo) e resta il video di *quel* giorno, senza togliere il posto a quello successivo. Gli orari si cambiano in `config.yaml`, sezione `schedule`.
 
 ## Come si usa
 
 Non devi fare nulla: parte da solo. Per avviarlo a mano apri **Actions** su GitHub, scegli la voce e premi **Run workflow**:
 
-- **0 - Controllo**: prova chiavi, AI, feed, voce e prezzi, e ti manda il referto su Telegram. Usalo se qualcosa non torna.
-- **1 - Raccolta**: analizza subito i video nuovi.
-- **2 - Produzione**: crea subito il giornaliero (o il settimanale). Con *force* lo rifà anche se già consegnato. Con *silent* fa una prova senza inviare nulla su Telegram: i file restano negli Artifacts della run.
+- **Market Pulse (automatico)**: fa subito quello che è in scadenza in questo momento.
+- **0 - Controllo**: prova chiavi, AI, canali, voce e prezzi, e ti manda il referto su Telegram.
+- **1 - Raccolta (a mano)**: analizza subito i video nuovi.
+- **2 - Produzione (a mano)**: crea subito il giornaliero (o il settimanale). Con *force* lo rifà anche se già consegnato. Con *silent* fa una prova senza inviare nulla su Telegram: i file restano negli Artifacts della run.
 
 ## Perché adesso regge
 
@@ -28,7 +34,7 @@ La versione precedente non ha mai consegnato un video. I motivi, e cosa è cambi
 
 - **Quota Gemini.** Il piano gratuito concede circa 20 richieste al giorno ai modelli *flash* e circa 500 ai modelli *flash-lite*. Prima si usava *flash* per tutto e la quota finiva con la raccolta. Ora *flash-lite* guarda i video e *flash* resta libero per i copioni (ne servono 4 al giorno).
 - **Riserve vere.** Se un modello è sovraccarico (errore 503) o ha finito la quota (429) si passa subito al successivo: 3.8, 3.6, poi i *lite*, poi le AI di riserva. I nomi dei modelli vengono letti da Google a ogni giro, quindi un cambio di nome non rompe nulla.
-- **Niente si perde.** Un video che non si riesce ad analizzare resta in coda per il giro dopo. La produzione salva ogni passaggio: se si ferma, due riprese automatiche (20:43 e 23:13) completano solo quello che manca. Quello che è pronto ti arriva subito.
+- **Niente si perde.** Un video che non si riesce ad analizzare resta in coda per il giro dopo. La produzione salva ogni passaggio: se si ferma, viene ritentata ogni 40 minuti circa e completa solo quello che manca. Quello che è pronto ti arriva subito.
 - **Video nuovi da due fonti.** I feed RSS di YouTube dai server GitHub spesso non rispondono: ora i video nuovi si leggono anche dalle pagine dei canali, e basta che una delle due fonti funzioni.
 - **Video lunghi.** Vengono letti a pezzi da 40 minuti e con pochi fotogrammi (conta l'audio), così restano dentro i limiti gratuiti.
 - **Numeri verificati.** I prezzi arrivano da Yahoo Finance e l'AI può citare solo quelli. Le voci non confermate vengono chiamate "rumor". Promozioni, sponsor e clickbait degli autori vengono scartati.
@@ -47,7 +53,7 @@ Le riserve entrano in gioco solo se tutti i modelli Gemini sono occupati. Basta 
 ## Impostazioni
 
 Tutto in `config.yaml`: canali, feed di notizie, lunghezza dei video, numero di short, voci, colori e nome del canale.
-Per cambiare gli orari modifica le righe `cron` in `.github/workflows/2-produce.yml` (sono in UTC: Bangkok meno 7 ore).
+Gli orari sono nella sezione `schedule`, nel tuo fuso.
 
 ## Account X
 
@@ -75,6 +81,7 @@ mp/draw.py           grafica di video, short, caroselli, miniatura
 mp/video.py          montaggio con ffmpeg
 mp/produce.py        produzione giornaliera e settimanale, a tappe
 mp/doctor.py         controllo generale
+scripts/due.py       decide a ogni scatto cosa c'è da fare
 data/                note, notizie, copioni e stato (aggiornati dal bot)
 ```
 

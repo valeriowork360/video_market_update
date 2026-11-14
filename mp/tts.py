@@ -82,7 +82,7 @@ def speak(text, lang, mood, wav, faster=False):
     mp3 = wav.with_suffix(".mp3")
     last = None
     for voice in CFG["narrator"]["voices"][lang]:
-        for attempt in range(3):
+        for attempt in range(2):
             try:
                 words = asyncio.run(_edge(text, voice, rate, pitch, mp3))
                 if mp3.stat().st_size < 2000:
@@ -93,7 +93,7 @@ def speak(text, lang, mood, wav, faster=False):
                 return words
             except Exception as e:
                 last = e
-                time.sleep(4 * (attempt + 1))
+                time.sleep(3)
         log(f"    voce {voice} non disponibile ({str(last)[:80]}), provo la successiva")
     try:
         from gtts import gTTS

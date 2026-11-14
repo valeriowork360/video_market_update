@@ -1,14 +1,7 @@
-name: 2 - Produzione (giornaliera e settimanale)
+name: 2 - Produzione (a mano)
 
-# Orari in UTC (Bangkok = UTC+7). Le righe "ripresa" completano solo quello che manca:
-# se e' gia' tutto consegnato finiscono in pochi secondi.
+# Avvio manuale della produzione. In automatico ci pensa "Market Pulse (automatico)".
 on:
-  schedule:
-    - cron: "43 10 * * *"   # giornaliero, 17:43 Bangkok
-    - cron: "43 13 * * *"   # ripresa giornaliero, 20:43
-    - cron: "13 16 * * *"   # seconda ripresa, 23:13
-    - cron: "13 12 * * 0"   # settimanale, domenica 19:13
-    - cron: "13 15 * * 0"   # ripresa settimanale, domenica 22:13
   workflow_dispatch:
     inputs:
       kind:
@@ -47,13 +40,8 @@ jobs:
       - name: Scegli cosa produrre
         id: k
         run: |
-          KIND=daily; FORCE=""
-          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
-            KIND="${{ inputs.kind }}"
-            if [ "${{ inputs.force }}" = "true" ]; then FORCE="--force"; fi
-          elif [ "${{ github.event.schedule }}" = "13 12 * * 0" ] || [ "${{ github.event.schedule }}" = "13 15 * * 0" ]; then
-            KIND=weekly
-          fi
+          KIND="${{ inputs.kind }}"; FORCE=""
+          if [ "${{ inputs.force }}" = "true" ]; then FORCE="--force"; fi
           echo "kind=$KIND" >> "$GITHUB_OUTPUT"
           echo "force=$FORCE" >> "$GITHUB_OUTPUT"
       - name: Copioni, voce, video, short e caroselli

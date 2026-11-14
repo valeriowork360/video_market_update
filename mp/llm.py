@@ -31,6 +31,10 @@ class BadVideoRequest(Exception):
     """Gemini rejected the video parameters (not a quota problem)."""
 
 
+class VideoUnavailable(LLMError):
+    """Gemini cannot open this video right now (live not processed yet, restricted, removed)."""
+
+
 class KeyProblem(Exception):
     pass
 
@@ -89,8 +93,10 @@ def pools():
 
 
 def _is_key_error(msg):
-    return any(k in msg for k in ("API_KEY_INVALID", "API key not valid", "PERMISSION_DENIED",
-                                  "API key expired", "UNAUTHENTICATED"))
+    """Only messages that really speak about the key. A bare 403 PERMISSION_DENIED is what
+    Gemini answers when it cannot open one specific YouTube video: that is not a key problem."""
+    return any(k in msg for k in ("API_KEY_INVALID", "API key not valid", "API key expired",
+                                  "API_KEY_SERVICE_BLOCKED", "UNAUTHENTICATED", "API key was reported"))
 
 
 def _family(model):
@@ -186,6 +192,12 @@ def _gemini(task, prompt, video, temperature):
                 last = f"{model}: {msg[:160]}"
                 if _is_key_error(msg):
                     raise KeyProblem(f"Chiave Gemini rifiutata: {msg[:160]}")
+                if code == 403 or "PERMISSION_DENIED" in msg:
+                    if video:
+                        raise VideoUnavailable("Gemini non riesce ad aprire questo video adesso "
+                                               "(live appena finita, video riservato o rimosso)")
+                    log(f"    {model}: non consentito con questa chiave -> modello successivo")
+                    break
                 if code == 429 or "RESOURCE_EXHAUSTED" in msg:
                     daily = "PerDay" in msg or "per day" in msg.lower() or "limit: 0" in msg
                     if daily:
@@ -282,7 +294,7 @@ def ask(task, make_prompt, video=None, temperature=0.5, patience=1):
             time.sleep(90)
         try:
             return _gemini(task, make_prompt(400_000), video, temperature)
-        except (BadVideoRequest, KeyProblem):
+        except (BadVideoRequest, KeyProblem, VideoUnavailable):
             raise
         except LLMError as e:
             last = e

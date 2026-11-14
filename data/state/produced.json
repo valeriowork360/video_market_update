@@ -18,32 +18,16 @@
   },
   "notes": [
    "ERImJDIgZ-c",
-   "dHyyW3Y1nHE",
-   "mGdXdGufa4k",
-   "rIPaeXF1QnY",
    "KeMDM3_h-W0",
-   "aNNrh4GJGuA"
-  ]
- },
- "2026-11-14_daily": {
-  "langs": {
-   "it": {
-    "long": true,
-    "title": "Nvidia trema dopo le dimissioni del CEO, crollo Bitcoin e bond in rialzo",
-    "shorts": 5,
-    "carousels": 5,
-    "social": true
-   },
-   "en": {
-    "long": true,
-    "title": "Nvidia CEO Resigns as Tech Stocks Fall and Bond Yields Surge",
-    "shorts": 6,
-    "carousels": 4,
-    "social": true
-   }
-  },
-  "notes": [
-   "iTYaIAKIqIc"
-  ]
+   "aNNrh4GJGuA",
+   "dHyyW3Y1nHE",
+   "iTYaIAKIqIc",
+   "mGdXdGufa4k",
+   "rIPaeXF1QnY"
+  ],
+  "late_edition": {
+   "it": "Nvidia trema dopo le dimissioni del CEO, crollo Bitcoin e bond in rialzo",
+   "en": "Nvidia CEO Resigns as Tech Stocks Fall and Bond Yields Surge"
+  }
  }
 }

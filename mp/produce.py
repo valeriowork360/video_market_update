@@ -17,7 +17,7 @@ from datetime import datetime, timedelta
 os.environ.setdefault("MP_ROLE", "produce")
 
 from . import draw, llm, news, quota, telegram, video, writer   # noqa: E402
-from .core import (CFG, NOTES, OUT, ROOT, SCRIPTS, STATE, local_day, log, now, parse_iso,   # noqa: E402
+from .core import (CFG, NOTES, OUT, ROOT, SCRIPTS, STATE, clock, local_day, log, now, parse_iso,   # noqa: E402
                    read_json, write_json)
 
 FLAG = {"it": "🇮🇹", "en": "🇬🇧"}
@@ -150,8 +150,9 @@ def main():
     ap.add_argument("--force", action="store_true")
     ap.add_argument("--lang")
     ap.add_argument("--offline", action="store_true")
+    ap.add_argument("--day", help="YYYY-MM-DD: the day this episode belongs to (default: today)")
     a = ap.parse_args()
-    kind, day = a.kind, local_day()
+    kind, day = a.kind, a.day or local_day()
     key = f"{day}_{kind}"
     silent = bool(os.environ.get("MP_SILENT"))      # trial run: nothing is sent, nothing is recorded
     ledger = OUT / "produced_trial.json" if (a.offline or silent) else STATE / "produced.json"
@@ -162,6 +163,11 @@ def main():
     if not todo:
         log(f"{key}: gia' consegnato, niente da fare")
         return 0
+    tries = 0
+    if not (a.offline or silent):
+        c = clock()
+        tries = c.get("produce_tries", {}).get(key, 0) + 1
+        clock(last_produce_try=now().isoformat(), produce_tries={key: tries})
     folder, sdir = OUT / key, SCRIPTS / key
     if a.offline or silent:
         sdir = OUT / key / "_scripts"
@@ -229,6 +235,9 @@ def main():
     done = [l for l in todo if rec["langs"].get(l, {}).get("long") and rec["langs"].get(l, {}).get("social")]
     q = quota.summary()
     log(f"== Fine: completate {done}, problemi {len(problems)}. Richieste AI oggi: {q['requests']} ==")
+    if problems and tries not in (0, 1, 4, 8):
+        log("   (avviso Telegram gia' mandato a un tentativo precedente)")
+        return 1
     if problems:
         telegram.message("⚠️ Produzione " + ("settimanale" if kind == "weekly" else "giornaliera")
                          + " incompleta:\n- " + "\n- ".join(problems)

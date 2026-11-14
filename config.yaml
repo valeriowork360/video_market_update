@@ -19,6 +19,19 @@ timezone: Asia/Bangkok          # il "giorno" e le date seguono questo fuso
 languages: [it, en]
 
 # ------------------------------------------------------------
+#  Orari (nel fuso qui sopra). GitHub non e' puntuale: il sistema
+#  controlla ogni 15 minuti cosa c'e' da fare e parte appena puo'
+#  dopo l'orario indicato. Se GitHub ritarda molto, produce comunque
+#  entro "late_hours" ore, senza rubare il posto al giorno dopo.
+# ------------------------------------------------------------
+schedule:
+  collect_every_hours: 4
+  daily_time: "17:30"
+  weekly_day: sunday
+  weekly_time: "19:00"
+  late_hours: 9
+
+# ------------------------------------------------------------
 #  Canali YouTube seguiti. "id" e' l'identificativo del canale
 #  (inizia con UC). Per aggiungerne uno basta nome + url:
 #  l'id viene trovato da solo al primo giro.

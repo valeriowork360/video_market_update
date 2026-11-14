@@ -75,7 +75,7 @@ _EMOJI = re.compile(
 
 def clean(s):
     """Text safe to draw and to speak: no emoji, no markdown, single spaces."""
-    s = _EMOJI.sub("", str(s or ""))
+    s = _EMOJI.sub(" ", str(s or ""))
     s = s.replace("**", "").replace("__", "").replace("`", "")
     s = s.replace("’", "'").replace("‘", "'").replace("“", '"').replace("”", '"')
     s = s.replace("—", " - ").replace("–", "-").replace("…", "...")
@@ -90,3 +90,12 @@ def secret(name):
 def fatal(msg):
     log(f"ERRORE: {msg}")
     sys.exit(1)
+
+
+def clock(**updates):
+    """Small shared memory of when things last ran (read by scripts/due.py)."""
+    c = read_json(STATE / "clock.json", {}) or {}
+    if updates:
+        c.update(updates)
+        write_json(STATE / "clock.json", c)
+    return c

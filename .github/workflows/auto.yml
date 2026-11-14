@@ -1,0 +1,66 @@
+name: Market Pulse (automatico)
+
+# Il cuore del sistema. Parte ogni 15 minuti, guarda l'orologio e decide da solo:
+#  - raccolta dei video nuovi (ogni 4 ore)
+#  - video giornaliero (dalle 17:30) e recap settimanale (domenica dalle 19:00)
+# Se non c'e' nulla da fare finisce in pochi secondi. Gli orari si cambiano in config.yaml.
+on:
+  schedule:
+    - cron: "4,19,34,49 * * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: market-pulse-auto
+  cancel-in-progress: false
+
+jobs:
+  tick:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    env:
+      GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+      MISTRAL_API_KEY: ${{ secrets.MISTRAL_API_KEY }}
+      GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+      TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+      TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+    steps:
+      - uses: actions/checkout@v4
+      - name: Cosa c'e' da fare adesso?
+        id: due
+        run: python3 scripts/due.py >> "$GITHUB_OUTPUT"
+      - uses: actions/setup-python@v5
+        if: steps.due.outputs.work == 'true'
+        with:
+          python-version: "3.12"
+          cache: pip
+      - if: steps.due.outputs.work == 'true'
+        run: pip install -q -r requirements.txt
+      - name: Raccolta dei video nuovi
+        if: steps.due.outputs.collect == 'true'
+        continue-on-error: true
+        run: python -m mp.collect
+      - name: Salva la raccolta
+        if: steps.due.outputs.collect == 'true'
+        run: |
+          scripts/save.sh "dati: raccolta $(date -u +%F_%H%M)"
+      - if: steps.due.outputs.produce != ''
+        run: command -v ffmpeg || (sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg)
+      - name: Produzione
+        if: steps.due.outputs.produce != ''
+        run: python -m mp.produce ${{ steps.due.outputs.produce }} --day ${{ steps.due.outputs.day }}
+      - name: Salva copioni e stato
+        if: always() && steps.due.outputs.produce != ''
+        run: |
+          scripts/save.sh "dati: produzione ${{ steps.due.outputs.produce }} $(date -u +%F_%H%M)"
+      - uses: actions/upload-artifact@v4
+        if: always() && steps.due.outputs.produce != ''
+        with:
+          name: ${{ steps.due.outputs.produce }}-${{ steps.due.outputs.day }}-${{ github.run_id }}
+          path: |
+            output/**
+            !output/**/_tmp*/**
+          retention-days: 14
+          if-no-files-found: ignore
