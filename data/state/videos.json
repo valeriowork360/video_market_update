@@ -77,7 +77,8 @@
   "channel": "Jeremy Lefebvre Clips",
   "title": "AMD Investors! SHOCKING Development",
   "first_seen": "2026-11-14T09:33:17.086487+00:00",
-  "last_error": "Gemini non riesce ad aprire questo video adesso (live appena finita, video riservato o rimosso)"
+  "last_error": "Gemini non riesce ad aprire questo video adesso (live appena finita, video riservato o rimosso)",
+  "tries": 1
  },
  "669xn06UES4": {
   "status": "pending",
@@ -85,7 +86,8 @@
   "channel": "Jeremy Lefebvre Clips",
   "title": "This Stock is Ready to RUN! HUGE POTENTIAL",
   "first_seen": "2026-11-14T09:33:17.370154+00:00",
-  "last_error": "Gemini non riesce ad aprire questo video adesso (live appena finita, video riservato o rimosso)"
+  "last_error": "Gemini non riesce ad aprire questo video adesso (live appena finita, video riservato o rimosso)",
+  "tries": 1
  },
  "v5_XGLTohso": {
   "status": "pending",
@@ -94,5 +96,14 @@
   "title": "AMD's BIGGEST Opportunity is HERE!",
   "first_seen": "2026-11-14T09:33:24.368250+00:00",
   "last_error": "Gemini non riesce ad aprire questo video adesso (live appena finita, video riservato o rimosso)"
+ },
+ "2AfIVvrk3iw": {
+  "status": "done",
+  "attempts": 0,
+  "channel": "Jeremy Lefebvre Clips",
+  "title": "The NEXT Stock Market WINNERS! Big UPSIDE Ahead",
+  "first_seen": "2026-11-14T15:56:46.735917+00:00",
+  "tries": 1,
+  "done_at": "2026-11-14T15:58:19.478077+00:00"
  }
 }

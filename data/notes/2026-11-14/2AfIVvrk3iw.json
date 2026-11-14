@@ -1,0 +1,65 @@
+{
+ "market_relevance": 10,
+ "scope": "global",
+ "kind": "stock pick",
+ "summary": "The speaker reviews three small-cap stocks: The Honest Company, Revolve, and Cheesecake Factory, analyzing their recent earnings reports, profitability trends, and balance sheet health. He highlights HNST as a top pick trading under a billion-dollar market cap, expecting the stock to exit 2026 above five dollars. Revolve experienced expense issues during the quarter that weighed on operating income, but net sales growth remained strong at twenty percent. Cheesecake Factory demonstrated exceptional operational efficiency with high revenue growth and controlled expenses, earning an A-plus grade. The speaker also discusses broad market sentiment, urging investors to ignore short-term fluctuations and focus on long-term accumulation.",
+ "digest_it": "L'autore analizza tre società a piccola e media capitalizzazione (HNST, Revolve, Cheesecake Factory) esaminandone i risultati trimestrali e la solidità patrimoniale. Nonostante alcune pressioni sui costi a breve termine per Revolve, le aziende mostrano fondamentali solidi e prospettive di crescita favorevoli per il lungo periodo.",
+ "author_tone": "bullish",
+ "tone_evidence": "He expresses strong enthusiasm for specific small-cap stocks and urges investors to aggressively accumulate shares during market pullbacks.",
+ "key_points": [
+  {
+   "point": "The Honest Company trades at $4.44 with a public account gain of $36,000 and strong balance sheet health.",
+   "timestamp": "00:08"
+  },
+  {
+   "point": "Revolve posted 20% net sales growth, but faced higher expenses with operating income down 9% year-over-year.",
+   "timestamp": "01:41"
+  },
+  {
+   "point": "Cheesecake Factory achieved an A-plus grade with 14% revenue growth and net income up 92%.",
+   "timestamp": "03:46"
+  },
+  {
+   "point": "Celsius and Elf outperformed major indices like the Nasdaq over a one-month chart.",
+   "timestamp": "10:31"
+  },
+  {
+   "point": "The Honest Company reported organic revenue growth of 9.2% and underlying adjusted gross margins near 49%.",
+   "timestamp": "17:48"
+  }
+ ],
+ "tickers": [
+  "HNST",
+  "RVLV",
+  "CAKE",
+  "CELH",
+  "ELF",
+  "AMD",
+  "SHOP",
+  "PLTR",
+  "ESTC",
+  "MELI"
+ ],
+ "predictions": [
+  "The Honest Company stock will exit 2026 at $5 or higher.",
+  "Revolve will resolve its short-term expense pressures and accelerate revenue growth."
+ ],
+ "catalysts": [
+  "The Honest Company Q3 2026 earnings event on November 5, 2026"
+ ],
+ "rumors": [],
+ "curiosities": [
+  "The speaker mentions holding over $242,000 in Cheesecake Factory stock as a piece of cake to own."
+ ],
+ "promo": false,
+ "language": "en",
+ "video_id": "2AfIVvrk3iw",
+ "title": "The NEXT Stock Market WINNERS! Big UPSIDE Ahead",
+ "author": "Jeremy Lefebvre Clips",
+ "url": "https://www.youtube.com/watch?v=2AfIVvrk3iw",
+ "published": "2026-11-14T11:00:01+00:00",
+ "duration_min": 20,
+ "partial": false,
+ "analysed_at": "2026-11-14T15:58:19.477875+00:00",
+ "model": "gemini-3.5-flash-lite"
+}
