@@ -1,0 +1,56 @@
+{
+ "market_relevance": 10,
+ "scope": "global",
+ "kind": "stock pick",
+ "summary": "The speaker evaluates Celsius (CELH), E.l.f. Beauty (ELF), and Estée Lauder (EL), comparing their recent performance, revenue growth, and valuation metrics. CELH shows significant divergence from broader market trends and faces the need for Nielsen volume recovery to exit a recent slump. ELF outperforms EL in short- and long-term charts, exhibiting superior revenue and earnings growth, making ELF a preferred investment over EL despite both being consumer beauty plays. The speaker uses proprietary research tools to analyze earnings transcripts and valuation multiples, emphasizing the importance of long-term fundamentals over short-term noise.",
+ "digest_it": "L'autore confronta Celsius, E.l.f. Beauty ed Estée Lauder, analizzandone i dati di bilancio e le tendenze di mercato. E.l.f. Beauty viene preferita a Estée Lauder grazie a tassi di crescita superiori, mentre Celsius necessita di un miglioramento dei volumi di vendita per confermare il proprio potenziale di recupero.",
+ "author_tone": "bullish",
+ "tone_evidence": "The speaker expresses strong confidence in the long-term potential of specific beauty stocks while downplaying short-term market corrections.",
+ "key_points": [
+  {
+   "point": "Celsius reported strong earnings beats recently, beating revenue expectations by nearly 47 million dollars after a period of poor performance.",
+   "timestamp": "00:36"
+  },
+  {
+   "point": "E.l.f. Beauty has surged 111 percent over the past six months, outperforming broader market indices significantly.",
+   "timestamp": "07:08"
+  },
+  {
+   "point": "Estée Lauder reported a net sales growth of 7 percent, significantly lower than E.l.f. Beauty's 51 percent net sales growth.",
+   "timestamp": "08:44"
+  },
+  {
+   "point": "The speaker holds a larger private portfolio position in E.l.f. Beauty compared to Estée Lauder due to better long-term growth prospects.",
+   "timestamp": "10:55"
+  }
+ ],
+ "tickers": [
+  "CELH",
+  "ELF",
+  "EL",
+  "AMD",
+  "NVDA",
+  "META",
+  "PLTR"
+ ],
+ "predictions": [
+  "Celsius stock could reach the 40s range if upcoming Nielsen data shows continued brand improvement.",
+  "E.l.f. Beauty will continue to outperform Estée Lauder in revenue and earnings growth over the next five years."
+ ],
+ "catalysts": [
+  "Upcoming Nielsen data releases for Celsius brand volume metrics."
+ ],
+ "rumors": [],
+ "curiosities": [],
+ "promo": true,
+ "language": "en",
+ "video_id": "669xn06UES4",
+ "title": "This Stock is Ready to RUN! HUGE POTENTIAL",
+ "author": "Jeremy Lefebvre Clips",
+ "url": "https://www.youtube.com/watch?v=669xn06UES4",
+ "published": "2026-11-14T19:00:24+00:00",
+ "duration_min": 27,
+ "partial": false,
+ "analysed_at": "2026-11-14T20:26:07.223651+00:00",
+ "model": "gemini-3.5-flash-lite"
+}

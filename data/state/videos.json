@@ -81,13 +81,13 @@
   "tries": 1
  },
  "669xn06UES4": {
-  "status": "pending",
+  "status": "done",
   "attempts": 1,
   "channel": "Jeremy Lefebvre Clips",
   "title": "This Stock is Ready to RUN! HUGE POTENTIAL",
   "first_seen": "2026-11-14T09:33:17.370154+00:00",
-  "last_error": "Gemini non riesce ad aprire questo video adesso (live appena finita, video riservato o rimosso)",
-  "tries": 1
+  "tries": 2,
+  "done_at": "2026-11-14T20:26:07.223918+00:00"
  },
  "v5_XGLTohso": {
   "status": "pending",
@@ -95,7 +95,8 @@
   "channel": "Jeremy Lefebvre Clips",
   "title": "AMD's BIGGEST Opportunity is HERE!",
   "first_seen": "2026-11-14T09:33:24.368250+00:00",
-  "last_error": "Gemini non riesce ad aprire questo video adesso (live appena finita, video riservato o rimosso)"
+  "last_error": "Gemini non riesce ad aprire questo video adesso (live appena finita, video riservato o rimosso)",
+  "tries": 1
  },
  "2AfIVvrk3iw": {
   "status": "done",
@@ -105,5 +106,14 @@
   "first_seen": "2026-11-14T15:56:46.735917+00:00",
   "tries": 1,
   "done_at": "2026-11-14T15:58:19.478077+00:00"
+ },
+ "m3tYD0I-cDQ": {
+  "status": "pending",
+  "attempts": 0,
+  "channel": "Jeremy Lefebvre Clips",
+  "title": "My Top #2 Dividend Stocks! EASY MONEY",
+  "first_seen": "2026-11-14T20:25:43.294286+00:00",
+  "tries": 1,
+  "last_error": "Gemini non riesce ad aprire questo video adesso (live appena finita, video riservato o rimosso)"
  }
 }
