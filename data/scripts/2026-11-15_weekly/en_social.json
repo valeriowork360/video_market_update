@@ -1,0 +1,48 @@
+{
+ "shorts": [],
+ "carousels": [
+  {
+   "topic": "Weekly Market Recap and Analysis",
+   "caption": "Wall Street faced leadership drama at Nvidia, surging bond yields, and sharp crypto drawdowns this week. Despite headline index gains, analysts urge caution over drying volume. Which market will you be watching closest next week?",
+   "sentiment": "neutral",
+   "hashtags": [
+    "#MarketPulse",
+    "#StockMarket",
+    "#Nvidia",
+    "#Bitcoin",
+    "#BondYields",
+    "#Investing",
+    "#Economy",
+    "#WallStreet",
+    "#CryptoNews"
+   ],
+   "slides": [
+    {
+     "title": "Turbulent Week on Wall Street",
+     "body": "Tech leadership shocks, spiking Treasury yields, and crypto selloffs challenged markets this week. Here is what happened."
+    },
+    {
+     "title": "Nvidia Leadership Shaken by Uncertainty",
+     "body": "Rumors of Jensen Huang departing sparked turmoil. Cautious creators like Jeremy Lefebvre and MindTheChart highlighted steep drawdowns ahead of critical earnings."
+    },
+    {
+     "title": "Rising Yields and Thin Volume",
+     "body": "The 10-year Treasury yield jumped to about 5.2 percent. Analysts Jason and Michael Pizzino warned that equity gains lack institutional volume support."
+    },
+    {
+     "title": "Bitcoin Tumbles Double Digits",
+     "body": "Bitcoin dropped nearly 12 percent to about 64,952 dollars alongside ETF outflows. Analyst 0xTalks noted sticky inflation and possible rate hikes."
+    },
+    {
+     "title": "Small Caps Defy Market Trends",
+     "body": "While tech faltered, creator Jeremy Lefebvre remained bullish on select names like Cheesecake Factory and E.l.f. Beauty following strong earnings growth."
+    },
+    {
+     "title": "Prepare for High Volatility Ahead",
+     "body": "With Fed speeches, FOMC minutes, and key earnings ahead, volatility will remain elevated. Follow Market Pulse to stay ahead every day."
+    }
+   ]
+  }
+ ],
+ "model": "gemini-3.8-flash"
+}

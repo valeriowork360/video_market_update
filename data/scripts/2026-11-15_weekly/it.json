@@ -1,0 +1,208 @@
+{
+ "title": "Nvidia nel caos, Bitcoin scivola e tassi al 5%: il recap settimanale",
+ "description": "Ripercorriamo i sette giorni più intensi del mese: le indiscrezioni sui vertici di Nvidia, il pesante ritracciamento di Bitcoin e il rialzo continuo dei rendimenti obbligazionari.\nAnalizziamo le divergenze sui volumi di Wall Street e l'attesa per l'IPO di Anthropic.\nFonti e opinioni: Jason Pizzino, Michael Pizzino, MindTheChart, 0xTalks, Jeremy Lefebvre, Marco Casario.",
+ "tags": [
+  "mercati finanziari",
+  "recap settimanale",
+  "nvidia",
+  "bitcoin",
+  "fed",
+  "wall street",
+  "anthropic",
+  "tassi di interesse",
+  "sp500",
+  "economia"
+ ],
+ "thumbnail_text": "TERREMOTO SUI MERCATI",
+ "mood": "urgent",
+ "segments": [
+  {
+   "id": "s1",
+   "kind": "hook",
+   "heading": "Terremoto Nvidia scuote i mercati",
+   "narration": "Il clamoroso terremoto ai vertici di Nvidia ha scosso le fondamenta di Wall Street negli ultimi sette giorni. Mentre il settore tecnologico vacilla, Bitcoin subisce una pesante battuta d'arresto e i rendimenti obbligazionari americani schizzano oltre la soglia del cinque per cento.",
+   "bullets": [
+    "Nvidia travolto dalle polemiche sui vertici",
+    "Bitcoin scivola verso nuovi minimi",
+    "Rendimenti obbligazionari sopra il 5%"
+   ],
+   "ticker": "NVDA",
+   "sentiment": "bearish",
+   "sources": [
+    "Investing.com",
+    "CNBC"
+   ]
+  },
+  {
+   "id": "s2",
+   "kind": "market",
+   "heading": "Il quadro settimanale dei mercati",
+   "narration": "Nonostante la tensione di fine settimana, gli indici azionari chiudono un'ottava contrastata ma formalmente positiva. A Wall Street l'indice Standard and Poor's 500 si attesta a circa 7.562 punti, con un progresso settimanale del due virgola cinque per cento, sebbene venerdì abbia perso lo zero virgola quattro per cento. Il Nasdaq Composite chiude a circa 25.136 punti, in calo dello zero virgola nove per cento nell'ultima seduta ma in rialzo del due virgola tre per cento sui cinque giorni. In Europa, Piazza Affari si distingue con il FTSE MIB in progresso del tre virgola sei per cento a circa 51.859 punti. Il vero campanello d'allarme arriva però dal reddito fisso: il rendimento del decennale statunitense sale al cinque virgola due per cento, spingendo al ribasso l'oro a circa 3.886 dollari l'oncia.",
+   "bullets": [
+    "S&P 500 a 7.562 punti",
+    "Nasdaq chiude a 25.136 punti",
+    "FTSE MIB guadagna il 3,6%",
+    "Decennale USA al 5,2%"
+   ],
+   "ticker": "^GSPC",
+   "sentiment": "neutral",
+   "sources": [
+    "Yahoo Finance"
+   ]
+  },
+  {
+   "id": "s3",
+   "kind": "topic",
+   "heading": "La crisi di leadership in Nvidia",
+   "narration": "La vicenda societaria di Nvidia ha catalizzato l'attenzione degli investitori globali. Le indiscrezioni rilanciate dalla stampa internazionale, tra cui il Financial Times, parlano di colloqui informali per gestire un clamoroso ritorno o una transizione del fondatore Jensen Huang, mentre figure istituzionali come Scott Bessent hanno invocato un profondo rimpasto del vertice e la nomina di una guida esterna. Sullo sfondo pesano i crescenti controlli governativi sulle triangolazioni dei chip verso la Cina. Gli analisti indipendenti hanno espresso forte cautela. Il creatore MindTheChart ha evidenziato come le recenti sedute abbiano fatto precipitare il titolo di circa il sette per cento in un solo giorno, indicando un'area di possibile supporto attorno a centocinquantatré dollari per azione. Dal canto suo, Jeremy Lefebvre ha spiegato che le piattaforme previsionali assegnano ormai una probabilità del quarantacinque per cento all'uscita definitiva di Huang prima del 2028, suggerendo agli investitori di guardare a competitor come Advanced Micro Devices per coprirsi dai rischi di valutazione. Anche il canale 0xTalks ha sottolineato come i multipli di Nvidia siano scesi sui livelli più bassi degli ultimi anni rispetto agli utili attesi, ma l'incertezza politica resta un freno insidioso per l'intero comparto dei semiconduttori.",
+   "bullets": [
+    "Pressioni per un cambio di vertice",
+    "Sospetti su export chip verso Cina",
+    "MindTheChart segnala supporto a 153",
+    "Jeremy Lefebvre guarda ad AMD"
+   ],
+   "ticker": "NVDA",
+   "sentiment": "bearish",
+   "sources": [
+    "Investing.com",
+    "CNBC",
+    "MindTheChart",
+    "Jeremy Lefebvre Clips",
+    "0xTalks"
+   ]
+  },
+  {
+   "id": "s4",
+   "kind": "topic",
+   "heading": "Bitcoin affonda sotto i 65.000",
+   "narration": "Settimana di forti vendite per il settore delle criptovalute, che vede Bitcoin scivolare a circa 64.952 dollari, registrando una flessione di quasi il dodici per cento nell'arco di cinque giorni. Anche Ethereum accusa il colpo, arretrando di circa l'undici per cento fino a 1.826 dollari. Gli esperti del settore concordano su un atteggiamento estremamente difensivo. Jason Pizzino ha fatto notare che la rottura al ribasso dei settantacinquemila dollari ha violato importanti medie mobili e il livello di ritracciamento del cinquanta per cento, evidenziando una preoccupante carenza di volumi in acquisto sui principali mercati regolamentati. Questa lettura è condivisa da Michael Pizzino, secondo cui la mancata tenuta della fascia compresa tra settanta e settantaduemila dollari rischia di prolungare la correzione verso quota sessantasettemila dollari. Nel frattempo MindTheChart ha riportato come i fondi negoziati in borsa negli Stati Uniti abbiano subito deflussi netti per circa trecento milioni di dollari, innescando una spirale di liquidazioni a catena. Infine, secondo l'analisi di 0xTalks, il mercato si trova immerso in una struttura tecnica di gamma negativa che alimenta repentini sbalzi di prezzo. L'autore ha chiuso le proprie coperture ribassiste ma invita alla massima prudenza, ipotizzando una fase di congestione prolungata prima che il ciclo rialzista possa riprendere davvero.",
+   "bullets": [
+    "Bitcoin cede quasi il 12% settimanale",
+    "Jason Pizzino nota assenza di volumi",
+    "Deflussi per 300 milioni dagli ETF",
+    "0xTalks segnala gamma negativa"
+   ],
+   "ticker": "BTC-USD",
+   "sentiment": "bearish",
+   "sources": [
+    "Yahoo Finance",
+    "Jason Pizzino",
+    "Michael Pizzino",
+    "MindTheChart",
+    "0xTalks"
+   ]
+  },
+  {
+   "id": "s5",
+   "kind": "topic",
+   "heading": "Rendimenti al 5% e rebus Federal Reserve",
+   "narration": "L'improvvisa fiammata del rendimento decennale americano oltre la soglia del cinque per cento ha riacceso i dubbi sulla traiettoria della politica monetaria. Le ultime rilevazioni sull'inflazione e sui prezzi alla produzione hanno mostrato spinte persistenti che non consentono banche centrali accomodanti. Il commentatore 0xTalks ha evidenziato con tono guardingo che gli operatori stanno ora incorporando una probabilità elevata di un ulteriore ritocco al rialzo dei tassi di venticinque punti base nella riunione della Federal Reserve del prossimo mese. Questo contesto penalizza i beni rifugio tradizionali come l'oro, sceso a circa 3.886 dollari l'oncia. Diversi investitori istituzionali, tra cui l'esperto obbligazionario Jeffrey Gundlach, hanno ribadito di non voler inseguire le azioni mentre i rendimenti garantiti sui titoli di Stato restano così elevati. Sul fronte della gestione patrimoniale personale, Marco Casario ha offerto una prospettiva cauta, ricordando al pubblico italiano come la liquidità non debba essere quantificata semplicemente in euro sul conto corrente, ma in mesi effettivi di copertura delle spese vive. Secondo Casario, lasciare il denaro infruttifero comporta una perdita secca di potere d'acquisto dovuta all'inflazione, mentre strumenti a breve termine consentono di proteggere il cuscinetto di emergenza senza assumere rischi eccessivi in un contesto macroeconomico ancora instabile.",
+   "bullets": [
+    "Decennale USA oltre il 5,1%",
+    "Timori per un rialzo tassi a dicembre",
+    "Gundlach cauto sull'azionario",
+    "Marco Casario sul cuscinetto di liquidità"
+   ],
+   "ticker": "^TNX",
+   "sentiment": "bearish",
+   "sources": [
+    "Yahoo Finance",
+    "0xTalks",
+    "Marco Casario"
+   ]
+  },
+  {
+   "id": "s6",
+   "kind": "topic",
+   "heading": "Rally azionario senza volumi",
+   "narration": "Un aspetto centrale analizzato dai nostri autori riguarda la divergenza tecnica tra l'azione dei prezzi e i volumi di scambio. Michael Pizzino e Jason Pizzino hanno entrambi lanciato un avviso di cautela: le recenti giornate positive su Standard and Poor's 500 e Nasdaq si sono sviluppate su volumi in costante contrazione. Quando i listini salgono senza il supporto degli scambi istituzionali, il rischio di una correzione improvvisa rimane elevato. Secondo Jason Pizzino, l'indice principale necessita di conferme sopra i 7.600 punti prima di sancire un nuovo percorso rialzista duraturo. Di tutt'altro avviso è invece Jeremy Lefebvre, che mantiene un tono decisamente ottimista puntando l'attenzione sulla rotazione verso società a minore capitalizzazione e titoli dei consumi. Lefebvre ha sottolineato la brillante salute finanziaria e la crescita di realtà come The Honest Company, Cheesecake Factory e Revolve, sostenendo che molti titoli battuti dalle vendite offrano oggi valutazioni straordinarie per chi ragiona sul lungo periodo. Inoltre, l'autore ha mostrato come marchi emergenti come Elf Beauty e Celsius abbiano continuato a sovraperformare i grandi nomi della tecnologia. Questa netta contrapposizione mette in luce due visioni divergenti: la prudenza dei graficisti macro e l'aggressività degli analisti fondamentali concentrati sui singoli bilanci.",
+   "bullets": [
+    "Pizzino avverte sul calo dei volumi",
+    "Rischio trappola sui rimbalzi tecnici",
+    "Jeremy Lefebvre ottimista sulle small cap",
+    "Rotazione verso consumi e bilanci solidi"
+   ],
+   "ticker": "^GSPC",
+   "sentiment": "neutral",
+   "sources": [
+    "Jason Pizzino",
+    "Michael Pizzino",
+    "Jeremy Lefebvre Clips"
+   ]
+  },
+  {
+   "id": "s7",
+   "kind": "topic",
+   "heading": "Attesa per Anthropic e caos aereo",
+   "narration": "La settimana è stata scandita anche da grandi novità sul fronte delle nuove quotazioni e delle infrastrutture americane. Cresce l'attesa per l'approdo a Wall Street di Anthropic, la startup di intelligenza artificiale valutata sul mercato privato circa millequattrocento miliardi di dollari. L'analista 0xTalks ha definito questa valutazione particolarmente esigente e rischiosa, ricordando come storicamente le quotazioni miliardarie possano drenare liquidità dagli altri titoli tecnologici, richiamando alla memoria quanto accaduto lo scorso giugno con l'operazione SpaceX. Parallelamente, il settore dei trasporti e dell'aviazione commerciale ha vissuto ore drammatiche a causa di una paralisi nazionale dei cieli ordinata dalla Federal Aviation Administration. Il blocco improvviso delle partenze, causato dal guasto a un router di rete gestito da L3Harris in Arkansas, ha provocato la cancellazione di oltre seimilaquattrocento voli e ritardi a catena che hanno richiesto diversi giorni per rientrare nella normalità. L'incidente ha innescato un duro scontro politico a Washington, con Donald Trump che ha puntato il dito sull'obsolescenza dei sistemi ereditati dalle precedenti amministrazioni, mentre il Dipartimento dei Trasporti sollecita nuovi fondi per ammodernare l'intera infrastruttura informatica del paese.",
+   "bullets": [
+    "IPO Anthropic valutata 1,4 trilioni",
+    "0xTalks teme drenaggio di liquidità",
+    "Guasto FAA blocca oltre 6.400 voli",
+    "Tensioni politiche sull'infrastruttura"
+   ],
+   "ticker": null,
+   "sentiment": "neutral",
+   "sources": [
+    "0xTalks",
+    "CNBC",
+    "Investing.com",
+    "MarketWatch"
+   ]
+  },
+  {
+   "id": "s8",
+   "kind": "ahead",
+   "heading": "Cosa seguire nella nuova settimana",
+   "narration": "I prossimi giorni saranno densi di appuntamenti macroeconomici cruciali per testare la tenuta del mercato. Si parte lunedì 16 novembre alle 18:00 ora italiana con l'atteso intervento del presidente designato della Federal Reserve Warsh. Martedì 17 novembre alle 14:30 l'attenzione si sposterà sulle vendite al dettaglio statunitensi, stimate in crescita mensile dello zero virgola due per cento. Mercoledì 18 novembre spazio all'Europa con la presentazione del rapporto di stabilità finanziaria della Banca Centrale Europea alle 10:00 e il discorso di Christine Lagarde alle 15:25, prima della pubblicazione dei verbali del comitato federale della Federal Reserve alle 20:00. Giovedì 19 novembre alle 14:30 conosceremo l'indice manifatturiero Philly Fed e le richieste settimanali di sussidi di disoccupazione, attese a 199.000 unità. La settimana si chiuderà venerdì 20 novembre alle 16:00 con la fiducia dei consumatori dell'Università del Michigan e le stime di inflazione.",
+   "bullets": [
+    "Lunedì discorso Fed Warsh",
+    "Martedì vendite dettaglio USA",
+    "Mercoledì verbali del FOMC",
+    "Giovedì sussidi e Philly Fed"
+   ],
+   "ticker": null,
+   "sentiment": "neutral",
+   "sources": [
+    "Yahoo Finance"
+   ]
+  },
+  {
+   "id": "s9",
+   "kind": "curious",
+   "heading": "La bizzarra corsa alle pecore a Shanghai",
+   "narration": "Chiudiamo con una singolare anomalia che arriva dai mercati cinesi e segnalata dalla testata MarketWatch. Nelle ultime sedute gli investitori locali si sono gettati all'acquisto frenetico di azioni che hanno una sola cosa in comune: il nome societario contiene o assomiglia alla parola pecora. Senza badare a bilanci, fatturati o modelli di business, produttori di pesce surgelato, aziende di illuminazione e fabbriche di elettrodomestici hanno visto volare le proprie quotazioni. Il motivo di questa eccentrica speculazione risiede nell'avvicinarsi del Capodanno Cinese e dell'imminente Anno della Pecora, considerato dagli scaramantici un auspicio di prosperità. Una prova tangibile di come la psicologia di massa possa talvolta dominare la razionalità finanziaria.",
+   "bullets": [
+    "Rally bizzarro sui mercati cinesi",
+    "Boom per i titoli con la parola pecora",
+    "Speculazione per il nuovo anno lunare",
+    "Psicologia irrazionale alla ribalta"
+   ],
+   "ticker": null,
+   "sentiment": "neutral",
+   "sources": [
+    "MarketWatch"
+   ]
+  },
+  {
+   "id": "s10",
+   "kind": "outro",
+   "heading": "Iscriviti a Market Pulse",
+   "narration": "Questi contenuti hanno uno scopo puramente informativo e non costituiscono consulenza finanziaria. Iscrivetevi al canale e attivate le notifiche per non perdere i nostri prossimi approfondimenti quotidiani.",
+   "bullets": [
+    "Non è consulenza finanziaria",
+    "Iscriviti al canale",
+    "Attiva la campanella"
+   ],
+   "ticker": null,
+   "sentiment": "neutral",
+   "sources": [
+    "Yahoo Finance"
+   ]
+  }
+ ],
+ "words": 1416,
+ "model": "gemini-3.8-flash",
+ "n_notes": 11,
+ "n_news": 372
+}

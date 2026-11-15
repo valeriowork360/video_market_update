@@ -1,0 +1,202 @@
+{
+ "title": "Nvidia Turmoil, Yield Spike, and Crypto Selloff: Weekly Recap",
+ "description": "A tumultuous week on Wall Street saw Nvidia shaken by executive turmoil, Treasury yields march past five percent, and Bitcoin surrender major support levels. We break down the diverging signals between equity indices and thin market volume, while highlighting standout earnings among select small caps.\nContent references analysis from Jason Pizzino, Michael Pizzino, MindTheChart, 0xTalks, and Jeremy Lefebvre.",
+ "tags": [
+  "stock market weekly recap",
+  "nvidia stock",
+  "bitcoin crash",
+  "treasury yields",
+  "sp 500 analysis",
+  "anthropic ipo",
+  "small cap stocks",
+  "market pulse",
+  "fed interest rates",
+  "tech stocks"
+ ],
+ "thumbnail_text": "Tech Shaken Yields Surge",
+ "mood": "urgent",
+ "segments": [
+  {
+   "id": "s1",
+   "kind": "hook",
+   "heading": "Market Shockwaves Shake Wall Street",
+   "narration": "A leadership earthquake at Nvidia just threw the entire artificial intelligence trade into chaos. Meanwhile, surging bond yields rattled equities, and Bitcoin suffered double digit weekly losses. As major indices mask troubling underlying volume, Wall Street faces a decisive crossroads heading into mid November.",
+   "bullets": [
+    "Nvidia leadership shock rocks tech",
+    "Treasury yields climb past five percent",
+    "Bitcoin suffers double digit weekly drop"
+   ],
+   "ticker": null,
+   "sentiment": "bearish",
+   "sources": [
+    "Yahoo Finance",
+    "CNBC"
+   ]
+  },
+  {
+   "id": "s2",
+   "kind": "market",
+   "heading": "Weekly Market Performance Overview",
+   "narration": "Despite headline gains over the past five days, markets closed the week on a fragile note. The S and P 500 slipped zero point four percent on Friday to about 7,562 points, holding a five-day gain of two point five percent. The Nasdaq Composite dropped zero point nine percent to settle near 25,136 points, while the Dow Jones inched up zero point one percent to roughly 52,348 points. Fixed income markets signaled renewed unease, with the United States 10-year Treasury yield jumping to about five point two percent. At the same time, gold retreated over four point six percent across the week to roughly 3,886 dollars, pressured by persistent dollar strength.",
+   "bullets": [
+    "S and P 500 closes near 7562",
+    "Nasdaq Composite slips to 25136",
+    "Ten year yield reaches 5.2 percent",
+    "Gold slides four point six percent"
+   ],
+   "ticker": "^GSPC",
+   "sentiment": "neutral",
+   "sources": [
+    "Yahoo Finance"
+   ]
+  },
+  {
+   "id": "s3",
+   "kind": "topic",
+   "heading": "Nvidia Shaken by Leadership Crisis",
+   "narration": "Nvidia spent the week at the center of an unprecedented storm. Speculation intensified after reports emerged regarding the departure of chief executive Jensen Huang, prompting prominent figures like Scott Bessent to call for a dramatic leadership shakeup and an independent outside executive. At the same time, rumors circulated from the Financial Times that Huang has been discussing a potential comeback with allies, while regulatory scrutiny mounted over suspected semiconductor diversions to China. Market creator Jeremy Lefebvre urged caution, highlighting that prediction markets now price a forty-five percent probability of Huang exiting before 2028, and warning that severe sentiment shifts could trigger steep drawdowns. MindTheChart also maintained a cautious stance, observing an overnight plunge of roughly seven percent and pointing to support levels near one hundred fifty-three dollars. Investors now brace for Tuesday, facing what analysts describe as the most critical earnings call in Nvidia history.",
+   "bullets": [
+    "Calls mount for outside leadership",
+    "Prediction markets price CEO departure risk",
+    "Stock tests key support levels",
+    "Critical earnings report looms Tuesday"
+   ],
+   "ticker": "NVDA",
+   "sentiment": "bearish",
+   "sources": [
+    "Investing.com",
+    "CNBC",
+    "MarketWatch",
+    "MindTheChart",
+    "Jeremy Lefebvre Clips"
+   ]
+  },
+  {
+   "id": "s4",
+   "kind": "topic",
+   "heading": "Stocks Rally on Thin Ice",
+   "narration": "While headline equity indices finished the week higher, technical analysts warned that the foundation looks dangerously hollow. Both Jason and Michael Pizzino maintained a distinctly cautious tone, pointing out a stark divergence between rising stock prices and dwindling trading volume. Michael Pizzino emphasized that recent upward attempts lack strong institutional volume backing, leaving equities vulnerable to aggressive pullbacks. Jason Pizzino noted that the S and P 500 must hold weekly closes above 7,600 points on sustained volume to confirm a durable base, warning that historical cycles after major tops can lead to multi-year consolidation phases. Adding to the tension, bond market veteran Jeffrey Gundlach issued warnings against chasing equity rallies while the 10-year Treasury yield hovers near five point two percent. With the Cboe Volatility Index surging earlier in the week, creators agreed that disciplined patience remains far wiser than chasing unconfirmed breakouts.",
+   "bullets": [
+    "Rallies show declining trading volume",
+    "Resistance holds near 7600 points",
+    "Ten year yields challenge stock valuations",
+    "Analysts warn against chasing breakouts"
+   ],
+   "ticker": "^GSPC",
+   "sentiment": "bearish",
+   "sources": [
+    "Yahoo Finance",
+    "Jason Pizzino",
+    "Michael Pizzino"
+   ]
+  },
+  {
+   "id": "s5",
+   "kind": "topic",
+   "heading": "Bitcoin Slides Under Heavy Selling",
+   "narration": "Cryptocurrency markets absorbed severe punishment over the past seven days, breaking key support zones. Bitcoin fell nearly twelve percent across the week to trade around 64,952 dollars, while Ethereum tumbled roughly eleven percent to near 1,826 dollars. Analyst 0xTalks adopted a guarded outlook, pointing out that digital assets remain trapped in a wide negative gamma regime where sudden liquidity cascades trigger amplified volatility. He noted that recent consumer and producer price reports confirmed sticky inflation, prompting traders to price a high probability of a Federal Reserve rate hike in December. Creator MindTheChart expressed equal caution after spot Bitcoin exchange-traded funds recorded roughly 300 million dollars in net outflows. MindTheChart reduced crypto exposure, expecting extended sideways consolidation rather than immediate recovery. Jason Pizzino agreed, emphasizing that low exchange volume signals an absence of buyers, leaving Bitcoin vulnerable to retesting lower moving averages.",
+   "bullets": [
+    "Bitcoin slides twelve percent weekly",
+    "Spot ETF outflows hit 300 million",
+    "December rate hike fears grow",
+    "Trading volume remains notably weak"
+   ],
+   "ticker": "BTC-USD",
+   "sentiment": "bearish",
+   "sources": [
+    "Yahoo Finance",
+    "MindTheChart",
+    "Jason Pizzino",
+    "0xTalks"
+   ]
+  },
+  {
+   "id": "s6",
+   "kind": "topic",
+   "heading": "Small Caps Show Surprising Resilience",
+   "narration": "While mega-cap technology faltered, a stark divergence emerged across consumer brands and select small caps. Creator Jeremy Lefebvre struck a decisively bullish tone on under-the-radar equities, urging investors to look past broader market volatility. Lefebvre highlighted The Honest Company following solid organic revenue growth of over nine percent and expanding profit margins. He also awarded an exceptional rating to Cheesecake Factory, praising its fourteen percent revenue expansion and ninety-two percent surge in net income. In the consumer beauty space, Lefebvre contrasted E.l.f. Beauty with legacy player Estée Lauder, noting that E.l.f. Beauty delivered fifty-one percent sales growth compared to just seven percent for Estée Lauder. While technical analysts remained defensive on major indices, Lefebvre argued that disciplined accumulation of profitable small-cap growth businesses offers compelling upside, underscoring that individual stock picking can thrive even when index benchmarks face turbulent macro headwinds.",
+   "bullets": [
+    "Small cap earnings beat expectations",
+    "Cheesecake Factory profits jump sharply",
+    "Elf Beauty surges on strong demand",
+    "Stock picking diverges from indices"
+   ],
+   "ticker": null,
+   "sentiment": "bullish",
+   "sources": [
+    "Jeremy Lefebvre Clips"
+   ]
+  },
+  {
+   "id": "s7",
+   "kind": "topic",
+   "heading": "Aviation Chaos Tests Travel Sector",
+   "narration": "Outside corporate boardrooms, a massive technical breakdown disrupted national infrastructure and highlighted vulnerabilities in older communications hardware. A nationwide Federal Aviation Administration ground stop halted commercial flights across the United States for over four hours, causing cancellations to surpass 6,400 flights and stranding thousands of travelers into the weekend. Transportation Secretary Sean Duffy attributed the failure to an outdated communication router in southern Arkansas managed by defense contractor L3Harris Technologies. The incident sparked swift political reactions, with former President Donald Trump blaming past administrations and demanding immediate Congressional funding for air traffic modernization. Analysts on Wall Street tracked the development closely, as airline schedules scrambled to recover and shares of aerospace and defense contractors faced fresh scrutiny. Coming alongside leadership instability at leading tech firms, the disruption reinforced creator warnings that unexpected operational shocks can swiftly rattle consumer and market confidence.",
+   "bullets": [
+    "Nationwide FAA ground stop hits travel",
+    "Over 6400 flights cancelled nationwide",
+    "L3Harris managed router caused outage",
+    "Infrastructure spending debate reignites"
+   ],
+   "ticker": null,
+   "sentiment": "bearish",
+   "sources": [
+    "CNBC",
+    "Investing.com"
+   ]
+  },
+  {
+   "id": "s8",
+   "kind": "ahead",
+   "heading": "Key Catalysts for Next Week",
+   "narration": "The coming week brings major catalysts that could dictate market direction. On Monday at 12:00 PM Eastern Time, Federal Reserve Chairman Kevin Warsh delivers a speech that traders will parse for interest rate signals. Retail sales data arrives Tuesday at 8:30 AM Eastern Time, offering fresh insight into consumer resilience, followed Wednesday afternoon by the Federal Open Market Committee meeting minutes at 2:00 PM Eastern Time. European Central Bank President Christine Lagarde speaks across several sessions, while the massive Anthropic initial public offering lands on Thursday alongside Nvidia earnings fallout. Investors should prepare for sharp volatility across both equity and currency markets.",
+   "bullets": [
+    "Fed Chairman Warsh speaks Monday noon",
+    "Retail sales data arrives Tuesday morning",
+    "FOMC minutes published Wednesday afternoon",
+    "Anthropic public offering debuts Thursday"
+   ],
+   "ticker": null,
+   "sentiment": "neutral",
+   "sources": [
+    "Yahoo Finance",
+    "0xTalks"
+   ]
+  },
+  {
+   "id": "s9",
+   "kind": "curious",
+   "heading": "Sheep Names Spark Chinese Rally",
+   "narration": "In an unusual market anomaly, Chinese retail investors sparked a bizarre trading frenzy this week by bidding up companies whose names phonetically resemble sheep. Ahead of the upcoming Year of the Sheep on the lunar calendar, shares of random fish processors, household appliance makers, and lighting equipment manufacturers recorded dramatic gains. Fundamental earnings and corporate balance sheets played virtually no role in the sudden rally, as retail traders chased sound-alike ticker names in search of symbolic luck. The phenomenon provided Wall Street observers with a vivid reminder of how superstitious enthusiasm and speculative retail psychology can decouple asset prices entirely from underlying reality.",
+   "bullets": [
+    "Phonetic wordplay drives Chinese buying",
+    "Lunar calendar triggers speculative wave",
+    "Unrelated manufacturing stocks soar suddenly"
+   ],
+   "ticker": null,
+   "sentiment": "neutral",
+   "sources": [
+    "MarketWatch"
+   ]
+  },
+  {
+   "id": "s10",
+   "kind": "outro",
+   "heading": "Market Pulse Final Thoughts",
+   "narration": "This broadcast is for informational purposes only and does not constitute financial advice. Hit subscribe and tap the notification bell to stay ahead of volatile markets every single day with Market Pulse.",
+   "bullets": [
+    "Informational purposes only",
+    "Subscribe to Market Pulse daily"
+   ],
+   "ticker": null,
+   "sentiment": "neutral",
+   "sources": [
+    "Market Pulse"
+   ]
+  }
+ ],
+ "words": 1103,
+ "model": "gemini-3.8-flash",
+ "n_notes": 10,
+ "n_news": 297
+}
