@@ -1,0 +1,293 @@
+{
+ "shorts": [
+  {
+   "title": "Nvidia trema dopo l'uscita del fondatore",
+   "hook": "Nvidia ha perso il trenta per cento.",
+   "narration": "Nvidia ha perso il trenta per cento nell'ultimo mese e ora affronta il momento più delicato della sua storia recente. Gli investitori attendono i primi conti trimestrali dopo l'addio del fondatore Jensen Huang, mentre pesano dubbi sulla governance e indagini interne su Megaspeed. Come segnalano Yahoo Finance e CNBC, all'orizzonte c'è anche il debutto in borsa di Anthropic, che rischia di sottrarre liquidità ai colossi dei semiconduttori, proprio come fece SpaceX la scorsa estate. Il settore dell'intelligenza artificiale cerca una svolta per difendere un rally che comincia a mostrare crepe evidenti.",
+   "ticker": "NVDA",
+   "sentiment": "bearish",
+   "sources": [
+    "Yahoo Finance",
+    "CNBC",
+    "MarketWatch"
+   ],
+   "caption": "Trimestrale decisiva per Nvidia dopo l'addio di Jensen Huang e l'arrivo dell'IPO di Anthropic. Il rally dell'intelligenza artificiale rischia di frenare.",
+   "hashtags": [
+    "#Nvidia",
+    "#IntelligenzaArtificiale",
+    "#WallStreet",
+    "#Borsa",
+    "#MercatiFinanziari",
+    "#Tecnologia"
+   ]
+  },
+  {
+   "title": "Criptovalute tra vendite e rimbalzo debole",
+   "hook": "Il Bitcoin prova a risalire dopo il crollo.",
+   "narration": "Il Bitcoin prova a risalire dopo il crollo settimanale, muovendosi attorno a quota 65.300 dollari con un recupero dell'uno virgola otto per cento. Il rimbalzo tuttavia non basta a cancellare una flessione di oltre l'undici per cento nelle ultime cinque sedute. Anche Ethereum soffre vicino a 1.821 dollari, appesantito da perdite simili. Secondo fonti come CoinDesk e ANSA Economia, gli addetti ai lavori restano scettici su possibili aperture normative negli Stati Uniti, mentre il deflusso di capitali colpisce duramente anche asset come XRP in una fase di spiccata prudenza.",
+   "ticker": "BTC-USD",
+   "sentiment": "bearish",
+   "sources": [
+    "ANSA Economia",
+    "CoinDesk",
+    "Yahoo Finance"
+   ],
+   "caption": "Settimana pesante per il comparto cripto: Bitcoin ed Ethereum perdono oltre l'11%. Rimbalzo fragile e investitori molto cauti.",
+   "hashtags": [
+    "#Bitcoin",
+    "#Ethereum",
+    "#Criptovalute",
+    "#Crypto",
+    "#Trading",
+    "#Mercati"
+   ]
+  },
+  {
+   "title": "Consumi in ascesa contro i colossi tech",
+   "hook": "Queste aziende battono i giganti del mercato.",
+   "narration": "Queste aziende battono i giganti del mercato puntando su numeri eccezionali nei consumi. L'analista Jeremy Lefebvre si mostra molto ottimista sul potenziale di marchi emergenti come Elf Beauty, le cui vendite sono aumentate del cinquantuno per cento, staccando nettamente la concorrenza tradizionale ferma al sette per cento. Il titolo ha segnato un balzo del centoundici per cento in soli sei mesi. Lefebvre promuove anche Celsius, capace di battere le stime sui ricavi per quasi quarantasette milioni di dollari. Guardare ai fondamentali societari di lungo termine può offrire certezze superiori rispetto alle turbolenze generali.",
+   "ticker": "ELF",
+   "sentiment": "bullish",
+   "sources": [
+    "Jeremy Lefebvre Clips"
+   ],
+   "caption": "Mentre il settore tecnologico frena, i titoli dei consumi mostrano fondamentali solidi. Jeremy Lefebvre evidenzia la crescita record di Elf Beauty e Celsius.",
+   "hashtags": [
+    "#Investimenti",
+    "#Azioni",
+    "#WallStreet",
+    "#ElfBeauty",
+    "#Celsius",
+    "#FinanzaPersonale"
+   ]
+  },
+  {
+   "title": "Migliaia di voli cancellati per un solo router",
+   "hook": "Un singolo router ha bloccato gli aeroporti.",
+   "narration": "Un singolo router ha bloccato gli aeroporti americani, provocando la cancellazione di oltre seimilaquattrocento voli. Come riportato da CNBC e dal Wall Street Journal, lo stop totale è stato imposto d'urgenza dalle autorità federali dell'aviazione civile. Non si è trattato di un attacco informatico, bensì del sovraccarico di un apparato di rete durante un aggiornamento tecnico in Arkansas gestito dalla società fornitrice L3Harris. Un incidente tecnico apparentemente banale che ha paralizzato per ore l'intero Paese, dimostrando ancora una volta la fragilità e i rischi delle infrastrutture tecnologiche critiche moderne.",
+   "ticker": null,
+   "sentiment": "neutral",
+   "sources": [
+    "CNBC",
+    "Investing.com"
+   ],
+   "caption": "Caos aereo negli Stati Uniti: oltre 6.400 voli cancellati a causa del guasto di un singolo router in Arkansas. Un campanello d'allarme sulle infrastrutture critiche.",
+   "hashtags": [
+    "#Notizie",
+    "#Aviazione",
+    "#Usa",
+    "#Tecnologia",
+    "#Infrastrutture",
+    "#Attualità"
+   ]
+  },
+  {
+   "title": "Borse europee a rischio sottoperformance",
+   "hook": "L'Europa rischia di perdere terreno sui mercati.",
+   "narration": "L'Europa rischia di perdere terreno sui mercati internazionali durante il prossimo anno. Secondo le analisi riportate da Yahoo Finance, i listini del continente potrebbero sottoperformare gli indici globali di circa il dieci per cento. A pesare sono le valutazioni elevate, la frenata nella crescita degli utili societari e i crescenti dubbi di natura fiscale. Intanto l'Euro Stoxx 50 arretra a circa 6.387 punti e i vertici della Banca Centrale Europea ricordano che i tassi non risolvono i problemi di bilancio statali. Con l'oro stabile a 3.886 dollari, prevale la difesa.",
+   "ticker": "^STOXX50E",
+   "sentiment": "bearish",
+   "sources": [
+    "Yahoo Finance",
+    "Investing.com"
+   ],
+   "caption": "Prospettive complesse per le borse europee nel prossimo anno tra rallentamento degli utili e incertezze fiscali. L'oro rimane un bene rifugio difensivo.",
+   "hashtags": [
+    "#Europa",
+    "#BorsaEuropea",
+    "#EuroStoxx",
+    "#BCE",
+    "#Oro",
+    "#Economia"
+   ]
+  }
+ ],
+ "carousels": [
+  {
+   "topic": "Il bivio dell'intelligenza artificiale",
+   "caption": "Nvidia affronta la prima prova sui conti dopo l'uscita di Huang, mentre incombe il debutto di Anthropic a Wall Street. Pensi che il settore tecnologico continuerà a guidare i mercati? Scrivicelo nei commenti.",
+   "sentiment": "bearish",
+   "hashtags": [
+    "#Nvidia",
+    "#IntelligenzaArtificiale",
+    "#Anthropic",
+    "#WallStreet",
+    "#MercatiFinanziari",
+    "#Borsa",
+    "#Investimenti",
+    "#Tecnologia"
+   ],
+   "slides": [
+    {
+     "title": "Il bivio dell'intelligenza artificiale",
+     "body": "Nvidia perde terreno e Anthropic prepara lo sbarco a Wall Street."
+    },
+    {
+     "title": "Nvidia sotto pressione",
+     "body": "Il titolo ha perso quasi il trenta per cento nell'ultimo mese tra dubbi sulla governance e verifiche interne su Megaspeed."
+    },
+    {
+     "title": "L'addio del fondatore",
+     "body": "Cresce l'attesa per la trimestrale di Nvidia, la prima dopo la discussa uscita del leader storico Jensen Huang."
+    },
+    {
+     "title": "L'incognita Anthropic",
+     "body": "L'imminente collocamento di Anthropic potrebbe sottrarre liquidità ai semiconduttori, ripetendo quanto accaduto in passato con SpaceX."
+    },
+    {
+     "title": "Rally a rischio",
+     "body": "Il settore tecnologico mostra crepe inattese e cerca una svolta convincente. Segui Market Pulse per non perdere i prossimi sviluppi."
+    }
+   ]
+  },
+  {
+   "topic": "Criptovalute sotto pressione",
+   "caption": "Nuova ondata di vendite sulle criptovalute: Bitcoin ed Ethereum accusano pesanti cali settimanali mentre manca il supporto normativo a Washington. Credi che vedremo presto una ripartenza del mercato crypto? Dicci la tua.",
+   "sentiment": "bearish",
+   "hashtags": [
+    "#Bitcoin",
+    "#Ethereum",
+    "#Crypto",
+    "#Criptovalute",
+    "#XRP",
+    "#Trading",
+    "#Finanza",
+    "#Mercati"
+   ],
+   "slides": [
+    {
+     "title": "Criptovalute sotto forte pressione",
+     "body": "Vendite diffuse e deflussi di capitale colpiscono i principali asset digitali."
+    },
+    {
+     "title": "Bitcoin cerca stabilità",
+     "body": "Il prezzo si aggira sui 65.300 dollari: il rialzo giornaliero dell'1,8% non recupera il calo settimanale superiore all'undici per cento."
+    },
+    {
+     "title": "Ethereum in affanno",
+     "body": "Anche la seconda criptovaluta scambia vicino a 1.821 dollari, registrando una discesa nell'ultima settimana di oltre l'undici per cento."
+    },
+    {
+     "title": "Freno normativo",
+     "body": "Secondo CoinDesk e ANSA Economia, gli esperti dubitano di aperture normative celeri nella fase di transizione al Congresso americano."
+    },
+    {
+     "title": "Prudenza sui mercati",
+     "body": "I deflussi colpiscono anche XRP mostrando forte avversione al rischio. Salva il post e segui Market Pulse per rimanere informato."
+    }
+   ]
+  },
+  {
+   "topic": "La scommessa sui consumi",
+   "caption": "Mentre i colossi tecnologici vacillano, i marchi legati ai consumi mostrano tassi di espansione impressionanti secondo Jeremy Lefebvre. Quale settore ritieni più interessante per il lungo periodo? Faccelo sapere e seguici.",
+   "sentiment": "bullish",
+   "hashtags": [
+    "#Consumi",
+    "#ElfBeauty",
+    "#Celsius",
+    "#JeremyLefebvre",
+    "#Azioni",
+    "#WallStreet",
+    "#Investire",
+    "#FinanzaPersonale"
+   ],
+   "slides": [
+    {
+     "title": "La scommessa sui consumi",
+     "body": "Opportunità ad alta crescita emergono al di fuori del settore tecnologico."
+    },
+    {
+     "title": "La visione di Lefebvre",
+     "body": "L'analista evidenzia con ottimismo il valore dei fondamentali solidi rispetto alla forte volatilità di breve periodo dei mercati."
+    },
+    {
+     "title": "Il boom di Elf Beauty",
+     "body": "Vendite cresciute del 51% contro il 7% di Estée Lauder, con il titolo salito del 111% in soli sei mesi."
+    },
+    {
+     "title": "Celsius oltre le stime",
+     "body": "La società supera le previsioni di fatturato di quasi 47 milioni di dollari, confermando una solida espansione sul mercato."
+    },
+    {
+     "title": "Focus sui fondamentali",
+     "body": "Puntare su dati finanziari concreti offre maggiore visibilità. Seguici per scoprire ogni giorno nuove analisi sui mercati azionari."
+    }
+   ]
+  },
+  {
+   "topic": "Rischi di borsa in Europa",
+   "caption": "Gli analisti mettono in guardia sulle borse europee, ipotizzando una sottoperformance del dieci per cento rispetto ai mercati globali. Come posizioni il tuo portafoglio in questo contesto economico? Lascia un commento.",
+   "sentiment": "bearish",
+   "hashtags": [
+    "#BorsaItaliana",
+    "#EuroStoxx",
+    "#BCE",
+    "#EconomiaEuropea",
+    "#Oro",
+    "#Tassi",
+    "#Investimenti",
+    "#MarketPulse"
+   ],
+   "slides": [
+    {
+     "title": "Rischi di borsa in Europa",
+     "body": "Crescono le incertezze per i listini azionari del Vecchio Continente."
+    },
+    {
+     "title": "Rischio sottoperformance",
+     "body": "Secondo gli esperti le azioni europee potrebbero sottoperformare i mercati globali di circa il dieci per cento nel prossimo anno."
+    },
+    {
+     "title": "Valutazioni e utili tirati",
+     "body": "L'indice Euro Stoxx 50 arretra a circa 6.387 punti tra utili in frenata e crescenti incertezze sui bilanci pubblici nazionali."
+    },
+    {
+     "title": "Il richiamo della BCE",
+     "body": "I funzionari della banca centrale avvertono: le politiche sui tassi non sostituiscono una rigorosa gestione dei conti dei governi."
+    },
+    {
+     "title": "Oro come difesa",
+     "body": "Con il metallo prezioso sui 3.886 dollari l'oncia, gli operatori restano cauti. Unisciti alla community di Market Pulse per altri aggiornamenti."
+    }
+   ]
+  },
+  {
+   "topic": "Market mover della settimana",
+   "caption": "Settimana ricca di appuntamenti economici cruciali tra discorsi dei banchieri centrali, verbali Federal Reserve e vendite al dettaglio negli Stati Uniti. Quale dato condizionerà di più i mercati? Seguici per scoprirlo.",
+   "sentiment": "neutral",
+   "hashtags": [
+    "#FederalReserve",
+    "#BCE",
+    "#TassiDiInteresse",
+    "#Macroeconomia",
+    "#CalendarioEconomico",
+    "#Borsa",
+    "#Finanza",
+    "#FOMC"
+   ],
+   "slides": [
+    {
+     "title": "Market mover della settimana",
+     "body": "Le tappe economiche decisive per capire la rotta dei mercati finanziari."
+    },
+    {
+     "title": "Lunedì e Fed",
+     "body": "Lunedì 16 novembre alle 18:00 parlerà il presidente Warsh, offrendo possibili indizi sulle future scelte dei tassi statunitensi."
+    },
+    {
+     "title": "Consumi americani",
+     "body": "Martedì 17 novembre alle 14:30 arrivano i dati sulle vendite al dettaglio per misurare lo stato di salute dei consumatori."
+    },
+    {
+     "title": "Europa e verbali FOMC",
+     "body": "Mercoledì 18 novembre spazio alla relazione di stabilità BCE, alle parole di Lagarde e ai verbali del FOMC americano."
+    },
+    {
+     "title": "Non farti trovare impreparato",
+     "body": "Giovedì e venerdì chiuderanno con disoccupazione e fiducia dei consumatori. Segui Market Pulse per monitorare ogni evento in tempo reale."
+    }
+   ]
+  }
+ ],
+ "model": "gemini-3.8-flash"
+}

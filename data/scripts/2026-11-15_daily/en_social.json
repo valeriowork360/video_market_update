@@ -1,0 +1,281 @@
+{
+ "shorts": [
+  {
+   "title": "Nvidia Tumbler Shakes Artificial Intelligence",
+   "hook": "Nvidia drops thirty percent in one month.",
+   "narration": "Nvidia drops thirty percent in one month, rattling retirement accounts nationwide. The sudden departure of Jensen Huang and reports connecting him to Megaspeed have triggered analyst downgrades. Megaspeed has opened an internal review regarding former executive Alice Huang, who left in August 2025. Meanwhile, competitors like Broadcom are gaining ground as investors hedge their exposure. With the Anthropic initial public offering approaching, markets face a critical question: will the debut revive artificial intelligence momentum, or deepen the tech selloff? All eyes are on the sector this week as investors prepare for major turbulence.",
+   "ticker": "NVDA",
+   "sentiment": "bearish",
+   "sources": [
+    "CNBC",
+    "Yahoo Finance",
+    "Investing.com",
+    "MarketWatch"
+   ],
+   "caption": "Nvidia faces an existential test as Jensen Huang departs and shares slide nearly 30 percent.",
+   "hashtags": [
+    "#Nvidia",
+    "#StockMarket",
+    "#TechNews",
+    "#AIStocks",
+    "#Investing",
+    "#WallStreet"
+   ]
+  },
+  {
+   "title": "FAA Ground Stop Disrupts Airlines",
+   "hook": "Nationwide ground stop grounds thousands of flights.",
+   "narration": "A nationwide ground stop ordered by the Federal Aviation Administration triggered travel chaos over the weekend. Disruptions continued into Sunday with over six thousand four hundred flights canceled across the country. Transportation Secretary Sean Duffy stated the failure followed updates to a communications network run by contractor L3Harris Technologies. Investigators are now scrutinizing router problems in Arkansas that set off the four hour shutdown. Airlines are left scrambling to restore normal operations after one of the worst aviation disruptions in recent memory.",
+   "ticker": null,
+   "sentiment": "bearish",
+   "sources": [
+    "CNBC",
+    "Investing.com"
+   ],
+   "caption": "Thousands of flights were canceled following an FAA nationwide ground stop tied to communication network updates.",
+   "hashtags": [
+    "#Aviation",
+    "#Airlines",
+    "#TravelNews",
+    "#FAA",
+    "#BreakingNews",
+    "#USNews"
+   ]
+  },
+  {
+   "title": "Elf Beauty Versus Estée Lauder",
+   "hook": "Elf Beauty surges while legacy cosmetics lag.",
+   "narration": "Elf Beauty is surging while legacy cosmetics struggle to keep up. Creator Jeremy Lefebvre remains bullish on high growth retail names over traditional players. He pointed out that Elf Beauty delivered net sales growth of fifty one percent, compared to just seven percent for Estée Lauder. Lefebvre argues that core business fundamentals outweigh short term market noise, keeping Elf as a top holding. He also noted that Celsius beat revenue estimates by around forty seven million dollars. The consumer retail landscape is splitting fast between modern disruptors and legacy brands.",
+   "ticker": "ELF",
+   "sentiment": "bullish",
+   "sources": [
+    "Jeremy Lefebvre Clips"
+   ],
+   "caption": "High-growth consumer brands are pulling away from legacy competitors according to creator Jeremy Lefebvre.",
+   "hashtags": [
+    "#ElfBeauty",
+    "#RetailStocks",
+    "#Investing",
+    "#StockMarket",
+    "#Celsius",
+    "#GrowthStocks"
+   ]
+  },
+  {
+   "title": "Markets Slip as Bond Yields Rise",
+   "hook": "Ten year yields climb past five percent.",
+   "narration": "Ten year Treasury yields climbed to five point two percent, putting fresh pressure on Wall Street. The Nasdaq Composite fell zero point nine percent to about twenty five thousand one hundred points, leading the market retreat. The Standard and Poor's five hundred dipped zero point four percent to around seven thousand five hundred sixty points, while the Dow Jones managed a slight gain of zero point one percent. Meanwhile, the volatility index jumped over three percent. Elevated borrowing costs continue to weigh heavily on risk assets across the board.",
+   "ticker": "^GSPC",
+   "sentiment": "neutral",
+   "sources": [
+    "Yahoo Finance"
+   ],
+   "caption": "Rising Treasury yields pushed tech stocks lower heading into the weekend as market volatility rose.",
+   "hashtags": [
+    "#StockMarket",
+    "#SP500",
+    "#Nasdaq",
+    "#Bonds",
+    "#Economy",
+    "#MarketPulse"
+   ]
+  },
+  {
+   "title": "Fed Remarks and Retail Data Ahead",
+   "hook": "A crucial macro week ahead for markets.",
+   "narration": "A crucial macro week ahead could determine where borrowing costs go next. Federal Reserve Chairman Warsh delivers prepared remarks on Monday at noon Eastern Time. On Tuesday, traders get fresh retail sales figures, with core sales projected to grow zero point four percent. The Federal Reserve will then publish the minutes from its recent policy meeting on Wednesday afternoon. With European Central Bank President Lagarde also making appearances throughout the week, investors will be searching every release for guidance on monetary policy.",
+   "ticker": null,
+   "sentiment": "neutral",
+   "sources": [
+    "Yahoo Finance"
+   ],
+   "caption": "Key Fed speeches, meeting minutes, and retail sales data will test the markets this week.",
+   "hashtags": [
+    "#FederalReserve",
+    "#Economy",
+    "#RetailSales",
+    "#MacroEconomics",
+    "#Trading",
+    "#Finance"
+   ]
+  },
+  {
+   "title": "Van Gogh Masterpiece Hits Auction",
+   "hook": "A one hundred eighty million dollar painting.",
+   "narration": "A one hundred eighty million dollar painting is heading to auction in New York this week. The Van Gogh masterpiece is the centerpiece of art auctions expected to exceed two billion dollars in total sales. This rare public sale will provide an unusual real time test of liquidity and collector confidence at the top tier of wealth. While equity traders watch corporate earnings and interest rates, art market watchers are preparing for one of the most high profile tests of luxury demand in years.",
+   "ticker": null,
+   "sentiment": "neutral",
+   "sources": [
+    "CNBC"
+   ],
+   "caption": "A 180 million dollar Van Gogh painting will test high-end liquidity on the auction block this week.",
+   "hashtags": [
+    "#ArtMarket",
+    "#VanGogh",
+    "#Auctions",
+    "#Luxury",
+    "#ArtNews",
+    "#NewYork"
+   ]
+  }
+ ],
+ "carousels": [
+  {
+   "topic": "Nvidia Crisis and Anthropic IPO",
+   "caption": "Nvidia faces analyst downgrades and a 30 percent monthly drop following the exit of Jensen Huang. With Anthropic preparing its public debut, where do you see the AI trade heading next? Follow for daily market coverage.",
+   "sentiment": "bearish",
+   "hashtags": [
+    "#Nvidia",
+    "#AIStocks",
+    "#Anthropic",
+    "#TechNews",
+    "#StockMarket",
+    "#WallStreet",
+    "#Broadcom",
+    "#Investing"
+   ],
+   "slides": [
+    {
+     "title": "Nvidia Crisis Rattles Tech",
+     "body": "Jensen Huang departs as shares plunge nearly thirty percent."
+    },
+    {
+     "title": "Leadership Shock at Nvidia",
+     "body": "Analysts downgraded Nvidia following the sudden exit of Jensen Huang and emerging links to Megaspeed."
+    },
+    {
+     "title": "Internal Inquiry Launched",
+     "body": "Megaspeed initiated an internal review concerning former executive Alice Huang, who departed in August 2025."
+    },
+    {
+     "title": "Rivals Gain Ground",
+     "body": "Investors hedged their artificial intelligence exposure by moving capital toward competitors like Broadcom."
+    },
+    {
+     "title": "Anthropic IPO on Horizon",
+     "body": "The upcoming Anthropic public debut is seen as either a vital catalyst or a source of disturbance."
+    },
+    {
+     "title": "What Comes Next",
+     "body": "Artificial intelligence shares face a major test. Follow Market Pulse for ongoing coverage of market developments."
+    }
+   ]
+  },
+  {
+   "topic": "FAA Nationwide Flight Chaos",
+   "caption": "Over 6,400 flights were grounded after a communications outage triggered by a four-hour FAA ground stop. Have your travel plans been disrupted by the recent delays? Follow Market Pulse for updates.",
+   "sentiment": "bearish",
+   "hashtags": [
+    "#Aviation",
+    "#Airlines",
+    "#FlightDelays",
+    "#FAA",
+    "#TravelAlert",
+    "#USNews",
+    "#L3Harris",
+    "#BreakingNews"
+   ],
+   "slides": [
+    {
+     "title": "FAA Outage Halts Flights",
+     "body": "Thousands stranded after a nationwide air travel disruption."
+    },
+    {
+     "title": "Nationwide Ground Stop",
+     "body": "The Federal Aviation Administration imposed a four-hour nationwide ground stop causing massive domestic flight disruptions."
+    },
+    {
+     "title": "Weekend Cancellations Surge",
+     "body": "Disruptions lingered into Sunday with more than six thousand four hundred domestic flights completely canceled."
+    },
+    {
+     "title": "Network Update Failure",
+     "body": "Transportation Secretary Sean Duffy noted the failure followed updates to an older communications network."
+    },
+    {
+     "title": "Arkansas Routers Scrutinized",
+     "body": "Federal regulators are investigating router problems in Arkansas tied to contractor L3Harris Technologies."
+    },
+    {
+     "title": "Airlines Under Pressure",
+     "body": "Carriers continue working to restore flight schedules. Follow Market Pulse to stay updated on breaking news."
+    }
+   ]
+  },
+  {
+   "topic": "Consumer Brand Winners and Losers",
+   "caption": "Modern retail disruptors are widening the performance gap against legacy brands like Estée Lauder. Do you prefer high-growth consumer stocks or traditional staples? Follow Market Pulse for daily market insights.",
+   "sentiment": "bullish",
+   "hashtags": [
+    "#ConsumerStocks",
+    "#Retail",
+    "#ElfBeauty",
+    "#EsteeLauder",
+    "#Celsius",
+    "#Investing",
+    "#StockPicks",
+    "#JeremyLefebvre"
+   ],
+   "slides": [
+    {
+     "title": "Consumer Stock Divergence",
+     "body": "Growth names outperform legacy brands in retail."
+    },
+    {
+     "title": "Elf Outpaces Estee Lauder",
+     "body": "Elf Beauty recorded fifty-one percent net sales growth, while Estée Lauder managed only seven percent."
+    },
+    {
+     "title": "Bullish on Fundamentals",
+     "body": "Creator Jeremy Lefebvre favors high-growth retailers, arguing long-term business strength matters more than day-to-day noise."
+    },
+    {
+     "title": "Celsius Tops Estimates",
+     "body": "Celsius beat revenue expectations by roughly forty-seven million dollars, though volume recovery remains key."
+    },
+    {
+     "title": "Focus on Core Growth",
+     "body": "Disruptive consumer brands continue to show strength against established industry incumbents. Follow Market Pulse for daily analysis."
+    }
+   ]
+  },
+  {
+   "topic": "Federal Reserve Week Ahead",
+   "caption": "Federal Reserve speeches, policy minutes, and retail sales data arrive this week to test borrowing cost expectations. How do you see interest rates impacting markets this month? Follow Market Pulse to stay informed.",
+   "sentiment": "neutral",
+   "hashtags": [
+    "#FederalReserve",
+    "#Economy",
+    "#InterestRates",
+    "#RetailSales",
+    "#ECB",
+    "#Macro",
+    "#Investing",
+    "#MarketWatch"
+   ],
+   "slides": [
+    {
+     "title": "Crucial Macro Week Ahead",
+     "body": "Central bank remarks and retail data lead the calendar."
+    },
+    {
+     "title": "Warsh Delivers Remarks",
+     "body": "Federal Reserve Chairman Warsh speaks on Monday at noon Eastern Time to set the tone."
+    },
+    {
+     "title": "Retail Spending Data",
+     "body": "Tuesday morning brings retail sales figures, with core sales projected to expand zero point four percent."
+    },
+    {
+     "title": "Fed Minutes and Lagarde",
+     "body": "Wednesday features Federal Reserve meeting minutes alongside appearances from European Central Bank President Lagarde."
+    },
+    {
+     "title": "Watch Borrowing Costs",
+     "body": "Traders will parse every statement for rate signals. Follow Market Pulse for timely updates all week long."
+    }
+   ]
+  }
+ ],
+ "model": "gemini-3.8-flash"
+}

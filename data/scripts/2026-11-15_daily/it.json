@@ -1,0 +1,173 @@
+{
+ "title": "Nvidia trema dopo l'addio di Huang, debutta Anthropic",
+ "description": "Wall Street si prepara a una settimana cruciale tra la trimestrale di Nvidia e la quotazione di Anthropic, mentre le criptovalute faticano a riprendersi.\nAnalizziamo le tendenze chiave con i numeri aggiornati sui mercati e l'impatto dei tassi di interesse.\nFonti e analisi a cura di Jeremy Lefebvre Clips, Yahoo Finance e CNBC.",
+ "tags": [
+  "borsa",
+  "nvidia",
+  "anthropic",
+  "bitcoin",
+  "azioni",
+  "investimenti",
+  "wall street",
+  "fed",
+  "economia",
+  "mercati oggi"
+ ],
+ "thumbnail_text": "TERREMOTO AI E MERCATI",
+ "mood": "neutral",
+ "segments": [
+  {
+   "id": "s1",
+   "kind": "hook",
+   "heading": "La prova di Nvidia",
+   "narration": "L'attesa per i primi conti di Nvidia dopo l'addio di Jensen Huang e l'imminente sbarco in borsa di Anthropic scuotono Wall Street. Nel frattempo, il Bitcoin tenta un rimbalzo dopo una settimana difficile, mentre i rendimenti dei titoli di Stato americani tornano a farsi sentire sui mercati globali.",
+   "bullets": [
+    "Trimestrale Nvidia e IPO Anthropic",
+    "Bitcoin in cerca di riscatto",
+    "Pressione dai rendimenti obbligazionari"
+   ],
+   "ticker": "NVDA",
+   "sentiment": "neutral",
+   "sources": [
+    "Yahoo Finance",
+    "CNBC"
+   ]
+  },
+  {
+   "id": "s2",
+   "kind": "market",
+   "heading": "Mercati tra debolezza e cautela",
+   "narration": "I mercati chiudono una settimana contrastata, divisa tra la debolezza del settore tecnologico e la tenuta dell'economia tradizionale. L'indice S&P 500 arretra dello 0,4 per cento a circa 7.562 punti, mentre il Nasdaq Composite cede quasi l'uno per cento, fermandosi attorno a quota 25.136. Al contrario, il Dow Jones chiude con un modesto rialzo dello 0,1 per cento a circa 52.348 punti. Anche in Europa il clima resta prudente: il listino milanese FTSE MIB segna un aumento dello 0,1 per cento a 51.859 punti. A pesare sul sentiment è la risalita del rendimento del decennale americano, salito al 5,2 per cento. L'indice della volatilità VIX cresce del 3,2 per cento, segnalando nuova cautela tra gli operatori.",
+   "bullets": [
+    "S&P 500 a 7.562 punti",
+    "Nasdaq in calo dello 0,9%",
+    "Dow Jones tiene sopra 52.340",
+    "Decennale USA al 5,2%"
+   ],
+   "ticker": "^GSPC",
+   "sentiment": "bearish",
+   "sources": [
+    "Yahoo Finance"
+   ]
+  },
+  {
+   "id": "s3",
+   "kind": "topic",
+   "heading": "Il bivio dell'intelligenza artificiale",
+   "narration": "Il settore dell'intelligenza artificiale si trova a un vero e proprio bivio. Secondo le ricostruzioni di Yahoo Finance e CNBC, tutti gli occhi sono puntati sui risultati trimestrali di Nvidia, i primi dopo la discussa uscita del fondatore Jensen Huang. Il titolo ha perso quasi il trenta per cento nell'ultimo mese, complici i dubbi sulla governance e le recenti indagini interne su Megaspeed. Parallelamente cresce l'attesa per l'offerta pubblica iniziale di Anthropic. Molti analisti si chiedono se questo debutto porterà nuovo entusiasmo o se drenerà ulteriore liquidità dai colossi dei semiconduttori, esattamente come accadde durante il collocamento di SpaceX la scorsa estate. Il comparto tecnologico cerca una scossa per rilanciare un rally che finora ha mostrato crepe inattese.",
+   "bullets": [
+    "Trimestrale Nvidia senza Jensen Huang",
+    "Titolo Nvidia sceso del 30%",
+    "IPO Anthropic al centro dell'attenzione"
+   ],
+   "ticker": "NVDA",
+   "sentiment": "bearish",
+   "sources": [
+    "Yahoo Finance",
+    "CNBC",
+    "MarketWatch"
+   ]
+  },
+  {
+   "id": "s4",
+   "kind": "topic",
+   "heading": "Criptovalute sotto pressione",
+   "narration": "Momento di grande incertezza per il comparto delle criptovalute. Secondo quanto riportato da ANSA Economia e CoinDesk, la pressione di vendita non accenna a diminuire. Il Bitcoin viaggia attorno ai 65.300 dollari, segnando un rialzo giornaliero dell'1,8 per cento che non cancella tuttavia il calo di oltre l'undici per cento accumulato nelle ultime cinque sedute. Anche Ethereum si muove vicino a 1.821 dollari, dopo una caduta settimanale superiore all'undici per cento. Gli addetti ai lavori rimangono scettici sulla possibilità di ottenere aperture normative durante l'attuale transizione al Congresso americano. Il deflusso di capitali ha colpito duro anche altri asset digitali come XRP, evidenziando una fase di forte avversione al rischio da parte dei trader.",
+   "bullets": [
+    "Bitcoin a circa 65.300 dollari",
+    "Calo settimanale superiore all'11%",
+    "Scetticismo sul fronte normativo USA"
+   ],
+   "ticker": "BTC-USD",
+   "sentiment": "bearish",
+   "sources": [
+    "ANSA Economia",
+    "CoinDesk",
+    "Yahoo Finance"
+   ]
+  },
+  {
+   "id": "s5",
+   "kind": "topic",
+   "heading": "La scommessa sui consumi",
+   "narration": "Mentre i giganti della tecnologia rallentano, emergono opportunità selettive tra i titoli dei consumi. Jeremy Lefebvre, con un tono decisamente ottimista, ha evidenziato il forte potenziale di crescita di aziende come E.l.f. Beauty rispetto ai colossi tradizionali come Estée Lauder. Secondo il creatore, la crescita delle vendite di E.l.f. Beauty, salita del 51 per cento, surclassa nettamente il modesto sette per cento della concorrenza storica. Il titolo è infatti cresciuto del centoundici per cento negli ultimi sei mesi. Lefebvre monitora attentamente anche Celsius, che ha recentemente superato le stime sui ricavi per quasi 47 milioni di dollari. A suo avviso, guardare ai fondamentali di lungo termine offre un quadro molto più solido rispetto alle oscillazioni di breve periodo.",
+   "bullets": [
+    "Jeremy Lefebvre ottimista su E.l.f. Beauty",
+    "Crescita vendite del 51%",
+    "Celsius batte le attese sui ricavi"
+   ],
+   "ticker": "ELF",
+   "sentiment": "bullish",
+   "sources": [
+    "Jeremy Lefebvre Clips"
+   ]
+  },
+  {
+   "id": "s6",
+   "kind": "topic",
+   "heading": "Rischi di rendimento in Europa",
+   "narration": "Lo scenario macroeconomico si complica anche per le borse europee. Secondo gli analisti citati da Yahoo Finance, le azioni del Vecchio Continente rischiano di sottoperformare i mercati globali di circa il dieci per cento nel prossimo anno. A preoccupare gli investitori sono le valutazioni tirate, il rallentamento della crescita degli utili e le crescenti incertezze fiscali. L'indice Euro Stoxx 50 ha registrato un calo dello 0,2 per cento a circa 6.387 punti. Dal fronte monetario, le parole dei funzionari della Banca Centrale Europea ribadiscono che la politica dei tassi non può sostituire una gestione di bilancio rigorosa da parte dei governi. Con l'oro stabile a circa 3.886 dollari l'oncia, gli investitori mantengono un atteggiamento difensivo.",
+   "bullets": [
+    "Rischio sottoperformance per l'Europa",
+    "Euro Stoxx 50 a 6.387 punti",
+    "Oro stabile sui 3.886 dollari"
+   ],
+   "ticker": "^STOXX50E",
+   "sentiment": "bearish",
+   "sources": [
+    "Yahoo Finance",
+    "Investing.com"
+   ]
+  },
+  {
+   "id": "s7",
+   "kind": "ahead",
+   "heading": "I market mover della settimana",
+   "narration": "La settimana entrante propone un'agenda fitta di appuntamenti decisivi. Lunedì 16 novembre alle 18:00, ora italiana, parlerà il presidente della Federal Reserve Warsh, offrendo indizi preziosi sulle future mosse dei tassi. Martedì 17 novembre alle 14:30 saranno pubblicati i dati sulle vendite al dettaglio negli Stati Uniti, un indicatore chiave per misurare la salute dei consumatori. Mercoledì 18 novembre si attendono la relazione sulla stabilità finanziaria della BCE alle 10:00 e il discorso della presidente Lagarde alle 15:25. Infine, alle 20:00, la pubblicazione dei verbali del FOMC chiarirà le divisioni interne alla banca centrale americana. Giovedì e venerdì seguiranno ulteriori aggiornamenti su disoccupazione e fiducia dei consumatori.",
+   "bullets": [
+    "Lunedì 16 ore 18:00 Fed Warsh",
+    "Martedì 17 ore 14:30 vendite USA",
+    "Mercoledì 18 ore 20:00 verbali FOMC"
+   ],
+   "ticker": null,
+   "sentiment": "neutral",
+   "sources": [
+    "Yahoo Finance"
+   ]
+  },
+  {
+   "id": "s8",
+   "kind": "curious",
+   "heading": "Caos aereo da un router",
+   "narration": "Oltre ai numeri di borsa, negli Stati Uniti ha destato enorme scalpore il caos nei trasporti aerei. Come riportato da CNBC e dal Wall Street Journal, oltre 6.400 voli sono stati cancellati a causa di un improvviso blocco ordinato dalla Federal Aviation Administration. L'origine del guasto non è legata a un attacco informatico, ma al sovraccarico di un singolo router di rete gestito dal fornitore L3Harris durante un aggiornamento di sistema. Un banale errore tecnico nell'Arkansas ha paralizzato gli aeroporti dell'intero Paese per ore, ricordando a investitori e cittadini quanto siano vulnerabili le infrastrutture critiche odierne.",
+   "bullets": [
+    "Oltre 6.400 voli cancellati negli USA",
+    "Blocco causato da un singolo router",
+    "Vulnerabilità nelle reti di trasporto"
+   ],
+   "ticker": null,
+   "sentiment": "neutral",
+   "sources": [
+    "CNBC",
+    "Investing.com"
+   ]
+  },
+  {
+   "id": "s9",
+   "kind": "outro",
+   "heading": "Segui il mercato",
+   "narration": "Ricordiamo che queste informazioni hanno scopo puramente informativo e non costituiscono una consulenza finanziaria. Iscrivetevi al canale e attivate la campanella per non perdere nessun aggiornamento sui mercati globali.",
+   "bullets": [
+    "Nessun consiglio finanziario",
+    "Iscriviti a Market Pulse"
+   ],
+   "ticker": null,
+   "sentiment": "neutral",
+   "sources": []
+  }
+ ],
+ "words": 861,
+ "model": "gemini-3.7-flash",
+ "n_notes": 1,
+ "n_news": 148
+}

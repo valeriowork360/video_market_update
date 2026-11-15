@@ -1,0 +1,155 @@
+{
+ "title": "Nvidia Fallout and Anthropic IPO Set Stage for Volatile Week",
+ "description": "Markets face high-stakes tech tests as Nvidia earnings and Anthropic's initial public offering approach.\nWe examine the fallout from Jensen Huang's departure, nationwide airline disruptions, and consumer stock trends.\nCreator commentary featured today from Jeremy Lefebvre Clips.",
+ "tags": [
+  "stock market",
+  "Nvidia",
+  "Anthropic IPO",
+  "tech stocks",
+  "FAA ground stop",
+  "S&P 500",
+  "investing",
+  "market news"
+ ],
+ "thumbnail_text": "TECH CLIFFHANGER",
+ "mood": "urgent",
+ "segments": [
+  {
+   "id": "s1",
+   "kind": "hook",
+   "heading": "Tech Braces for Shockwaves",
+   "narration": "Wall Street faces a critical test as Nvidia heads toward its first earnings report without Jensen Huang, while Anthropic prepares for its public debut. Add in nationwide air travel disruptions and sudden bond market pressure, and this week could redefine the market narrative.",
+   "bullets": [
+    "Nvidia earnings approach",
+    "Anthropic IPO looms large",
+    "Airline network faces delays"
+   ],
+   "ticker": "NVDA",
+   "sentiment": "bearish",
+   "sources": [
+    "Yahoo Finance",
+    "CNBC"
+   ]
+  },
+  {
+   "id": "s2",
+   "kind": "market",
+   "heading": "Indices Pause Under Pressure",
+   "narration": "The broad market took a breather heading into the weekend. The S&P 500 slipped 0.4 percent to finish near 7,562 points. Tech shares bore the brunt of the selling, dragging the Nasdaq Composite down 0.9 percent to about 25,136 points. Meanwhile, the Dow Jones held steady, inching up 0.1 percent to 52,348 points. Treasury yields remain elevated, with the United States 10-year yield rising to 5.2 percent. That upward move in borrowing costs kept pressure on risk assets, while the Cboe Volatility Index climbed 3.2 percent to 19.3.",
+   "bullets": [
+    "S&P 500 slips 0.4 percent",
+    "Nasdaq falls 0.9 percent",
+    "10-year yield hits 5.2 percent",
+    "VIX ticks up to 19"
+   ],
+   "ticker": "^GSPC",
+   "sentiment": "neutral",
+   "sources": [
+    "Yahoo Finance"
+   ]
+  },
+  {
+   "id": "s3",
+   "kind": "topic",
+   "heading": "Nvidia Crisis Rattles Tech",
+   "narration": "The artificial intelligence trade faces an existential moment. Analysts are downgrading Nvidia after the sudden departure of Jensen Huang, compounded by reports linking him to Megaspeed and former executive Alice Huang. Megaspeed has launched an internal inquiry, confirming she left back in August 2025. With Nvidia shares tumbling nearly 30 percent over the past month, retirement accounts across the country are feeling the blow. Competitors like Broadcom have gained ground as investors hedge their bets, while the upcoming Anthropic initial public offering is seen as either a vital spark or a market disturbance similar to the SpaceX offering.",
+   "bullets": [
+    "Huang departure hits Nvidia hard",
+    "Megaspeed launches internal review",
+    "Anthropic IPO adds market friction"
+   ],
+   "ticker": "NVDA",
+   "sentiment": "bearish",
+   "sources": [
+    "CNBC",
+    "Yahoo Finance",
+    "Investing.com",
+    "MarketWatch"
+   ]
+  },
+  {
+   "id": "s4",
+   "kind": "topic",
+   "heading": "FAA Outage Hits Airlines",
+   "narration": "A major operational crisis hit the travel industry this weekend. Thousands of domestic flights suffered delays and cancellations following a four-hour nationwide ground stop ordered by the Federal Aviation Administration. Disruptions carried over into Sunday with more than 6,400 flights canceled. Transportation Secretary Sean Duffy indicated the outage followed updates to an older communications network managed by contractor L3Harris Technologies. Federal regulators are scrutinizing router issues in Arkansas that triggered the failure, leaving airlines scrambling to restore schedules.",
+   "bullets": [
+    "Over 6,400 flights canceled",
+    "L3Harris telecom upgrade probed",
+    "System network overload in Arkansas"
+   ],
+   "ticker": null,
+   "sentiment": "bearish",
+   "sources": [
+    "CNBC",
+    "Investing.com"
+   ]
+  },
+  {
+   "id": "s5",
+   "kind": "topic",
+   "heading": "Consumer Stock Divergence",
+   "narration": "Beyond technology headlines, consumer brands are showing major divergence. Creator Jeremy Lefebvre remains bullish on high-growth retail names over struggling legacy players. He highlights E.l.f. Beauty outperforming Estée Lauder, noting that E.l.f. posted 51 percent net sales growth compared to only 7 percent for Estée Lauder. Lefebvre argues that long-term business fundamentals matter far more than day-to-day noise, keeping a larger position in E.l.f. Beauty. He also pointed to Celsius, which beat revenue expectations by roughly 47 million dollars, though sustained recovery hinges on upcoming brand volume data.",
+   "bullets": [
+    "E.l.f. Beauty sales jump 51 percent",
+    "Estée Lauder lags with 7 percent",
+    "Celsius awaits volume recovery"
+   ],
+   "ticker": "ELF",
+   "sentiment": "bullish",
+   "sources": [
+    "Jeremy Lefebvre Clips"
+   ]
+  },
+  {
+   "id": "s6",
+   "kind": "ahead",
+   "heading": "Retail Sales and Fed Ahead",
+   "narration": "The macroeconomic calendar brings several major risk events in the coming days. On Monday at 12:00 PM Eastern Time, Federal Reserve Chairman Warsh delivers prepared remarks. Tuesday morning at 8:30 AM Eastern Time, retail sales data will show whether consumer spending is holding up, with core sales projected to expand 0.4 percent. On Wednesday, the central bank publishes the minutes from its recent meeting at 2:00 PM Eastern Time, alongside appearances by European Central Bank President Lagarde throughout the week. Traders will watch these releases closely for clues on borrowing costs.",
+   "bullets": [
+    "Warsh speaks Monday noon",
+    "Retail sales out Tuesday morning",
+    "FOMC minutes due Wednesday afternoon"
+   ],
+   "ticker": null,
+   "sentiment": "neutral",
+   "sources": [
+    "Yahoo Finance"
+   ]
+  },
+  {
+   "id": "s7",
+   "kind": "curious",
+   "heading": "Van Gogh Tests Art Market",
+   "narration": "Away from equity markets, an extraordinary test of high-end collector demand is unfolding in New York. A Van Gogh masterpiece valued at 180 million dollars is hitting the auction block this week. Total art sales are expected to top two billion dollars, providing an unusual gauge of liquidity and luxury wealth sentiment.",
+   "bullets": [
+    "Van Gogh valued at 180 million",
+    "New York auctions eye 2 billion",
+    "Key test of luxury liquidity"
+   ],
+   "ticker": null,
+   "sentiment": "neutral",
+   "sources": [
+    "CNBC"
+   ]
+  },
+  {
+   "id": "s8",
+   "kind": "outro",
+   "heading": "Stay Informed",
+   "narration": "This broadcast is for informational purposes and is not financial advice. Hit subscribe and tap the bell to stay ahead of market moves every trading day.",
+   "bullets": [
+    "Not financial advice",
+    "Subscribe for daily briefings"
+   ],
+   "ticker": null,
+   "sentiment": "neutral",
+   "sources": [
+    "Market Pulse"
+   ]
+  }
+ ],
+ "words": 564,
+ "model": "gemini-3.8-flash",
+ "n_notes": 1,
+ "n_news": 132
+}
