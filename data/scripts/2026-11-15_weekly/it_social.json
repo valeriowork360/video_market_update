@@ -1,0 +1,49 @@
+{
+ "shorts": [],
+ "carousels": [
+  {
+   "topic": "Il recap settimanale dei mercati",
+   "caption": "Dalla crisi ai vertici di Nvidia alla caduta di Bitcoin, fino ai rendimenti statunitensi sopra il 5%: ecco i fatti chiave dell'ottava. I mercati mostrano segnali contrastanti tra rialzi fragili e pressioni inflazionistiche. Quale asset seguirai con maggiore attenzione la prossima settimana?",
+   "sentiment": "neutral",
+   "hashtags": [
+    "#MarketPulse",
+    "#Borsa",
+    "#MercatiFinanziari",
+    "#Nvidia",
+    "#Bitcoin",
+    "#WallStreet",
+    "#Economia",
+    "#Investimenti",
+    "#FinanzaPersonale",
+    "#FederalReserve"
+   ],
+   "slides": [
+    {
+     "title": "Cosa è successo sui mercati",
+     "body": "Tensioni su Nvidia, crollo di Bitcoin e rendimenti obbligazionari americani oltre il 5%: ecco la sintesi della settimana."
+    },
+    {
+     "title": "Terremoto ai vertici di Nvidia",
+     "body": "Indiscrezioni sulla leadership di Jensen Huang e controlli governativi scuotono il colosso dei chip, sceso del 7% in una seduta."
+    },
+    {
+     "title": "Bitcoin scivola sotto 65.000 dollari",
+     "body": "Forte battuta d'arresto per le criptovalute: Bitcoin perde quasi il 12% in cinque giorni, appesantito da deflussi netti sugli ETF."
+    },
+    {
+     "title": "Rendimenti USA oltre il 5%",
+     "body": "Il decennale americano tocca il 5,2%. L'inflazione persistente riaccende i timori di una Federal Reserve ancora restrittiva, frenando l'oro."
+    },
+    {
+     "title": "Rally azionario con volumi bassi",
+     "body": "Gli indici americani chiudono l'ottava in positivo, ma gli analisti segnalano volumi in contrazione e possibili rischi di correzione."
+    },
+    {
+     "title": "Preparati alla prossima settimana",
+     "body": "Occhi puntati su vendite al dettaglio, discorsi delle banche centrali e verbali della Federal Reserve. Segui Market Pulse per altri aggiornamenti."
+    }
+   ]
+  }
+ ],
+ "model": "gemini-3.8-flash"
+}

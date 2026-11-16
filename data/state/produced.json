@@ -78,7 +78,10 @@
   "langs": {
    "it": {
     "long": true,
-    "title": "Nvidia nel caos, Bitcoin scivola e tassi al 5%: il recap settimanale"
+    "title": "Nvidia nel caos, Bitcoin scivola e tassi al 5%: il recap settimanale",
+    "shorts": 0,
+    "carousels": 1,
+    "social": true
    },
    "en": {
     "long": true,
