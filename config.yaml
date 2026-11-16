@@ -37,33 +37,42 @@ schedule:
 #  l'id viene trovato da solo al primo giro.
 #  "hint" e' un suggerimento per l'analisi (facoltativo).
 # ------------------------------------------------------------
+# "color" = colore degli short nati dalle analisi di quel canale (cosi' riconosci l'origine a colpo d'occhio).
 channels:
   - name: Jason Pizzino
+    color: "#FF6B35"
     id: UCIb34uXDsfTq4PJKW0eztkA
     url: https://www.youtube.com/@JasonPizzinoOfficial
   - name: Michael Pizzino
+    color: "#FFC233"
     id: UCz2wzs4KacqHth7R_N5grgA
     url: https://www.youtube.com/@MichaelPizzino
   - name: Marco Casario
+    color: "#2EC4FF"
     id: UCZp2KqGRkO1goEAaxX5Huyg
     url: https://www.youtube.com/@MarcoCasario
     hint: Italian creator. Some videos concern only Italy (Italian taxes, pensions, BTP, Italian politics) - mark those as scope "italy".
   - name: Marco Casario EXTRA
+    color: "#8B6CFF"
     id: UCngfIs8G9JHVTeyXPEyb_tQ
     url: https://www.youtube.com/@MarcoCasarioEXTRA
     hint: Italian creator. Some videos concern only Italy - mark those as scope "italy".
   - name: Financial Education
+    color: "#00D68F"
     id: UCCmJVw9xQfYuuAAwZGedKRg
     url: https://www.youtube.com/@FinancialEducation
     hint: Jeremy Lefebvre. Titles are hype-heavy; report the actual stock thesis and numbers, ignore the hype.
   - name: Jeremy Lefebvre Clips
+    color: "#B8F400"
     id: UC_xMKlHYdRNXLX9XzuOLjsg
     url: https://www.youtube.com/@jeremylefebvre-clips
     hint: Short clips of Jeremy Lefebvre. Titles are hype-heavy; report only the substance.
   - name: MindTheChart
+    color: "#FF3D81"
     id: UChkzwqfPPTPnuSef26idqcg
     url: https://www.youtube.com/@MindTheChart
   - name: 0xTalks
+    color: "#00E5D4"
     id: UCzqvRwYvABKPwhw8hgH5ugA
     url: https://www.youtube.com/@0xTalks
 
@@ -185,6 +194,9 @@ captions: true                  # sottotitoli sincronizzati nei video
 #  viene semplicemente saltata. Come ottenere le chiavi:
 #  vedi PUBBLICAZIONE.md
 # ------------------------------------------------------------
+publish_colors:
+  news: "#A9B6C6"               # short nati solo dalle notizie, senza un canale
+
 publish:
   enabled: true                 # false = non pubblica nulla, arriva solo su Telegram
   gap_seconds: 40               # pausa tra una pubblicazione e l'altra

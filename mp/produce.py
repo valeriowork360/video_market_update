@@ -115,6 +115,7 @@ def make_social(lang, kind, day, script, folder, sdir, force):
         soc, meta = writer.derivatives(script, lang, kind)
         write_json(path, soc)
         log(f"  {len(soc['shorts'])} short e {len(soc['carousels'])} caroselli scritti ({meta['model']})")
+    soc = writer.upgrade(soc)
     label = date_label(day, lang, False)
     n_s = n_c = 0
     for i, s in enumerate(soc["shorts"], 1):
@@ -122,7 +123,8 @@ def make_social(lang, kind, day, script, folder, sdir, force):
             mp4, secs = video.short_video(s, i, lang, folder / "shorts", label, script["mood"])
             cap = f"{s['title']}\n\n{s['caption']}\n\n{' '.join(s['hashtags'])}"
             (mp4.with_suffix(".txt")).write_text(cap, encoding="utf-8")
-            telegram.video(mp4, f"📱 Short {i}/{len(soc['shorts'])}\n{cap}", 1080, 1920, secs)
+            telegram.video(mp4, f"📱 Short {i}/{len(soc['shorts'])} · origine: {s.get('origin', 'news')}\n{cap}",
+                           1080, 1920, secs)
             n_s += 1
             publish.short(f"{day}_{kind}", lang, i, s, mp4)
         except Exception as e:

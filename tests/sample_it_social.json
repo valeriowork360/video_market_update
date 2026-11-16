@@ -1,20 +1,42 @@
 {
  "shorts": [
   {
-   "title": "Nvidia: occasione o trappola?",
-   "hook": "Due esperti, due letture opposte su Nvidia",
-   "narration": "Nvidia è a un bivio. Per il lungo periodo può essere un'occasione, ma serve prudenza: il prezzo resta sotto una media importante. Chi ha ragione lo diranno i prossimi giorni, ma una cosa è chiara: il rimbalzo va confermato dai volumi. Se i volumi non arrivano, il recupero può fermarsi presto. Tieni d'occhio quel livello. Questo è un contenuto informativo, non una consulenza finanziaria.",
+   "segment_id": "s3",
+   "origin": "MindTheChart",
+   "title": "Nvidia: il rimbalzo che non convince",
+   "beats": [
+    {
+     "say": "Nvidia risale del 4%, ma il grafico dice altro.",
+     "show": "Rimbalzo o trappola?",
+     "figure": "+4%"
+    },
+    {
+     "say": "Il titolo recupera dopo tre sedute in rosso.",
+     "show": "Tre sedute in rosso",
+     "figure": ""
+    },
+    {
+     "say": "Il prezzo però resta sotto la media a 200 giorni: finché è lì, è solo un rimbalzo tecnico.",
+     "show": "Sotto la media chiave",
+     "figure": "200"
+    },
+    {
+     "say": "Il livello da guardare è 154 dollari.",
+     "show": "Il livello decisivo",
+     "figure": "154 $"
+    },
+    {
+     "say": "Sopra quel livello cambia tutto. Sotto, il rimbalzo è finito. Segui per domani.",
+     "show": "Sopra o sotto: lì si decide",
+     "figure": ""
+    }
+   ],
    "ticker": "NVDA",
    "sentiment": "bearish",
-   "sources": [
-    "Financial Education",
-    "MindTheChart"
-   ],
-   "caption": "Nvidia al bivio: tu da che parte stai?",
+   "caption": "Nvidia rimbalza, ma il livello che conta è un altro.",
    "hashtags": [
     "#nvidia",
-    "#borsa",
-    "#investimenti"
+    "#borsa"
    ]
   },
   {

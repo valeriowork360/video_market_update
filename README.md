@@ -83,6 +83,7 @@ mp/writer.py         copione lungo, poi short e caroselli ricavati dal copione
 mp/tts.py            voce (Edge TTS, riserva gTTS) con tempi delle parole
 mp/draw.py           grafica di video, short, caroselli, miniatura
 mp/video.py          montaggio con ffmpeg
+mp/motion.py         short animati (hook, battute, colore per canale di origine)
 mp/produce.py        produzione giornaliera e settimanale, a tappe
 mp/publish.py        pubblicazione automatica su Instagram e YouTube
 mp/doctor.py         controllo generale

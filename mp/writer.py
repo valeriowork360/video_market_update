@@ -104,14 +104,27 @@ Return ONE JSON object:
 {{
  "shorts": [   // {shorts_rule}
   {{"segment_id": "id of the script segment it comes from",
-    "title": "max 60 characters",
-    "hook": "first line shown on screen, max 8 words, makes people stop scrolling, honest",
-    "narration": "self-contained, 85-120 words, starts with the hook idea, ends with a takeaway",
+    "origin": "the ONE creator this short is mainly built on: exact name taken from that segment's sources, one of {creators}; or \"news\" if it comes from headlines only",
+    "title": "max 60 characters, curiosity without lying",
+    "beats": [{{"say": "what the voice says", "show": "2-4 words shown HUGE on screen", "figure": "the one key number of the beat as written on screen (\"-7%\", \"5,15%\") or \"\""}}],
     "ticker": "same symbol as the segment or null",
     "sentiment": "bullish|bearish|neutral",
     "caption": "1-2 sentence post caption",
     "hashtags": ["#5-8"]}}
  ],
+ // HOW A SHORT IS BUILT - follow exactly:
+ // - Pick only stories that have a hook: a surprising number, a sharp contrast, a reversal, a
+ //   direct consequence for the viewer's money. A flat recap ("market overview") is NOT a short.
+ //   Fewer strong shorts beat many weak ones.
+ // - Exactly 5 beats, 55-80 words in total:
+ //   1 HOOK   max 12 words. The most surprising fact as a punch, starting with the number or the
+ //            name. No greeting, no "today we talk about", no yes/no question.
+ //   2 CONTEXT  what happened, one sentence.
+ //   3 TWIST    what most people miss, or why it is not what it seems.
+ //   4 STAKES   the level, the date or the number to watch now.
+ //   5 PAYOFF   one line that closes the loop opened by the hook, then a 3-word follow invite.
+ // - "show" is the punchline of the beat, not a copy of "say": it must make sense alone, muted.
+ // - Every sentence is short. One idea per beat. The viewer decides in the first 2 seconds.
  "carousels": [   // {carousel_rule}
   {{"segment_id": "...", "topic": "max 6 words",
     "caption": "Instagram caption, 2-3 sentences, ends with a question or a follow invite",
@@ -235,8 +248,8 @@ def derivatives(script, lang, kind):
         shorts_rule = "return an empty list"
         carousel_rule = "exactly ONE carousel recapping the whole week (segment_id null)"
     else:
-        shorts_rule = (f"{d['shorts_min']} to {d['shorts_max']} shorts, one per strong 'market', "
-                       f"'topic', 'ahead' or 'curious' segment, strongest first")
+        shorts_rule = (f"{d['shorts_min']} to {d['shorts_max']} shorts, only from segments with a real hook, "
+                       f"strongest first")
         carousel_rule = (f"one carousel for each 'topic' segment, plus 'ahead' if strong "
                          f"(max {d['max_carousels']})")
     slim = {"title": script["title"],
@@ -244,13 +257,15 @@ def derivatives(script, lang, kind):
                                                  "sentiment", "sources")}
                          for s in script["segments"]]}
     body = B_PROMPT.format(brand=CFG["brand"]["name"], rules=_rules(lang), shorts_rule=shorts_rule,
-                           carousel_rule=carousel_rule, script=json.dumps(slim, ensure_ascii=False))
+                           carousel_rule=carousel_rule, script=json.dumps(slim, ensure_ascii=False),
+                           creators=json.dumps([c["name"] for c in CFG["channels"]]))
     feedback, last = "", None
     for attempt in (1, 2):
         data, meta = llm.ask("write", lambda n: body[:max(n, 9000)] + feedback, temperature=0.7, patience=1)
         out = _check_deriv(data, script, kind)
         try:
-            blob = " ".join([x["narration"] + " " + x["hook"] + " " + x["caption"] for x in out["shorts"]]
+            blob = " ".join([x["narration"] + " " + x["caption"] + " " + " ".join(b["show"] for b in x["beats"])
+                             for x in out["shorts"]]
                             + [sl["title"] + " " + sl["body"] for c in out["carousels"] for sl in c["slides"]]
                             + [c["caption"] for c in out["carousels"]])
             _language_check(blob, lang)
@@ -372,15 +387,50 @@ def _check_long(d):
             "mood": mood if mood in MOODS else "neutral", "segments": segs, "words": words}
 
 
+def upgrade(soc):
+    """Shorts saved in an older format (no beats) still render: give them beats."""
+    for s in soc.get("shorts", []):
+        if not s.get("beats"):
+            parts = [p.strip() for p in re.split(r"(?<=[.!?])\s+", s.get("narration", "")) if p.strip()]
+            step = max(1, round(len(parts) / 5))
+            groups = [" ".join(parts[i:i + step]) for i in range(0, len(parts), step)][:6] or [s.get("title", "")]
+            s["beats"] = [{"say": g, "show": " ".join(re.sub(r"[.,:;!?]", "", g).split()[:3]), "figure": ""}
+                          for g in groups]
+            if s.get("hook"):
+                s["beats"][0]["show"] = s["hook"]
+        s["narration"] = " ".join(b["say"] for b in s["beats"])
+        s.setdefault("hook", s["beats"][0]["show"])
+        s.setdefault("origin", "news")
+        s.setdefault("sources", [])
+    return soc
+
+
 def _check_deriv(d, script, kind):
     by_id = {s["id"]: s for s in script["segments"]}
     shorts = []
+    creators = [c["name"] for c in CFG["channels"]]
     for s in (d.get("shorts") or []) if kind == "daily" else []:
-        nar = _t(s.get("narration"))
-        if len(nar.split()) < 40:
+        beats = [{"say": _t(x.get("say")), "show": _t(x.get("show"), 44), "figure": _t(x.get("figure"), 14)}
+                 for x in (s.get("beats") or []) if isinstance(x, dict) and clean(x.get("say"))][:6]
+        if len(beats) < 3:      # older format: build the beats from the sentences
+            parts = [p.strip() for p in re.split(r"(?<=[.!?])\s+", _t(s.get("narration"))) if p.strip()]
+            if len(parts) < 3:
+                continue
+            step = max(1, round(len(parts) / 5))
+            groups = [" ".join(parts[i:i + step]) for i in range(0, len(parts), step)][:6]
+            beats = [{"say": g, "show": " ".join(re.sub(r"[.,:;!?]", "", g).split()[:3]), "figure": ""} for g in groups]
+            if clean(s.get("hook")):
+                beats[0]["show"] = _t(s.get("hook"), 44)
+        for b in beats:
+            b["show"] = b["show"] or " ".join(b["say"].split()[:3])
+        nar = " ".join(b["say"] for b in beats)
+        if len(nar.split()) < 30:
             continue
         src = by_id.get(str(s.get("segment_id")), {})
-        shorts.append({"title": _t(s.get("title"), 90), "hook": _t(s.get("hook"), 80),
+        origin = str(s.get("origin") or "").strip()
+        if origin not in creators:
+            origin = next((x for x in src.get("sources", []) if x in creators), "news")
+        shorts.append({"title": _t(s.get("title"), 90), "hook": beats[0]["show"], "beats": beats, "origin": origin,
                        "narration": nar, "ticker": _ticker(s.get("ticker")) or src.get("ticker"),
                        "sentiment": _sent(s.get("sentiment") or src.get("sentiment")),
                        "sources": src.get("sources", []),

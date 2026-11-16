@@ -107,27 +107,18 @@ def long_video(script, lang, folder, date_label, weekly=False):
 
 
 def short_video(short, idx, lang, folder, date_label, mood):
+    from . import motion
     folder.mkdir(parents=True, exist_ok=True)
     tmp = folder / f"_tmp_short{idx}"
     shutil.rmtree(tmp, ignore_errors=True)
     tmp.mkdir(parents=True)
     wav = tmp / "voice.wav"
     said = speech.speakable(short["narration"], lang)
-    heard = tts.speak(said, lang, mood, wav, faster=True)
+    heard = tts.speak(said, lang, mood, wav)
     dur = tts.wav_seconds(wav)
     words = speech.timings(short["narration"], said, heard, dur)
-    scene = draw.ShortScene(short, lang, date_label, prices_for(short["ticker"]))
-    caps = chunks(words, 18, 3)
-    times = sorted({0.0, *[round(c["t"], 3) for c in caps]})
-    times = [t for t in times if t < dur - 0.05]
-    frames = []
-    for j, t in enumerate(times):
-        end = times[j + 1] if j + 1 < len(times) else dur
-        cap = next((c["text"] for c in reversed(caps) if c["t"] <= t + 1e-6), "")
-        p = tmp / f"f{j:05d}.jpg"
-        scene.frame(cap, t / dur).save(p, quality=90)
-        frames.append((p, end - t))
     dst = folder / f"short_{idx:02d}_{lang}_{slug(short['title'] or short['hook'], 40)}.mp4"
-    _encode(frames, wav, dst, tmp)
+    motion.render(short, lang, motion.origin_color(short.get("origin")), words, dur, wav, dst,
+                  prices_for(short["ticker"]))
     shutil.rmtree(tmp, ignore_errors=True)
     return dst, dur
