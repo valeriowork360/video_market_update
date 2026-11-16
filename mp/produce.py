@@ -16,7 +16,7 @@ from datetime import datetime, timedelta
 
 os.environ.setdefault("MP_ROLE", "produce")
 
-from . import draw, llm, news, quota, telegram, video, writer   # noqa: E402
+from . import draw, llm, news, publish, quota, telegram, video, writer   # noqa: E402
 from .core import (CFG, NOTES, OUT, ROOT, SCRIPTS, STATE, clock, local_day, log, now, parse_iso,   # noqa: E402
                    read_json, write_json)
 
@@ -101,6 +101,7 @@ def make_long(lang, kind, day, ctx, folder, sdir, force):
                            video.prices_for(first) or video.prices_for("^GSPC"))
     (folder / f"youtube_{lang}.txt").write_text(youtube_text(script), encoding="utf-8")
     deliver_long(lang, kind, day, script, mp4, secs, thumb, script.get("n_notes", 0), script.get("n_news", 0))
+    publish.long_video(f"{day}_{kind}", lang, script, mp4, thumb)
     return script
 
 
@@ -121,6 +122,7 @@ def make_social(lang, kind, day, script, folder, sdir, force):
             (mp4.with_suffix(".txt")).write_text(cap, encoding="utf-8")
             telegram.video(mp4, f"📱 Short {i}/{len(soc['shorts'])}\n{cap}", 1080, 1920, secs)
             n_s += 1
+            publish.short(f"{day}_{kind}", lang, i, s, mp4)
         except Exception as e:
             log(f"    short {i} saltato: {str(e)[:160]}")
     for i, c in enumerate(soc["carousels"], 1):
@@ -132,9 +134,13 @@ def make_social(lang, kind, day, script, folder, sdir, force):
             telegram.album(paths, f"🖼 Carosello {i}/{len(soc['carousels'])}: {c['topic']}")
             telegram.message("<code>" + telegram.esc(cap) + "</code>", html_mode=True)
             n_c += 1
+            publish.carousel(f"{day}_{kind}", lang, i, c, paths)
         except Exception as e:
             log(f"    carosello {i} saltato: {str(e)[:160]}")
     log(f"  consegnati {n_s} short e {n_c} caroselli")
+    online = publish.report(f"{day}_{kind}", lang)
+    if online:
+        telegram.message(online)
     if kind == "daily" and soc["shorts"] and not n_s:
         raise RuntimeError("nessuno short montato")
     return n_s, n_c
@@ -154,6 +160,8 @@ def main():
     a = ap.parse_args()
     kind, day = a.kind, a.day or local_day()
     key = f"{day}_{kind}"
+    if a.offline:
+        os.environ["MP_OFFLINE"] = "1"
     silent = bool(os.environ.get("MP_SILENT"))      # trial run: nothing is sent, nothing is recorded
     ledger = OUT / "produced_trial.json" if (a.offline or silent) else STATE / "produced.json"
     produced = {} if (a.offline or silent) else read_json(ledger, {})
@@ -207,6 +215,7 @@ def main():
     for lang in todo:
         log(f"== {lang.upper()} ==")
         st = rec["langs"].setdefault(lang, {})
+        publish.prepare(lang)
         try:
             if a.force or not st.get("long") or not read_json(sdir / f"{lang}.json"):
                 script = make_long(lang, kind, day, ctx, folder / lang, sdir, a.force)

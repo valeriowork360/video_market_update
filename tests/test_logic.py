@@ -260,10 +260,85 @@ def test_schedule():
     print("schedule ok")
 
 
+def test_publish():
+    """Publishing: nothing twice, daily caps respected, YouTube held back until allowed."""
+    from mp import publish
+    publish.LEDGER = TMP / "published.json"
+    publish.STATE = TMP
+    publish.P["gap_seconds"] = 0
+    os.environ.update(IG_TOKEN_IT="ig-token-123456789", YT_CLIENT_ID="id", YT_CLIENT_SECRET="secret-abcdefghijk",
+                      YT_REFRESH_TOKEN_IT="refresh-abcdefghijk", GITHUB_REPOSITORY="o/r")
+    os.environ.pop("IG_TOKEN_EN", None)
+    calls = []
+
+    class R:
+        def __init__(self, j, status=200, headers=None):
+            self._j, self.status_code, self.headers, self.ok, self.text = j, status, headers or {}, status < 300, str(j)
+
+        def json(self):
+            return self._j
+
+    def http(method, url, **kw):
+        calls.append((method, url.split("?")[0], kw.get("data") if isinstance(kw.get("data"), dict) else None))
+        if "refresh_access_token" in url:
+            return R({"access_token": "x", "expires_in": 5183944})
+        if "rupload" in url:
+            return R({"success": True})
+        if url.endswith("me/media"):
+            return R({"id": f"c{len(calls)}", "uri": "https://rupload.facebook.com/ig-api-upload/v1/c"})
+        if url.endswith("media_publish"):
+            return R({"id": f"post{len(calls)}"})
+        if "oauth2.googleapis.com" in url:
+            return R({"access_token": "ya29"})
+        if "upload/youtube/v3/videos" in url:
+            return R({}, headers={"Location": "https://upload.example/session"})
+        if "upload.example" in url:
+            return R({"id": "ytid"})
+        return R({"status_code": "FINISHED"})
+
+    publish._http = http
+    publish.host = lambda files, tag: [f"https://raw.example/{tag}/{i}.jpg" for i, _ in enumerate(files)]
+    mp4 = TMP / "v.mp4"
+    mp4.write_bytes(b"0" * 100)
+    from PIL import Image
+    imgs = []
+    for i in range(3):
+        p = TMP / f"s{i}.png"
+        Image.new("RGB", (10, 10)).save(p)
+        imgs.append(p)
+    s = {"title": "T", "caption": "C", "hashtags": ["#a", "#b"]}
+    c = {"caption": "Cap", "hashtags": ["#x"]}
+    key = "2026-11-16_daily"
+    publish.prepare("it")
+    for i in range(1, 6):
+        publish.short(key, "it", i, s, mp4)
+    for i in range(1, 5):
+        publish.carousel(key, "it", i, c, imgs)
+    publish.long_video(key, "it", {"title": "L", "description": "D", "tags": ["x"]}, mp4, None)
+    led = publish._ledger()[key + "_it"]
+    assert sorted(led) == ["ig:car1", "ig:car2", "ig:reel1", "ig:reel2", "ig:reel3"], led   # caps 3 + 2, YouTube off
+    n = len(calls)
+    publish.short(key, "it", 1, s, mp4)                      # already online: no second post
+    assert len(calls) == n
+    kids = [x for x in calls if x[2] and x[2].get("is_carousel_item")]
+    assert len(kids) == 6 and any(x[2] and x[2].get("media_type") == "CAROUSEL" for x in calls)
+    publish.short(key, "en", 1, s, mp4)                      # no English account configured: skipped
+    assert key + "_en" not in publish._ledger()
+    publish.YT["mode"] = "public"                            # after Google's approval
+    publish.long_video(key, "it", {"title": "L", "description": "D", "tags": ["x"]}, mp4, None)
+    assert publish._ledger()[key + "_it"]["yt:long"] == "ytid"
+    publish.YT["mode"] = "off"
+    rep = publish.report(key, "it")
+    assert "3 Reel, 2 caroselli" in rep and "ig-token" not in rep
+    assert publish._safe("errore con ig-token-123456789 dentro") == "errore con *** dentro"
+    print("publish ok")
+
+
 if __name__ == "__main__":
     test_schedule()
     test_channel_page()
     test_router()
     test_watch()
     test_writer()
+    test_publish()
     print("TUTTO OK")

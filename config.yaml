@@ -165,6 +165,28 @@ weekly:
 captions: true                  # sottotitoli sincronizzati nei video
 
 # ------------------------------------------------------------
+#  Pubblicazione automatica (API ufficiali e gratuite).
+#  Un account per lingua. Una piattaforma senza le sue chiavi
+#  viene semplicemente saltata. Come ottenere le chiavi:
+#  vedi PUBBLICAZIONE.md
+# ------------------------------------------------------------
+publish:
+  enabled: true                 # false = non pubblica nulla, arriva solo su Telegram
+  gap_seconds: 40               # pausa tra una pubblicazione e l'altra
+  instagram:
+    reels_per_day: 3            # i piu' forti della giornata; gli altri restano su Telegram
+    carousels_per_day: 2
+    api_version: ""             # vuoto = versione predefinita di Meta
+  youtube:
+    # off     = non carica nulla (finche' Google non approva il progetto, i video caricati
+    #           via API restano privati PER SEMPRE: meglio non caricarli)
+    # private = solo per le prove richieste da Google durante l'approvazione
+    # public  = dopo l'approvazione
+    mode: "off"
+    shorts_per_day: 3
+    category_id: 25             # Notizie e politica
+
+# ------------------------------------------------------------
 #  Account X: per ora spenti (X non ha un accesso gratuito).
 #  L'elenco resta qui pronto per quando lo attiveremo.
 # ------------------------------------------------------------

@@ -2,7 +2,13 @@ name: 0 - Controllo
 
 # Prova ogni pezzo (chiavi, AI, feed, voce, prezzi) e ti manda il referto su Telegram.
 on:
-  workflow_dispatch: {}
+  workflow_dispatch:
+    inputs:
+      cosa:
+        description: "Cosa controllare"
+        type: choice
+        options: [tutto, pubblicazione]
+        default: tutto
 
 permissions:
   contents: read
@@ -24,6 +30,13 @@ jobs:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           MISTRAL_API_KEY: ${{ secrets.MISTRAL_API_KEY }}
           GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+          IG_TOKEN_IT: ${{ secrets.IG_TOKEN_IT }}
+          IG_TOKEN_EN: ${{ secrets.IG_TOKEN_EN }}
+          YT_CLIENT_ID: ${{ secrets.YT_CLIENT_ID }}
+          YT_CLIENT_SECRET: ${{ secrets.YT_CLIENT_SECRET }}
+          YT_REFRESH_TOKEN_IT: ${{ secrets.YT_REFRESH_TOKEN_IT }}
+          YT_REFRESH_TOKEN_EN: ${{ secrets.YT_REFRESH_TOKEN_EN }}
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          MP_CHECK: ${{ inputs.cosa }}
         run: python -m mp.doctor

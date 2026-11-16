@@ -55,6 +55,10 @@ Le riserve entrano in gioco solo se tutti i modelli Gemini sono occupati. Basta 
 Tutto in `config.yaml`: canali, feed di notizie, lunghezza dei video, numero di short, voci, colori e nome del canale.
 Gli orari sono nella sezione `schedule`, nel tuo fuso.
 
+## Pubblicazione automatica
+
+Instagram (Reel e caroselli) e YouTube (video lungo e Shorts) vengono pubblicati da soli, un account per lingua, appena aggiungi le chiavi. YouTube resta spento finché Google non approva il progetto. Tutti i passaggi sono in [PUBBLICAZIONE.md](PUBBLICAZIONE.md).
+
 ## Account X
 
 Per ora spenti: X non offre più un accesso gratuito per leggere i post. L'elenco degli account è già in `config.yaml`, pronto per quando lo attiveremo con il filtro anti-clickbait.
@@ -80,6 +84,7 @@ mp/tts.py            voce (Edge TTS, riserva gTTS) con tempi delle parole
 mp/draw.py           grafica di video, short, caroselli, miniatura
 mp/video.py          montaggio con ffmpeg
 mp/produce.py        produzione giornaliera e settimanale, a tappe
+mp/publish.py        pubblicazione automatica su Instagram e YouTube
 mp/doctor.py         controllo generale
 scripts/due.py       decide a ogni scatto cosa c'è da fare
 data/                note, notizie, copioni e stato (aggiornati dal bot)

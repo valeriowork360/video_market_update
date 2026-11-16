@@ -11,7 +11,7 @@ from pathlib import Path
 
 os.environ.setdefault("MP_ROLE", "doctor")
 
-from . import llm, news, quota, telegram, tts, youtube   # noqa: E402
+from . import llm, news, publish, quota, telegram, tts, youtube   # noqa: E402
 from .core import CFG, log, secret   # noqa: E402
 
 rows = []
@@ -105,6 +105,34 @@ def main():
             raise RuntimeError("ffmpeg mancante")
         return "presente"
 
+    def instagram(lang):
+        def run():
+            if not publish.ig_token(lang):
+                return f"non configurato (manca il segreto IG_TOKEN_{lang.upper()})"
+            user, kind = publish.ig_me(lang)
+            if kind and kind.upper() not in ("BUSINESS", "MEDIA_CREATOR", "CREATOR"):
+                raise RuntimeError(f"@{user} non e' un account professionale ({kind}): convertilo dalle impostazioni di Instagram")
+            return f"@{user} collegato: Reel e caroselli partono da soli"
+        return run
+
+    def yt(lang):
+        def run():
+            if not publish.yt_ready(lang):
+                return f"non configurato (YT_CLIENT_ID, YT_CLIENT_SECRET, YT_REFRESH_TOKEN_{lang.upper()})"
+            name = publish.yt_whoami(lang)
+            mode = publish.yt_mode()
+            note = {"off": "caricamento spento finche' Google non approva il progetto",
+                    "private": "carica in privato (solo prove)", "public": "pubblica in automatico"}[mode]
+            return f"canale \"{name}\" collegato; {note}"
+        return run
+
+    only_publish = os.environ.get("MP_CHECK", "").startswith("pub")
+    for lang in CFG["languages"]:
+        check(f"Instagram {lang.upper()}", instagram(lang))
+        check(f"YouTube {lang.upper()}", yt(lang))
+    if only_publish:
+        return finish()
+
     check("Chiave Gemini e modelli", gemini_models)
     check("Gemini (testo, modello leggero)", gemini_text)
     check("Gemini (scrittura copioni)", gemini_writer)
@@ -118,14 +146,16 @@ def main():
     check("Voce narrante", voice)
     check("ffmpeg", ffmpeg)
 
+    return finish()
+
+
+def finish():
     q = quota.summary()
     bad = sum(1 for r in rows if r[0] == "❌")
     text = ["🩺 <b>Controllo Market Pulse</b>", ""]
     text += [f"{r[0]} <b>{telegram.esc(r[1])}</b>: {telegram.esc(r[2])}" for r in rows]
     text += ["", f"Richieste AI usate oggi: {telegram.esc(q['requests'])}",
              "Tutto a posto." if not bad else f"{bad} controlli da sistemare."]
-    if not secret("TELEGRAM_BOT_TOKEN"):
-        log("TELEGRAM_BOT_TOKEN mancante")
     telegram.message("\n".join(text), html_mode=True)
     return 1 if any(r[0] == "❌" and r[1] in ("Chiave Gemini e modelli", "Voce narrante", "ffmpeg") for r in rows) else 0
 
