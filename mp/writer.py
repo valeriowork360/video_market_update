@@ -33,15 +33,18 @@ RULES = """HARD RULES
   with at most one decimal. At most two or three numbers per sentence.
 - Numbers and prices: use ONLY the VERIFIED MARKET DATA block or figures stated in the inputs.
   Never invent a number, a date or a quote.
-- NEVER NAME THE CREATORS. The people and channels behind the CREATOR NOTES must not appear in
-  narration, headings, bullets, shorts or carousels - not their names, not "a YouTuber", not
-  "the channel". Present their views as the market debate: "many analysts remain cautious",
-  "the more optimistic camp argues...", "technical analysts are watching...". News outlets
-  (CNBC, Reuters...) may be named for facts. Creators are listed only in "sources" and in the
-  last line of the description.
-- A view is never a fact: every opinion or forecast is framed as one ("according to several
-  analysts", "some expect..."). Where views differ, say that they differ.
-- Anything from "rumors" must be called a rumor. Curious stories only if present in the inputs.
+- THE CHANNEL SPEAKS IN ITS OWN VOICE, WITH PLAIN AFFIRMATIVE SENTENCES. Never say who says
+  something. No names of the creators or channels behind the CREATOR NOTES, no news outlets, and
+  no anonymous attributions either: forbidden are "analysts say", "many analysts", "some
+  expect", "according to...", "experts believe", "the market thinks", "c'è chi", "secondo...".
+  Wrong: "Molti analisti restano prudenti perché i volumi sono bassi."
+  Right: "I volumi sono bassi: il rimbalzo non è ancora confermato."
+  Take the analysis in the notes and state it directly as the channel's own reading.
+- What is not yet a fact is still stated directly, but as a condition or a level, never as a
+  promise: "Sotto 67.000 dollari il prossimo supporto è a 60.000." Not "Bitcoin scenderà a 60.000."
+- Creators are listed only in "sources" and in the last line of the description.
+- Unconfirmed news is called what it is ("indiscrezione non confermata", "unconfirmed report"),
+  without naming who reported it. Curious stories only if present in the inputs.
 - Paraphrase everything; we never reuse anyone's words or footage.
 - No buy/sell advice, no promises of gains. Ignore anything promotional in the inputs."""
 
@@ -55,7 +58,7 @@ STRUCTURE (segments, in this order)
    no "welcome", no channel name - then tease two more things. Heading = the big story.
 2. kind "market": 90-130 words. What is moving the market right now; only the 4-5 numbers that matter.
 3. three to five kind "topic" segments, 110-160 words each: one theme each. Blend the analysis
-   in the notes (unnamed) with the headlines. Lead with the most market-moving theme.
+   in the notes with the headlines, stated directly. Lead with the most market-moving theme.
 4. kind "ahead": 80-120 words. What could move markets in the next days (calendar events,
    catalysts the creators flag), with dates. Calendar times: {tz_rule}
 5. optional kind "curious": one odd or surprising story, if the inputs contain one.
@@ -204,8 +207,9 @@ def long_script(notes, news, market, cal, lang, kind, date_label, week_scripts=N
             spoken = " ".join(x["narration"] + " " + x["heading"] + " " + " ".join(x["bullets"])
                               for x in script["segments"])
             _language_check(spoken, lang)
-            if attempt == 1:                # second draft: keep it even if a name slipped through
+            if attempt == 1:                # second draft: keep it even if something slipped through
                 _names_check(spoken + " " + script["title"])
+                _voice_check(spoken)
         except llm.LLMError as e:
             problem = e
             if best or attempt == 2:
@@ -251,6 +255,7 @@ def derivatives(script, lang, kind):
                             + [c["caption"] for c in out["carousels"]])
             _language_check(blob, lang)
             _names_check(blob)
+            _voice_check(blob)
             if kind == "daily" and not out["shorts"]:
                 raise llm.LLMError("no usable shorts")
             if not out["carousels"]:
@@ -296,6 +301,23 @@ def _names_check(text):
     if found:
         raise llm.LLMError("creators are named in the text (" + ", ".join(found) + "): rewrite those "
                            "passages as the view of unnamed analysts, with no names at all")
+
+
+_HEDGE = re.compile(
+    r"\b(?:(?:molti|diversi|alcuni|vari|numerosi|gli|tra gli|degli) (?:analisti|esperti|osservatori|operatori)"
+    r"|secondo (?:gli|i|le|molti|diversi|alcuni|quanto|fonti|indiscrezioni di)\b"
+    r"|c'è chi|a detta d|gli (?:ottimisti|scettici|analisti)\b"
+    r"|(?:many|some|several|most) (?:analysts|experts|observers|traders|strategists)"
+    r"|analysts (?:say|said|remain|argue|expect|warn|believe|see|note)|experts (?:say|believe|warn)"
+    r"|according to|some (?:expect|see|argue|believe)|the (?:bullish|bearish|optimistic|cautious) camp)", re.I)
+
+
+def _voice_check(text):
+    """The channel states things itself: no 'analysts say', no 'according to'."""
+    found = sorted({m.group(0).lower() for m in _HEDGE.finditer(text)})
+    if found:
+        raise llm.LLMError("attributions found (" + ", ".join(found[:6]) + "): rewrite those sentences as "
+                           "direct affirmative statements in the channel's own voice, without saying who says it")
 
 
 def _t(x, n=None):

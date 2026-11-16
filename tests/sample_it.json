@@ -1,5 +1,5 @@
 {
- "title": "Wall Street rimbalza, ma gli analisti restano prudenti",
+ "title": "Wall Street rimbalza, ma la prudenza resta",
  "description": "Esempio di prova.\nMercati, autori e prossimi eventi.\nFonti: Jason Pizzino, Marco Casario, Financial Education.",
  "tags": [
   "borsa",
@@ -16,7 +16,7 @@
    "id": "s1",
    "kind": "hook",
    "heading": "Rimbalzo o trappola?",
-   "narration": "Wall Street prova a risalire, ma molti analisti invitano alla prudenza. Oggi vediamo perché il rimbalzo non convince tutti, cosa succede a Nvidia e quali dati possono cambiare il quadro nei prossimi giorni.",
+   "narration": "Wall Street prova a risalire, ma la prudenza resta d'obbligo. Oggi vediamo perché il rimbalzo non convince tutti, cosa succede a Nvidia e quali dati possono cambiare il quadro nei prossimi giorni.",
    "bullets": [
     "Il rimbalzo non convince",
     "Nvidia sotto pressione",
@@ -30,7 +30,7 @@
    "id": "s2",
    "kind": "market",
    "heading": "Indici in recupero",
-   "narration": "Partiamo dai numeri. L'S&P 500 recupera circa l'1% dopo tre sedute negative, mentre il Nasdaq fa leggermente meglio. La volatilità scende, ma resta sopra la media dell'ultimo mese. Secondo diversi analisti il mercato mostra forza, però manca ancora la conferma dei volumi.",
+   "narration": "Partiamo dai numeri. L'S&P 500 recupera circa l'1% dopo tre sedute negative, mentre il Nasdaq fa leggermente meglio. La volatilità scende, ma resta sopra la media dell'ultimo mese. Il mercato mostra forza, però manca ancora la conferma dei volumi.",
    "bullets": [
     "S&P 500 in recupero",
     "Volatilità ancora alta",
@@ -47,7 +47,7 @@
    "id": "s3",
    "kind": "topic",
    "heading": "Nvidia, il titolo più discusso",
-   "narration": "Nvidia resta il titolo più discusso. Una parte degli analisti è ottimista e parla di un'occasione per chi guarda al lungo periodo. Altri sono più cauti: il prezzo è ancora sotto una media importante e il rimbalzo potrebbe essere solo tecnico. Due letture opposte dello stesso grafico.",
+   "narration": "Nvidia resta il titolo più discusso. Per chi guarda al lungo periodo può essere un'occasione, ma il prezzo è ancora sotto una media importante e il rimbalzo potrebbe essere solo tecnico. Due letture opposte dello stesso grafico.",
    "bullets": [
     "Gli ottimisti: è un'occasione",
     "I prudenti: rimbalzo tecnico",
@@ -64,7 +64,7 @@
    "id": "s4",
    "kind": "ahead",
    "heading": "I dati che contano",
-   "narration": "Nei prossimi giorni l'attenzione va all'inflazione americana e alle parole della Federal Reserve. Molti osservatori ricordano che un dato più alto delle attese potrebbe raffreddare il rimbalzo, mentre un dato in linea darebbe ossigeno ai listini.",
+   "narration": "Nei prossimi giorni l'attenzione va all'inflazione americana e alle parole della Federal Reserve. Un dato più alto delle attese potrebbe raffreddare il rimbalzo, mentre un dato in linea darebbe ossigeno ai listini.",
    "bullets": [
     "Inflazione USA in uscita",
     "Parla la Federal Reserve",

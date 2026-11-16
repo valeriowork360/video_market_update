@@ -31,7 +31,7 @@ class Skip(Exception):
 
 
 def active():
-    return bool(P.get("enabled", True)) and not os.environ.get("MP_SILENT") and not os.environ.get("MP_OFFLINE")
+    return bool(P.get("enabled", True)) and not any(os.environ.get(k) for k in ("MP_SILENT", "MP_OFFLINE", "MP_PREVIEW"))
 
 
 def _safe(text):

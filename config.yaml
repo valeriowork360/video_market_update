@@ -155,10 +155,11 @@ narrator:
     # Le voci "Multilingual" pronunciano bene i nomi inglesi (Bitcoin, Nvidia, Wall Street).
     # Per ascoltare le alternative: Actions > 0 - Controllo > cosa: voci
     it: [it-IT-GiuseppeMultilingualNeural, it-IT-DiegoNeural, it-IT-IsabellaNeural]
-    en: [en-US-AndrewNeural, en-US-BrianNeural, en-US-GuyNeural]
+    en: [en-US-AndrewMultilingualNeural, en-US-AndrewNeural, en-US-BrianNeural]
 
 # ------------------------------------------------------------
-#  Autori: le loro analisi alimentano i video, ma la voce non li nomina mai.
+#  Autori: le loro analisi alimentano i video, ma la voce non li nomina mai
+#  e non dice mai "secondo gli analisti": parla in prima persona, con frasi affermative.
 #  never_say = nomi che non devono comparire in narrazione, short e caroselli.
 #  on_screen = piccola riga "Fonti" in basso nei video (true/false).
 #  Il credito agli autori resta nella descrizione di YouTube.

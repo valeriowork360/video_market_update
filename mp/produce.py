@@ -64,6 +64,8 @@ def youtube_text(script):
 
 def deliver_long(lang, kind, day, script, mp4, secs, thumb, n_notes, n_news):
     kind_it = "RECAP SETTIMANALE" if kind == "weekly" else "GIORNALIERO"
+    if os.environ.get("MP_PREVIEW"):
+        kind_it = "ANTEPRIMA DI PROVA · " + kind_it
     telegram.message(
         f"{FLAG[lang]} <b>{kind_it} · {date_label(day, 'it', False)}</b>\n"
         f"🎬 {telegram.esc(script['title'])}\n"
@@ -162,7 +164,9 @@ def main():
     key = f"{day}_{kind}"
     if a.offline:
         os.environ["MP_OFFLINE"] = "1"
-    silent = bool(os.environ.get("MP_SILENT"))      # trial run: nothing is sent, nothing is recorded
+    # trial runs record nothing, so the scheduled edition is untouched:
+    #   MP_SILENT  = nothing is sent          MP_PREVIEW = sent to Telegram, marked as a preview
+    silent = bool(os.environ.get("MP_SILENT") or os.environ.get("MP_PREVIEW"))
     ledger = OUT / "produced_trial.json" if (a.offline or silent) else STATE / "produced.json"
     produced = {} if (a.offline or silent) else read_json(ledger, {})
     rec = produced.setdefault(key, {"langs": {}, "notes": []})
