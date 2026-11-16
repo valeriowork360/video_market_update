@@ -5,7 +5,7 @@ import subprocess
 import wave
 from pathlib import Path
 
-from . import draw, news, tts
+from . import draw, news, speech, tts
 from .core import CFG, log, slug
 
 FPS = 24
@@ -74,8 +74,10 @@ def long_video(script, lang, folder, date_label, weekly=False):
     voiced = []
     for i, s in enumerate(segs):
         wav = tmp / f"seg{i:02d}.wav"
-        words = tts.speak(s["narration"], lang, script["mood"], wav)
-        voiced.append((wav, words, tts.wav_seconds(wav)))
+        said = speech.speakable(s["narration"], lang)
+        heard = tts.speak(said, lang, script["mood"], wav)
+        secs = tts.wav_seconds(wav)
+        voiced.append((wav, speech.timings(s["narration"], said, heard, secs), secs))
     total = sum(v[2] for v in voiced)
     frames, elapsed, n = [], 0.0, 0
     for i, (s, (wav, words, dur)) in enumerate(zip(segs, voiced)):
@@ -110,8 +112,10 @@ def short_video(short, idx, lang, folder, date_label, mood):
     shutil.rmtree(tmp, ignore_errors=True)
     tmp.mkdir(parents=True)
     wav = tmp / "voice.wav"
-    words = tts.speak(short["narration"], lang, mood, wav, faster=True)
+    said = speech.speakable(short["narration"], lang)
+    heard = tts.speak(said, lang, mood, wav, faster=True)
     dur = tts.wav_seconds(wav)
+    words = speech.timings(short["narration"], said, heard, dur)
     scene = draw.ShortScene(short, lang, date_label, prices_for(short["ticker"]))
     caps = chunks(words, 18, 3)
     times = sorted({0.0, *[round(c["t"], 3) for c in caps]})

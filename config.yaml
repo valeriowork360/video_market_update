@@ -151,8 +151,21 @@ ai:
 narrator:
   mode: auto
   voices:
-    it: [it-IT-DiegoNeural, it-IT-GiuseppeMultilingualNeural, it-IT-IsabellaNeural]
+    # La prima della lista e' quella usata; le altre sono riserve.
+    # Le voci "Multilingual" pronunciano bene i nomi inglesi (Bitcoin, Nvidia, Wall Street).
+    # Per ascoltare le alternative: Actions > 0 - Controllo > cosa: voci
+    it: [it-IT-GiuseppeMultilingualNeural, it-IT-DiegoNeural, it-IT-IsabellaNeural]
     en: [en-US-AndrewNeural, en-US-BrianNeural, en-US-GuyNeural]
+
+# ------------------------------------------------------------
+#  Autori: le loro analisi alimentano i video, ma la voce non li nomina mai.
+#  never_say = nomi che non devono comparire in narrazione, short e caroselli.
+#  on_screen = piccola riga "Fonti" in basso nei video (true/false).
+#  Il credito agli autori resta nella descrizione di YouTube.
+# ------------------------------------------------------------
+credits:
+  on_screen: false
+  never_say: [Pizzino, Casario, Financial Education, Lefebvre, MindTheChart, Mind The Chart, 0xTalks, 0x Talks]
 
 daily:
   minutes: 6                    # durata indicativa del video lungo

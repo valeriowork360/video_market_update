@@ -1,4 +1,5 @@
 """All the pictures: video frames, shorts frames, carousel slides, thumbnail. Pure Pillow."""
+import re
 from functools import lru_cache
 
 from PIL import Image, ImageDraw, ImageFilter, ImageFont
@@ -6,17 +7,20 @@ from PIL import Image, ImageDraw, ImageFilter, ImageFont
 from .core import ASSETS, CFG, clean
 
 B = CFG["brand"]
+SHOW_SOURCES = bool(CFG.get("credits", {}).get("on_screen", True))
 L = {
     "it": {"hook": "IN APERTURA", "market": "MERCATI ADESSO", "topic": "FOCUS", "ahead": "PROSSIMI GIORNI",
            "curious": "IL CASO CURIOSO", "outro": "IN CHIUSURA", "bullish": "RIALZISTA",
            "bearish": "RIBASSISTA", "neutral": "NEUTRALE", "sources": "Fonti", "swipe": "Scorri",
            "months": "3 mesi", "follow": "Segui per l'aggiornamento di domani",
-           "disclaimer": "Contenuto informativo, non consulenza finanziaria.", "weekly": "RECAP SETTIMANALE"},
+           "disclaimer": "Contenuto informativo, non consulenza finanziaria.", "weekly": "RECAP SETTIMANALE",
+           "inside": "IN QUESTO CAROSELLO", "takeaway": "IN SINTESI"},
     "en": {"hook": "TODAY", "market": "MARKETS NOW", "topic": "FOCUS", "ahead": "COMING DAYS",
            "curious": "ODD ONE OUT", "outro": "WRAP-UP", "bullish": "BULLISH", "bearish": "BEARISH",
            "neutral": "NEUTRAL", "sources": "Sources", "swipe": "Swipe", "months": "3 months",
            "follow": "Follow for tomorrow's update",
-           "disclaimer": "For information only, not financial advice.", "weekly": "WEEKLY RECAP"},
+           "disclaimer": "For information only, not financial advice.", "weekly": "WEEKLY RECAP",
+           "inside": "INSIDE THIS CAROUSEL", "takeaway": "THE TAKEAWAY"},
 }
 
 
@@ -226,7 +230,7 @@ class LongScene:
             d.text((m, 760), L[lang]["disclaimer"], font=font("m", 32), fill=MUTED, anchor="lm")
         if has_chart:
             chart_card(im, (1100, 176, self.W - m, 800), s["ticker"], self.prices, lang)
-        if s["sources"]:
+        if s["sources"] and SHOW_SOURCES:
             src = f"{L[lang]['sources']}: " + "  ·  ".join(s["sources"])
             f2, l2 = fit(src, "m", self.W - 2 * m, 1, 28, 22)
             d.text((m, 846), l2[0], font=f2, fill=MUTED, anchor="lm")
@@ -270,7 +274,7 @@ class ShortScene:
             self.cap_y = top + 390 + 190
         else:
             self.cap_y = max(y + 330, 1120)
-        if s.get("sources"):
+        if s.get("sources") and SHOW_SOURCES:
             src = f"{L[lang]['sources']}: " + " · ".join(s["sources"][:3])
             f2, l2 = fit(src, "m", self.W - 2 * m - 140, 1, 28, 22)
             d.text((m, 1610), l2[0], font=f2, fill=MUTED, anchor="lm")
@@ -285,7 +289,104 @@ class ShortScene:
 
 
 # ---------------------------------------------------------------- carousel 1080x1350
-def carousel(car, lang, folder):
+_HOT = re.compile(r"\d|%|\$|€")
+
+
+def rich(d, x, y, lines, f, base, hot, gap=1.1):
+    """Text block where figures (numbers, %, prices) take the accent colour."""
+    space = f.getlength(" ")
+    for ln in lines:
+        cx = x
+        for word in ln.split(" "):
+            d.text((cx, y), word, font=f, fill=hot if _HOT.search(word) else base)
+            cx += f.getlength(word) + space
+        y += round(f.size * gap)
+    return y
+
+
+def _pill(d, x, y, text, f, fill, ink, pad=(26, 13)):
+    w = round(f.getlength(text)) + pad[0] * 2
+    h = f.size + pad[1] * 2
+    d.rounded_rectangle((x, y, x + w, y + h), h // 2, fill=fill)
+    d.text((x + pad[0], y + h / 2), text, font=f, fill=ink, anchor="lm")
+    return w, h
+
+
+def _swipe(d, W, H, m, lang, col):
+    """Bottom-right call to action: a solid pill with an arrow."""
+    f = font("x", 34)
+    label = L[lang]["swipe"]
+    w = round(f.getlength(label)) + 128
+    x0, y0 = W - m - w, H - 150
+    d.rounded_rectangle((x0, y0, x0 + w, y0 + 84), 42, fill=col)
+    d.text((x0 + 38, y0 + 42), label, font=f, fill=BG, anchor="lm")
+    ax, ay = x0 + w - 36, y0 + 42
+    d.line((ax - 40, ay, ax, ay), fill=BG, width=6)
+    d.polygon([(ax + 6, ay), (ax - 16, ay - 15), (ax - 16, ay + 15)], fill=BG)
+
+
+def _dots(d, m, y, n, i, col):
+    for k in range(n):
+        x = m + k * 30
+        d.ellipse((x, y - 7, x + 14, y + 7), fill=col if k == i else mix(BG, MUTED, 0.45))
+
+
+def _cover(car, lang, date_label, prices, W, H, m, col):
+    """Slide 1: stop the scroll (big hook, key figures in colour, price line behind)
+    and preview what the next slides contain."""
+    slides, n = car["slides"], len(car["slides"])
+    im = backdrop(W, H, col).copy()
+    if prices:
+        up = prices[-1] >= prices[0]
+        ch = chart(prices, W, 520, SENT["bullish"] if up else SENT["bearish"])
+        faded = Image.blend(Image.new("RGBA", ch.size, (0, 0, 0, 0)), ch, 0.5)
+        im.paste(faded, (0, 250), faded)
+    d = ImageDraw.Draw(im)
+    d.rectangle((0, 0, W, 14), fill=col)
+    d.text((m, 104), B["name"].upper(), font=font("x", 32), fill=ACCENT, anchor="lm")
+    if date_label:
+        d.text((W - m, 104), date_label, font=font("s", 30), fill=MUTED, anchor="rm")
+    _pill(d, m, 176, clean(car["topic"]).upper(), font("x", 28), col, BG)
+
+    # preview of the next slides, anchored to the bottom
+    items = [s["title"] for s in slides[1:-1]][:3] or [s["title"] for s in slides[1:]][:3]
+    row, head = 66, 58
+    box_h = head + row * len(items) + 30
+    box_top = H - 190 - box_h
+    # hook: as large as the remaining room allows
+    room = box_top - 40 - 270
+    teaser = slides[0].get("body", "")
+    for size in (132, 120, 108, 96, 88, 80, 72, 64):
+        f = font("x", size)
+        lines = wrap(slides[0]["title"], f, W - 2 * m)
+        f2 = font("m", 40)
+        l2 = wrap(teaser, f2, W - 2 * m)[:2] if teaser else []
+        need = len(lines) * round(size * 1.06) + (34 + len(l2) * 54 if l2 else 0)
+        if need <= room and all(f.getlength(x) <= W - 2 * m for x in lines):
+            break
+        if size <= 88 and l2:               # still too tall: drop the teaser before shrinking more
+            l2, need = [], len(lines) * round(size * 1.06)
+            if need <= room:
+                break
+    y = rich(d, m, 270 + max(0, (room - need) // 3), lines, f, TEXT, col, gap=1.06)
+    if l2:
+        text_block(d, (m, y + 26), l2, f2, mix(TEXT, MUTED, 0.45), gap=1.32)
+
+    d.rounded_rectangle((m, box_top, W - m, box_top + box_h), 30, fill=mix(BG, PANEL, 0.92),
+                        outline=mix(PANEL, col, 0.5), width=2)
+    d.text((m + 34, box_top + 38), L[lang]["inside"], font=font("x", 24), fill=col, anchor="lm")
+    yy = box_top + head + 14
+    for k, title in enumerate(items):
+        d.text((m + 34, yy + row / 2 - 6), f"{k + 2:02d}", font=font("x", 34), fill=col, anchor="lm")
+        ft, tl = fit(title, "s", W - 2 * m - 150, 1, 36, 28)
+        d.text((m + 106, yy + row / 2 - 6), tl[0], font=ft, fill=TEXT, anchor="lm")
+        yy += row
+    _dots(d, m, H - 108, n, 0, col)
+    _swipe(d, W, H, m, lang, col)
+    return im
+
+
+def carousel(car, lang, folder, date_label="", prices=None):
     """Write the slides as PNG and return their paths."""
     W, H, m = 1080, 1350, 84
     folder.mkdir(parents=True, exist_ok=True)
@@ -293,47 +394,39 @@ def carousel(car, lang, folder):
     slides, paths = car["slides"], []
     n = len(slides)
     for i, s in enumerate(slides):
-        im = backdrop(W, H, col).copy()
-        d = ImageDraw.Draw(im)
-        d.text((m, 96), B["name"].upper(), font=font("x", 30), fill=ACCENT, anchor="lm")
-        d.text((W - m, 96), f"{i + 1}/{n}", font=font("s", 28), fill=MUTED, anchor="rm")
-        top, bottom = 190, H - 230
+        last = i == n - 1
         if i == 0:
-            f, lines = fit(s["title"], "x", W - 2 * m, 4, 116, 72)
-            f2, l2 = fit(s.get("body", ""), "m", W - 2 * m, 4, 48, 36) if s.get("body") else (None, [])
-            h = 70 + len(lines) * round(f.size * 1.08) + 60 + (26 + len(l2) * round(f2.size * 1.3) if l2 else 0)
-            y = top + max(0, (bottom - top - h) * 0.42)
-            d.text((m, y + 16), clean(car["topic"]).upper(), font=font("b", 32), fill=col, anchor="lm")
-            y = text_block(d, (m, y + 70), lines, f, TEXT, gap=1.08)
-            d.rounded_rectangle((m, y + 22, m + 160, y + 34), 6, fill=col)
-            if l2:
-                text_block(d, (m, y + 86), l2, f2, MUTED, gap=1.3)
+            im = _cover(car, lang, date_label, prices, W, H, m, col)
         else:
-            f, lines = fit(s["title"], "x", W - 2 * m, 3, 84, 56)
-            f2, l2 = fit(s.get("body", ""), "m", W - 2 * m, 8, 54, 38)
-            h = 190 + len(lines) * round(f.size * 1.12) + 76 + len(l2) * round(f2.size * 1.34)
-            y = top + max(0, (bottom - top - h) * 0.42)
-            d.text((m, y + 80), f"{i + 1:02d}", font=font("x", 150), fill=mix(BG, col, 0.42), anchor="lm")
-            y = text_block(d, (m, y + 190), lines, f, TEXT, gap=1.12)
-            d.rounded_rectangle((m, y + 18, m + 120, y + 28), 5, fill=col)
-            text_block(d, (m, y + 76), l2, f2, mix(TEXT, MUTED, 0.25), gap=1.34)
-        # footer: progress dots, then "swipe" or the follow line
-        dot_y = H - 96
-        for k in range(n):
-            x = m + k * 30
-            d.ellipse((x, dot_y - 7, x + 14, dot_y + 7), fill=col if k == i else mix(BG, MUTED, 0.45))
-        if i < n - 1:
-            f3 = font("s", 30)
-            lab = L[lang]["swipe"]
-            ax = W - m
-            d.line((ax - 44, dot_y, ax, dot_y), fill=TEXT, width=4)
-            d.polygon([(ax, dot_y), (ax - 16, dot_y - 12), (ax - 16, dot_y + 12)], fill=TEXT)
-            d.text((ax - 62, dot_y), lab, font=f3, fill=TEXT, anchor="rm")
-        else:
-            tail = (B.get("handle") or "").strip() or L[lang]["follow"]
-            f3, l3 = fit(tail, "s", W - 2 * m - n * 30 - 40, 1, 30, 22)
-            d.text((W - m, dot_y), l3[0], font=f3, fill=ACCENT, anchor="rm")
-            d.text((m, H - 170), L[lang]["disclaimer"], font=font("m", 26), fill=MUTED, anchor="lm")
+            im = backdrop(W, H, col).copy()
+            d = ImageDraw.Draw(im)
+            d.rectangle((0, 0, W, 14), fill=col)
+            d.text((m, 104), B["name"].upper(), font=font("x", 32), fill=ACCENT, anchor="lm")
+            d.text((W - m, 104), f"{i + 1}/{n}", font=font("s", 30), fill=MUTED, anchor="rm")
+            f, lines = fit(s["title"], "x", W - 2 * m, 3, 92, 60)
+            f2, l2 = fit(s.get("body", ""), "m", W - 2 * m - 80, 9, 54, 38)
+            card_h = 70 + len(l2) * round(f2.size * 1.36)
+            h = 150 + len(lines) * round(f.size * 1.1) + 60 + card_h
+            y = 210 + max(0, (H - 250 - 210 - h) * 0.4)
+            if last:
+                _pill(d, m, y + 20, L[lang]["takeaway"], font("x", 28), col, BG)
+            else:
+                d.rounded_rectangle((m, y, m + 112, y + 112), 26, fill=col)
+                d.text((m + 56, y + 56), f"{i + 1:02d}", font=font("x", 58), fill=BG, anchor="mm")
+            y = rich(d, m, y + 150, lines, f, TEXT, col, gap=1.1)
+            d.rounded_rectangle((m, y + 34, W - m, y + 34 + card_h), 28, fill=mix(BG, PANEL, 0.9))
+            d.rounded_rectangle((m, y + 34, m + 10, y + 34 + card_h), 5, fill=col)
+            rich(d, m + 44, y + 34 + 36, l2, f2, mix(TEXT, MUTED, 0.15), TEXT, gap=1.36)
+            _dots(d, m, H - 108, n, i, col)
+            if last:
+                tail = (B.get("handle") or "").strip() or L[lang]["follow"]
+                f3, l3 = fit(tail, "x", W - 2 * m - n * 30 - 110, 1, 32, 22)
+                tw = round(f3.getlength(l3[0])) + 64
+                d.rounded_rectangle((W - m - tw, H - 150, W - m, H - 66), 42, fill=col)
+                d.text((W - m - tw / 2, H - 108), l3[0], font=f3, fill=BG, anchor="mm")
+                d.text((m, H - 196), L[lang]["disclaimer"], font=font("m", 26), fill=MUTED, anchor="lm")
+            else:
+                _swipe(d, W, H, m, lang, col)
         p = folder / f"slide_{i + 1:02d}.png"
         im.save(p, optimize=True)
         paths.append(p)

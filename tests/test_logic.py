@@ -193,7 +193,8 @@ def test_writer():
     soc = json.loads((Path(__file__).parent / "sample_it_social.json").read_text(encoding="utf-8"))
     writer.llm.ask = lambda *a, **k: (soc, {"model": "m"})
     d, _ = writer.derivatives(s, "it", "daily")
-    assert len(d["shorts"]) == 2 and len(d["carousels"]) == 1 and d["shorts"][0]["hashtags"][0].startswith("#")
+    assert len(d["shorts"]) == 2 and len(d["carousels"]) == 2 and d["shorts"][0]["hashtags"][0].startswith("#")
+    assert d["carousels"][0]["ticker"] is None or isinstance(d["carousels"][0]["ticker"], str)
     w, _ = writer.derivatives(s, "it", "weekly")
     assert w["shorts"] == []
     print("writer ok")
@@ -334,7 +335,31 @@ def test_publish():
     print("publish ok")
 
 
+def test_speech():
+    from mp import speech
+    it = speech.speakable("L'S&P 500 chiude a 7.590 punti (-0,4%), BTC a $68.700 e ETH -6,6%. Conti del Q3 di Nvidia (NVDA).", "it")
+    assert it == ("L'S and P 500 chiude a 7.590 punti (meno 0,4 per cento), Bitcoin a 68.700 dollari e "
+                  "Ethereum meno 6,6 per cento. Conti del terzo trimestre di Nvidia."), it
+    en = speech.speakable("The S&P 500 fell 0.4% and BTC hit $68,700; volume $5.6 billion.", "en")
+    assert en == "The S and P 500 fell 0.4 percent and Bitcoin hit 68,700 dollars; volume 5.6 billion dollars.", en
+    assert speech.tidy("l's and p 500 sale dello 0,4 per cento, btc debole") == "l'S&P 500 sale dello 0,4%, BTC debole"
+    written = "L'S&P 500 chiude a 7.590 punti (-0,4%) e BTC scende."
+    said = speech.speakable(written, "it")
+    ev = [{"t": i * 0.5, "d": 0.4, "w": w.strip(".,()")} for i, w in enumerate(said.split())]
+    tm = speech.timings(written, said, ev, len(ev) * 0.5)
+    assert [x["w"] for x in tm] == written.split() and tm[0]["t"] == 0.0
+    assert all(a["t"] <= b["t"] for a, b in zip(tm, tm[1:]))
+    try:
+        writer._names_check("Secondo Marco Casario il mercato sale")
+        raise AssertionError("name not caught")
+    except llm.LLMError:
+        pass
+    writer._names_check("Secondo diversi analisti il mercato sale")
+    print("speech ok")
+
+
 if __name__ == "__main__":
+    test_speech()
     test_schedule()
     test_channel_page()
     test_router()

@@ -126,6 +126,8 @@ def main():
             return f"canale \"{name}\" collegato; {note}"
         return run
 
+    if os.environ.get("MP_CHECK", "").startswith("voc"):
+        return voices()
     only_publish = os.environ.get("MP_CHECK", "").startswith("pub")
     for lang in CFG["languages"]:
         check(f"Instagram {lang.upper()}", instagram(lang))
@@ -147,6 +149,53 @@ def main():
     check("ffmpeg", ffmpeg)
 
     return finish()
+
+
+SAMPLE = {
+    "it": "Bitcoin scende sotto i 70.000 dollari ed Ethereum perde il 6%. A Wall Street l'S&P 500 e il Nasdaq "
+          "chiudono in calo dello 0,4%: Nvidia, Tesla e Apple restano sotto pressione dopo le parole della "
+          "Federal Reserve. Secondo molti analisti il rimbalzo va ancora confermato dai volumi.",
+    "en": "Bitcoin slips below $70,000 and Ethereum loses 6%. On Wall Street the S&P 500 and the Nasdaq close "
+          "down 0.4%: Nvidia, Tesla and Apple stay under pressure after the Federal Reserve's remarks.",
+}
+
+
+def voices():
+    """Send the same sentence read by every candidate voice, so the choice is made by ear."""
+    import asyncio
+
+    import edge_tts
+
+    from . import speech
+    tmp = Path(tempfile.mkdtemp())
+    listed = asyncio.run(edge_tts.list_voices())
+    names = [v["ShortName"] for v in listed]
+    sent = 0
+    for lang, local in (("it", "it-IT-"), ("en", "en-US-")):
+        current = CFG["narrator"]["voices"][lang][0]
+        multi = [n for n in names if "Multilingual" in n and not n.startswith(local)]
+        if lang == "en":
+            pool = [n for n in names if n.startswith(local) and "Multilingual" in n][:3] + [current]
+        else:
+            prefer = ["en-US-AndrewMultilingualNeural", "en-US-BrianMultilingualNeural",
+                      "en-US-AvaMultilingualNeural", "fr-FR-RemyMultilingualNeural"]
+            pool = [n for n in names if n.startswith(local)] + [n for n in prefer if n in multi]
+        pool = list(dict.fromkeys([current] + pool))[:8]
+        telegram.message(f"🎙 Voci a confronto ({lang.upper()}). Stessa frase letta da {len(pool)} voci: "
+                         f"dimmi il numero di quella che preferisci. In uso adesso: {current}")
+        said = speech.speakable(SAMPLE[lang], lang)
+        for i, v in enumerate(pool, 1):
+            try:
+                wav = tmp / f"{lang}_{i}.wav"
+                tts.speak(said, lang, "neutral", wav, voice=v)
+                label = f"{lang.upper()} {i} - {v.split('-', 2)[2].replace('Neural', '')}"
+                telegram.audio(wav.with_suffix(".mp3"), label, f"Voce {i}: {v}" + (" (in uso)" if v == current else ""))
+                log(f"✅ {label}")
+                sent += 1
+            except Exception as e:
+                log(f"❌ voce {v}: {str(e)[:120]}")
+    shutil.rmtree(tmp, ignore_errors=True)
+    return 0 if sent else 1
 
 
 def finish():

@@ -3,7 +3,7 @@
   {
    "title": "Nvidia: occasione o trappola?",
    "hook": "Due esperti, due letture opposte su Nvidia",
-   "narration": "Nvidia divide gli esperti. Financial Education è ottimista e parla di occasione per il lungo periodo. MindTheChart invece invita alla prudenza, perché il prezzo resta sotto una media importante. Chi ha ragione lo diranno i prossimi giorni, ma una cosa è chiara: il rimbalzo va confermato dai volumi. Se i volumi non arrivano, il recupero può fermarsi presto. Tieni d'occhio quel livello. Questo è un contenuto informativo, non una consulenza finanziaria.",
+   "narration": "Nvidia divide gli esperti. Una parte degli analisti è ottimista e parla di occasione per il lungo periodo. L'altra parte invece invita alla prudenza, perché il prezzo resta sotto una media importante. Chi ha ragione lo diranno i prossimi giorni, ma una cosa è chiara: il rimbalzo va confermato dai volumi. Se i volumi non arrivano, il recupero può fermarsi presto. Tieni d'occhio quel livello. Questo è un contenuto informativo, non una consulenza finanziaria.",
    "ticker": "NVDA",
    "sentiment": "bearish",
    "sources": [
@@ -20,7 +20,7 @@
   {
    "title": "Il dato che può fermare il rimbalzo",
    "hook": "Un solo dato può cambiare tutto",
-   "narration": "Il rimbalzo di Wall Street ha un esame davanti: l'inflazione americana. Marco Casario ricorda che un numero più alto delle attese potrebbe raffreddare subito l'entusiasmo. Un dato in linea, invece, darebbe ossigeno ai listini. Per questo molti autori restano prudenti anche se gli indici salgono. Prima di festeggiare, aspetta il dato. Contenuto informativo, non consulenza finanziaria.",
+   "narration": "Il rimbalzo di Wall Street ha un esame davanti: l'inflazione americana. Molti osservatori ricordano che un numero più alto delle attese potrebbe raffreddare subito l'entusiasmo. Un dato in linea, invece, darebbe ossigeno ai listini. Per questo molti autori restano prudenti anche se gli indici salgono. Prima di festeggiare, aspetta il dato. Contenuto informativo, non consulenza finanziaria.",
    "ticker": null,
    "sentiment": "neutral",
    "sources": [
@@ -36,6 +36,42 @@
  ],
  "carousels": [
   {
+   "topic": "Bitcoin sotto pressione",
+   "sentiment": "bearish",
+   "ticker": "BTC-USD",
+   "caption": "Bitcoin perde quota 70.000: cosa guardano adesso gli analisti?",
+   "hashtags": [
+    "#bitcoin",
+    "#crypto"
+   ],
+   "slides": [
+    {
+     "title": "Bitcoin sotto 70.000 $: e adesso?",
+     "body": "Tre livelli, un dato e una data che decidono la prossima mossa."
+    },
+    {
+     "title": "Il crollo in numeri",
+     "body": "BTC perde il 7% in 24 ore e scivola a circa 68.700 dollari, minimo da agosto."
+    },
+    {
+     "title": "Volumi troppo bassi",
+     "body": "Gli acquisti non accompagnano i rimbalzi: per molti analisti è il segnale che manca la domanda."
+    },
+    {
+     "title": "I livelli da guardare",
+     "body": "Supporto tra 67.000 e 70.000 $. Sopra 73.000 $ il quadro tornerebbe più costruttivo."
+    },
+    {
+     "title": "Il fattore dollaro",
+     "body": "Il Dollar Index sopra 102 pesa su tutte le criptovalute, ETH compresa (-6,6%)."
+    },
+    {
+     "title": "Prudenza finché non torna il volume",
+     "body": "Il rimbalzo va confermato. Segui Market Pulse per l'aggiornamento di domani."
+    }
+   ]
+  },
+  {
    "topic": "Nvidia divide gli esperti",
    "sentiment": "bearish",
    "caption": "Nvidia: occasione o trappola? Dicci la tua nei commenti.",
@@ -50,11 +86,11 @@
     },
     {
      "title": "Chi è ottimista",
-     "body": "Financial Education vede un'occasione per chi guarda al lungo periodo e non al singolo giorno."
+     "body": "Gli ottimisti vedono un'occasione per chi guarda al lungo periodo e non al singolo giorno."
     },
     {
      "title": "Chi è prudente",
-     "body": "MindTheChart nota che il prezzo è ancora sotto una media importante: il rimbalzo può essere solo tecnico."
+     "body": "I più prudenti notano che il prezzo è ancora sotto una media importante: il rimbalzo può essere solo tecnico."
     },
     {
      "title": "Cosa guardare",

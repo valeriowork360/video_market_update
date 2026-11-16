@@ -77,6 +77,12 @@ def photo(path, caption=""):
     return bool(r and r.ok)
 
 
+def audio(path, title, caption=""):
+    with open(path, "rb") as f:
+        r = _api("sendAudio", files={"audio": f}, title=title[:60], caption=caption[:1000])
+    return bool(r and r.ok)
+
+
 def album(paths, caption=""):
     paths = list(paths)[:10]
     files = {f"f{i}": open(p, "rb") for i, p in enumerate(paths)}

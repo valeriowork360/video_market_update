@@ -128,7 +128,7 @@ def make_social(lang, kind, day, script, folder, sdir, force):
     for i, c in enumerate(soc["carousels"], 1):
         try:
             cf = folder / "carousels" / f"{i:02d}"
-            paths = draw.carousel(c, lang, cf)
+            paths = draw.carousel(c, lang, cf, label, video.prices_for(c.get("ticker")))
             cap = f"{c['caption']}\n\n{' '.join(c['hashtags'])}"
             (cf / "caption.txt").write_text(cap, encoding="utf-8")
             telegram.album(paths, f"🖼 Carosello {i}/{len(soc['carousels'])}: {c['topic']}")

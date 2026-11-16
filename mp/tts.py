@@ -70,7 +70,7 @@ def _fake(text, wav):
     return _estimate(text, secs - 0.4)
 
 
-def speak(text, lang, mood, wav, faster=False):
+def speak(text, lang, mood, wav, faster=False, voice=None):
     """Write `wav` (44.1 kHz stereo) and return word timings [{t, d, w}]."""
     wav = Path(wav)
     wav.parent.mkdir(parents=True, exist_ok=True)
@@ -81,7 +81,7 @@ def speak(text, lang, mood, wav, faster=False):
     rate = f"{pct + (5 if faster else 0):+d}%"
     mp3 = wav.with_suffix(".mp3")
     last = None
-    for voice in CFG["narrator"]["voices"][lang]:
+    for voice in ([voice] if voice else CFG["narrator"]["voices"][lang]):
         for attempt in range(2):
             try:
                 words = asyncio.run(_edge(text, voice, rate, pitch, mp3))

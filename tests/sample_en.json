@@ -1,5 +1,5 @@
 {
- "title": "Wall Street bounces, but creators stay cautious",
+ "title": "Wall Street bounces, but analysts stay cautious",
  "description": "Esempio di prova.\nMercati, autori e prossimi eventi.\nFonti: Jason Pizzino, Marco Casario, Financial Education.",
  "tags": [
   "borsa",
@@ -16,7 +16,7 @@
    "id": "s1",
    "kind": "hook",
    "heading": "Bounce or trap?",
-   "narration": "Wall Street is trying to climb back, but three of the creators we follow urge caution. Today: why the bounce does not convince everyone, what is going on with Nvidia, and the data that could change the picture.",
+   "narration": "Wall Street is trying to climb back, but many analysts urge caution. Today: why the bounce does not convince everyone, what is going on with Nvidia, and the data that could change the picture.",
    "bullets": [
     "The bounce is not convincing",
     "Nvidia under pressure",
@@ -30,7 +30,7 @@
    "id": "s2",
    "kind": "market",
    "heading": "Indexes recover",
-   "narration": "Let's start with the numbers. The S and P five hundred is up about one percent after three red sessions. According to Michael Pizzino the market shows strength, but volume has not confirmed it yet.",
+   "narration": "Let's start with the numbers. The S&P 500 is up about 1% after three red sessions. According to several analysts the market shows strength, but volume has not confirmed it yet.",
    "bullets": [
     "S&P 500 recovers",
     "Volatility still elevated",
@@ -47,10 +47,10 @@
    "id": "s3",
    "kind": "topic",
    "heading": "Nvidia, the most debated",
-   "narration": "Nvidia remains the most debated stock. Financial Education is optimistic. MindTheChart is more cautious: price is still below a key average and the bounce could be only technical.",
+   "narration": "Nvidia remains the most debated stock. One camp is optimistic. Others are more cautious: price is still below a key average and the bounce could be only technical.",
    "bullets": [
-    "Financial Education: optimistic",
-    "MindTheChart: cautious",
+    "The optimists: an opportunity",
+    "The cautious: a technical bounce",
     "Key level still above"
    ],
    "ticker": "NVDA",

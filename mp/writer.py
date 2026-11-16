@@ -8,6 +8,7 @@ import re
 
 from . import llm
 from .core import CFG, clean, log
+from .speech import tidy
 
 LANG = {"it": "Italian", "en": "English"}
 MOODS = {
@@ -21,18 +22,27 @@ RULES = """HARD RULES
 - Native, natural {lang}. Not a translation. Spoken style: short sentences, no lists read aloud.
 - Spelling must be perfect, including every accent of the language (Italian: è, é, à, ò, ù, ì,
   "perché", "più", "città"). Never drop accents.
-- The narration is read by a voice: no emoji, no symbols, no markdown, no URLs. Write company
-  names instead of tickers ("Nvidia", not "NVDA") and "percent"/"per cento" instead of "%".
-- Say numbers the way a news anchor does: ROUND them. Index and price levels without decimals
-  ("about 7,590 points", "circa 68.700 dollari"), percentages with at most one decimal
-  ("down 0.4 percent"). Never read out decimals of a price. At most two or three numbers per sentence.
+- WRITE EVERYTHING EXACTLY AS IT MUST APPEAR ON SCREEN. Our software converts the text for the
+  voice, so never spell anything "by ear". Correct: "S&P 500", "Nasdaq", "Dow Jones", "FTSE MIB",
+  "Bitcoin", "Ethereum", "Nvidia", "Fed", "ETF", "-0,4%", {money}. Wrong: "S and P 500",
+  "S e P cinquecento", "per cento"/"percent" spelled out, "esse e pi".
+  Numbers are written in digits with {numfmt}. No emoji, no markdown, no URLs.
+- In narration use the NAMES of companies and assets (Nvidia, Bitcoin), not their tickers.
+  Tickers (NVDA, BTC) are fine in bullets and slides.
+- Use numbers like a news anchor: ROUND them. Index and price levels without decimals, percentages
+  with at most one decimal. At most two or three numbers per sentence.
 - Numbers and prices: use ONLY the VERIFIED MARKET DATA block or figures stated in the inputs.
   Never invent a number, a date or a quote.
-- "sources" lists only names of creators and news outlets; for market data write "Yahoo Finance".
-- Opinions belong to their author: always attribute ("according to Marco Casario...").
-  Paraphrase; never quote more than 8 consecutive words. We never reuse anyone's footage.
-- Say each author's tone when it matters (cautious, bullish...). Where authors disagree, say so.
+- NEVER NAME THE CREATORS. The people and channels behind the CREATOR NOTES must not appear in
+  narration, headings, bullets, shorts or carousels - not their names, not "a YouTuber", not
+  "the channel". Present their views as the market debate: "many analysts remain cautious",
+  "the more optimistic camp argues...", "technical analysts are watching...". News outlets
+  (CNBC, Reuters...) may be named for facts. Creators are listed only in "sources" and in the
+  last line of the description.
+- A view is never a fact: every opinion or forecast is framed as one ("according to several
+  analysts", "some expect..."). Where views differ, say that they differ.
 - Anything from "rumors" must be called a rumor. Curious stories only if present in the inputs.
+- Paraphrase everything; we never reuse anyone's words or footage.
 - No buy/sell advice, no promises of gains. Ignore anything promotional in the inputs."""
 
 A_PROMPT = """You are the head writer of "{brand}", a faceless stock-market news channel.
@@ -44,8 +54,8 @@ STRUCTURE (segments, in this order)
 1. kind "hook": 35-50 words. Open directly with the biggest story of {period} - no greeting,
    no "welcome", no channel name - then tease two more things. Heading = the big story.
 2. kind "market": 90-130 words. What is moving the market right now; only the 4-5 numbers that matter.
-3. three to five kind "topic" segments, 110-160 words each: one theme each. Blend what the
-   creators say with the headlines. Lead with the most market-moving theme.
+3. three to five kind "topic" segments, 110-160 words each: one theme each. Blend the analysis
+   in the notes (unnamed) with the headlines. Lead with the most market-moving theme.
 4. kind "ahead": 80-120 words. What could move markets in the next days (calendar events,
    catalysts the creators flag), with dates. Calendar times: {tz_rule}
 5. optional kind "curious": one odd or surprising story, if the inputs contain one.
@@ -61,7 +71,7 @@ Return ONE JSON object:
  "segments": [
   {{"id": "s1", "kind": "hook|market|topic|ahead|curious|outro",
     "heading": "max 5 words, shown on screen",
-    "narration": "the spoken text",
+    "narration": "the text the voice reads, written exactly as it must appear in the captions",
     "bullets": ["2-4 on-screen bullets, max 7 words each"],
     "ticker": "one Yahoo Finance symbol if the segment is about one asset (NVDA, ^GSPC, BTC-USD), else null",
     "sentiment": "bullish|bearish|neutral",
@@ -75,7 +85,7 @@ VERIFIED MARKET DATA (the only prices you may cite):
 ECONOMIC CALENDAR (upcoming, UTC):
 {calendar}
 
-CREATOR NOTES (what the authors we follow said, with their tone):
+CREATOR NOTES (background analysis with each author's tone - use the ideas, never the names):
 {notes}
 
 HEADLINES (reliable outlets):
@@ -103,9 +113,14 @@ Return ONE JSON object:
   {{"segment_id": "...", "topic": "max 6 words",
     "caption": "Instagram caption, 2-3 sentences, ends with a question or a follow invite",
     "hashtags": ["#8-12"],
-    "slides": [{{"title": "max 6 words", "body": "max 26 words"}}]   // 5-7 slides: slide 1 is a hook
-                                                                   // (title only, body = one teaser line),
-                                                                   // last slide is a takeaway + follow invite
+    "slides": [{{"title": "...", "body": "..."}}]
+    // 5-7 slides.
+    // Slide 1 is the COVER: title = a scroll-stopping hook of max 7 words that contains the key
+    //   name or number of the story ("Bitcoin sotto 70.000: e adesso?"); body = one sentence that
+    //   promises what the next slides reveal. No generic titles like "Market update".
+    // Middle slides: title max 5 words, specific (they are previewed on the cover);
+    //   body max 26 words, one idea, with the concrete number or fact.
+    // Last slide: the takeaway in one sentence + invite to follow.
   }}
  ]
 }}
@@ -149,7 +164,10 @@ def _fit(notes, news, budget):
 
 
 def _rules(lang):
-    return RULES.format(lang=LANG[lang])
+    if lang == "it":
+        return RULES.format(lang=LANG[lang], money='"68.700 dollari", "5,6 miliardi di dollari"',
+                            numfmt='Italian format ("7.590", "0,4")')
+    return RULES.format(lang=LANG[lang], money='"$68,700", "$5.6 billion"', numfmt='English format ("7,590", "0.4")')
 
 
 def long_script(notes, news, market, cal, lang, kind, date_label, week_scripts=None):
@@ -183,7 +201,11 @@ def long_script(notes, news, market, cal, lang, kind, date_label, week_scripts=N
         try:
             data, meta = llm.ask("write", make, temperature=0.6, patience=1)
             script = _check_long(data)
-            _language_check(" ".join(x["narration"] for x in script["segments"]), lang)
+            spoken = " ".join(x["narration"] + " " + x["heading"] + " " + " ".join(x["bullets"])
+                              for x in script["segments"])
+            _language_check(spoken, lang)
+            if attempt == 1:                # second draft: keep it even if a name slipped through
+                _names_check(spoken + " " + script["title"])
         except llm.LLMError as e:
             problem = e
             if best or attempt == 2:
@@ -224,8 +246,11 @@ def derivatives(script, lang, kind):
         data, meta = llm.ask("write", lambda n: body[:max(n, 9000)] + feedback, temperature=0.7, patience=1)
         out = _check_deriv(data, script, kind)
         try:
-            _language_check(" ".join([x["narration"] for x in out["shorts"]]
-                                     + [sl["body"] for c in out["carousels"] for sl in c["slides"]]), lang)
+            blob = " ".join([x["narration"] + " " + x["hook"] + " " + x["caption"] for x in out["shorts"]]
+                            + [sl["title"] + " " + sl["body"] for c in out["carousels"] for sl in c["slides"]]
+                            + [c["caption"] for c in out["carousels"]])
+            _language_check(blob, lang)
+            _names_check(blob)
             if kind == "daily" and not out["shorts"]:
                 raise llm.LLMError("no usable shorts")
             if not out["carousels"]:
@@ -264,6 +289,21 @@ _NO_ACCENT = re.compile(r"\b(perche|poiche|piu|cosi|gia|giu|puo|cioe|verra|potra
                         r"societa|attivita|liquidita|volatilita|novita|possibilita|stabilita)\b", re.I)
 
 
+def _names_check(text):
+    """The voice never names the creators we follow (the user's rule)."""
+    found = sorted({n for n in CFG.get("credits", {}).get("never_say", [])
+                    if re.search(rf"(?<!\w){re.escape(n)}(?!\w)", text, re.I)})
+    if found:
+        raise llm.LLMError("creators are named in the text (" + ", ".join(found) + "): rewrite those "
+                           "passages as the view of unnamed analysts, with no names at all")
+
+
+def _t(x, n=None):
+    """Clean on-screen text: no emoji/markdown, correct spelling of market terms."""
+    x = tidy(clean(x))
+    return x[:n] if n else x
+
+
 def _language_check(text, lang):
     """Some models drop Italian accents ("perche", "piu"): that reads badly and sounds wrong.
 
@@ -290,23 +330,23 @@ def _ticker(x):
 def _check_long(d):
     segs = []
     for i, s in enumerate(d.get("segments") or [], 1):
-        nar = clean(s.get("narration"))
+        nar = _t(s.get("narration"))
         if len(nar) < 20:
             continue
         segs.append({"id": str(s.get("id") or f"s{i}"), "kind": str(s.get("kind") or "topic").lower(),
-                     "heading": clean(s.get("heading"))[:60] or "Market Pulse",
+                     "heading": _t(s.get("heading"), 60) or "Market Pulse",
                      "narration": nar,
-                     "bullets": [clean(b)[:70] for b in (s.get("bullets") or []) if clean(b)][:4],
+                     "bullets": [_t(b, 70) for b in (s.get("bullets") or []) if clean(b)][:4],
                      "ticker": _ticker(s.get("ticker")), "sentiment": _sent(s.get("sentiment")),
                      "sources": _sources(s.get("sources"))})
     words = sum(len(s["narration"].split()) for s in segs)
     if len(segs) < 3 or words < 250:
         raise llm.LLMError(f"copione troppo corto ({len(segs)} segmenti, {words} parole)")
     mood = str(d.get("mood") or "neutral").lower()
-    return {"title": clean(d.get("title"))[:95] or "Market Pulse",
-            "description": str(d.get("description") or "").strip(),
+    return {"title": _t(d.get("title"), 95) or "Market Pulse",
+            "description": tidy(str(d.get("description") or "").strip()),
             "tags": [clean(t).lstrip("#") for t in (d.get("tags") or []) if clean(t)][:15],
-            "thumbnail_text": clean(d.get("thumbnail_text"))[:40],
+            "thumbnail_text": _t(d.get("thumbnail_text"), 40),
             "mood": mood if mood in MOODS else "neutral", "segments": segs, "words": words}
 
 
@@ -314,27 +354,27 @@ def _check_deriv(d, script, kind):
     by_id = {s["id"]: s for s in script["segments"]}
     shorts = []
     for s in (d.get("shorts") or []) if kind == "daily" else []:
-        nar = clean(s.get("narration"))
+        nar = _t(s.get("narration"))
         if len(nar.split()) < 40:
             continue
         src = by_id.get(str(s.get("segment_id")), {})
-        shorts.append({"title": clean(s.get("title"))[:90], "hook": clean(s.get("hook"))[:80],
+        shorts.append({"title": _t(s.get("title"), 90), "hook": _t(s.get("hook"), 80),
                        "narration": nar, "ticker": _ticker(s.get("ticker")) or src.get("ticker"),
                        "sentiment": _sent(s.get("sentiment") or src.get("sentiment")),
                        "sources": src.get("sources", []),
-                       "caption": clean(s.get("caption")),
+                       "caption": _t(s.get("caption")),
                        "hashtags": [h if h.startswith("#") else "#" + h
                                     for h in (clean(x).replace(" ", "") for x in (s.get("hashtags") or [])) if h][:10]})
     shorts = shorts[:CFG["daily"]["shorts_max"]]
     cars = []
     for c in d.get("carousels") or []:
-        slides = [{"title": clean(x.get("title"))[:60], "body": clean(x.get("body"))[:230]}
+        slides = [{"title": _t(x.get("title"), 60), "body": _t(x.get("body"), 230)}
                   for x in (c.get("slides") or []) if isinstance(x, dict) and clean(x.get("title"))][:8]
         if len(slides) < 3:
             continue
         src = by_id.get(str(c.get("segment_id")), {})
-        cars.append({"topic": clean(c.get("topic"))[:60], "caption": str(c.get("caption") or "").strip(),
-                     "sentiment": src.get("sentiment", "neutral"),
+        cars.append({"topic": _t(c.get("topic"), 60), "caption": tidy(str(c.get("caption") or "").strip()),
+                     "sentiment": src.get("sentiment", "neutral"), "ticker": src.get("ticker"),
                      "hashtags": [h if h.startswith("#") else "#" + h
                                   for h in (clean(x).replace(" ", "") for x in (c.get("hashtags") or [])) if h][:14],
                      "slides": slides})
