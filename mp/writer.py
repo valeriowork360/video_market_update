@@ -234,6 +234,12 @@ def derivatives(script, lang, kind):
             return out, meta
         except llm.LLMError as e:
             last = e
+            usable = out["carousels"] and (out["shorts"] or kind != "daily")
+            if attempt == 2 and usable:
+                # a spelling blemish must never cost the delivery: send what we have
+                log(f"    avviso non bloccante: {e}")
+                out["model"] = meta["model"]
+                return out, meta
             feedback = f"\n\nIMPORTANT: your previous answer was rejected ({e}). Fix exactly that.\n"
             log(f"    short e caroselli scartati ({e}): li faccio riscrivere")
     raise last
@@ -254,10 +260,21 @@ def _sources(xs):
     return out[:5]
 
 
+_NO_ACCENT = re.compile(r"\b(perche|poiche|piu|cosi|gia|giu|puo|cioe|verra|potra|dovra|citta|"
+                        r"societa|attivita|liquidita|volatilita|novita|possibilita|stabilita)\b", re.I)
+
+
 def _language_check(text, lang):
-    """Some models drop Italian accents: that reads badly and sounds wrong."""
-    if lang == "it" and len(text) > 500 and len(re.findall("[àèéìòù]", text)) < 3:
-        raise llm.LLMError("the Italian text has no accented letters: write correct Italian with all accents")
+    """Some models drop Italian accents ("perche", "piu"): that reads badly and sounds wrong.
+
+    Judged on the tell-tale words themselves, never on how many accents a short text has:
+    a short, correct Italian text can easily contain none.
+    """
+    if lang != "it":
+        return
+    bad = sorted({m.lower() for m in _NO_ACCENT.findall(text)})
+    if len(bad) >= 2 or (len(text) > 2500 and not re.search("[àèéìòù]", text)):
+        raise llm.LLMError("Italian accents are missing (" + ", ".join(bad[:5]) + "): write every accent")
 
 
 def _sent(x):

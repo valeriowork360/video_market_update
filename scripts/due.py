@@ -56,27 +56,36 @@ def decide(now_utc, cfg_text, clock, produced):
     out = {"collect": False, "produce": "", "day": ""}
     retry_ok = age_minutes(clock.get("last_produce_try", ""), now_utc) >= 40
 
-    def window(day, at):
-        """True if `now` is between that day's start time and start + late hours."""
+    def window(day, at, key=""):
+        """True if `now` is between that day's start time and start + late hours.
+
+        A production that already delivered something but is not finished gets longer
+        (30 hours): the scheduler can be hours late, and a half-delivered edition must
+        always be completed.
+        """
         h, m = hhmm(at)
         start = datetime(day.year, day.month, day.day, h, m, tzinfo=tz)
-        return start <= now <= start + timedelta(hours=late)
+        started = any(v.get("long") for v in produced.get(key, {}).get("langs", {}).values())
+        return start <= now <= start + timedelta(hours=30 if started else late)
 
     # daily: today's window, or yesterday's if we are still inside its late tail
     for day in (now.date(), now.date() - timedelta(days=1)):
-        if window(day, setting(cfg_text, "daily_time", "17:30")):
-            key = f"{day}_daily"
-            if not complete(produced, key, langs) and retry_ok:
-                out.update(produce="daily", day=str(day))
-            break
+        key = f"{day}_daily"
+        if window(day, setting(cfg_text, "daily_time", "17:30"), key):
+            if not complete(produced, key, langs):
+                if retry_ok:
+                    out.update(produce="daily", day=str(day))
+                break
     # weekly: only once the daily of that moment is out of the way
     if not out["produce"]:
         wd = DAYS.index(setting(cfg_text, "weekly_day", "sunday").lower())
         for day in (now.date(), now.date() - timedelta(days=1)):
-            if day.weekday() == wd and window(day, setting(cfg_text, "weekly_time", "19:00")):
-                if not complete(produced, f"{day}_weekly", langs) and retry_ok:
-                    out.update(produce="weekly", day=str(day))
-                break
+            key = f"{day}_weekly"
+            if day.weekday() == wd and window(day, setting(cfg_text, "weekly_time", "19:00"), key):
+                if not complete(produced, key, langs):
+                    if retry_ok:
+                        out.update(produce="weekly", day=str(day))
+                    break
     since_ok = age_minutes(clock.get("last_collect_ok", ""), now_utc)
     since_try = age_minutes(clock.get("last_collect_try", ""), now_utc)
     if since_try >= 40 and (since_ok >= every * 60 - 10 or (out["produce"] == "daily" and since_ok >= 90)):
