@@ -1,0 +1,55 @@
+{
+ "market_relevance": 9,
+ "scope": "italy",
+ "kind": "personal finance",
+ "summary": "The video compares private pension funds in Italy and the Netherlands, highlighting the large gap in supplementary retirement savings. In the Netherlands, statutory rules force employers and employees to build large second-pillar funds, whereas Italy relies heavily on public pensions and the TFR system. The speaker illustrates that Italian workers generally set aside fewer resources in private funds compared to their Dutch counterparts. Additionally, a high percentage of Italian pension fund assets is invested in Italian government bonds, meaning domestic retirement savings are heavily exposed to sovereign debt. The speaker encourages Italian workers to actively manage their supplementary pension options to build a safer financial future.",
+ "digest_it": "Il video confronta i fondi pensione italiani e olandesi, mostrando il divario nella previdenza complementare e l'esposizione dei fondi italiani ai titoli di Stato. L'autore spiega come colmare il divario tramite il TFR e strumenti previdenziali.",
+ "author_tone": "cautious",
+ "tone_evidence": "The speaker advises caution regarding future public pension replacement rates and urges viewers to manage supplementary funds early.",
+ "key_points": [
+  {
+   "point": "In the Netherlands, supplementary pension savings reach 92.3% of GDP, whereas Italy stands at 11.6%.",
+   "timestamp": "01:57"
+  },
+  {
+   "point": "From every euro of gross salary in Italy, about 33 cents go to INPS and TFR contributions.",
+   "timestamp": "02:30"
+  },
+  {
+   "point": "Italy's state pension expenditure for 2027 is projected at 366.54 billion euros.",
+   "timestamp": "03:28"
+  },
+  {
+   "point": "In the Mercer CFA Institute global pension index, the Netherlands ranks first while Italy is forty-first.",
+   "timestamp": "05:27"
+  },
+  {
+   "point": "38.5% of Italian pension fund assets are invested in Italian government bonds.",
+   "timestamp": "05:42"
+  },
+  {
+   "point": "State treasury estimates suggest an employee retiring in 2070 will receive a replacement rate of 58.5% of final salary.",
+   "timestamp": "06:21"
+  }
+ ],
+ "tickers": [],
+ "predictions": [
+  "Employees retiring in 2070 will receive roughly 58.5% of their last salary from the state pension under baseline assumptions."
+ ],
+ "catalysts": [],
+ "rumors": [],
+ "curiosities": [
+  "In the Netherlands, supplementary pension contributions have been mandatory by law since 1949."
+ ],
+ "promo": true,
+ "language": "it",
+ "video_id": "1L5Rb7sWbNc",
+ "title": "La pensione che non hai: l'olandese ne ha 8 volte",
+ "author": "Marco Casario",
+ "url": "https://www.youtube.com/watch?v=1L5Rb7sWbNc",
+ "published": "2026-11-16T11:25:13+00:00",
+ "duration_min": 13,
+ "partial": false,
+ "analysed_at": "2026-11-16T20:42:18.681840+00:00",
+ "model": "gemini-3.5-flash-lite"
+}
