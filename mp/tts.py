@@ -13,21 +13,23 @@ from pathlib import Path
 from .core import CFG, log
 
 RATE = 44100
-PROSODY = {            # narrator mood -> (rate, pitch)
+PROSODY = {            # narrator mood -> (small nuance around the base speed, in %, and pitch)
     "calm": (-3, "-2Hz"),
-    "neutral": (3, "+0Hz"),
-    "urgent": (9, "+1Hz"),
-    "upbeat": (7, "+2Hz"),
+    "neutral": (0, "+0Hz"),
+    "urgent": (4, "+1Hz"),
+    "upbeat": (3, "+2Hz"),
 }
+SPEED = float(CFG["narrator"].get("speed", 1.0))      # 1.3 = 30% faster than the natural voice
 
 
 def _run(cmd):
     subprocess.run(cmd, check=True, stdout=subprocess.DEVNULL, stderr=subprocess.PIPE)
 
 
-def _to_wav(src, dst, pad=0.45):
+def _to_wav(src, dst, pad=0.45, tempo=1.0):
+    speed = f"atempo={tempo:.2f}," if abs(tempo - 1.0) > 0.01 else ""
     _run(["ffmpeg", "-y", "-i", str(src), "-ar", str(RATE), "-ac", "2",
-          "-af", f"apad=pad_dur={pad}", "-c:a", "pcm_s16le", str(dst)])
+          "-af", f"{speed}apad=pad_dur={pad}", "-c:a", "pcm_s16le", str(dst)])
 
 
 def wav_seconds(path):
@@ -61,7 +63,7 @@ def _estimate(text, seconds):
 
 
 def _fake(text, wav):
-    secs = max(1.5, len(text.split()) * 0.36)
+    secs = max(1.5, len(text.split()) * 0.36 / SPEED)
     with wave.open(str(wav), "wb") as w:
         w.setnchannels(2)
         w.setsampwidth(2)
@@ -78,7 +80,7 @@ def speak(text, lang, mood, wav, faster=False, voice=None):
         return _fake(text, wav)
     mode = CFG["narrator"].get("mode", "auto")
     pct, pitch = PROSODY.get(mood if mode == "auto" else mode, PROSODY["neutral"])
-    rate = f"{pct + (5 if faster else 0):+d}%"
+    rate = f"{round((SPEED * (1 + pct / 100) - 1) * 100):+d}%"
     mp3 = wav.with_suffix(".mp3")
     last = None
     for voice in ([voice] if voice else CFG["narrator"]["voices"][lang]):
@@ -98,7 +100,7 @@ def speak(text, lang, mood, wav, faster=False, voice=None):
     try:
         from gtts import gTTS
         gTTS(text, lang=lang).save(str(mp3))
-        _to_wav(mp3, wav)
+        _to_wav(mp3, wav, tempo=SPEED)
         log("    voce di riserva (gTTS) usata")
         return _estimate(text, wav_seconds(wav) - 0.45)
     except Exception as e:

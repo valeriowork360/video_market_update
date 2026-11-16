@@ -150,6 +150,7 @@ ai:
 # ------------------------------------------------------------
 narrator:
   mode: auto
+  speed: 1.3                    # velocita' di lettura: 1.0 = naturale, 1.3 = 30% piu' veloce
   voices:
     # La prima della lista e' quella usata; le altre sono riserve.
     # Le voci "Multilingual" pronunciano bene i nomi inglesi (Bitcoin, Nvidia, Wall Street).

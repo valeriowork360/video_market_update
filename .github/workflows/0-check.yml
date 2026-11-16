@@ -7,7 +7,7 @@ on:
       cosa:
         description: "Cosa controllare"
         type: choice
-        options: [tutto, pubblicazione, voci]
+        options: [tutto, pubblicazione, voci, voce-attuale]
         default: tutto
 
 permissions:

@@ -167,6 +167,7 @@ def voices():
     import edge_tts
 
     from . import speech
+    only_current = "attuale" in os.environ.get("MP_CHECK", "")
     tmp = Path(tempfile.mkdtemp())
     listed = asyncio.run(edge_tts.list_voices())
     names = [v["ShortName"] for v in listed]
@@ -181,8 +182,13 @@ def voices():
                       "en-US-AvaMultilingualNeural", "fr-FR-RemyMultilingualNeural"]
             pool = [n for n in names if n.startswith(local)] + [n for n in prefer if n in multi]
         pool = list(dict.fromkeys([current] + pool))[:8]
-        telegram.message(f"🎙 Voci a confronto ({lang.upper()}). Stessa frase letta da {len(pool)} voci: "
-                         f"dimmi il numero di quella che preferisci. In uso adesso: {current}")
+        if only_current:
+            pool = [current]
+        if only_current:
+            telegram.message(f"🎙 Voce in uso ({lang.upper()}): {current}, velocita' {tts.SPEED}x")
+        else:
+            telegram.message(f"🎙 Voci a confronto ({lang.upper()}). Stessa frase letta da {len(pool)} voci: "
+                             f"dimmi il numero di quella che preferisci. In uso adesso: {current}")
         said = speech.speakable(SAMPLE[lang], lang)
         for i, v in enumerate(pool, 1):
             try:
