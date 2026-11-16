@@ -115,5 +115,14 @@
   "first_seen": "2026-11-14T20:25:43.294286+00:00",
   "tries": 1,
   "last_error": "Gemini non riesce ad aprire questo video adesso (live appena finita, video riservato o rimosso)"
+ },
+ "JNm52TYea7w": {
+  "status": "done",
+  "attempts": 0,
+  "channel": "Jason Pizzino",
+  "title": "Bitcoin Crash: It's Repeating a Pattern Most Investors Missed",
+  "first_seen": "2026-11-16T10:38:21.925352+00:00",
+  "tries": 1,
+  "done_at": "2026-11-16T10:38:31.513420+00:00"
  }
 }

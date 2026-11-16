@@ -1,0 +1,52 @@
+{
+ "market_relevance": 10,
+ "scope": "global",
+ "kind": "crypto",
+ "summary": "The speaker analyses recent sharp drops in Bitcoin prices alongside historical data on bear and bull market cycles. He notes that Bitcoin has fallen significantly over the past four days, breaking several key support levels. By comparing current weekly trends to previous market cycles, he argues that the macro picture still points towards a bear-market structure. While a short-term bounce is possible given historical patterns and extreme fear sentiment, a massive recovery to new all-time highs within a year is unlikely based on economic cycles. Consequently, investors should exercise caution, manage risk, and focus on capital preservation rather than blindly buying every dip.",
+ "digest_it": "L'autore analizza il recente crollo di Bitcoin e lo confronta con i cicli passati, concludendo che il contesto macroeconomico rimane ribassista. Sebbene sia possibile un rimbalzo a breve termine a causa del forte pessimismo, una ripresa rapida verso i massimi storici appare improbabile nei prossimi mesi.",
+ "author_tone": "cautious",
+ "tone_evidence": "He advises caution and capital preservation while discussing why a massive recovery to new all-time highs is unlikely.",
+ "key_points": [
+  {
+   "point": "Bitcoin has fallen about 30 percent over the past two months and recently broke critical structure levels at 75k, 71k, and 67k.",
+   "timestamp": "00:05"
+  },
+  {
+   "point": "Historical weekly data across past bear markets shows that roughly 59 to 63 percent of weeks tend to be red.",
+   "timestamp": "02:15"
+  },
+  {
+   "point": "Current weekly drawdowns suggest a high probability of a short-term bounce followed by a potential consolidation phase.",
+   "timestamp": "13:30"
+  },
+  {
+   "point": "Stablecoin dominance metrics and exchange volumes indicate some stabilizing buying interest at current lows.",
+   "timestamp": "17:05"
+  }
+ ],
+ "tickers": [
+  "BTC",
+  "ETH",
+  "SOL",
+  "XRP",
+  "ZEC"
+ ],
+ "predictions": [
+  "Expect a short-term bounce from current oversold levels followed by potential further downside testing.",
+  "It will likely take around 12 months for Bitcoin to return to previous all-time highs if historical economic cycles repeat."
+ ],
+ "catalysts": [],
+ "rumors": [],
+ "curiosities": [],
+ "promo": false,
+ "language": "en",
+ "video_id": "JNm52TYea7w",
+ "title": "Bitcoin Crash: It's Repeating a Pattern Most Investors Missed",
+ "author": "Jason Pizzino",
+ "url": "https://www.youtube.com/watch?v=JNm52TYea7w",
+ "published": "2026-11-16T03:50:01+00:00",
+ "duration_min": 25,
+ "partial": false,
+ "analysed_at": "2026-11-16T10:38:31.513223+00:00",
+ "model": "gemini-3.5-flash-lite"
+}
