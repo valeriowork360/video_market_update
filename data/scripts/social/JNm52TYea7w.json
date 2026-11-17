@@ -1,0 +1,468 @@
+{
+ "it": [
+  {
+   "title": "Bitcoin crolla del 30%: rotti i supporti chiave",
+   "hook": "Bitcoin -30%",
+   "beats": [
+    {
+     "say": "Bitcoin ha perso il 30% negli ultimi due mesi di contrattazioni.",
+     "show": "Bitcoin -30%",
+     "figure": "-30%"
+    },
+    {
+     "say": "I livelli chiave a 75.000, 71.000 e 67.000 dollari sono stati abbattuti.",
+     "show": "SUPPORTI INFRANTI",
+     "figure": "67.000 $"
+    },
+    {
+     "say": "Questa rottura di struttura segnala una transizione netta verso un ciclo ribassista.",
+     "show": "STRUTTURA RIBASSISTA",
+     "figure": ""
+    },
+    {
+     "say": "Rimanere sotto i 67.000 dollari mantiene aperti scenari di forte debolezza.",
+     "show": "RISCHIO DISCESA",
+     "figure": "67.000 $"
+    },
+    {
+     "say": "La tendenza di fondo domina ora la direzione del mercato crypto. Segui Coin Ticker 360.",
+     "show": "SEGUI COIN TICKER 360",
+     "figure": ""
+    }
+   ],
+   "origin": "Jason Pizzino",
+   "source_video": "Bitcoin Crash: It's Repeating a Pattern Most Investors Missed",
+   "narration": "Bitcoin ha perso il 30% negli ultimi due mesi di contrattazioni. I livelli chiave a 75.000, 71.000 e 67.000 dollari sono stati abbattuti. Questa rottura di struttura segnala una transizione netta verso un ciclo ribassista. Rimanere sotto i 67.000 dollari mantiene aperti scenari di forte debolezza. La tendenza di fondo domina ora la direzione del mercato crypto. Segui Coin Ticker 360.",
+   "ticker": "BTC-USD",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Bitcoin perde il 30% in due mesi e infrange i principali supporti. La struttura di mercato conferma una fase di debolezza macro.",
+   "hashtags": [
+    "#Bitcoin",
+    "#Crypto",
+    "#Trading",
+    "#AnalisiTecnica",
+    "#Mercati",
+    "#CoinTicker360"
+   ]
+  },
+  {
+   "title": "Bitcoin: il 63% delle settimane è rosso nei bear market",
+   "hook": "63% SETTIMANE ROSSE",
+   "beats": [
+    {
+     "say": "Bitcoin registra fino al 63% di settimane rosse nei mercati ribassisti.",
+     "show": "63% SETTIMANE ROSSE",
+     "figure": "63%"
+    },
+    {
+     "say": "I cicli passati mostrano una netta prevalenza di chiusure settimanali in perdita.",
+     "show": "STORIA DEI CICLI",
+     "figure": ""
+    },
+    {
+     "say": "I singoli rimbalzi settimanali sono spesso solo trappole per compratori affrettati.",
+     "show": "TRAPPOLE PER PERTORI",
+     "figure": ""
+    },
+    {
+     "say": "Una quota superiore al 59% di candele rosse conferma il trend negativo.",
+     "show": "TREND NEGATIVO",
+     "figure": "59%"
+    },
+    {
+     "say": "Le fasi di inversione richiedono mesi per stabilizzare davvero i prezzi. Segui Coin Ticker 360.",
+     "show": "SEGUI COIN TICKER 360",
+     "figure": ""
+    }
+   ],
+   "origin": "Jason Pizzino",
+   "source_video": "Bitcoin Crash: It's Repeating a Pattern Most Investors Missed",
+   "narration": "Bitcoin registra fino al 63% di settimane rosse nei mercati ribassisti. I cicli passati mostrano una netta prevalenza di chiusure settimanali in perdita. I singoli rimbalzi settimanali sono spesso solo trappole per compratori affrettati. Una quota superiore al 59% di candele rosse conferma il trend negativo. Le fasi di inversione richiedono mesi per stabilizzare davvero i prezzi. Segui Coin Ticker 360.",
+   "ticker": "BTC-USD",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "I dati storici indicano che fino al 63% delle settimane nei bear market si chiude in negativo. I rimbalzi isolati non bastano per un'inversione.",
+   "hashtags": [
+    "#Bitcoin",
+    "#CryptoData",
+    "#BearMarket",
+    "#Investimenti",
+    "#MercatiCrypto",
+    "#CoinTicker360"
+   ]
+  },
+  {
+   "title": "Bitcoin: rimbalzo vicino ma 12 mesi per i massimi",
+   "hook": "RIMBALZO IN ARRIVO",
+   "beats": [
+    {
+     "say": "Bitcoin segnala un possibile rimbalzo tecnico nel breve termine.",
+     "show": "RIMBALZO IN ARRIVO",
+     "figure": ""
+    },
+    {
+     "say": "L'estensione delle ultime vendite crea le condizioni per un sollievo momentaneo.",
+     "show": "IPERVENDUTO TECNICO",
+     "figure": ""
+    },
+    {
+     "say": "Un recupero rapido non significa il ritorno immediato ai massimi storici.",
+     "show": "RECUPERO LENTO",
+     "figure": ""
+    },
+    {
+     "say": "I cicli storici indicano che per rivedere i picchi servono 12 mesi.",
+     "show": "12 MESI PER I MASSIMI",
+     "figure": "12 mesi"
+    },
+    {
+     "say": "Le fasi di recupero duraturo richiedono prima lunghe fasi di consolidamento. Segui Coin Ticker 360.",
+     "show": "SEGUI COIN TICKER 360",
+     "figure": ""
+    }
+   ],
+   "origin": "Jason Pizzino",
+   "source_video": "Bitcoin Crash: It's Repeating a Pattern Most Investors Missed",
+   "narration": "Bitcoin segnala un possibile rimbalzo tecnico nel breve termine. L'estensione delle ultime vendite crea le condizioni per un sollievo momentaneo. Un recupero rapido non significa il ritorno immediato ai massimi storici. I cicli storici indicano che per rivedere i picchi servono 12 mesi. Le fasi di recupero duraturo richiedono prima lunghe fasi di consolidamento. Segui Coin Ticker 360.",
+   "ticker": "BTC-USD",
+   "sentiment": "neutral",
+   "sources": [],
+   "caption": "Le condizioni di ipervenduto favoriscono un rimbalzo tecnico di breve termine, ma la storia mostra che servono fino a 12 mesi per tornare sui massimi.",
+   "hashtags": [
+    "#Bitcoin",
+    "#CryptoAnalisi",
+    "#MercatoCrypto",
+    "#CicliEconomici",
+    "#Trading",
+    "#CoinTicker360"
+   ]
+  },
+  {
+   "title": "Bitcoin: stablecoin indicano acquisti sui minimi",
+   "hook": "LIQUIDITÀ PRONTA",
+   "beats": [
+    {
+     "say": "Stablecoin in aumento mostrano prima liquidità pronta a rientrare.",
+     "show": "LIQUIDITÀ PRONTA",
+     "figure": ""
+    },
+    {
+     "say": "La quota di stablecoin e i volumi indicano interesse a prezzi bassi.",
+     "show": "ACQUISTI SUI MINIMI",
+     "figure": ""
+    },
+    {
+     "say": "Una dominance elevata significa che i capitali attendono invece di uscire.",
+     "show": "CAPITALI IN ATTESA",
+     "figure": ""
+    },
+    {
+     "say": "Il riassorbimento dei volumi spot deciderà la tenuta dei minimi attuali.",
+     "show": "TENUTA DEI VOLUMI",
+     "figure": ""
+    },
+    {
+     "say": "La gestione del rischio resta prioritaria durante la stabilizzazione della liquidità. Segui Coin Ticker 360.",
+     "show": "SEGUI COIN TICKER 360",
+     "figure": ""
+    }
+   ],
+   "origin": "Jason Pizzino",
+   "source_video": "Bitcoin Crash: It's Repeating a Pattern Most Investors Missed",
+   "narration": "Stablecoin in aumento mostrano prima liquidità pronta a rientrare. La quota di stablecoin e i volumi indicano interesse a prezzi bassi. Una dominance elevata significa che i capitali attendono invece di uscire. Il riassorbimento dei volumi spot deciderà la tenuta dei minimi attuali. La gestione del rischio resta prioritaria durante la stabilizzazione della liquidità. Segui Coin Ticker 360.",
+   "ticker": "BTC-USD",
+   "sentiment": "neutral",
+   "sources": [],
+   "caption": "I dati su volumi e dominance delle stablecoin mostrano accumulo di liquidità e interesse sui minimi. La tenuta dipende dall'assorbimento spot.",
+   "hashtags": [
+    "#Bitcoin",
+    "#Stablecoin",
+    "#OnChainData",
+    "#CryptoMarket",
+    "#Liquidita",
+    "#CoinTicker360"
+   ]
+  }
+ ],
+ "en": [
+  {
+   "title": "Bitcoin Drops 30%: Key Support Levels Broken",
+   "hook": "Bitcoin DOWN 30%",
+   "beats": [
+    {
+     "say": "Bitcoin lost 30% in just two months.",
+     "show": "Bitcoin DOWN 30%",
+     "figure": "-30%"
+    },
+    {
+     "say": "Key support levels at $75,000, $71,000, and $67,000 have all broken down.",
+     "show": "SUPPORTS BROKEN",
+     "figure": "$67,000"
+    },
+    {
+     "say": "This level of structural breakdown signals a deep shift into macro bear territory.",
+     "show": "BEAR MARKET CYCLE",
+     "figure": ""
+    },
+    {
+     "say": "Holding below $67,000 opens the door for extended downside risk ahead.",
+     "show": "DOWNSIDE RISK",
+     "figure": "$67,000"
+    },
+    {
+     "say": "Macro trends now dominate the immediate market direction. Follow Coin Ticker 360.",
+     "show": "FOLLOW COIN TICKER 360",
+     "figure": ""
+    }
+   ],
+   "origin": "Jason Pizzino",
+   "source_video": "Bitcoin Crash: It's Repeating a Pattern Most Investors Missed",
+   "narration": "Bitcoin lost 30% in just two months. Key support levels at $75,000, $71,000, and $67,000 have all broken down. This level of structural breakdown signals a deep shift into macro bear territory. Holding below $67,000 opens the door for extended downside risk ahead. Macro trends now dominate the immediate market direction. Follow Coin Ticker 360.",
+   "ticker": "BTC-USD",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Bitcoin loses 30% over two months as key supports break down. Technical structures confirm broader macro pressure.",
+   "hashtags": [
+    "#Bitcoin",
+    "#Crypto",
+    "#MarketUpdate",
+    "#TechnicalAnalysis",
+    "#CryptoNews",
+    "#CoinTicker360"
+   ]
+  },
+  {
+   "title": "Bitcoin Bear Markets See 63% Red Weeks",
+   "hook": "63% RED WEEKS",
+   "beats": [
+    {
+     "say": "Bitcoin red weeks reach 63% during historical bear markets.",
+     "show": "63% RED WEEKS",
+     "figure": "63%"
+    },
+    {
+     "say": "Historical data shows that standard bear cycles produce consecutive down weeks.",
+     "show": "HISTORICAL PATTERNS",
+     "figure": ""
+    },
+    {
+     "say": "Isolated green weeks are common head-fakes within a long-term downtrend.",
+     "show": "RELIEF TRAPS",
+     "figure": ""
+    },
+    {
+     "say": "A high ratio of weekly losses indicates macro weakness remains in control.",
+     "show": "MACRO WEAKNESS",
+     "figure": "59%"
+    },
+    {
+     "say": "True market bottoms take many months of consolidation to form properly. Follow Coin Ticker 360.",
+     "show": "FOLLOW COIN TICKER 360",
+     "figure": ""
+    }
+   ],
+   "origin": "Jason Pizzino",
+   "source_video": "Bitcoin Crash: It's Repeating a Pattern Most Investors Missed",
+   "narration": "Bitcoin red weeks reach 63% during historical bear markets. Historical data shows that standard bear cycles produce consecutive down weeks. Isolated green weeks are common head-fakes within a long-term downtrend. A high ratio of weekly losses indicates macro weakness remains in control. True market bottoms take many months of consolidation to form properly. Follow Coin Ticker 360.",
+   "ticker": "BTC-USD",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Historical cycles show up to 63% of weeks close red during Bitcoin bear markets. Temporary rallies do not equal macro bottoms.",
+   "hashtags": [
+    "#Bitcoin",
+    "#CryptoMetrics",
+    "#BearMarket",
+    "#MacroEconomics",
+    "#CryptoTrading",
+    "#CoinTicker360"
+   ]
+  },
+  {
+   "title": "Bitcoin Bounce Expected But New Highs Take 12 Months",
+   "hook": "TEMPORARY BOUNCE",
+   "beats": [
+    {
+     "say": "Bitcoin overextended selloffs frequently trigger a sharp temporary bounce.",
+     "show": "TEMPORARY BOUNCE",
+     "figure": ""
+    },
+    {
+     "say": "Current extreme technical drawdown metrics indicate an imminent short-term relief rally.",
+     "show": "OVERSOLD CONDITIONS",
+     "figure": ""
+    },
+    {
+     "say": "A fast bounce does not guarantee a return to peak structural highs.",
+     "show": "NOT A FULL RECOVERY",
+     "figure": ""
+    },
+    {
+     "say": "Historical cycles show returning to historic peaks often requires 12 full months.",
+     "show": "12 MONTH TIMELINE",
+     "figure": "12 months"
+    },
+    {
+     "say": "Short-term rallies often resolve into lengthy sideways consolidation periods. Follow Coin Ticker 360.",
+     "show": "FOLLOW COIN TICKER 360",
+     "figure": ""
+    }
+   ],
+   "origin": "Jason Pizzino",
+   "source_video": "Bitcoin Crash: It's Repeating a Pattern Most Investors Missed",
+   "narration": "Bitcoin overextended selloffs frequently trigger a sharp temporary bounce. Current extreme technical drawdown metrics indicate an imminent short-term relief rally. A fast bounce does not guarantee a return to peak structural highs. Historical cycles show returning to historic peaks often requires 12 full months. Short-term rallies often resolve into lengthy sideways consolidation periods. Follow Coin Ticker 360.",
+   "ticker": "BTC-USD",
+   "sentiment": "neutral",
+   "sources": [],
+   "caption": "Oversold metrics set up Bitcoin for a short-term relief bounce, but macro cycles suggest reaching prior peaks takes around 12 months.",
+   "hashtags": [
+    "#Bitcoin",
+    "#CryptoAnalysis",
+    "#MarketCycles",
+    "#TradingStrategy",
+    "#CryptoNews",
+    "#CoinTicker360"
+   ]
+  },
+  {
+   "title": "Bitcoin Stablecoin Metrics Show Buying Interest",
+   "hook": "BUYING INTEREST",
+   "beats": [
+    {
+     "say": "Stablecoin dominance reveals emerging buying interest at key market lows.",
+     "show": "BUYING INTEREST",
+     "figure": ""
+    },
+    {
+     "say": "On-chain volume metrics highlight capital shifting into defensive position reserves.",
+     "show": "DEFENSIVE CAPITAL",
+     "figure": ""
+    },
+    {
+     "say": "High stablecoin ratio shows liquidity waiting on sidelines rather than exiting completely.",
+     "show": "SIDELINE LIQUIDITY",
+     "figure": ""
+    },
+    {
+     "say": "Sustained spot volume absorption is necessary to form a solid bottom.",
+     "show": "VOLUME ABSORPTION",
+     "figure": ""
+    },
+    {
+     "say": "Capital preservation remains key while liquidity reorganizes for the next phase. Follow Coin Ticker 360.",
+     "show": "FOLLOW COIN TICKER 360",
+     "figure": ""
+    }
+   ],
+   "origin": "Jason Pizzino",
+   "source_video": "Bitcoin Crash: It's Repeating a Pattern Most Investors Missed",
+   "narration": "Stablecoin dominance reveals emerging buying interest at key market lows. On-chain volume metrics highlight capital shifting into defensive position reserves. High stablecoin ratio shows liquidity waiting on sidelines rather than exiting completely. Sustained spot volume absorption is necessary to form a solid bottom. Capital preservation remains key while liquidity reorganizes for the next phase. Follow Coin Ticker 360.",
+   "ticker": "BTC-USD",
+   "sentiment": "neutral",
+   "sources": [],
+   "caption": "Stablecoin dominance and volume shifts reveal dry powder staying on the sidelines. Spot absorption is required before a solid floor forms.",
+   "hashtags": [
+    "#Bitcoin",
+    "#Stablecoins",
+    "#CryptoData",
+    "#Liquidity",
+    "#MarketAnalysis",
+    "#CoinTicker360"
+   ]
+  }
+ ],
+ "carousels": {
+  "it": {
+   "topic": "Bitcoin: Anatomia del Ciclo Ribassista",
+   "caption": "Il crollo di Bitcoin del 30% riflette la struttura classica dei cicli ribassisti. Ecco cosa dicono i numeri sui tempi di recupero e sui livelli chiave. Segui Coin Ticker 360 per altre analisi trasparenti.",
+   "sentiment": "bearish",
+   "ticker": "BTC-USD",
+   "slides": [
+    {
+     "title": "Bitcoin: -30% e rottura dei cicli",
+     "body": "Ecco cosa rivelano i dati macro sui livelli di prezzo e i tempi di recupero."
+    },
+    {
+     "title": "Livelli chiave infranti",
+     "body": "Bitcoin ha perso il 30% in due mesi, violando le strutture di prezzo a 75.000, 71.000 e 67.000 dollari."
+    },
+    {
+     "title": "Dominio delle candele rosse",
+     "body": "Nei mercati ribassisti storici, dal 59% al 63% delle chiusure settimanali è in perdita."
+    },
+    {
+     "title": "Rimbalzi di breve termine",
+     "body": "L'ipervenduto attuale favorisce un sollievo temporaneo, ma non garantisce la fine della fase ribassista."
+    },
+    {
+     "title": "12 mesi per i massimi",
+     "body": "Sulla base dei cicli storici, il ritorno ai precedenti massimi richiede circa 12 mesi di consolidamento."
+    },
+    {
+     "title": "Segnali dalle stablecoin",
+     "body": "La quota di stablecoin cresce: la liquidità resta sul mercato in attesa di segnali di stabilizzazione."
+    },
+    {
+     "title": "Prudenza e gestione del rischio",
+     "body": "Preservare il capitale è fondamentale prima di confermare un minimo definitivo. Segui Coin Ticker 360."
+    }
+   ],
+   "hashtags": [
+    "#Bitcoin",
+    "#Crypto",
+    "#MercatiCrypto",
+    "#AnalisiTecnica",
+    "#Investimenti",
+    "#Finanza",
+    "#BearMarket",
+    "#CoinTicker360"
+   ]
+  },
+  "en": {
+   "topic": "Bitcoin: Anatomy of a Bear Cycle",
+   "caption": "Bitcoin's 30% drop reflects traditional bear market cycle dynamics. Here is what historical data says about recovery timelines and key price levels. Follow Coin Ticker 360 for data-driven crypto insights.",
+   "sentiment": "bearish",
+   "ticker": "BTC-USD",
+   "slides": [
+    {
+     "title": "Bitcoin Down 30%: The Cycle Reality",
+     "body": "Here is what macro metrics reveal about price levels and recovery timelines."
+    },
+    {
+     "title": "Critical Supports Broken",
+     "body": "Bitcoin declined 30% over two months, breaking structural support zones at $75,000, $71,000, and $67,000."
+    },
+    {
+     "title": "Dominance of Red Weeks",
+     "body": "Historical bear cycles show that 59% to 63% of all weekly candles close in negative territory."
+    },
+    {
+     "title": "Short-Term Bounce Setup",
+     "body": "Extreme oversold conditions pave the way for a relief rally, but not an immediate structural bottom."
+    },
+    {
+     "title": "12 Months to Peaks",
+     "body": "Historical macroeconomic cycles suggest returning to prior all-time highs typically requires 12 full months."
+    },
+    {
+     "title": "Stablecoin Liquidity Reserves",
+     "body": "Rising stablecoin dominance confirms capital is holding on the sidelines rather than leaving the ecosystem."
+    },
+    {
+     "title": "Focus on Risk Management",
+     "body": "Capital preservation remains essential while prices build a long-term base. Follow Coin Ticker 360."
+    }
+   ],
+   "hashtags": [
+    "#Bitcoin",
+    "#Crypto",
+    "#CryptoMarkets",
+    "#TechnicalAnalysis",
+    "#Investing",
+    "#Finance",
+    "#BearMarket",
+    "#CoinTicker360"
+   ]
+  }
+ }
+}

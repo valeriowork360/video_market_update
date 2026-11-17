@@ -1,0 +1,30 @@
+{
+ "1L5Rb7sWbNc": {
+  "sent": [
+   "it:s1",
+   "it:s2",
+   "it:s3",
+   "it:c"
+  ],
+  "tries": 1,
+  "title": "La pensione che non hai: l'olandese ne ha 8 volte",
+  "done": true
+ },
+ "JNm52TYea7w": {
+  "sent": [
+   "it:s1",
+   "it:s2",
+   "it:s3",
+   "it:s4",
+   "it:c",
+   "en:s1",
+   "en:s2",
+   "en:s3",
+   "en:s4",
+   "en:c"
+  ],
+  "tries": 1,
+  "title": "Bitcoin Crash: It's Repeating a Pattern Most Investors Missed",
+  "done": true
+ }
+}
