@@ -358,7 +358,7 @@ def test_video_shorts():
     out, _ = writer.video_shorts(note, ["it", "en"])
     assert len(out["en"]) == 3 and len(out["it"]) == 2, (len(out["it"]), len(out["en"]))   # the named one is dropped
     assert out["it"][0]["origin"] == "Jeremy Lefebvre" and out["it"][0]["ticker"] == "BTC-USD"
-    assert "360 Coin Ticker" in seen["p"] and "Italian, English" in seen["p"]
+    assert "Coin Ticker 360" in seen["p"] and "Italian, English" in seen["p"]
     from mp import motion
     assert motion.origin_color("Jeremy Lefebvre") == motion.origin_color("Financial Education")
     print("video shorts ok")

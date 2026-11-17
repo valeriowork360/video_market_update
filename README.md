@@ -1,4 +1,4 @@
-# 360 Coin Ticker
+# Coin Ticker 360
 
 Un canale faceless di notizie di borsa, in italiano e in inglese, che si produce da solo.
 Gira gratis su GitHub, anche a computer spento. Tu ricevi tutto su Telegram, approvi e pubblichi.

@@ -57,8 +57,11 @@ STRUCTURE (segments, in this order)
 1. kind "hook": 35-50 words. Open directly with the biggest story of {period} - no greeting,
    no "welcome", no channel name - then tease two more things. Heading = the big story.
 2. kind "market": 90-130 words. What is moving the market right now; only the 4-5 numbers that matter.
-3. three to five kind "topic" segments, 110-160 words each: one theme each. Blend the analysis
-   in the notes with the headlines, stated directly. Lead with the most market-moving theme.
+3. three to six kind "topic" segments, 110-160 words each. THIS IS THE CORE OF THE VIDEO: it
+   combines ALL the videos in the CREATOR NOTES into one briefing. Every video in the notes must
+   feed at least one segment; videos on the same theme go into the same segment, and where their
+   readings differ the segment says so (still without naming anyone). Headlines are only used to
+   add the latest fact to these themes. Only if the notes are empty, build the topics from headlines.
 4. kind "ahead": 80-120 words. What could move markets in the next days (calendar events,
    catalysts the creators flag), with dates. Calendar times: {tz_rule}
 5. optional kind "curious": one odd or surprising story, if the inputs contain one.
@@ -111,8 +114,9 @@ SHORT_RULES = """HOW A SHORT IS BUILT - follow exactly:
 
 V_PROMPT = """You are the shorts editor of "{brand}". Below are private research notes on ONE video
 by a creator we follow. Turn EVERY salient part of it into its own short: one short per part,
-each about a different point, up to {n} shorts. Skip only parts with no real substance
-(greetings, promotions, repetition). Order them from the strongest to the weakest.
+each about a different point. The number follows the content: a long, dense video can give
+{n} shorts, a short or thin one only 2 or 3. NEVER pad: no short without a real point, no two
+shorts on the same point. Skip greetings, promotions and repetition. Strongest first.
 
 Write each short in these languages: {langs}. Each version is written natively for that
 language, not translated word by word.
@@ -436,7 +440,8 @@ def _one_short(raw, common, origin, source):
 
 def video_shorts(note, langs):
     """Several shorts from ONE creator video: one per salient part. Returns {lang: [short, ...]}."""
-    n = CFG["daily"].get("shorts_per_video", 5)
+    parts_n = len(note.get("moments") or note.get("key_points") or []) or 3
+    n = max(2, min(CFG["daily"].get("shorts_per_video", 15), parts_n))
     ch = next((c for c in CFG["channels"] if c["name"] == note["author"]), {})
     origin = ch.get("group") or note["author"]
     view = {"title": note["title"][:120], "tone": note.get("author_tone"), "summary": note.get("summary"),

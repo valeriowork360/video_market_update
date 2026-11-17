@@ -4,7 +4,7 @@
 # ============================================================
 
 brand:
-  name: 360 Coin Ticker         # nome del canale, appare in video e caroselli
+  name: Coin Ticker 360         # nome del canale, appare in video e caroselli
   handle: ""                    # es. "@marketpulse" (appare nell'ultima slide), facoltativo
   background: "#0B0F14"
   panel: "#131A23"
@@ -193,7 +193,7 @@ credits:
 
 daily:
   minutes: 6                    # durata indicativa del video lungo
-  shorts_per_video: 5           # short ricavati da OGNI video degli autori (uno per ogni parte saliente)
+  shorts_per_video: 15          # tetto di sicurezza: uno short per ogni parte saliente del video, mai riempitivi
   max_shorts_total: 40          # tetto di short al giorno per lingua
   shorts_min: 3
   shorts_max: 7

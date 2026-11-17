@@ -30,7 +30,9 @@ Return ONE JSON object with exactly these keys:
  "author_tone": one of {tones},
  "tone_evidence": "one sentence: what in voice and wording shows that tone",
  "key_points": [{{"point": "concrete claim, with numbers/levels if given", "timestamp": "mm:ss"}}],  // max 8
- "moments": [                         // EVERY salient part of the video, in order, max 8: each one
+ "moments": [                         // EVERY salient part of this portion, in order: as many as the
+                                      // content really has (a dense portion of this length can have up
+                                      // to {moments}; a thin one only 2 or 3 - never pad). Each one
                                       // must stand alone as the subject of a 20-second short
    {{"timestamp": "mm:ss", "topic": "what this part is about, max 8 words",
      "claim": "the point the author makes, one sentence",
@@ -49,7 +51,7 @@ Use only what is said or shown in the video. If a number is unclear, leave it ou
 
 MERGE = """These are notes on consecutive parts of ONE video by "{author}" titled "{title}".
 Merge them into a single JSON object with exactly the same keys as each part
-(summary 4-6 sentences for the whole video, max 8 key_points and max 8 moments keeping timestamps, one
+(summary 4-6 sentences for the whole video, max 8 key_points, and ALL the moments of all parts in order (do not drop or merge moments), one
 overall author_tone from {tones}, digest_it in Italian, union of the lists without duplicates,
 "empty": false). Do not add anything that is not in the parts.
 
@@ -63,9 +65,9 @@ def _tokens_per_second(fps):
 
 def _one(v, ch, start, end, fps, part_txt):
     hint = f'Channel note: {ch["hint"]}\n' if ch.get("hint") else ""
-    prompt = PROMPT.format(author=ch["name"], title=v["title"], hint=hint, part=part_txt,
-                           tones=json.dumps(TONES))
     span = (end - start) if end is not None else (v.get("duration") or 20 * 60)
+    prompt = PROMPT.format(author=ch["name"], title=v["title"], hint=hint, part=part_txt,
+                           tones=json.dumps(TONES), moments=max(4, min(14, round(span / 60 / 2.5))))
     video = {"url": v["url"], "fps": fps, "start": start if start else None, "end": end,
              "est_tokens": int(span * _tokens_per_second(fps))}
     return llm.ask("watch", lambda _n: prompt, video=video, temperature=0.3, patience=0)
@@ -107,7 +109,7 @@ def _norm(n):
             kp.append({"point": clean(p), "timestamp": ""})
     n["key_points"] = kp
     n["moments"] = [{k: clean(m.get(k) or "") for k in ("timestamp", "topic", "claim", "details", "surprise")}
-                    for m in (n.get("moments") or []) if isinstance(m, dict) and clean(m.get("claim"))][:8]
+                    for m in (n.get("moments") or []) if isinstance(m, dict) and clean(m.get("claim"))][:30]
     n["promo"] = bool(n.get("promo"))
     return n
 
@@ -125,7 +127,7 @@ def _merge_local(parts):
         base[k] = seen[:10]
     kps = [k for p in parts for k in p["key_points"][:4]]
     base["key_points"] = kps[:8]
-    base["moments"] = [m for p in parts for m in p.get("moments", [])][:8]
+    base["moments"] = [m for p in parts for m in p.get("moments", [])][:30]
     base["market_relevance"] = max(p["market_relevance"] for p in parts)
     base["promo"] = any(p["promo"] for p in parts)
     return base
