@@ -1,0 +1,90 @@
+{
+ "market_relevance": 9,
+ "scope": "global",
+ "kind": "market update",
+ "summary": "The author analyzes the current negative trend across global markets, highlighting significant declines in technology stocks and cryptocurrencies. Bitcoin has experienced a sharp correction, falling to support levels around $62,000 after a series of weekly losses. Nvidia is noted as being in an oversold state, with its recent performance negatively impacting broader market sentiment. The author emphasizes that macroeconomic conditions, including rising interest rates and bond yields, continue to exert pressure on equities. Overall, the market outlook remains cautious as investors await upcoming financial results and further economic data.",
+ "digest_it": "L'autore osserva una fase di debolezza generalizzata su mercati tecnologici e criptovalute, spinta da tassi elevati e rendimenti obbligazionari in crescita. Si attende con cautela la reazione del titolo Nvidia ai prossimi risultati finanziari, ritenendo che il sentiment di mercato resti fragile.",
+ "author_tone": "cautious",
+ "tone_evidence": "The author repeatedly highlights the lack of strong positive signals and the potential for further downside, while acknowledging the possibility of a temporary rebound.",
+ "key_points": [
+  {
+   "point": "Bitcoin dropped to $62,000, breaking its previous upward trend.",
+   "timestamp": "00:27"
+  },
+  {
+   "point": "Nvidia is at its most oversold level since June 2019.",
+   "timestamp": "01:06"
+  },
+  {
+   "point": "US 10-year Treasury yields have risen to 5.12%.",
+   "timestamp": "07:45"
+  },
+  {
+   "point": "Intel has lost 46% of its value from its peak.",
+   "timestamp": "05:16"
+  }
+ ],
+ "moments": [
+  {
+   "timestamp": "00:05",
+   "topic": "Market overview and Bitcoin correction",
+   "claim": "Global markets are currently experiencing a significant downturn.",
+   "details": "The author notes that both tech stocks and cryptocurrencies are in the red. Bitcoin has retreated to $62,000, erasing gains made since February 2026.",
+   "surprise": "Bitcoin has suffered eight consecutive weeks of losses."
+  },
+  {
+   "timestamp": "00:55",
+   "topic": "Nvidia and tech sector pressure",
+   "claim": "Nvidia is currently oversold, reflecting broader tech sector weakness.",
+   "details": "The company's stock has hit its lowest oversold level since June 2019. This decline is linked to negative sentiment surrounding the CEO and broader macroeconomic pressures.",
+   "surprise": "Nvidia's recent volatility has severely damaged the reputation of a 33-year career."
+  },
+  {
+   "timestamp": "03:15",
+   "topic": "Altcoin performance and market sentiment",
+   "claim": "Most altcoins are underperforming and show no signs of recovery.",
+   "details": "The author points out that the vast majority of the top 300 cryptocurrencies are trading below double-digit levels. While some assets show temporary spikes, the overall monthly trend remains negative.",
+   "surprise": "Most altcoins have lost between 30% and 70% of their value over the past year."
+  },
+  {
+   "timestamp": "07:15",
+   "topic": "Macroeconomic factors and outlook",
+   "claim": "Rising bond yields continue to weigh heavily on market performance.",
+   "details": "The 10-year Treasury yield has climbed to 5.12%, adding further pressure to equities. The author suggests that the market is currently in a fragile state, with little evidence of a sustained recovery.",
+   "surprise": "The 10-year Treasury yield is at a level that continues to suppress equity growth."
+  }
+ ],
+ "tickers": [
+  "NVDA",
+  "BTC",
+  "MSFT",
+  "JPM",
+  "AAPL",
+  "GOOGL",
+  "META",
+  "AMZN",
+  "TSLA",
+  "MCD"
+ ],
+ "predictions": [
+  "Nvidia may see a rebound once a temporary bottom is established."
+ ],
+ "catalysts": [
+  "Nvidia earnings release on November 17th"
+ ],
+ "rumors": [],
+ "curiosities": [
+  "The author notes that some altcoins use pump-and-dump tactics to maintain price levels despite overall market weakness."
+ ],
+ "promo": true,
+ "language": "it",
+ "video_id": "uq6ZUEnFwhk",
+ "title": "IL PEGGIO DEVE ANCORA ARRIVARE?",
+ "author": "MindTheChart",
+ "url": "https://www.youtube.com/watch?v=uq6ZUEnFwhk",
+ "published": "2026-11-17T06:40:26+00:00",
+ "duration_min": 8,
+ "partial": false,
+ "analysed_at": "2026-11-17T11:52:31.549578+00:00",
+ "model": "gemini-3.1-flash-lite"
+}
