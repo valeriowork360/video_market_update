@@ -353,7 +353,7 @@ def test_video_shorts():
                            {"ticker": None, "sentiment": "neutral", "it": block, "en": block}]}, {"model": "m"}
 
     writer.llm.ask = fake
-    note = {"author": "Financial Education 2", "title": "T", "summary": "s", "moments": [{"claim": "x"}],
+    note = {"author": "Financial Education 2", "title": "T", "summary": "s", "moments": [{"claim": "x"}, {"claim": "y"}, {"claim": "z"}],
             "key_points": [], "video_id": "v"}
     out, _ = writer.video_shorts(note, ["it", "en"])
     assert len(out["en"]) == 3 and len(out["it"]) == 2, (len(out["it"]), len(out["en"]))   # the named one is dropped
