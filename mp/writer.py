@@ -63,13 +63,13 @@ STRUCTURE (segments, in this order)
    catalysts the creators flag), with dates. Calendar times: {tz_rule}
 5. optional kind "curious": one odd or surprising story, if the inputs contain one.
 6. kind "outro": 25-40 words, one-line "this is not financial advice", invite to follow.
-{extra}
+{extra}{covered}
 Return ONE JSON object:
 {{
  "title": "YouTube title, max 68 characters, specific and honest, no ALL CAPS",
  "description": "3-5 lines; last line credits the creators mentioned",
  "tags": ["8-12 tags"],
- "thumbnail_text": "2-4 punchy words",
+ "thumbnail_text": "2-4 words for the cover: scroll-stopping, click-bait style, with the key number or name, true to the content",
  "mood": "calm|neutral|urgent|upbeat",   // how the narrator should sound given today's market
  "segments": [
   {{"id": "s1", "kind": "hook|market|topic|ahead|curious|outro",
@@ -95,6 +95,49 @@ HEADLINES (reliable outlets):
 {news}
 """
 
+SHORT_RULES = """HOW A SHORT IS BUILT - follow exactly:
+- Exactly 5 beats, 55-80 words in total:
+  1 HOOK     max 12 words. The most striking fact of this part as a punch, starting with the
+             number or the name. No greeting, no "today we talk about", no yes/no question.
+  2 CONTEXT  what is happening, one sentence.
+  3 TWIST    what most people miss, or why it is not what it seems.
+  4 STAKES   the level, the date or the number to watch now.
+  5 PAYOFF   one line that closes the loop opened by the hook, then a 3-word follow invite.
+- "show" = 2-4 words shown HUGE on screen. The first beat's "show" is the COVER of the short:
+  a scroll-stopping, click-bait style line (bold, concrete, with the number or the name) that
+  is still true to the content. It must make sense alone, with the sound off.
+- "figure" = the one key number of the beat as written on screen ("-7%", "68.700 $") or "".
+- Every sentence is short. One idea per beat. The viewer decides in the first 2 seconds."""
+
+V_PROMPT = """You are the shorts editor of "{brand}". Below are private research notes on ONE video
+by a creator we follow. Turn EVERY salient part of it into its own short: one short per part,
+each about a different point, up to {n} shorts. Skip only parts with no real substance
+(greetings, promotions, repetition). Order them from the strongest to the weakest.
+
+Write each short in these languages: {langs}. Each version is written natively for that
+language, not translated word by word.
+For Italian use Italian number format ("7.590", "0,4%", "68.700 dollari").
+
+{rules}
+
+{short_rules}
+
+Return ONE JSON object:
+{{"shorts": [
+  {{"ticker": "one Yahoo Finance symbol if this part is about one asset (NVDA, ^GSPC, BTC-USD), else null",
+    "sentiment": "bullish|bearish|neutral",
+    {lang_fields}
+  }}
+]}}
+where every language block is:
+  {{"title": "max 60 characters, curiosity without lying",
+    "beats": [{{"say": "what the voice says", "show": "2-4 words", "figure": "key number or \"\""}}],
+    "caption": "1-2 sentence post caption", "hashtags": ["#5-8"]}}
+
+NOTES ON THE VIDEO:
+{note}
+"""
+
 B_PROMPT = """You are the social editor of "{brand}". Below is the script of today's long video.
 Derive social content FROM THIS SCRIPT ONLY: do not add facts, numbers or names that are not in it.
 
@@ -102,31 +145,6 @@ Derive social content FROM THIS SCRIPT ONLY: do not add facts, numbers or names 
 
 Return ONE JSON object:
 {{
- "shorts": [   // {shorts_rule}
-  {{"segment_id": "id of the script segment it comes from",
-    "origin": "the ONE creator this short is built on: exact name taken from that segment's sources, one of {creators}",
-    "title": "max 60 characters, curiosity without lying",
-    "beats": [{{"say": "what the voice says", "show": "2-4 words shown HUGE on screen", "figure": "the one key number of the beat as written on screen (\"-7%\", \"5,15%\") or \"\""}}],
-    "ticker": "same symbol as the segment or null",
-    "sentiment": "bullish|bearish|neutral",
-    "caption": "1-2 sentence post caption",
-    "hashtags": ["#5-8"]}}
- ],
- // HOW A SHORT IS BUILT - follow exactly:
- // - ONLY from segments whose sources include one of the creators listed in "origin". Never make
- //   a short from a segment based on headlines alone. If no segment qualifies, return [].
- // - Pick only stories that have a hook: a surprising number, a sharp contrast, a reversal, a
- //   direct consequence for the viewer's money. A flat recap ("market overview") is NOT a short.
- //   Fewer strong shorts beat many weak ones.
- // - Exactly 5 beats, 55-80 words in total:
- //   1 HOOK   max 12 words. The most surprising fact as a punch, starting with the number or the
- //            name. No greeting, no "today we talk about", no yes/no question.
- //   2 CONTEXT  what happened, one sentence.
- //   3 TWIST    what most people miss, or why it is not what it seems.
- //   4 STAKES   the level, the date or the number to watch now.
- //   5 PAYOFF   one line that closes the loop opened by the hook, then a 3-word follow invite.
- // - "show" is the punchline of the beat, not a copy of "say": it must make sense alone, muted.
- // - Every sentence is short. One idea per beat. The viewer decides in the first 2 seconds.
  "carousels": [   // {carousel_rule}
   {{"segment_id": "...", "topic": "max 6 words",
     "caption": "Instagram caption, 2-3 sentences, ends with a question or a follow invite",
@@ -188,7 +206,7 @@ def _rules(lang):
     return RULES.format(lang=LANG[lang], money='"$68,700", "$5.6 billion"', numfmt='English format ("7,590", "0.4")')
 
 
-def long_script(notes, news, market, cal, lang, kind, date_label, week_scripts=None):
+def long_script(notes, news, market, cal, lang, kind, date_label, week_scripts=None, covered=None):
     weekly = kind == "weekly"
     minutes = CFG["weekly" if weekly else "daily"]["minutes"]
     what = "the WEEKLY RECAP video (the past seven days)" if weekly else "today's DAILY BRIEFING video"
@@ -201,6 +219,11 @@ def long_script(notes, news, market, cal, lang, kind, date_label, week_scripts=N
     fixed = A_PROMPT.format(
         brand=CFG["brand"]["name"], what=what, date=date_label, words=minutes * 145,
         rules=_rules(lang), period="the week" if weekly else "today", extra=extra,
+        covered=("" if weekly or not covered else
+                 "\nALREADY TOLD IN PREVIOUS EPISODES: " + json.dumps(covered, ensure_ascii=False)[:3500] +
+                 "\nRULE: do not retell these stories. One of them may return ONLY if today's inputs "
+                 "contain a NEW fact about it: then say just the new fact in one or two sentences, with "
+                 "no recap of what was already told. Prefer stories that are not in this list.\n"),
         tz_rule=('use "when_rome" and say "ora italiana".' if lang == "it"
                  else 'use "when_new_york" and say "Eastern Time".'),
         market=json.dumps(market, ensure_ascii=False) if market else "not available today: do not cite prices",
@@ -385,6 +408,67 @@ def _check_long(d):
             "tags": [clean(t).lstrip("#") for t in (d.get("tags") or []) if clean(t)][:15],
             "thumbnail_text": _t(d.get("thumbnail_text"), 40),
             "mood": mood if mood in MOODS else "neutral", "segments": segs, "words": words}
+
+
+def _short_ok(sh, lang):
+    blob = sh["narration"] + " " + sh["caption"] + " " + sh["title"] + " " + " ".join(b["show"] for b in sh["beats"])
+    _language_check(blob, lang)
+    _names_check(blob)
+    _voice_check(blob)
+
+
+def _one_short(raw, common, origin, source):
+    beats = [{"say": _t(x.get("say")), "show": _t(x.get("show"), 44), "figure": _t(x.get("figure"), 14)}
+             for x in (raw.get("beats") or []) if isinstance(x, dict) and clean(x.get("say"))][:6]
+    if len(beats) < 3:
+        return None
+    for b in beats:
+        b["show"] = b["show"] or " ".join(b["say"].split()[:3])
+    nar = " ".join(b["say"] for b in beats)
+    if len(nar.split()) < 30:
+        return None
+    return {"title": _t(raw.get("title"), 90), "hook": beats[0]["show"], "beats": beats, "origin": origin,
+            "source_video": source, "narration": nar, "ticker": _ticker(common.get("ticker")),
+            "sentiment": _sent(common.get("sentiment")), "sources": [], "caption": _t(raw.get("caption")),
+            "hashtags": [h if h.startswith("#") else "#" + h
+                         for h in (clean(x).replace(" ", "") for x in (raw.get("hashtags") or [])) if h][:10]}
+
+
+def video_shorts(note, langs):
+    """Several shorts from ONE creator video: one per salient part. Returns {lang: [short, ...]}."""
+    n = CFG["daily"].get("shorts_per_video", 5)
+    ch = next((c for c in CFG["channels"] if c["name"] == note["author"]), {})
+    origin = ch.get("group") or note["author"]
+    view = {"title": note["title"][:120], "tone": note.get("author_tone"), "summary": note.get("summary"),
+            "parts": note.get("moments") or [{"claim": k["point"], "timestamp": k.get("timestamp")}
+                                              for k in note.get("key_points", [])],
+            "predictions": note.get("predictions", [])[:6], "catalysts": note.get("catalysts", [])[:5],
+            "rumors": note.get("rumors", [])[:3], "tickers": note.get("tickers", [])[:8]}
+    body = V_PROMPT.format(brand=CFG["brand"]["name"], n=n, langs=", ".join(LANG[l] for l in langs),
+                           rules=_rules("en"), short_rules=SHORT_RULES,
+                           lang_fields=", ".join(f'"{l}": {{...}}' for l in langs),
+                           note=json.dumps(view, ensure_ascii=False))
+    feedback, out = "", {l: [] for l in langs}
+    for attempt in (1, 2):
+        data, meta = llm.ask("write", lambda k: body[:max(k, 9000)] + feedback, temperature=0.7, patience=1)
+        out, bad = {l: [] for l in langs}, []
+        for raw in (data.get("shorts") or [])[:n]:
+            if not isinstance(raw, dict):
+                continue
+            for l in langs:
+                sh = _one_short(raw.get(l) or {}, raw, origin, note["title"][:80])
+                if not sh:
+                    continue
+                try:
+                    _short_ok(sh, l)
+                    out[l].append(sh)
+                except llm.LLMError as e:
+                    bad.append(str(e))
+        if not bad or attempt == 2:         # second draft: keep the good ones, drop the rest
+            break
+        feedback = f"\n\nIMPORTANT: your previous answer was rejected ({bad[0]}). Fix exactly that.\n"
+        log(f"    short scartati ({bad[0][:110]}): li faccio riscrivere")
+    return out, meta
 
 
 def upgrade(soc):

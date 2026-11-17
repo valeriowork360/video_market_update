@@ -20,9 +20,17 @@ DARK = (7, 9, 13)
 
 def origin_color(origin):
     for ch in CFG["channels"]:
-        if ch["name"] == origin and ch.get("color"):
+        if origin in (ch["name"], ch.get("group")) and ch.get("color"):
             return rgb(ch["color"])
-    return rgb(CFG.get("publish_colors", {}).get("news", "#A9B6C6"))
+    return rgb("#A9B6C6")
+
+
+def arrow(d, cx, cy, size, up, fill):
+    """Big zig-zag market arrow: the picture behind the hook."""
+    k = -1 if up else 1
+    pts = [(-0.50, -0.20), (-0.18, 0.10), (0.02, -0.08), (0.30, 0.20), (0.36, 0.06), (0.50, 0.42),
+           (0.14, 0.36), (0.22, 0.28), (0.00, 0.08), (-0.20, 0.26), (-0.50, -0.04)]
+    d.polygon([(cx + x * size, cy + k * y * size) for x, y in pts], fill=fill)
 
 
 def ease(p):
@@ -212,6 +220,9 @@ class Short:
             for x in range(-H, W + 240, 240):          # moving diagonal bands
                 d.polygon([(x + shift, 0), (x + shift + 90, 0), (x + shift + 90 - H * 0.5, H),
                            (x + shift - H * 0.5, H)], fill=stripe)
+            if self.s.get("sentiment") in ("bullish", "bearish"):
+                bob = 26 * abs(((t * 1.4) % 2) - 1)
+                arrow(d, W * 0.56, 1010 + bob, 980, self.s["sentiment"] == "bullish", mix(col, DARK, 0.26))
         else:
             import math
             ox = int(210 + 190 * math.sin(t * 0.55))

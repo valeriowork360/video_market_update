@@ -335,6 +335,35 @@ def test_publish():
     print("publish ok")
 
 
+def test_video_shorts():
+    """Several shorts from one creator video, in both languages, with one AI call."""
+    beats = [{"say": "Bitcoin perde il 7% e scivola sotto i 70.000 dollari in una sola seduta.", "show": "Bitcoin sotto 70.000", "figure": "-7%"},
+             {"say": "I volumi di acquisto restano molto bassi su tutti i principali exchange.", "show": "Volumi a terra", "figure": ""},
+             {"say": "Il rimbalzo non è confermato finché i volumi non tornano a salire.", "show": "Rimbalzo fragile", "figure": ""},
+             {"say": "Il livello da guardare è 67.000 dollari.", "show": "Il livello chiave", "figure": "67.000 $"},
+             {"say": "Sotto quel livello si riapre la discesa. Segui per domani.", "show": "Lì si decide", "figure": ""}]
+    block = {"title": "Bitcoin sotto 70.000", "beats": beats, "caption": "c", "hashtags": ["bitcoin"]}
+    named = dict(block, beats=[dict(beats[0], say="Secondo Jason Pizzino Bitcoin perde il 7% e scivola sotto i 70.000 dollari.")] + beats[1:])
+    seen = {}
+
+    def fake(task, make, video=None, temperature=0.5, patience=1):
+        seen["p"] = make(400_000)
+        return {"shorts": [{"ticker": "BTC-USD", "sentiment": "bearish", "it": block, "en": block},
+                           {"ticker": None, "sentiment": "neutral", "it": named, "en": block},
+                           {"ticker": None, "sentiment": "neutral", "it": block, "en": block}]}, {"model": "m"}
+
+    writer.llm.ask = fake
+    note = {"author": "Financial Education 2", "title": "T", "summary": "s", "moments": [{"claim": "x"}],
+            "key_points": [], "video_id": "v"}
+    out, _ = writer.video_shorts(note, ["it", "en"])
+    assert len(out["en"]) == 3 and len(out["it"]) == 2, (len(out["it"]), len(out["en"]))   # the named one is dropped
+    assert out["it"][0]["origin"] == "Jeremy Lefebvre" and out["it"][0]["ticker"] == "BTC-USD"
+    assert "360 Coin Ticker" in seen["p"] and "Italian, English" in seen["p"]
+    from mp import motion
+    assert motion.origin_color("Jeremy Lefebvre") == motion.origin_color("Financial Education")
+    print("video shorts ok")
+
+
 def test_speech():
     from mp import speech
     it = speech.speakable("L'S&P 500 chiude a 7.590 punti (-0,4%), BTC a $68.700 e ETH -6,6%. Conti del Q3 di Nvidia (NVDA).", "it")
@@ -365,5 +394,6 @@ if __name__ == "__main__":
     test_router()
     test_watch()
     test_writer()
+    test_video_shorts()
     test_publish()
     print("TUTTO OK")

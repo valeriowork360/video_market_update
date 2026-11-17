@@ -90,8 +90,15 @@ def make_long(lang, kind, day, ctx, folder, sdir, force):
         notes = [n for n in ctx["notes"] if lang == "it" or n["scope"] != "italy"]
         heads = news.recent(ctx["hours"], lang)
         log(f"  scrivo il copione ({len(notes)} note, {len(heads)} notizie)")
+        covered = []            # what the last episodes already told, so stories are not repeated
+        for d in sorted(p for p in SCRIPTS.glob("*_daily") if p.name[:10] < day)[-5:]:
+            old = read_json(d / f"{lang}.json") or {}
+            if old:
+                covered.append({"day": d.name[:10], "title": old.get("title"),
+                                "topics": [x["heading"] + ": " + " ".join(x["bullets"][:3])
+                                           for x in old.get("segments", []) if x["kind"] in ("topic", "market", "curious")]})
         script, meta = writer.long_script(notes, heads, ctx["market"], ctx["calendar"], lang, kind,
-                                          date_label(day, lang, kind == "weekly"), ctx.get("week"))
+                                          date_label(day, lang, kind == "weekly"), ctx.get("week"), covered)
         script["model"] = meta["model"]
         script["n_notes"], script["n_news"] = len(notes), len(heads)
         write_json(path, script)
@@ -107,29 +114,66 @@ def make_long(lang, kind, day, ctx, folder, sdir, force):
     return script
 
 
-def make_social(lang, kind, day, script, folder, sdir, force):
+def video_shorts_for(lang, ctx, sdir, langs):
+    """All the shorts of the day for one language: several per creator video.
+
+    One AI call per video writes every language at once and is saved, so the second
+    language (and any retry) costs nothing. Returns ([(id, short)], [problems]).
+    """
+    out, problems = [], []
+    cap = CFG["daily"].get("max_shorts_total", 40)
+    for note in ctx["notes"]:
+        if lang != "it" and note.get("scope") == "italy":
+            continue
+        path = sdir / f"shorts_{note['video_id']}.json"
+        data = read_json(path)
+        if data is None:
+            want = [l for l in langs if l == "it" or note.get("scope") != "italy"]
+            try:
+                data, meta = writer.video_shorts(note, want)
+                write_json(path, data)
+                log(f"  {note['author']}: " + ", ".join(f"{len(v)} short {k}" for k, v in data.items())
+                    + f" da \"{note['title'][:50]}\" ({meta['model']})")
+            except llm.KeyProblem:
+                raise
+            except Exception as e:
+                problems.append(f"short di {note['author']}: {str(e)[:120]}")
+                log(f"  short non scritti per \"{note['title'][:50]}\": {str(e)[:140]}")
+                continue
+        for i, sh in enumerate(data.get(lang, []), 1):
+            out.append((f"{note['video_id']}:{i}", sh))
+    return out[:cap], problems
+
+
+def make_social(lang, kind, day, script, folder, sdir, force, ctx, st, langs):
     path = sdir / f"{lang}_social.json"
     soc = None if force else read_json(path)
     if not soc:
-        log("  scrivo short e caroselli")
+        log("  scrivo i caroselli")
         soc, meta = writer.derivatives(script, lang, kind)
         write_json(path, soc)
-        log(f"  {len(soc['shorts'])} short e {len(soc['carousels'])} caroselli scritti ({meta['model']})")
-    soc = writer.upgrade(soc)
+        log(f"  {len(soc['carousels'])} caroselli scritti ({meta['model']})")
     label = date_label(day, lang, False)
-    n_s = n_c = 0
-    for i, s in enumerate(soc["shorts"], 1):
+    sent = st.setdefault("sent", [])          # what already reached Telegram: never sent twice
+    shorts, problems = ([], []) if kind == "weekly" else video_shorts_for(lang, ctx, sdir, langs)
+    writer.upgrade({"shorts": [s for _, s in shorts]})
+    for n, (sid, s) in enumerate(shorts, 1):
+        if f"s:{sid}" in sent and not force:
+            continue
         try:
-            mp4, secs = video.short_video(s, i, lang, folder / "shorts", label, script["mood"])
+            mp4, secs = video.short_video(s, n, lang, folder / "shorts", label, script["mood"])
             cap = f"{s['title']}\n\n{s['caption']}\n\n{' '.join(s['hashtags'])}"
             (mp4.with_suffix(".txt")).write_text(cap, encoding="utf-8")
-            telegram.video(mp4, f"📱 Short {i}/{len(soc['shorts'])} · origine: {s.get('origin', 'news')}\n{cap}",
-                           1080, 1920, secs)
-            n_s += 1
-            publish.short(f"{day}_{kind}", lang, i, s, mp4)
+            telegram.video(mp4, f"📱 Short {n}/{len(shorts)} · {s.get('origin')} · dal video: "
+                                f"{s.get('source_video', '')}\n\n{cap}", 1080, 1920, secs)
+            sent.append(f"s:{sid}")
+            publish.short(f"{day}_{kind}", lang, n, s, mp4)
         except Exception as e:
-            log(f"    short {i} saltato: {str(e)[:160]}")
+            problems.append(f"short {n}: {str(e)[:100]}")
+            log(f"    short {n} saltato: {str(e)[:160]}")
     for i, c in enumerate(soc["carousels"], 1):
+        if f"c:{i}" in sent and not force:
+            continue
         try:
             cf = folder / "carousels" / f"{i:02d}"
             paths = draw.carousel(c, lang, cf, label, video.prices_for(c.get("ticker")))
@@ -137,21 +181,24 @@ def make_social(lang, kind, day, script, folder, sdir, force):
             (cf / "caption.txt").write_text(cap, encoding="utf-8")
             telegram.album(paths, f"🖼 Carosello {i}/{len(soc['carousels'])}: {c['topic']}")
             telegram.message("<code>" + telegram.esc(cap) + "</code>", html_mode=True)
-            n_c += 1
+            sent.append(f"c:{i}")
             publish.carousel(f"{day}_{kind}", lang, i, c, paths)
         except Exception as e:
             log(f"    carosello {i} saltato: {str(e)[:160]}")
-    log(f"  consegnati {n_s} short e {n_c} caroselli")
+    n_s = sum(1 for x in sent if x.startswith("s:"))
+    n_c = sum(1 for x in sent if x.startswith("c:"))
+    log(f"  consegnati finora {n_s} short e {n_c} caroselli")
     online = publish.report(f"{day}_{kind}", lang)
     if online:
         telegram.message(online)
-    if kind == "daily" and soc["shorts"] and not n_s:
-        raise RuntimeError("nessuno short montato")
+    if problems:            # what is missing is retried at the next run; nothing is sent twice
+        raise RuntimeError("; ".join(problems[:3]))
     return n_s, n_c
 
 
 def offline_ctx(kind):
-    return {"notes": [], "market": [], "calendar": [], "hours": 30}
+    return {"notes": [{"video_id": "sample", "author": "MindTheChart", "title": "Video di prova",
+                       "scope": "global"}], "market": [], "calendar": [], "hours": 30}
 
 
 def main():
@@ -189,6 +236,8 @@ def main():
         for l in todo:
             write_json(sdir / f"{l}.json", read_json(ROOT / "tests" / f"sample_{l}.json"))
             write_json(sdir / f"{l}_social.json", read_json(ROOT / "tests" / f"sample_{l}_social.json"))
+        write_json(sdir / "shorts_sample.json",
+                   {l: read_json(ROOT / "tests" / f"sample_{l}_social.json")["shorts"] for l in CFG["languages"]})
         ctx = offline_ctx(kind)
     else:
         weekly = kind == "weekly"
@@ -231,7 +280,8 @@ def main():
             else:
                 script = read_json(sdir / f"{lang}.json")
             if a.force or not st.get("social"):
-                st["shorts"], st["carousels"] = make_social(lang, kind, day, script, folder / lang, sdir, a.force)
+                st["shorts"], st["carousels"] = make_social(lang, kind, day, script, folder / lang, sdir, a.force,
+                                                            ctx, st, CFG["languages"])
                 st["social"] = True
                 write_json(ledger, produced)
         except llm.KeyProblem as e:

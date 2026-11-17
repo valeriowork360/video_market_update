@@ -30,6 +30,12 @@ Return ONE JSON object with exactly these keys:
  "author_tone": one of {tones},
  "tone_evidence": "one sentence: what in voice and wording shows that tone",
  "key_points": [{{"point": "concrete claim, with numbers/levels if given", "timestamp": "mm:ss"}}],  // max 8
+ "moments": [                         // EVERY salient part of the video, in order, max 8: each one
+                                      // must stand alone as the subject of a 20-second short
+   {{"timestamp": "mm:ss", "topic": "what this part is about, max 8 words",
+     "claim": "the point the author makes, one sentence",
+     "details": "2-3 sentences with ALL the numbers, levels, dates and the reasoning given",
+     "surprise": "the most striking fact or number of this part"}}],
  "tickers": ["NVDA", "BTC"],          // only assets actually discussed
  "predictions": ["explicit calls: direction, price levels, dates"],
  "catalysts": ["upcoming events the author flags, with date if said"],
@@ -43,7 +49,7 @@ Use only what is said or shown in the video. If a number is unclear, leave it ou
 
 MERGE = """These are notes on consecutive parts of ONE video by "{author}" titled "{title}".
 Merge them into a single JSON object with exactly the same keys as each part
-(summary 4-6 sentences for the whole video, max 8 key_points keeping timestamps, one
+(summary 4-6 sentences for the whole video, max 8 key_points and max 8 moments keeping timestamps, one
 overall author_tone from {tones}, digest_it in Italian, union of the lists without duplicates,
 "empty": false). Do not add anything that is not in the parts.
 
@@ -100,6 +106,8 @@ def _norm(n):
         elif isinstance(p, str) and clean(p):
             kp.append({"point": clean(p), "timestamp": ""})
     n["key_points"] = kp
+    n["moments"] = [{k: clean(m.get(k) or "") for k in ("timestamp", "topic", "claim", "details", "surprise")}
+                    for m in (n.get("moments") or []) if isinstance(m, dict) and clean(m.get("claim"))][:8]
     n["promo"] = bool(n.get("promo"))
     return n
 
@@ -117,6 +125,7 @@ def _merge_local(parts):
         base[k] = seen[:10]
     kps = [k for p in parts for k in p["key_points"][:4]]
     base["key_points"] = kps[:8]
+    base["moments"] = [m for p in parts for m in p.get("moments", [])][:8]
     base["market_relevance"] = max(p["market_relevance"] for p in parts)
     base["promo"] = any(p["promo"] for p in parts)
     return base

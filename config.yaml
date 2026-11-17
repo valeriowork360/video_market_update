@@ -4,7 +4,7 @@
 # ============================================================
 
 brand:
-  name: Market Pulse            # nome del canale, appare in video e caroselli
+  name: 360 Coin Ticker         # nome del canale, appare in video e caroselli
   handle: ""                    # es. "@marketpulse" (appare nell'ultima slide), facoltativo
   background: "#0B0F14"
   panel: "#131A23"
@@ -37,7 +37,8 @@ schedule:
 #  l'id viene trovato da solo al primo giro.
 #  "hint" e' un suggerimento per l'analisi (facoltativo).
 # ------------------------------------------------------------
-# "color" = colore degli short nati dalle analisi di quel canale (cosi' riconosci l'origine a colpo d'occhio).
+# "color" = colore degli short nati dai video di quel canale (cosi' riconosci l'origine a colpo d'occhio).
+# "group" = canali dello stesso autore, trattati come uno solo (stesso colore, stessa origine).
 channels:
   - name: Jason Pizzino
     color: "#FF6B35"
@@ -59,14 +60,26 @@ channels:
     hint: Italian creator. Some videos concern only Italy - mark those as scope "italy".
   - name: Financial Education
     color: "#00D68F"
+    group: Jeremy Lefebvre
     id: UCCmJVw9xQfYuuAAwZGedKRg
     url: https://www.youtube.com/@FinancialEducation
     hint: Jeremy Lefebvre. Titles are hype-heavy; report the actual stock thesis and numbers, ignore the hype.
   - name: Jeremy Lefebvre Clips
-    color: "#B8F400"
+    color: "#00D68F"
+    group: Jeremy Lefebvre
     id: UC_xMKlHYdRNXLX9XzuOLjsg
     url: https://www.youtube.com/@jeremylefebvre-clips
     hint: Short clips of Jeremy Lefebvre. Titles are hype-heavy; report only the substance.
+  - name: Jeremy Lefebvre Makes Money
+    color: "#00D68F"
+    group: Jeremy Lefebvre
+    url: https://www.youtube.com/@jeremylefebvremakesmoney7934
+    hint: Jeremy Lefebvre. Titles are hype-heavy; report the actual thesis and numbers, ignore the hype.
+  - name: Financial Education 2
+    color: "#00D68F"
+    group: Jeremy Lefebvre
+    url: https://www.youtube.com/@FinancialEducation2
+    hint: Jeremy Lefebvre. Titles are hype-heavy; report the actual thesis and numbers, ignore the hype.
   - name: MindTheChart
     color: "#FF3D81"
     id: UChkzwqfPPTPnuSef26idqcg
@@ -180,6 +193,8 @@ credits:
 
 daily:
   minutes: 6                    # durata indicativa del video lungo
+  shorts_per_video: 5           # short ricavati da OGNI video degli autori (uno per ogni parte saliente)
+  max_shorts_total: 40          # tetto di short al giorno per lingua
   shorts_min: 3
   shorts_max: 7
   max_carousels: 6
