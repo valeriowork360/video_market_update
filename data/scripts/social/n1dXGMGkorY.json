@@ -1,0 +1,552 @@
+{
+ "it": [
+  {
+   "title": "CoreWeave crolla del 54%: il settore tech trema",
+   "hook": "COREWEAVE CROLLA DEL 54%",
+   "beats": [
+    {
+     "say": "CoreWeave crolla del 54% in appena tre mesi di contrattazioni.",
+     "show": "COREWEAVE CROLLA DEL 54%",
+     "figure": "-54%"
+    },
+    {
+     "say": "I principali titoli tecnologici stanno registrando forti perdite a doppia cifra su tutti i listini.",
+     "show": "PERDITE A DOPPIA CIFRA",
+     "figure": ""
+    },
+    {
+     "say": "Non si tratta di una semplice correzione, ma di un marcato drenaggio di liquidità dalle grandi aziende.",
+     "show": "DRENAGGIO DI LIQUIDITÀ",
+     "figure": ""
+    },
+    {
+     "say": "Il livello da monitorare con massima attenzione e la tenuta dei recenti minimi sui principali indici.",
+     "show": "MONITORARE I MINIMI",
+     "figure": ""
+    },
+    {
+     "say": "La fase di forte volatilità sul comparto tecnologico e appena iniziata. Segui Coin Ticker.",
+     "show": "SEGUI COIN TICKER",
+     "figure": ""
+    }
+   ],
+   "origin": "Jeremy Lefebvre",
+   "source_video": "The Unthinkable will happen to your stocks!",
+   "narration": "CoreWeave crolla del 54% in appena tre mesi di contrattazioni. I principali titoli tecnologici stanno registrando forti perdite a doppia cifra su tutti i listini. Non si tratta di una semplice correzione, ma di un marcato drenaggio di liquidità dalle grandi aziende. Il livello da monitorare con massima attenzione e la tenuta dei recenti minimi sui principali indici. La fase di forte volatilità sul comparto tecnologico e appena iniziata. Segui Coin Ticker.",
+   "ticker": null,
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "I principali titoli tecnologici registrano forti flessioni. Ecco i livelli chiave da monitorare.",
+   "hashtags": [
+    "#finanza",
+    "#mercati",
+    "#azioni",
+    "#tech",
+    "#investimenti",
+    "#crollo"
+   ]
+  },
+  {
+   "title": "1,5 mila miliardi in debito a margine travolgono il mercato",
+   "hook": "1,5 TRILIARDI IN DEBITO",
+   "beats": [
+    {
+     "say": "1,5 mila miliardi di dollari in debito a margine scatenano il panico sui mercati.",
+     "show": "1,5 TRILIARDI IN DEBITO",
+     "figure": "$1,5T"
+    },
+    {
+     "say": "L indebitamento a leva ha raggiunto il suo massimo storico proprio insieme al picco delle borse.",
+     "show": "MASSIMO STORICO LEVA",
+     "figure": ""
+    },
+    {
+     "say": "L attuale correzione sta innescando vendite forzate e la chiusura di posizioni speculative.",
+     "show": "LIQUIDAZIONI FORZATE",
+     "figure": ""
+    },
+    {
+     "say": "Una rottura sotto i minimi estivi accelererebbe i margin call automatici sul mercato.",
+     "show": "RISCHIO MARGIN CALL",
+     "figure": ""
+    },
+    {
+     "say": "L eccesso di leva finanziaria continua ad amplificare ogni singola discesa. Segui Coin Ticker.",
+     "show": "SEGUI COIN TICKER",
+     "figure": ""
+    }
+   ],
+   "origin": "Jeremy Lefebvre",
+   "source_video": "The Unthinkable will happen to your stocks!",
+   "narration": "1,5 mila miliardi di dollari in debito a margine scatenano il panico sui mercati. L indebitamento a leva ha raggiunto il suo massimo storico proprio insieme al picco delle borse. L attuale correzione sta innescando vendite forzate e la chiusura di posizioni speculative. Una rottura sotto i minimi estivi accelererebbe i margin call automatici sul mercato. L eccesso di leva finanziaria continua ad amplificare ogni singola discesa. Segui Coin Ticker.",
+   "ticker": "^GSPC",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Il debito a margine ai massimi storici accelera la pressione ribassista sui listini.",
+   "hashtags": [
+    "#finanza",
+    "#debito",
+    "#borse",
+    "#mercati",
+    "#investimenti",
+    "#trading"
+   ]
+  },
+  {
+   "title": "ETF semiconduttori a leva in crollo del 94%",
+   "hook": "ETF LEVA GIÙ DEL 94%",
+   "beats": [
+    {
+     "say": "ETF a leva sui semiconduttori giù del 94% dal picco di giugno.",
+     "show": "ETF LEVA GIÙ DEL 94%",
+     "figure": "-94%"
+    },
+    {
+     "say": "Il comparto dei chip ha iniziato un venduto coordinato dopo i massimi estivi.",
+     "show": "VENDITE SU CHIP",
+     "figure": ""
+    },
+    {
+     "say": "I prodotti finanziari derivati a leva distruggono rapidamente il capitale durante i cicli ribassisti.",
+     "show": "CAPITALE DISTRUTTO",
+     "figure": ""
+    },
+    {
+     "say": "Il prossimo supporto tecnico di settore determinerà la durata di questa fase.",
+     "show": "SUPPORTO TECNICO CHIAVE",
+     "figure": ""
+    },
+    {
+     "say": "La leva speculativa aumenta enormemente i rischi nelle fasi di contrazione. Segui Coin Ticker.",
+     "show": "SEGUI COIN TICKER",
+     "figure": ""
+    }
+   ],
+   "origin": "Jeremy Lefebvre",
+   "source_video": "The Unthinkable will happen to your stocks!",
+   "narration": "ETF a leva sui semiconduttori giù del 94% dal picco di giugno. Il comparto dei chip ha iniziato un venduto coordinato dopo i massimi estivi. I prodotti finanziari derivati a leva distruggono rapidamente il capitale durante i cicli ribassisti. Il prossimo supporto tecnico di settore determinerà la durata di questa fase. La leva speculativa aumenta enormemente i rischi nelle fasi di contrazione. Segui Coin Ticker.",
+   "ticker": null,
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Forte contrazione sul settore dei semiconduttori con perdite estreme per i prodotti a leva.",
+   "hashtags": [
+    "#semiconduttori",
+    "#etf",
+    "#chip",
+    "#borse",
+    "#investimenti",
+    "#trading"
+   ]
+  },
+  {
+   "title": "L'andamento di borsa ricalca fedelmente il crollo del 2018",
+   "hook": "GRAFICI IDENTICI AL 2018",
+   "beats": [
+    {
+     "say": "Grafici di mercato identici a quelli del forte crollo del 2018.",
+     "show": "GRAFICI IDENTICI AL 2018",
+     "figure": "2018"
+    },
+    {
+     "say": "La traiettoria dell indice S&P 500 mostra sovrapposizioni visive sorprendenti con il passato.",
+     "show": "TRAIETTORIA S&P 500",
+     "figure": ""
+    },
+    {
+     "say": "Il minimo finale di mercato potrebbe verificarsi solo con un rendimento annuale negativo.",
+     "show": "RENDIMENTO ANNUALE NEGATIVO",
+     "figure": ""
+    },
+    {
+     "say": "Sotto la soglia di parità di inizio anno si aprono ulteriori spazi di discesa.",
+     "show": "PARITÀ INIZIO ANNO",
+     "figure": ""
+    },
+    {
+     "say": "I cicli correttivi passati richiedono pazienza prima di mostrare una vera inversione. Segui Coin Ticker.",
+     "show": "SEGUI COIN TICKER",
+     "figure": ""
+    }
+   ],
+   "origin": "Jeremy Lefebvre",
+   "source_video": "The Unthinkable will happen to your stocks!",
+   "narration": "Grafici di mercato identici a quelli del forte crollo del 2018. La traiettoria dell indice S&P 500 mostra sovrapposizioni visive sorprendenti con il passato. Il minimo finale di mercato potrebbe verificarsi solo con un rendimento annuale negativo. Sotto la soglia di parità di inizio anno si aprono ulteriori spazi di discesa. I cicli correttivi passati richiedono pazienza prima di mostrare una vera inversione. Segui Coin Ticker.",
+   "ticker": "^GSPC",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Analisi delle similitudini fra il mercato attuale e la correzione del 2018.",
+   "hashtags": [
+    "#sp500",
+    "#mercati",
+    "#finanza",
+    "#borse",
+    "#investimenti",
+    "#grafici"
+   ]
+  },
+  {
+   "title": "Turismo a Las Vegas in calo del 10%: segnale di contrazione",
+   "hook": "TURISMO GIÙ DEL 10%",
+   "beats": [
+    {
+     "say": "Turismo a Las Vegas ancora sotto del 10% rispetto ai picchi.",
+     "show": "TURISMO GIÙ DEL 10%",
+     "figure": "-10%"
+    },
+    {
+     "say": "I dati sull economia locale indicano un rallentamento evidente della spesa dei consumatori.",
+     "show": "RALLENTAMENTO DEI CONSUMI",
+     "figure": ""
+    },
+    {
+     "say": "Nonostante l aumento della capacità ricettiva, i volumi complessivi continuano a rimanere deboli.",
+     "show": "VOLUMI ANCORA DEBOLI",
+     "figure": ""
+    },
+    {
+     "say": "I prossimi dati sulle vendite al dettaglio confermeranno la tenuta dei consumi generali.",
+     "show": "DATI VENDITE RETAIL",
+     "figure": ""
+    },
+    {
+     "say": "Gli indicatori dell economia reale anticipano regolarmente la debolezza dei mercati azionari. Segui Coin Ticker.",
+     "show": "SEGUI COIN TICKER",
+     "figure": ""
+    }
+   ],
+   "origin": "Jeremy Lefebvre",
+   "source_video": "The Unthinkable will happen to your stocks!",
+   "narration": "Turismo a Las Vegas ancora sotto del 10% rispetto ai picchi. I dati sull economia locale indicano un rallentamento evidente della spesa dei consumatori. Nonostante l aumento della capacità ricettiva, i volumi complessivi continuano a rimanere deboli. I prossimi dati sulle vendite al dettaglio confermeranno la tenuta dei consumi generali. Gli indicatori dell economia reale anticipano regolarmente la debolezza dei mercati azionari. Segui Coin Ticker.",
+   "ticker": null,
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "I dati sul turismo e sui consumi reali indicano un potenziale rallentamento macroeconomico.",
+   "hashtags": [
+    "#economia",
+    "#lasvegas",
+    "#consumi",
+    "#turismo",
+    "#mercati",
+    "#finanza"
+   ]
+  }
+ ],
+ "en": [
+  {
+   "title": "CoreWeave drops 54% as tech stocks slide",
+   "hook": "COREWEAVE CRASHES 54%",
+   "beats": [
+    {
+     "say": "CoreWeave crashes 54% in just three months of trading.",
+     "show": "COREWEAVE CRASHES 54%",
+     "figure": "-54%"
+    },
+    {
+     "say": "Major technology stocks are suffering double-digit declines across global equity markets.",
+     "show": "DOUBLE DIGIT LOSSES",
+     "figure": ""
+    },
+    {
+     "say": "This drop goes beyond a standard pullback, signaling a broad liquidity drain in mega caps.",
+     "show": "LIQUIDITY DRAIN",
+     "figure": ""
+    },
+    {
+     "say": "The critical factor now is whether key index support levels can hold.",
+     "show": "KEY SUPPORT LEVELS",
+     "figure": ""
+    },
+    {
+     "say": "Volatility in tech equities is only getting started right now. Follow Coin Ticker.",
+     "show": "FOLLOW COIN TICKER",
+     "figure": ""
+    }
+   ],
+   "origin": "Jeremy Lefebvre",
+   "source_video": "The Unthinkable will happen to your stocks!",
+   "narration": "CoreWeave crashes 54% in just three months of trading. Major technology stocks are suffering double-digit declines across global equity markets. This drop goes beyond a standard pullback, signaling a broad liquidity drain in mega caps. The critical factor now is whether key index support levels can hold. Volatility in tech equities is only getting started right now. Follow Coin Ticker.",
+   "ticker": null,
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Major tech names are taking heavy hits. Here is what to watch next.",
+   "hashtags": [
+    "#finance",
+    "#stocks",
+    "#tech",
+    "#markets",
+    "#investing",
+    "#trading"
+   ]
+  },
+  {
+   "title": "$1.5 Trillion in margin debt sparks forced liquidations",
+   "hook": "$1.5 TRILLION DEBT",
+   "beats": [
+    {
+     "say": "$1.5 trillion in total margin debt is pressuring equity markets.",
+     "show": "$1.5 TRILLION DEBT",
+     "figure": "$1.5T"
+    },
+    {
+     "say": "Leveraged positions expanded to record levels right when stock prices reached their peak.",
+     "show": "RECORD LEVERAGE PEAK",
+     "figure": ""
+    },
+    {
+     "say": "The ongoing market decline is now triggering forced selling across over-leveraged accounts.",
+     "show": "FORCED SELLING NOW",
+     "figure": ""
+    },
+    {
+     "say": "Breaching key summer lows could trigger a new wave of automated margin calls.",
+     "show": "MARGIN CALL RISKS",
+     "figure": ""
+    },
+    {
+     "say": "Excessive market leverage continues to compound every price drop. Follow Coin Ticker.",
+     "show": "FOLLOW COIN TICKER",
+     "figure": ""
+    }
+   ],
+   "origin": "Jeremy Lefebvre",
+   "source_video": "The Unthinkable will happen to your stocks!",
+   "narration": "$1.5 trillion in total margin debt is pressuring equity markets. Leveraged positions expanded to record levels right when stock prices reached their peak. The ongoing market decline is now triggering forced selling across over-leveraged accounts. Breaching key summer lows could trigger a new wave of automated margin calls. Excessive market leverage continues to compound every price drop. Follow Coin Ticker.",
+   "ticker": "^GSPC",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Record margin debt levels are accelerating market drawdowns.",
+   "hashtags": [
+    "#stocks",
+    "#markets",
+    "#margindebt",
+    "#trading",
+    "#investing",
+    "#economy"
+   ]
+  },
+  {
+   "title": "Leveraged chip ETFs collapse 94% from summer highs",
+   "hook": "CHIP ETFS DOWN 94%",
+   "beats": [
+    {
+     "say": "Leveraged semiconductor ETFs are down 94% from their June peak.",
+     "show": "CHIP ETFS DOWN 94%",
+     "figure": "-94%"
+    },
+    {
+     "say": "The overall chip sector entered a broad decline shortly after mid-year high points.",
+     "show": "SECTOR WIDE DROP",
+     "figure": ""
+    },
+    {
+     "say": "Leveraged financial instruments rapidly wipe out principal balances during sharp market pullbacks.",
+     "show": "CAPITAL DESTRUCTION RISK",
+     "figure": ""
+    },
+    {
+     "say": "Key technical floor levels will define how deep this unwinding phase goes.",
+     "show": "WATCH KEY FLOORS",
+     "figure": ""
+    },
+    {
+     "say": "High leverage turns market pullbacks into severe structural drawdowns. Follow Coin Ticker.",
+     "show": "FOLLOW COIN TICKER",
+     "figure": ""
+    }
+   ],
+   "origin": "Jeremy Lefebvre",
+   "source_video": "The Unthinkable will happen to your stocks!",
+   "narration": "Leveraged semiconductor ETFs are down 94% from their June peak. The overall chip sector entered a broad decline shortly after mid-year high points. Leveraged financial instruments rapidly wipe out principal balances during sharp market pullbacks. Key technical floor levels will define how deep this unwinding phase goes. High leverage turns market pullbacks into severe structural drawdowns. Follow Coin Ticker.",
+   "ticker": null,
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Semiconductor sector stress hits leveraged products with massive losses.",
+   "hashtags": [
+    "#semiconductors",
+    "#etfs",
+    "#trading",
+    "#stocks",
+    "#markets",
+    "#investing"
+   ]
+  },
+  {
+   "title": "Current stock market path mirrors the severe 2018 pullback",
+   "hook": "CHARTS MIRROR 2018",
+   "beats": [
+    {
+     "say": "Current stock market charts closely mirror the deep 2018 correction.",
+     "show": "CHARTS MIRROR 2018",
+     "figure": "2018"
+    },
+    {
+     "say": "The S&P 500 price path shows direct visual similarities with six years ago.",
+     "show": "S&P 500 PATH",
+     "figure": ""
+    },
+    {
+     "say": "A definitive market floor may only form when year-to-date returns flip into negative territory.",
+     "show": "NEGATIVE YTD RETURN",
+     "figure": ""
+    },
+    {
+     "say": "Breaching flat YTD performance opens the door to extended downside price targets.",
+     "show": "FLAT YTD TARGETS",
+     "figure": ""
+    },
+    {
+     "say": "Historical market cycles indicate drawdowns require time to establish sustainable support. Follow Coin Ticker.",
+     "show": "FOLLOW COIN TICKER",
+     "figure": ""
+    }
+   ],
+   "origin": "Jeremy Lefebvre",
+   "source_video": "The Unthinkable will happen to your stocks!",
+   "narration": "Current stock market charts closely mirror the deep 2018 correction. The S&P 500 price path shows direct visual similarities with six years ago. A definitive market floor may only form when year-to-date returns flip into negative territory. Breaching flat YTD performance opens the door to extended downside price targets. Historical market cycles indicate drawdowns require time to establish sustainable support. Follow Coin Ticker.",
+   "ticker": "^GSPC",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Comparing current market technical structures to the 2018 downturn.",
+   "hashtags": [
+    "#sp500",
+    "#stocks",
+    "#markets",
+    "#trading",
+    "#investing",
+    "#economy"
+   ]
+  },
+  {
+   "title": "Las Vegas tourism down 10% signals consumer weakness",
+   "hook": "TOURISM DOWN 10%",
+   "beats": [
+    {
+     "say": "Las Vegas tourism remains 10% below peak pre-pandemic levels.",
+     "show": "TOURISM DOWN 10%",
+     "figure": "-10%"
+    },
+    {
+     "say": "Local business activity shows clear evidence of broader consumer spending friction.",
+     "show": "CONSUMER SPENDING DROPS",
+     "figure": ""
+    },
+    {
+     "say": "Despite higher venue capacity, total visitor traffic and overall spending remain subdued.",
+     "show": "TRAFFIC REMAINS LOW",
+     "figure": ""
+    },
+    {
+     "say": "Upcoming retail sales reports will reveal if spending contractions spread across sectors.",
+     "show": "RETAIL SALES DATA",
+     "figure": ""
+    },
+    {
+     "say": "On-the-ground economic shifts consistently act as early signals for broader markets. Follow Coin Ticker.",
+     "show": "FOLLOW COIN TICKER",
+     "figure": ""
+    }
+   ],
+   "origin": "Jeremy Lefebvre",
+   "source_video": "The Unthinkable will happen to your stocks!",
+   "narration": "Las Vegas tourism remains 10% below peak pre-pandemic levels. Local business activity shows clear evidence of broader consumer spending friction. Despite higher venue capacity, total visitor traffic and overall spending remain subdued. Upcoming retail sales reports will reveal if spending contractions spread across sectors. On-the-ground economic shifts consistently act as early signals for broader markets. Follow Coin Ticker.",
+   "ticker": null,
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Local business metrics offer insights into broader consumer health.",
+   "hashtags": [
+    "#economy",
+    "#lasvegas",
+    "#consumers",
+    "#markets",
+    "#finance",
+    "#trends"
+   ]
+  }
+ ],
+ "carousels": {
+  "it": {
+   "topic": "Venti Contrari sui Mercati Azionari",
+   "caption": "Analisi dei principali fattori di rischio che stanno condizionando l'andamento dei listini azionari globali. Resta aggiornato per non perdere le prossime analisi: segui Coin Ticker.",
+   "sentiment": "bearish",
+   "ticker": "^GSPC",
+   "slides": [
+    {
+     "title": "I Mercati Fronteggiano Forte Pressione",
+     "body": "Una serie di indicatori tecnici e macroeconomici segnala un aumento dei rischi di correzione sui mercati."
+    },
+    {
+     "title": "Debito a Margine Record",
+     "body": "Il debito a margine ha toccato $1,5 mila miliardi in estate, innescando una fase di liquidazione forzata sulle posizioni a leva."
+    },
+    {
+     "title": "Crollo nei Semiconduttori",
+     "body": "Gli ETF a leva sul settore dei chip registrano perdite fino al 94% dal picco di giugno, evidenziando forte volatilita."
+    },
+    {
+     "title": "Raffronto Storico 2018",
+     "body": "La struttura grafica dell indice S&P 500 mostra sovrapposizioni visive con il ribasso del 2018 prima della ricerca di un minimo."
+    },
+    {
+     "title": "Consumi Reali in Calo",
+     "body": "I dati sul turismo a Las Vegas restano del 10% inferiori ai massimi, segnalando un potenziale rallentamento della spesa."
+    },
+    {
+     "title": "Gestione della Liquidità",
+     "body": "L accumulo di liquidità e il monitoraggio dei livelli chiave permettono di affrontare le fasi di marcata debolezza. Segui Coin Ticker."
+    }
+   ],
+   "hashtags": [
+    "#finanza",
+    "#borse",
+    "#mercati",
+    "#investimenti",
+    "#azioni",
+    "#tech",
+    "#economia",
+    "#sp500"
+   ]
+  },
+  "en": {
+   "topic": "Market Stress and Risk Factors",
+   "caption": "An examination of high leverage, technical drawdowns, and macro signals currently impacting markets. Stay informed on key asset movements: follow Coin Ticker.",
+   "sentiment": "bearish",
+   "ticker": "^GSPC",
+   "slides": [
+    {
+     "title": "Markets Face Systemic Pressure Ahead",
+     "body": "Multiple technical and macroeconomic indicators point to expanding downside risks across global equities."
+    },
+    {
+     "title": "Record Margin Debt Level",
+     "body": "Margin debt peaked at $1.5 trillion in June, creating high systemic risk and triggering forced account deleveraging."
+    },
+    {
+     "title": "Semiconductor Sector Stress",
+     "body": "Leveraged semiconductor ETFs have dropped 94% from their June high, showing severe capital destruction in derivative products."
+    },
+    {
+     "title": "Historical 2018 Pattern",
+     "body": "Current S&P 500 trajectory closely mirrors the 2018 correction pattern, suggesting markets may seek lower technical floors."
+    },
+    {
+     "title": "Consumer Slowdown Signals",
+     "body": "Las Vegas tourism volume remains 10% below peak baseline levels, highlighting potential friction in real economic activity."
+    },
+    {
+     "title": "Strategic Market Outlook",
+     "body": "Maintaining disciplined risk management and cash liquidity is essential during structural market corrections. Follow Coin Ticker."
+    }
+   ],
+   "hashtags": [
+    "#finance",
+    "#stocks",
+    "#markets",
+    "#investing",
+    "#economy",
+    "#sp500",
+    "#trading",
+    "#tech"
+   ]
+  }
+ }
+}

@@ -1,0 +1,546 @@
+{
+ "it": [
+  {
+   "title": "S&P 500 a rischio crollo",
+   "hook": "Volumi in calo",
+   "beats": [
+    {
+     "say": "S&P 500 in rialzo con volumi in calo. Un segnale di allerta.",
+     "show": "Volumi in calo",
+     "figure": ""
+    },
+    {
+     "say": "Il mercato sale ma senza convinzione degli acquirenti.",
+     "show": "Mercato debole",
+     "figure": ""
+    },
+    {
+     "say": "Il movimento attuale maschera una forte vulnerabilità di fondo.",
+     "show": "Falsa forza",
+     "figure": ""
+    },
+    {
+     "say": "Sotto il minimo del 6 novembre la discesa accelera.",
+     "show": "Minimo a rischio",
+     "figure": ""
+    },
+    {
+     "say": "La pressione ribassista domina la scena. Seguici per altri aggiornamenti.",
+     "show": "Segui il canale",
+     "figure": ""
+    }
+   ],
+   "origin": "Michael Pizzino",
+   "source_video": "The Stock Market Is Running Out of Time... Buyers Must Act Now",
+   "narration": "S&P 500 in rialzo con volumi in calo. Un segnale di allerta. Il mercato sale ma senza convinzione degli acquirenti. Il movimento attuale maschera una forte vulnerabilità di fondo. Sotto il minimo del 6 novembre la discesa accelera. La pressione ribassista domina la scena. Seguici per altri aggiornamenti.",
+   "ticker": "^GSPC",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "I volumi bassi sul S&P 500 anticipano possibili ribassi improvvisi.",
+   "hashtags": [
+    "#sp500",
+    "#borsa",
+    "#mercati",
+    "#trading",
+    "#finanza"
+   ]
+  },
+  {
+   "title": "Nasdaq sotto pressione",
+   "hook": "Indice debole",
+   "beats": [
+    {
+     "say": "Nasdaq resta l indice più debole tra i principali indici.",
+     "show": "Indice debole",
+     "figure": ""
+    },
+    {
+     "say": "La tecnologia fatica a trovare slancio sui mercati azionari.",
+     "show": "Fatica tecnologica",
+     "figure": ""
+    },
+    {
+     "say": "I prezzi rimangono bloccati sotto una forte resistenza chiave.",
+     "show": "Resistenza dura",
+     "figure": ""
+    },
+    {
+     "say": "La soglia dei 29.000 punti rappresenta il test decisivo.",
+     "show": "Soglia 29.000",
+     "figure": "29.000"
+    },
+    {
+     "say": "Serve una chiusura forte per invertire il trend. Seguici per altri aggiornamenti.",
+     "show": "Segui il canale",
+     "figure": ""
+    }
+   ],
+   "origin": "Michael Pizzino",
+   "source_video": "The Stock Market Is Running Out of Time... Buyers Must Act Now",
+   "narration": "Nasdaq resta l indice più debole tra i principali indici. La tecnologia fatica a trovare slancio sui mercati azionari. I prezzi rimangono bloccati sotto una forte resistenza chiave. La soglia dei 29.000 punti rappresenta il test decisivo. Serve una chiusura forte per invertire il trend. Seguici per altri aggiornamenti.",
+   "ticker": "^NDX",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Il Nasdaq mostra debolezza strutturale bloccato sotto resistenze chiave.",
+   "hashtags": [
+    "#nasdaq",
+    "#tech",
+    "#borsa",
+    "#trading",
+    "#investimenti"
+   ]
+  },
+  {
+   "title": "Bitcoin in serie negativa",
+   "hook": "Undici ribassi",
+   "beats": [
+    {
+     "say": "Bitcoin registra undici sedute consecutive di ribasso giornaliero.",
+     "show": "Undici ribassi",
+     "figure": "11"
+    },
+    {
+     "say": "La criptovaluta non riesce a superare i massimi precedenti.",
+     "show": "Trend debole",
+     "figure": ""
+    },
+    {
+     "say": "La struttura tecnica evidenzia una pressione ribassista costante.",
+     "show": "Struttura debole",
+     "figure": ""
+    },
+    {
+     "say": "Il supporto di luglio costituisce l argine prima di nuovi cali.",
+     "show": "Supporto luglio",
+     "figure": ""
+    },
+    {
+     "say": "Attenzione alla soglia dei 50.000 dollari. Seguici per altri aggiornamenti.",
+     "show": "Segui il canale",
+     "figure": "$50,000"
+    }
+   ],
+   "origin": "Michael Pizzino",
+   "source_video": "The Stock Market Is Running Out of Time... Buyers Must Act Now",
+   "narration": "Bitcoin registra undici sedute consecutive di ribasso giornaliero. La criptovaluta non riesce a superare i massimi precedenti. La struttura tecnica evidenzia una pressione ribassista costante. Il supporto di luglio costituisce l argine prima di nuovi cali. Attenzione alla soglia dei 50.000 dollari. Seguici per altri aggiornamenti.",
+   "ticker": "BTC-USD",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Undici giorni consecutivi in calo per Bitcoin sopra i supporti critici.",
+   "hashtags": [
+    "#bitcoin",
+    "#crypto",
+    "#btc",
+    "#trading",
+    "#analisitecni"
+   ]
+  },
+  {
+   "title": "Dollaro forte frena i mercati",
+   "hook": "Dollaro forte",
+   "beats": [
+    {
+     "say": "Il dollaro americano continua la sua inarrestabile corsa al rialzo.",
+     "show": "Dollaro forte",
+     "figure": ""
+    },
+    {
+     "say": "Questa forza impone una forte pressione su tutte le altre attività.",
+     "show": "Pressione forte",
+     "figure": ""
+    },
+    {
+     "say": "I mercati globali subiscono venti contrari difficili da ignorare.",
+     "show": "Venti contrari",
+     "figure": ""
+    },
+    {
+     "say": "La soglia di 102,7 resta il livello chiave per monitorare il cambio.",
+     "show": "Livello 102,7",
+     "figure": "102.7"
+    },
+    {
+     "say": "Solo un calo offrirà respiro agli asset. Seguici per altri aggiornamenti.",
+     "show": "Segui il canale",
+     "figure": ""
+    }
+   ],
+   "origin": "Michael Pizzino",
+   "source_video": "The Stock Market Is Running Out of Time... Buyers Must Act Now",
+   "narration": "Il dollaro americano continua la sua inarrestabile corsa al rialzo. Questa forza impone una forte pressione su tutte le altre attività. I mercati globali subiscono venti contrari difficili da ignorare. La soglia di 102,7 resta il livello chiave per monitorare il cambio. Solo un calo offrirà respiro agli asset. Seguici per altri aggiornamenti.",
+   "ticker": "DXY",
+   "sentiment": "bullish",
+   "sources": [],
+   "caption": "La forza costante del dollaro crea forti ostacoli per gli altri asset.",
+   "hashtags": [
+    "#dollaro",
+    "#forex",
+    "#valute",
+    "#trading",
+    "#economia"
+   ]
+  },
+  {
+   "title": "Oro sotto quota chiave",
+   "hook": "Oro bloccato",
+   "beats": [
+    {
+     "say": "L oro rimane bloccato sotto la cruciale soglia di rottura.",
+     "show": "Oro bloccato",
+     "figure": ""
+    },
+    {
+     "say": "Il metallo prezioso fatica a recuperare slancio rialzista.",
+     "show": "Trend ribassista",
+     "figure": ""
+    },
+    {
+     "say": "Il quadro macroeconomico generale mantiene una forte impronta debole.",
+     "show": "Quadro debole",
+     "figure": ""
+    },
+    {
+     "say": "La zona critica si attesta sui 3.900 dollari l oncia.",
+     "show": "Quota 3.900 $",
+     "figure": "$3,900"
+    },
+    {
+     "say": "Mancano segnali di inversione duratura. Seguici per altri aggiornamenti.",
+     "show": "Segui il canale",
+     "figure": ""
+    }
+   ],
+   "origin": "Michael Pizzino",
+   "source_video": "The Stock Market Is Running Out of Time... Buyers Must Act Now",
+   "narration": "L oro rimane bloccato sotto la cruciale soglia di rottura. Il metallo prezioso fatica a recuperare slancio rialzista. Il quadro macroeconomico generale mantiene una forte impronta debole. La zona critica si attesta sui 3.900 dollari l oncia. Mancano segnali di inversione duratura. Seguici per altri aggiornamenti.",
+   "ticker": "GC=F",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "L oro continua a scambiare sotto la resistenza chiave dei 3.900 dollari.",
+   "hashtags": [
+    "#oro",
+    "#gold",
+    "#materieprime",
+    "#trading",
+    "#investimenti"
+   ]
+  }
+ ],
+ "en": [
+  {
+   "title": "S&P 500 Volume Warning",
+   "hook": "Volume warning",
+   "beats": [
+    {
+     "say": "S&P 500 rising on declining volume signals hidden vulnerability.",
+     "show": "Volume warning",
+     "figure": ""
+    },
+    {
+     "say": "The upward price action lacks real buyer participation.",
+     "show": "Weak rally",
+     "figure": ""
+    },
+    {
+     "say": "Low volume rallies often precede sharp market pullbacks.",
+     "show": "Trap ahead",
+     "figure": ""
+    },
+    {
+     "say": "A break below the November 6 low triggers lower prices.",
+     "show": "Watch support",
+     "figure": ""
+    },
+    {
+     "say": "Protect capital as momentum shifts. Hit follow for updates.",
+     "show": "Follow us",
+     "figure": ""
+    }
+   ],
+   "origin": "Michael Pizzino",
+   "source_video": "The Stock Market Is Running Out of Time... Buyers Must Act Now",
+   "narration": "S&P 500 rising on declining volume signals hidden vulnerability. The upward price action lacks real buyer participation. Low volume rallies often precede sharp market pullbacks. A break below the November 6 low triggers lower prices. Protect capital as momentum shifts. Hit follow for updates.",
+   "ticker": "^GSPC",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Declining volume on the S&P 500 points to growing market vulnerability.",
+   "hashtags": [
+    "#sp500",
+    "#stocks",
+    "#markets",
+    "#trading",
+    "#finance"
+   ]
+  },
+  {
+   "title": "Nasdaq Faces Strong Resistance",
+   "hook": "Weakest index",
+   "beats": [
+    {
+     "say": "Nasdaq remains in the weakest position among major equity indices.",
+     "show": "Weakest index",
+     "figure": ""
+    },
+    {
+     "say": "Tech stocks struggle to attract sustainable buying pressure.",
+     "show": "Tech struggle",
+     "figure": ""
+    },
+    {
+     "say": "Prices continue to stall near major overhead resistance zones.",
+     "show": "Heavy resistance",
+     "figure": ""
+    },
+    {
+     "say": "The 29,000 point level acts as the ultimate upside barrier.",
+     "show": "29,000 level",
+     "figure": "29,000"
+    },
+    {
+     "say": "Daily closes above this zone signal relief. Hit follow for updates.",
+     "show": "Follow us",
+     "figure": ""
+    }
+   ],
+   "origin": "Michael Pizzino",
+   "source_video": "The Stock Market Is Running Out of Time... Buyers Must Act Now",
+   "narration": "Nasdaq remains in the weakest position among major equity indices. Tech stocks struggle to attract sustainable buying pressure. Prices continue to stall near major overhead resistance zones. The 29,000 point level acts as the ultimate upside barrier. Daily closes above this zone signal relief. Hit follow for updates.",
+   "ticker": "^NDX",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Nasdaq struggles under heavy resistance as the weakest major index.",
+   "hashtags": [
+    "#nasdaq",
+    "#techstocks",
+    "#markets",
+    "#trading",
+    "#finance"
+   ]
+  },
+  {
+   "title": "Bitcoin Record Down Days",
+   "hook": "11 down days",
+   "beats": [
+    {
+     "say": "Bitcoin has suffered eleven consecutive down days without higher highs.",
+     "show": "11 down days",
+     "figure": "11"
+    },
+    {
+     "say": "Momentum remains exceptionally weak across the entire price structure.",
+     "show": "Weak momentum",
+     "figure": ""
+    },
+    {
+     "say": "Bulls fail to mount any meaningful relief bounce attempts.",
+     "show": "No bounce",
+     "figure": ""
+    },
+    {
+     "say": "Prices hover dangerously above crucial multi-month support levels.",
+     "show": "July support",
+     "figure": ""
+    },
+    {
+     "say": "A break risks a drop toward $50,000. Hit follow for updates.",
+     "show": "Follow us",
+     "figure": "$50,000"
+    }
+   ],
+   "origin": "Michael Pizzino",
+   "source_video": "The Stock Market Is Running Out of Time... Buyers Must Act Now",
+   "narration": "Bitcoin has suffered eleven consecutive down days without higher highs. Momentum remains exceptionally weak across the entire price structure. Bulls fail to mount any meaningful relief bounce attempts. Prices hover dangerously above crucial multi-month support levels. A break risks a drop toward $50,000. Hit follow for updates.",
+   "ticker": "BTC-USD",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Bitcoin records consecutive down days while hovering above key support.",
+   "hashtags": [
+    "#bitcoin",
+    "#crypto",
+    "#btc",
+    "#trading",
+    "#analysis"
+   ]
+  },
+  {
+   "title": "US Dollar Pressure Mounts",
+   "hook": "Dollar strength",
+   "beats": [
+    {
+     "say": "The US dollar extends its relentless upward trajectory across markets.",
+     "show": "Dollar strength",
+     "figure": ""
+    },
+    {
+     "say": "Rising greenback valuation imposes severe headwinds on global assets.",
+     "show": "Market headwind",
+     "figure": ""
+    },
+    {
+     "say": "Other asset classes struggle under sustained downward pressure.",
+     "show": "Asset pressure",
+     "figure": ""
+    },
+    {
+     "say": "A cooling phase below 102.7 offers necessary market relief.",
+     "show": "102.7 level",
+     "figure": "102.7"
+    },
+    {
+     "say": "Watch currency trends closely. Hit follow for updates.",
+     "show": "Follow us",
+     "figure": ""
+    }
+   ],
+   "origin": "Michael Pizzino",
+   "source_video": "The Stock Market Is Running Out of Time... Buyers Must Act Now",
+   "narration": "The US dollar extends its relentless upward trajectory across markets. Rising greenback valuation imposes severe headwinds on global assets. Other asset classes struggle under sustained downward pressure. A cooling phase below 102.7 offers necessary market relief. Watch currency trends closely. Hit follow for updates.",
+   "ticker": "DXY",
+   "sentiment": "bullish",
+   "sources": [],
+   "caption": "Continued US dollar strength creates persistent headwinds for other asset classes.",
+   "hashtags": [
+    "#usd",
+    "#forex",
+    "#currency",
+    "#trading",
+    "#finance"
+   ]
+  },
+  {
+   "title": "Gold Holds Below Breakdown Zone",
+   "hook": "Gold resistance",
+   "beats": [
+    {
+     "say": "Gold continues to trade below its critical breakdown zone.",
+     "show": "Gold resistance",
+     "figure": ""
+    },
+    {
+     "say": "Precious metals struggle to establish any meaningful bullish momentum.",
+     "show": "Struggling trend",
+     "figure": ""
+    },
+    {
+     "say": "The broader macroeconomic outlook remains firmly tilted lower.",
+     "show": "Macro lower",
+     "figure": ""
+    },
+    {
+     "say": "Price action stays capped near the $3,900 per ounce mark.",
+     "show": "$3,900 level",
+     "figure": "$3,900"
+    },
+    {
+     "say": "Patience is required until support holds. Hit follow for updates.",
+     "show": "Follow us",
+     "figure": ""
+    }
+   ],
+   "origin": "Michael Pizzino",
+   "source_video": "The Stock Market Is Running Out of Time... Buyers Must Act Now",
+   "narration": "Gold continues to trade below its critical breakdown zone. Precious metals struggle to establish any meaningful bullish momentum. The broader macroeconomic outlook remains firmly tilted lower. Price action stays capped near the $3,900 per ounce mark. Patience is required until support holds. Hit follow for updates.",
+   "ticker": "GC=F",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Gold maintains a lower macro trend while holding below $3,900 per ounce.",
+   "hashtags": [
+    "#gold",
+    "#commodities",
+    "#trading",
+    "#markets",
+    "#finance"
+   ]
+  }
+ ],
+ "carousels": {
+  "it": {
+   "topic": "Analisi mercati finanziari globali",
+   "caption": "I mercati affrontano volumi bassi e resistenze chiave su azioni e criptovalute. Scopri i livelli da monitorare per proteggere il tuo capitale. Seguici per non perdere i prossimi aggiornamenti.",
+   "sentiment": "bearish",
+   "ticker": "^GSPC",
+   "slides": [
+    {
+     "title": "Mercati a rischio inversione",
+     "body": "Analizziamo i segnali critici su azioni, criptovalute e materie prime."
+    },
+    {
+     "title": "S&P 500 vulnerabile",
+     "body": "I rialzi recenti avvengono con volumi in calo, segnalando una possibile trappola ribassista se il minimo del 6 novembre cede."
+    },
+    {
+     "title": "Nasdaq sotto pressione",
+     "body": "Il settore tecnologico resta l indice più debole, bloccato sotto la resistenza chiave dei 29.000 punti."
+    },
+    {
+     "title": "Bitcoin in difficoltà",
+     "body": "Undici giorni consecutivi di ribasso confermano la debolezza strutturale sopra il supporto di luglio."
+    },
+    {
+     "title": "Dollaro e materie prime",
+     "body": "La forza continua del dollaro frena gli asset, mentre l oro resta bloccato sotto la soglia critica dei 3.900 dollari."
+    },
+    {
+     "title": "Monitora i livelli chiave",
+     "body": "La prudenza è d obbligo sui mercati attuali. Salva il post e seguici per rimanere aggiornato."
+    }
+   ],
+   "hashtags": [
+    "#mercati",
+    "#borsa",
+    "#trading",
+    "#bitcoin",
+    "#sp500",
+    "#nasdaq",
+    "#dollaro",
+    "#oro",
+    "#finanza",
+    "#investimenti"
+   ]
+  },
+  "en": {
+   "topic": "Global Financial Markets Update",
+   "caption": "Markets face low volume rallies, strong resistance levels, and persistent macroeconomic headwinds. Discover the critical levels to watch right now. Hit follow for daily market insights.",
+   "sentiment": "bearish",
+   "ticker": "^GSPC",
+   "slides": [
+    {
+     "title": "Markets Running Out Of Time",
+     "body": "We break down the critical warning signs across equities and crypto."
+    },
+    {
+     "title": "S&P 500 Volume Warning",
+     "body": "Upward price action on declining volume signals extreme vulnerability if the November 6 bottom fails."
+    },
+    {
+     "title": "Nasdaq Resistance Barrier",
+     "body": "Tech remains the weakest index, struggling heavily near the major 29,000 point resistance level."
+    },
+    {
+     "title": "Bitcoin Down Streak",
+     "body": "Eleven consecutive down days highlight severe weakness while prices hover above July support."
+    },
+    {
+     "title": "Dollar And Commodities",
+     "body": "Persistent US dollar strength pressures risk assets, and gold holds below $3,900 per ounce."
+    },
+    {
+     "title": "Protect Your Capital",
+     "body": "Stay cautious as markets test crucial levels. Save this post and follow for updates."
+    }
+   ],
+   "hashtags": [
+    "#markets",
+    "#stocks",
+    "#trading",
+    "#bitcoin",
+    "#sp500",
+    "#nasdaq",
+    "#dollarinverse",
+    "#gold",
+    "#finance",
+    "#investing"
+   ]
+  }
+ }
+}

@@ -1,0 +1,468 @@
+{
+ "it": [
+  {
+   "title": "Bitcoin crolla, otto settimane in rosso",
+   "hook": "OTTO SETTIMANE IN ROSSO",
+   "beats": [
+    {
+     "say": "Otto settimane consecutive di perdite cancellano ogni guadagno recente.",
+     "show": "OTTO SETTIMANE IN ROSSO",
+     "figure": "8"
+    },
+    {
+     "say": "Il mercato crypto attraversa una fase di correzione profonda.",
+     "show": "CORREZIONE PROFONDA",
+     "figure": ""
+    },
+    {
+     "say": "Il prezzo ha ceduto terreno fino ai livelli attuali.",
+     "show": "VENDITE MASSICCE",
+     "figure": ""
+    },
+    {
+     "say": "Sotto i 62.000 dollari la pressione ribassista resta dominante.",
+     "show": "AREA 62.000 DOLLARI",
+     "figure": "$62,000"
+    },
+    {
+     "say": "La tendenza negativa non mostra segnali di inversione immediata. Segui il canale per gli aggiornamenti.",
+     "show": "TREND NEGATIVO",
+     "figure": ""
+    }
+   ],
+   "origin": "MindTheChart",
+   "source_video": "IL PEGGIO DEVE ANCORA ARRIVARE?",
+   "narration": "Otto settimane consecutive di perdite cancellano ogni guadagno recente. Il mercato crypto attraversa una fase di correzione profonda. Il prezzo ha ceduto terreno fino ai livelli attuali. Sotto i 62.000 dollari la pressione ribassista resta dominante. La tendenza negativa non mostra segnali di inversione immediata. Segui il canale per gli aggiornamenti.",
+   "ticker": "BTC-USD",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Bitcoin segna otto settimane consecutive di ribasso e testa i supporti chiave. Segui Coin Ticker 360 per non perdere le analisi.",
+   "hashtags": [
+    "#bitcoin",
+    "#crypto",
+    "#mercato",
+    "#trading",
+    "#finanza",
+    "#analisi"
+   ]
+  },
+  {
+   "title": "Nvidia in ipervenduto estremo",
+   "hook": "IPERVENDUTO STORICO",
+   "beats": [
+    {
+     "say": "Nvidia raggiunge i livelli di ipervenduto più bassi dal 2019.",
+     "show": "IPERVENDUTO STORICO",
+     "figure": "2019"
+    },
+    {
+     "say": "Il settore tecnologico subisce una forte pressione ribassista.",
+     "show": "PRESSIONE SUL TECH",
+     "figure": ""
+    },
+    {
+     "say": "La volatilità recente danneggia la fiducia degli investitori.",
+     "show": "FIDUCIA IN CALO",
+     "figure": ""
+    },
+    {
+     "say": "I risultati finanziari del 17 novembre rappresentano il prossimo test.",
+     "show": "DATA DEL 17 NOVEMBRE",
+     "figure": "Nov 17"
+    },
+    {
+     "say": "Il titolo cerca una base solida prima di un potenziale rimbalzo. Segui il canale per gli aggiornamenti.",
+     "show": "BASE SOLIDA",
+     "figure": ""
+    }
+   ],
+   "origin": "MindTheChart",
+   "source_video": "IL PEGGIO DEVE ANCORA ARRIVARE?",
+   "narration": "Nvidia raggiunge i livelli di ipervenduto più bassi dal 2019. Il settore tecnologico subisce una forte pressione ribassista. La volatilità recente danneggia la fiducia degli investitori. I risultati finanziari del 17 novembre rappresentano il prossimo test. Il titolo cerca una base solida prima di un potenziale rimbalzo. Segui il canale per gli aggiornamenti.",
+   "ticker": "NVDA",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Nvidia tocca minimi di ipervenduto storici mentre il settore tecnologico frena. Segui Coin Ticker 360 per rimanere aggiornato.",
+   "hashtags": [
+    "#nvidia",
+    "#azioni",
+    "#borsa",
+    "#tecnologia",
+    "#trading",
+    "#finanza"
+   ]
+  },
+  {
+   "title": "Altcoin in perdita profonda",
+   "hook": "-70% ANNUALE",
+   "beats": [
+    {
+     "say": "La maggioranza delle altcoin perde fino al settanta percento in un anno.",
+     "show": "-70% ANNUALE",
+     "figure": "-70%"
+    },
+    {
+     "say": "Il mercato delle criptovalute alternative mostra una debolezza diffusa.",
+     "show": "DEBOLEZZA DIFFUSA",
+     "figure": ""
+    },
+    {
+     "say": "I rimbalzi occasionali lasciano spazio a trend mensili negativi.",
+     "show": "TREND NEGATIVI",
+     "figure": ""
+    },
+    {
+     "say": "La quasi totalità dei token scambia sotto le doppie cifre.",
+     "show": "SOTTO DOPPIA CIFRA",
+     "figure": ""
+    },
+    {
+     "say": "Non emergono segnali concreti di inversione per il comparto. Segui il canale per gli aggiornamenti.",
+     "show": "NESSUNA INVERSIONE",
+     "figure": ""
+    }
+   ],
+   "origin": "MindTheChart",
+   "source_video": "IL PEGGIO DEVE ANCORA ARRIVARE?",
+   "narration": "La maggioranza delle altcoin perde fino al settanta percento in un anno. Il mercato delle criptovalute alternative mostra una debolezza diffusa. I rimbalzi occasionali lasciano spazio a trend mensili negativi. La quasi totalità dei token scambia sotto le doppie cifre. Non emergono segnali concreti di inversione per il comparto. Segui il canale per gli aggiornamenti.",
+   "ticker": null,
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Il mercato delle altcoin registra perdite pesanti su base annua senza segnali di ripresa. Segui Coin Ticker 360 per le analisi.",
+   "hashtags": [
+    "#altcoin",
+    "#crypto",
+    "#mercato",
+    "#token",
+    "#trading",
+    "#finanza"
+   ]
+  },
+  {
+   "title": "Rendimento obbligazionario al 5%",
+   "hook": "RENDIMENTI AL 5%",
+   "beats": [
+    {
+     "say": "Il rendimento del Treasury a 10 anni sale al 5,12%.",
+     "show": "RENDIMENTI AL 5%",
+     "figure": "5.12%"
+    },
+    {
+     "say": "I tassi elevati continuano a frenare la crescita delle borse.",
+     "show": "FRENA LE BORSE",
+     "figure": ""
+    },
+    {
+     "say": "Il contesto macroeconomico mantiene i mercati in una fase fragile.",
+     "show": "FASE FRAGILE",
+     "figure": ""
+    },
+    {
+     "say": "La pressione sui titoli azionari resta elevata in tutto il listino.",
+     "show": "PRESSIONE AZIONARIA",
+     "figure": ""
+    },
+    {
+     "say": "Mancano elementi concreti per una ripresa duratura dei prezzi. Segui il canale per gli aggiornamenti.",
+     "show": "RIPRESA LONTANA",
+     "figure": ""
+    }
+   ],
+   "origin": "MindTheChart",
+   "source_video": "IL PEGGIO DEVE ANCORA ARRIVARE?",
+   "narration": "Il rendimento del Treasury a 10 anni sale al 5,12%. I tassi elevati continuano a frenare la crescita delle borse. Il contesto macroeconomico mantiene i mercati in una fase fragile. La pressione sui titoli azionari resta elevata in tutto il listino. Mancano elementi concreti per una ripresa duratura dei prezzi. Segui il canale per gli aggiornamenti.",
+   "ticker": null,
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "I rendimenti obbligazionari elevati continuano a esercitare forte pressione sui mercati azionari. Segui Coin Ticker 360.",
+   "hashtags": [
+    "#obbligazioni",
+    "#treasury",
+    "#mercati",
+    "#economia",
+    "#trading",
+    "#finanza"
+   ]
+  }
+ ],
+ "en": [
+  {
+   "title": "Bitcoin slides eight straight weeks",
+   "hook": "EIGHT WEEKS DOWN",
+   "beats": [
+    {
+     "say": "Eight consecutive weeks of losses wipe out all recent gains.",
+     "show": "EIGHT WEEKS DOWN",
+     "figure": "8"
+    },
+    {
+     "say": "The digital asset market faces a deep correction phase.",
+     "show": "DEEP CORRECTION",
+     "figure": ""
+    },
+    {
+     "say": "Selling pressure pushes prices down across the board.",
+     "show": "HEAVY SELLING",
+     "figure": ""
+    },
+    {
+     "say": "Below $62,000 the downside momentum remains fully active.",
+     "show": "$62,000 SUPPORT",
+     "figure": "$62,000"
+    },
+    {
+     "say": "The negative trend shows no immediate signs of a turnaround. Follow the channel for updates.",
+     "show": "BEARISH MOMENTUM",
+     "figure": ""
+    }
+   ],
+   "origin": "MindTheChart",
+   "source_video": "IL PEGGIO DEVE ANCORA ARRIVARE?",
+   "narration": "Eight consecutive weeks of losses wipe out all recent gains. The digital asset market faces a deep correction phase. Selling pressure pushes prices down across the board. Below $62,000 the downside momentum remains fully active. The negative trend shows no immediate signs of a turnaround. Follow the channel for updates.",
+   "ticker": "BTC-USD",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Bitcoin records eight straight weeks of losses as support levels are tested. Follow Coin Ticker 360 for daily market insights.",
+   "hashtags": [
+    "#bitcoin",
+    "#crypto",
+    "#markets",
+    "#trading",
+    "#finance",
+    "#analysis"
+   ]
+  },
+  {
+   "title": "Nvidia hits extreme oversold levels",
+   "hook": "HISTORIC OVERSOLD",
+   "beats": [
+    {
+     "say": "Nvidia reaches its lowest oversold levels since 2019.",
+     "show": "HISTORIC OVERSOLD",
+     "figure": "2019"
+    },
+    {
+     "say": "The broader technology sector faces intense downward pressure.",
+     "show": "TECH PRESSURE",
+     "figure": ""
+    },
+    {
+     "say": "Recent volatility heavily weighs on market sentiment.",
+     "show": "SENTIMENT HIT",
+     "figure": ""
+    },
+    {
+     "say": "The November 17th earnings release serves as the critical catalyst.",
+     "show": "NOVEMBER 17TH",
+     "figure": "Nov 17"
+    },
+    {
+     "say": "The stock searches for a temporary bottom before any recovery. Follow the channel for updates.",
+     "show": "FINDING A BOTTOM",
+     "figure": ""
+    }
+   ],
+   "origin": "MindTheChart",
+   "source_video": "IL PEGGIO DEVE ANCORA ARRIVARE?",
+   "narration": "Nvidia reaches its lowest oversold levels since 2019. The broader technology sector faces intense downward pressure. Recent volatility heavily weighs on market sentiment. The November 17th earnings release serves as the critical catalyst. The stock searches for a temporary bottom before any recovery. Follow the channel for updates.",
+   "ticker": "NVDA",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Nvidia hits historic oversold levels as tech sector weakness weighs on sentiment. Follow Coin Ticker 360 for market insights.",
+   "hashtags": [
+    "#nvidia",
+    "#stocks",
+    "#markets",
+    "#technology",
+    "#trading",
+    "#finance"
+   ]
+  },
+  {
+   "title": "Altcoins suffer deep annual losses",
+   "hook": "70% DROP",
+   "beats": [
+    {
+     "say": "Most altcoins lose up to seventy percent over the past year.",
+     "show": "70% DROP",
+     "figure": "-70%"
+    },
+    {
+     "say": "The alternative cryptocurrency sector shows widespread weakness.",
+     "show": "WIDESPREAD WEAKNESS",
+     "figure": ""
+    },
+    {
+     "say": "Temporary price spikes quickly fade into negative monthly trends.",
+     "show": "TEMPORARY SPIKES",
+     "figure": ""
+    },
+    {
+     "say": "The vast majority of top tokens trade below double digits.",
+     "show": "SINGLE DIGITS",
+     "figure": ""
+    },
+    {
+     "say": "Concrete recovery signals are missing across the board. Follow the channel for updates.",
+     "show": "NO RECOVERY",
+     "figure": ""
+    }
+   ],
+   "origin": "MindTheChart",
+   "source_video": "IL PEGGIO DEVE ANCORA ARRIVARE?",
+   "narration": "Most altcoins lose up to seventy percent over the past year. The alternative cryptocurrency sector shows widespread weakness. Temporary price spikes quickly fade into negative monthly trends. The vast majority of top tokens trade below double digits. Concrete recovery signals are missing across the board. Follow the channel for updates.",
+   "ticker": null,
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Altcoins record severe yearly losses with no clear signs of a broader market recovery. Follow Coin Ticker 360 for daily updates.",
+   "hashtags": [
+    "#altcoins",
+    "#crypto",
+    "#markets",
+    "#tokens",
+    "#trading",
+    "#finance"
+   ]
+  },
+  {
+   "title": "Bond yields surge to 5%",
+   "hook": "YIELDS AT 5%",
+   "beats": [
+    {
+     "say": "The 10-year Treasury yield climbs to 5.12%.",
+     "show": "YIELDS AT 5%",
+     "figure": "5.12%"
+    },
+    {
+     "say": "Higher borrowing costs continue to suppress equity growth.",
+     "show": "SUPPRESSING EQUITIES",
+     "figure": ""
+    },
+    {
+     "say": "Macroeconomic conditions keep global markets in a fragile state.",
+     "show": "FRAGILE STATE",
+     "figure": ""
+    },
+    {
+     "say": "Selling pressure remains active across major stock indexes.",
+     "show": "ACTIVE SELLING",
+     "figure": ""
+    },
+    {
+     "say": "Evidence of a sustained recovery is still lacking. Follow the channel for updates.",
+     "show": "NO SUSTAINED RECOVERY",
+     "figure": ""
+    }
+   ],
+   "origin": "MindTheChart",
+   "source_video": "IL PEGGIO DEVE ANCORA ARRIVARE?",
+   "narration": "The 10-year Treasury yield climbs to 5.12%. Higher borrowing costs continue to suppress equity growth. Macroeconomic conditions keep global markets in a fragile state. Selling pressure remains active across major stock indexes. Evidence of a sustained recovery is still lacking. Follow the channel for updates.",
+   "ticker": null,
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Surging Treasury yields continue to pressure global equities and dampen market sentiment. Follow Coin Ticker 360.",
+   "hashtags": [
+    "#bonds",
+    "#treasury",
+    "#markets",
+    "#economy",
+    "#trading",
+    "#finance"
+   ]
+  }
+ ],
+ "carousels": {
+  "it": {
+   "topic": "Analisi ribassista dei mercati globali",
+   "caption": "I mercati globali affrontano una fase di forte correzione tra criptovalute in calo, titoli tecnologici sotto pressione e rendimenti obbligazionari elevati. Segui Coin Ticker 360 per non perdere le prossime analisi finanziarie.",
+   "sentiment": "bearish",
+   "ticker": null,
+   "slides": [
+    {
+     "title": "Il peggio deve ancora arrivare?",
+     "body": "Analizziamo i fattori chiave che stanno guidando la correzione dei mercati globali e delle criptovalute."
+    },
+    {
+     "title": "Bitcoin in rosso",
+     "body": "Bitcoin ha registrato otto settimane consecutive di perdite, ritirandosi verso il livello di supporto a 62.000 dollari."
+    },
+    {
+     "title": "Nvidia in ipervenduto",
+     "body": "Il titolo Nvidia ha toccato i livelli di ipervenduto più bassi dal giugno 2019, riflettendo la debolezza del settore tecnologico."
+    },
+    {
+     "title": "Altcoin sotto pressione",
+     "body": "La maggior parte delle criptovalute alternative ha perso tra il 30% e il 70% del proprio valore nell'ultimo anno."
+    },
+    {
+     "title": "Rendimenti al 5%",
+     "body": "Il rendimento del Treasury a 10 anni si attesta al 5,12%, continuando a frenare la crescita dei listini azionari."
+    },
+    {
+     "title": "Prossimi eventi",
+     "body": "Gli investitori attendono i prossimi risultati finanziari di Nvidia fissati per il 17 novembre per trovare indicazioni di svolta."
+    },
+    {
+     "title": "Resta aggiornato",
+     "body": "I mercati restano in una fase fragile e prudente. Segui Coin Ticker 360 per tutte le analisi in tempo reale."
+    }
+   ],
+   "hashtags": [
+    "#mercati",
+    "#bitcoin",
+    "#nvidia",
+    "#finanza",
+    "#trading",
+    "#economia",
+    "#analisi",
+    "#investimenti"
+   ]
+  },
+  "en": {
+   "topic": "Global markets bearish trend analysis",
+   "caption": "Global markets face a heavy correction phase driven by declining cryptocurrencies, pressured tech stocks, and rising bond yields. Follow Coin Ticker 360 for daily market insights.",
+   "sentiment": "bearish",
+   "ticker": null,
+   "slides": [
+    {
+     "title": "Is the worst yet to come?",
+     "body": "We break down the key macroeconomic factors and asset declines currently driving global financial markets."
+    },
+    {
+     "title": "Bitcoin drops",
+     "body": "Bitcoin records eight consecutive weeks of losses, retreating to test support around the $62,000 level."
+    },
+    {
+     "title": "Nvidia oversold",
+     "body": "Nvidia hits its lowest oversold levels since June 2019, reflecting broader weakness across the technology sector."
+    },
+    {
+     "title": "Altcoin struggles",
+     "body": "Most alternative cryptocurrencies have lost between 30% and 70% of their market value over the past year."
+    },
+    {
+     "title": "Yields at 5%",
+     "body": "The 10-year Treasury yield climbs to 5.12%, continuing to exert downward pressure on equity valuations."
+    },
+    {
+     "title": "Upcoming catalysts",
+     "body": "Investors look ahead to Nvidia's upcoming financial results scheduled for November 17th for a potential bottom."
+    },
+    {
+     "title": "Stay informed",
+     "body": "Market conditions remain fragile and cautious. Follow Coin Ticker 360 for professional financial analysis."
+    }
+   ],
+   "hashtags": [
+    "#markets",
+    "#bitcoin",
+    "#nvidia",
+    "#finance",
+    "#trading",
+    "#economy",
+    "#analysis",
+    "#investing"
+   ]
+  }
+ }
+}

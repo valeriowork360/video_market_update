@@ -1,0 +1,368 @@
+{
+ "it": [
+  {
+   "title": "Crollo storico dell'argento",
+   "hook": "Argento in calo",
+   "beats": [
+    {
+     "say": "Argento in calo del 61% dal picco massimo.",
+     "show": "Argento in calo",
+     "figure": "-61%"
+    },
+    {
+     "say": "La correzione attuale supera quella del periodo tra 2011 e 2013.",
+     "show": "Superato il 2011",
+     "figure": ""
+    },
+    {
+     "say": "Il mercato finanziario amplifica ogni singola oscillazione dei prezzi.",
+     "show": "Effetto carta",
+     "figure": ""
+    },
+    {
+     "say": "I prossimi supporti chiave si trovano a 43 e 35 dollari.",
+     "show": "Supporti chiave",
+     "figure": "$43"
+    },
+    {
+     "say": "Osserva questi livelli con attenzione. Segui il canale.",
+     "show": "Segui il canale",
+     "figure": ""
+    }
+   ],
+   "origin": "Jason Pizzino",
+   "source_video": "Gold & Silver Are Collapsing: This Is Worse Than 2011",
+   "narration": "Argento in calo del 61% dal picco massimo. La correzione attuale supera quella del periodo tra 2011 e 2013. Il mercato finanziario amplifica ogni singola oscillazione dei prezzi. I prossimi supporti chiave si trovano a 43 e 35 dollari. Osserva questi livelli con attenzione. Segui il canale.",
+   "ticker": "SI=F",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Analisi approfondita sul crollo dell'argento e sui livelli tecnici da monitorare. Seguici per altri aggiornamenti.",
+   "hashtags": [
+    "#argento",
+    "#trading",
+    "#metalli",
+    "#mercati",
+    "#finanza",
+    "#borsa"
+   ]
+  },
+  {
+   "title": "Il peggior crollo dell'oro",
+   "hook": "Oro in picchiata",
+   "beats": [
+    {
+     "say": "Oro giù del 32% in soli 291 giorni.",
+     "show": "Oro in picchiata",
+     "figure": "-32%"
+    },
+    {
+     "say": "Il mercato affronta la peggiore fase ribassista dal 2011.",
+     "show": "Crisi dal 2011",
+     "figure": ""
+    },
+    {
+     "say": "L'entusiasmo del settore retail ha scatenato liquidazioni massive.",
+     "show": "Liquidazioni retail",
+     "figure": ""
+    },
+    {
+     "say": "La zona di supporto fondamentale si colloca tra 3.200 e 3.600 dollari.",
+     "show": "Zona supporto",
+     "figure": "$3.200"
+    },
+    {
+     "say": "Attendi la conferma dei prezzi. Seguici per rimanere aggiornato.",
+     "show": "Segui il canale",
+     "figure": ""
+    }
+   ],
+   "origin": "Jason Pizzino",
+   "source_video": "Gold & Silver Are Collapsing: This Is Worse Than 2011",
+   "narration": "Oro giù del 32% in soli 291 giorni. Il mercato affronta la peggiore fase ribassista dal 2011. L'entusiasmo del settore retail ha scatenato liquidazioni massive. La zona di supporto fondamentale si colloca tra 3.200 e 3.600 dollari. Attendi la conferma dei prezzi. Seguici per rimanere aggiornato.",
+   "ticker": "GC=F",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Esaminiamo i dati chiave dietro il recente crollo dell'oro e le aree di supporto. Seguici per non perdere nulla.",
+   "hashtags": [
+    "#oro",
+    "#gold",
+    "#mercati",
+    "#investimenti",
+    "#finanza",
+    "#trading"
+   ]
+  },
+  {
+   "title": "Oro fisico contro mercato carta",
+   "hook": "Mercato carta",
+   "beats": [
+    {
+     "say": "Il mercato cartaceo supera quello fisico di centinaia di volte.",
+     "show": "Mercato carta",
+     "figure": "400x"
+    },
+    {
+     "say": "Gli scambi finanziari dominano la determinazione dei prezzi.",
+     "show": "Prezzi guidati",
+     "figure": ""
+    },
+    {
+     "say": "Gli acquisti delle banche centrali non fermano la pressione ribassista.",
+     "show": "Banche centrali",
+     "figure": ""
+    },
+    {
+     "say": "La forza del dollaro continua a penalizzare i metalli preziosi.",
+     "show": "Dollaro forte",
+     "figure": ""
+    },
+    {
+     "say": "Comprendi le dinamiche reali del mercato. Segui il canale.",
+     "show": "Segui il canale",
+     "figure": ""
+    }
+   ],
+   "origin": "Jason Pizzino",
+   "source_video": "Gold & Silver Are Collapsing: This Is Worse Than 2011",
+   "narration": "Il mercato cartaceo supera quello fisico di centinaia di volte. Gli scambi finanziari dominano la determinazione dei prezzi. Gli acquisti delle banche centrali non fermano la pressione ribassista. La forza del dollaro continua a penalizzare i metalli preziosi. Comprendi le dinamiche reali del mercato. Segui il canale.",
+   "ticker": "GC=F",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Analizziamo la differenza tra oro fisico e mercati cartacei. Seguici per analisi approfondite.",
+   "hashtags": [
+    "#oro",
+    "#finanza",
+    "#banche",
+    "#dollaro",
+    "#mercati",
+    "#investire"
+   ]
+  }
+ ],
+ "en": [
+  {
+   "title": "Silver's massive collapse",
+   "hook": "Silver crashing",
+   "beats": [
+    {
+     "say": "Silver is down 61% from its peak.",
+     "show": "Silver crashing",
+     "figure": "-61%"
+    },
+    {
+     "say": "This correction is much worse than the 2011 cycle.",
+     "show": "Worse than 2011",
+     "figure": ""
+    },
+    {
+     "say": "Paper trading drives excessive volatility across the entire sector.",
+     "show": "Paper markets",
+     "figure": ""
+    },
+    {
+     "say": "Key support levels sit around 43 and 35 dollars.",
+     "show": "Support zones",
+     "figure": "$43"
+    },
+    {
+     "say": "Watch these crucial prices now. Hit follow.",
+     "show": "Hit follow",
+     "figure": ""
+    }
+   ],
+   "origin": "Jason Pizzino",
+   "source_video": "Gold & Silver Are Collapsing: This Is Worse Than 2011",
+   "narration": "Silver is down 61% from its peak. This correction is much worse than the 2011 cycle. Paper trading drives excessive volatility across the entire sector. Key support levels sit around 43 and 35 dollars. Watch these crucial prices now. Hit follow.",
+   "ticker": "SI=F",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Breaking down the severe correction in silver markets and key technical levels. Follow for more updates.",
+   "hashtags": [
+    "#silver",
+    "#trading",
+    "#metals",
+    "#markets",
+    "#finance",
+    "#investing"
+   ]
+  },
+  {
+   "title": "Gold's worst drop since 2011",
+   "hook": "Gold dropping",
+   "beats": [
+    {
+     "say": "Gold is down 32% over 291 days.",
+     "show": "Gold dropping",
+     "figure": "-32%"
+    },
+    {
+     "say": "This marks the worst crash since 2011.",
+     "show": "Worst since 2011",
+     "figure": ""
+    },
+    {
+     "say": "Massive retail hype led directly to heavy liquidations.",
+     "show": "Retail liquidations",
+     "figure": ""
+    },
+    {
+     "say": "Downside target zones range between 3,200 and 3,600 dollars.",
+     "show": "Target zones",
+     "figure": "$3,200"
+    },
+    {
+     "say": "Monitor these crucial zones closely. Hit follow.",
+     "show": "Hit follow",
+     "figure": ""
+    }
+   ],
+   "origin": "Jason Pizzino",
+   "source_video": "Gold & Silver Are Collapsing: This Is Worse Than 2011",
+   "narration": "Gold is down 32% over 291 days. This marks the worst crash since 2011. Massive retail hype led directly to heavy liquidations. Downside target zones range between 3,200 and 3,600 dollars. Monitor these crucial zones closely. Hit follow.",
+   "ticker": "GC=F",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Analyzing the key drivers behind gold's severe drop and target support zones. Follow for daily updates.",
+   "hashtags": [
+    "#gold",
+    "#markets",
+    "#investing",
+    "#finance",
+    "#trading",
+    "#economy"
+   ]
+  },
+  {
+   "title": "Physical vs paper gold markets",
+   "hook": "Huge paper market",
+   "beats": [
+    {
+     "say": "The paper market is up to 400 times larger.",
+     "show": "Huge paper market",
+     "figure": "400x"
+    },
+    {
+     "say": "Paper trading drives excessive volatility across the board.",
+     "show": "High volatility",
+     "figure": ""
+    },
+    {
+     "say": "Central bank buying fails to lift prices immediately.",
+     "show": "Central banks",
+     "figure": ""
+    },
+    {
+     "say": "A strong US dollar applies continued downward pressure.",
+     "show": "Strong dollar",
+     "figure": ""
+    },
+    {
+     "say": "Understand how the system works. Hit follow.",
+     "show": "Hit follow",
+     "figure": ""
+    }
+   ],
+   "origin": "Jason Pizzino",
+   "source_video": "Gold & Silver Are Collapsing: This Is Worse Than 2011",
+   "narration": "The paper market is up to 400 times larger. Paper trading drives excessive volatility across the board. Central bank buying fails to lift prices immediately. A strong US dollar applies continued downward pressure. Understand how the system works. Hit follow.",
+   "ticker": "GC=F",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Breaking down the massive discrepancy between physical and paper precious metals. Follow for more insights.",
+   "hashtags": [
+    "#gold",
+    "#finance",
+    "#centralbanks",
+    "#usdollar",
+    "#markets",
+    "#investing"
+   ]
+  }
+ ],
+ "carousels": {
+  "it": {
+   "topic": "Crollo di oro e argento",
+   "caption": "Analizziamo le ragioni dietro il forte calo di oro e argento e i livelli tecnici da monitorare. Seguici per non perdere le prossime analisi.",
+   "sentiment": "bearish",
+   "ticker": "GC=F",
+   "slides": [
+    {
+     "title": "Oro e argento in forte calo",
+     "body": "Scopri i dati reali dietro la peggiore correzione di mercato dal 2011."
+    },
+    {
+     "title": "Il crollo dell'argento",
+     "body": "L'argento registra una perdita del 61% dal picco massimo, superando la crisi del 2011."
+    },
+    {
+     "title": "La caduta dell'oro",
+     "body": "L'oro segna un calo del 32% in 291 giorni dopo il picco registrato a gennaio."
+    },
+    {
+     "title": "Carta contro fisico",
+     "body": "Il mercato cartaceo è stimato fino a 400 volte più grande del mercato fisico."
+    },
+    {
+     "title": "Livelli di supporto",
+     "body": "I target per l'oro si collocano tra 3.200 e 3.600 dollari, mentre l'argento guarda a 43 e 35 dollari."
+    },
+    {
+     "title": "Segui i dati reali",
+     "body": "Monitora i mercati con analisi basate sui fatti. Segui il canale per rimanere aggiornato."
+    }
+   ],
+   "hashtags": [
+    "#oro",
+    "#argento",
+    "#mercati",
+    "#finanza",
+    "#trading",
+    "#investimenti",
+    "#borsa",
+    "#analisi"
+   ]
+  },
+  "en": {
+   "topic": "Gold and silver collapse",
+   "caption": "Breaking down the severe downturn in precious metals and key technical levels to watch. Follow for daily market analysis.",
+   "sentiment": "bearish",
+   "ticker": "GC=F",
+   "slides": [
+    {
+     "title": "Precious metals collapsing",
+     "body": "Discover the data behind the worst market correction since 2011."
+    },
+    {
+     "title": "Silver down 61%",
+     "body": "Silver is crashing hard from its peak, showing a much worse correction than the 2011 cycle."
+    },
+    {
+     "title": "Gold down 32%",
+     "body": "Gold drops over 291 days from its January peak amid massive retail liquidations."
+    },
+    {
+     "title": "Paper versus physical",
+     "body": "The paper derivatives market is estimated to be 200 to 400 times larger than physical supply."
+    },
+    {
+     "title": "Key support zones",
+     "body": "Gold targets sit between 3,200 and 3,600 dollars, with silver support around 43 and 35 dollars."
+    },
+    {
+     "title": "Watch the data",
+     "body": "Stay informed with factual market breakdowns. Hit follow to never miss an update."
+    }
+   ],
+   "hashtags": [
+    "#gold",
+    "#silver",
+    "#markets",
+    "#finance",
+    "#trading",
+    "#investing",
+    "#economy",
+    "#analysis"
+   ]
+  }
+ }
+}
