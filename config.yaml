@@ -194,9 +194,6 @@ captions: true                  # sottotitoli sincronizzati nei video
 #  viene semplicemente saltata. Come ottenere le chiavi:
 #  vedi PUBBLICAZIONE.md
 # ------------------------------------------------------------
-publish_colors:
-  news: "#A9B6C6"               # short nati solo dalle notizie, senza un canale
-
 publish:
   enabled: true                 # false = non pubblica nulla, arriva solo su Telegram
   gap_seconds: 40               # pausa tra una pubblicazione e l'altra

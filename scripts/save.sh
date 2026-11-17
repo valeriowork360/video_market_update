@@ -7,7 +7,8 @@ git add -A data
 if git diff --cached --quiet; then echo "Niente di nuovo da salvare"; exit 0; fi
 git commit -q -m "$1"
 for i in 1 2 3 4 5; do
-  if git pull -q --rebase origin main && git push -q origin HEAD:main; then echo "Dati salvati"; exit 0; fi
+  # -X theirs: on a clash in data/ keep this run's version (two runs can touch the same state file)
+  if git pull -q --rebase -X theirs origin main && git push -q origin HEAD:main; then echo "Dati salvati"; exit 0; fi
   git rebase --abort 2>/dev/null || true
   sleep $((i * 7))
 done

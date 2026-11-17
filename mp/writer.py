@@ -104,7 +104,7 @@ Return ONE JSON object:
 {{
  "shorts": [   // {shorts_rule}
   {{"segment_id": "id of the script segment it comes from",
-    "origin": "the ONE creator this short is mainly built on: exact name taken from that segment's sources, one of {creators}; or \"news\" if it comes from headlines only",
+    "origin": "the ONE creator this short is built on: exact name taken from that segment's sources, one of {creators}",
     "title": "max 60 characters, curiosity without lying",
     "beats": [{{"say": "what the voice says", "show": "2-4 words shown HUGE on screen", "figure": "the one key number of the beat as written on screen (\"-7%\", \"5,15%\") or \"\""}}],
     "ticker": "same symbol as the segment or null",
@@ -113,6 +113,8 @@ Return ONE JSON object:
     "hashtags": ["#5-8"]}}
  ],
  // HOW A SHORT IS BUILT - follow exactly:
+ // - ONLY from segments whose sources include one of the creators listed in "origin". Never make
+ //   a short from a segment based on headlines alone. If no segment qualifies, return [].
  // - Pick only stories that have a hook: a surprising number, a sharp contrast, a reversal, a
  //   direct consequence for the viewer's money. A flat recap ("market overview") is NOT a short.
  //   Fewer strong shorts beat many weak ones.
@@ -271,8 +273,6 @@ def derivatives(script, lang, kind):
             _language_check(blob, lang)
             _names_check(blob)
             _voice_check(blob)
-            if kind == "daily" and not out["shorts"]:
-                raise llm.LLMError("no usable shorts")
             if not out["carousels"]:
                 raise llm.LLMError("no usable carousels")
             out["model"] = meta["model"]
@@ -429,7 +429,9 @@ def _check_deriv(d, script, kind):
         src = by_id.get(str(s.get("segment_id")), {})
         origin = str(s.get("origin") or "").strip()
         if origin not in creators:
-            origin = next((x for x in src.get("sources", []) if x in creators), "news")
+            origin = next((x for x in src.get("sources", []) if x in creators), None)
+        if not origin:
+            continue            # headlines-only shorts are not made (stale and repetitive)
         shorts.append({"title": _t(s.get("title"), 90), "hook": beats[0]["show"], "beats": beats, "origin": origin,
                        "narration": nar, "ticker": _ticker(s.get("ticker")) or src.get("ticker"),
                        "sentiment": _sent(s.get("sentiment") or src.get("sentiment")),
