@@ -126,14 +126,25 @@ For Italian use Italian number format ("7.590", "0,4%", "68.700 dollari").
 
 {short_rules}
 
+Also make ONE Instagram carousel that sums up the whole video, in each language.
+
 Return ONE JSON object:
 {{"shorts": [
   {{"ticker": "one Yahoo Finance symbol if this part is about one asset (NVDA, ^GSPC, BTC-USD), else null",
     "sentiment": "bullish|bearish|neutral",
     {lang_fields}
   }}
-]}}
-where every language block is:
+ ],
+ "carousel": {{"ticker": "symbol or null", "sentiment": "bullish|bearish|neutral", {car_fields}}}
+}}
+where every carousel language block is:
+  {{"topic": "max 6 words", "caption": "Instagram caption, 2-3 sentences, ends with a follow invite",
+    "hashtags": ["#8-12"], "slides": [{{"title": "...", "body": "..."}}]}}
+  5-7 slides. Slide 1 is the COVER: title = a scroll-stopping, click-bait style hook of max 7
+  words with the key name or number; body = one sentence promising what the next slides reveal.
+  Middle slides: title max 5 words, body max 26 words, one idea with its number or fact.
+  Last slide: the takeaway in one sentence + invite to follow.
+and every short language block is:
   {{"title": "max 60 characters, curiosity without lying",
     "beats": [{{"say": "what the voice says", "show": "2-4 words", "figure": "key number or \"\""}}],
     "caption": "1-2 sentence post caption", "hashtags": ["#5-8"]}}
@@ -452,11 +463,32 @@ def video_shorts(note, langs):
     body = V_PROMPT.format(brand=CFG["brand"]["name"], n=n, langs=", ".join(LANG[l] for l in langs),
                            rules=_rules("en"), short_rules=SHORT_RULES,
                            lang_fields=", ".join(f'"{l}": {{...}}' for l in langs),
+                           car_fields=", ".join(f'"{l}": {{...}}' for l in langs),
                            note=json.dumps(view, ensure_ascii=False))
     feedback, out = "", {l: [] for l in langs}
     for attempt in (1, 2):
         data, meta = llm.ask("write", lambda k: body[:max(k, 9000)] + feedback, temperature=0.7, patience=1)
         out, bad = {l: [] for l in langs}, []
+        out["carousels"] = {}
+        car = data.get("carousel") if isinstance(data.get("carousel"), dict) else {}
+        for l in langs:
+            c = car.get(l) or {}
+            slides = [{"title": _t(x.get("title"), 60), "body": _t(x.get("body"), 230)}
+                      for x in (c.get("slides") or []) if isinstance(x, dict) and clean(x.get("title"))][:8]
+            if len(slides) < 3:
+                continue
+            one = {"topic": _t(c.get("topic"), 60), "caption": tidy(str(c.get("caption") or "").strip()),
+                   "sentiment": _sent(car.get("sentiment")), "ticker": _ticker(car.get("ticker")), "slides": slides,
+                   "hashtags": [h if h.startswith("#") else "#" + h
+                                for h in (clean(x).replace(" ", "") for x in (c.get("hashtags") or [])) if h][:14]}
+            try:
+                blob = one["caption"] + " " + " ".join(x["title"] + " " + x["body"] for x in slides)
+                _language_check(blob, l)
+                _names_check(blob)
+                _voice_check(blob)
+                out["carousels"][l] = one
+            except llm.LLMError as e:
+                bad.append(str(e))
         for raw in (data.get("shorts") or [])[:n]:
             if not isinstance(raw, dict):
                 continue

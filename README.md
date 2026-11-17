@@ -7,9 +7,9 @@ Gira gratis su GitHub, anche a computer spento. Tu ricevi tutto su Telegram, app
 
 | Quando | Cosa succede |
 |---|---|
-| Ogni 4 ore | Guarda i video nuovi degli 8 canali, scrive per ognuno **cosa dice l'autore e con che tono**, salva le notizie di mercato. Ti manda su Telegram il riassunto di ogni video nuovo. |
-| Ogni giorno, dalle 17:30 (Bangkok) | Prima aggiorna i video, poi per ogni lingua: **1 video lungo**, **3-7 short** ricavati da quel video, **1 carosello Instagram per argomento**, miniatura, titolo, descrizione e tag. |
-| Domenica, dalle 19:00 | **Video lungo di riepilogo** della settimana e **carosello di riepilogo**. |
+| Ogni 3 ore | Guarda i video nuovi dei canali. Per ogni video trovato crea subito gli short (uno per ogni parte saliente) e un carosello, in italiano e in inglese. |
+| Ogni giorno, 04:30 UTC (11:30 Bangkok) | **Video lungo giornaliero** che combina tutti i video degli autori del giorno. |
+| Sabato, 07:00 UTC (14:00 Bangkok) | **Video lungo di riepilogo** della settimana e carosello di riepilogo. |
 
 Il tono della voce narrante viene scelto ogni giorno in base al mercato (pacato, da telegiornale, incalzante, energico).
 I video che riguardano solo l'Italia (per esempio le tasse italiane di Marco Casario) entrano nell'edizione italiana e restano fuori da quella inglese.
@@ -84,7 +84,8 @@ mp/tts.py            voce (Edge TTS, riserva gTTS) con tempi delle parole
 mp/draw.py           grafica di video, short, caroselli, miniatura
 mp/video.py          montaggio con ffmpeg
 mp/motion.py         short animati (hook, battute, colore per canale di origine)
-mp/produce.py        produzione giornaliera e settimanale, a tappe
+mp/social.py         short e carosello di ogni video, appena trovato
+mp/produce.py        video lungo giornaliero e recap settimanale
 mp/publish.py        pubblicazione automatica su Instagram e YouTube
 mp/doctor.py         controllo generale
 scripts/due.py       decide a ogni scatto cosa c'è da fare

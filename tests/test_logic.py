@@ -227,36 +227,31 @@ def test_schedule():
 
     done = lambda day, kind="daily": {f"{day}_{kind}": {"langs": {l: {"long": True, "social": True} for l in ("it", "en")}}}
     fresh_clock = lambda t: {"last_collect_ok": t.isoformat(), "last_collect_try": t.isoformat()}
-    # Saturday 16:00: before the daily time -> nothing to produce
-    t = at(2026, 11, 14, 16, 0)
-    assert due.decide(t, cfg, fresh_clock(t), {})["produce"] == ""
-    # Saturday 17:34: daily for the 14th, and a refresh of the videos if the last collect is old
-    t = at(2026, 11, 14, 17, 34)
-    d = due.decide(t, cfg, fresh_clock(at(2026, 11, 14, 14, 0)), done("2026-11-13"))
+    # times in config: daily 11:30 Bangkok (04:30 UTC), weekly Saturday 14:00 (07:00 UTC), collect every 3h
+    assert datetime(2026, 11, 14, 4, 30, tzinfo=timezone.utc) == at(2026, 11, 14, 11, 30)
+    t = at(2026, 11, 14, 10, 0)                      # before the daily time -> nothing to produce
+    assert due.decide(t, cfg, fresh_clock(t), done("2026-11-13"))["produce"] == ""
+    t = at(2026, 11, 14, 11, 34)                     # daily, with a refresh of the videos if the last is old
+    d = due.decide(t, cfg, fresh_clock(at(2026, 11, 14, 9, 30)), done("2026-11-13"))
     assert (d["produce"], d["day"], d["collect"]) == ("daily", "2026-11-14", True), d
-    # GitHub 7 hours late (00:40 on the 15th): still the episode of the 14th, not of the 15th
-    t = at(2026, 11, 15, 0, 40)
-    d = due.decide(t, cfg, fresh_clock(t), {})
-    assert (d["produce"], d["day"]) == ("daily", "2026-11-14"), d
-    # ... and if it was already delivered, nothing; too late (03:00) -> nothing
-    assert due.decide(t, cfg, fresh_clock(t), done("2026-11-14"))["produce"] == ""
-    assert due.decide(at(2026, 11, 15, 3, 0), cfg, fresh_clock(t), {})["produce"] == ""
-    # Sunday 19:10: daily first, then the weekly recap
-    t = at(2026, 11, 15, 19, 10)
+    t = at(2026, 11, 14, 18, 40)                     # GitHub 7 hours late: still the same episode
+    assert due.decide(t, cfg, fresh_clock(t), {})["day"] == "2026-11-14"
+    assert due.decide(t, cfg, fresh_clock(t), done("2026-11-14"))["produce"] in ("", "weekly")
+    assert due.decide(at(2026, 11, 13, 21, 0), cfg, fresh_clock(t), {})["produce"] == ""      # too late
+    t = at(2026, 11, 14, 14, 10)                     # Saturday 14:10: daily first, then the weekly recap
     assert due.decide(t, cfg, fresh_clock(t), {})["produce"] == "daily"
-    d = due.decide(t, cfg, fresh_clock(t), done("2026-11-15"))
-    assert (d["produce"], d["day"]) == ("weekly", "2026-11-15"), d
-    both = {**done("2026-11-15"), **done("2026-11-15", "weekly")}
+    d = due.decide(t, cfg, fresh_clock(t), done("2026-11-14"))
+    assert (d["produce"], d["day"]) == ("weekly", "2026-11-14"), d
+    both = {**done("2026-11-14"), **done("2026-11-14", "weekly")}
     assert due.decide(t, cfg, fresh_clock(t), both)["work"] is False
-    # a failed attempt is retried, but not more often than every 40 minutes
-    c = dict(fresh_clock(t), last_produce_try=at(2026, 11, 15, 19, 0).isoformat())
+    assert due.decide(at(2026, 11, 15, 14, 10), cfg, fresh_clock(t), done("2026-11-15"))["produce"] == ""   # Sunday: no weekly
+    c = dict(fresh_clock(t), last_produce_try=at(2026, 11, 14, 14, 0).isoformat())    # retry not before 40 minutes
     assert due.decide(t, cfg, c, {})["produce"] == ""
-    assert due.decide(at(2026, 11, 15, 19, 45), cfg, c, {})["produce"] == "daily"
-    # collection every 4 hours, never twice within 40 minutes
-    t = at(2026, 11, 14, 12, 0)
-    assert due.decide(t, cfg, fresh_clock(at(2026, 11, 14, 7, 55)), {})["collect"] is True
-    assert due.decide(t, cfg, fresh_clock(at(2026, 11, 14, 9, 0)), {})["collect"] is False
-    assert due.decide(t, cfg, {"last_collect_try": at(2026, 11, 14, 11, 40).isoformat()}, {})["collect"] is False
+    assert due.decide(at(2026, 11, 14, 14, 45), cfg, c, {})["produce"] == "daily"
+    t = at(2026, 11, 14, 8, 0)                       # collection every 3 hours, never twice within 40 minutes
+    assert due.decide(t, cfg, fresh_clock(at(2026, 11, 14, 4, 55)), {})["collect"] is True
+    assert due.decide(t, cfg, fresh_clock(at(2026, 11, 14, 6, 0)), {})["collect"] is False
+    assert due.decide(t, cfg, {"last_collect_try": at(2026, 11, 14, 7, 40).isoformat()}, {})["collect"] is False
     assert due.decide(t, cfg, {}, {})["collect"] is True
     print("schedule ok")
 

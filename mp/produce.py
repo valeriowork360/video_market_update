@@ -163,7 +163,7 @@ def make_social(lang, kind, day, script, folder, sdir, force, ctx, st, langs):
         log(f"  {len(soc['carousels'])} caroselli scritti ({meta['model']})")
     label = date_label(day, lang, False)
     sent = st.setdefault("sent", [])          # what already reached Telegram: never sent twice
-    shorts, problems = ([], []) if kind == "weekly" else video_shorts_for(lang, ctx, sdir, langs)
+    shorts, problems = [], []
     writer.upgrade({"shorts": [s for _, s in shorts]})
     for n, (sid, s) in enumerate(shorts, 1):
         if f"s:{sid}" in sent and not force:
@@ -287,7 +287,10 @@ def main():
                 write_json(ledger, produced)
             else:
                 script = read_json(sdir / f"{lang}.json")
-            if a.force or not st.get("social"):
+            if kind == "daily":             # shorts and carousels are made per video, as soon as it is found
+                st["social"] = True
+                write_json(ledger, produced)
+            elif a.force or not st.get("social"):
                 st["shorts"], st["carousels"] = make_social(lang, kind, day, script, folder / lang, sdir, a.force,
                                                             ctx, st, CFG["languages"])
                 st["social"] = True
