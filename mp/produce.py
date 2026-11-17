@@ -46,7 +46,15 @@ def load_notes(hours, exclude=()):
             when = parse_iso(n.get("published")) or parse_iso(n.get("analysed_at")) or now()
             if when >= cut:
                 out.append(n)
-    return out
+    # the same video posted on two channels of one author counts once
+    groups = {c["name"]: c.get("group") or c["name"] for c in CFG["channels"]}
+    seen, uniq = set(), []
+    for n in out:
+        k = (groups.get(n["author"], n["author"]), "".join(ch for ch in n["title"].lower() if ch.isalnum()))
+        if k not in seen:
+            seen.add(k)
+            uniq.append(n)
+    return uniq
 
 
 def used_notes(produced, key):

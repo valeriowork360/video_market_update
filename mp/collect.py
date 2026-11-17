@@ -24,6 +24,9 @@ FINAL = ("done", "gave_up", "expired")
 def build_queue(state):
     cutoff = now() - timedelta(hours=C["max_age_hours"])
     queue = []
+    groups = {c["name"]: c.get("group") or c["name"] for c in CFG["channels"]}
+    titles = {(groups.get(x.get("channel"), x.get("channel")), "".join(c for c in x.get("title", "").lower() if c.isalnum()))
+              for x in state.values() if x.get("status") == "done"}
     for ch in CFG["channels"]:
         vids, src = youtube.feed(ch)
         fresh = 0
@@ -40,6 +43,12 @@ def build_queue(state):
             if v["live"] in ("live", "upcoming"):
                 log(f"    \"{v['title'][:60]}\" e' una live non ancora finita: la guardo quando termina")
                 continue
+            twin = (ch.get("group") or ch["name"], "".join(c for c in v["title"].lower() if c.isalnum()))
+            if twin in titles:      # same author already has this video from another of his channels
+                state[v["id"]] = {"status": "done", "attempts": 0, "channel": ch["name"], "title": v["title"],
+                                  "done_at": now().isoformat(), "duplicate": True}
+                continue
+            titles.add(twin)
             queue.append((ch, v))
             fresh += 1
         log(f"  {ch['name']}: {len(vids)} video visti ({src}), {fresh} da analizzare")
