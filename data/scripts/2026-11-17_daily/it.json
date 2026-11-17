@@ -1,0 +1,181 @@
+{
+ "title": "Nvidia e Tech sotto Pressione, Bitcoin alla Prova dei Supporti",
+ "description": "Oggi su Coin Ticker 360 analizziamo la forte pressione sul comparto tecnologico alla vigilia della trimestrale di Nvidia e lo scossone sul Bitcoin.\nSpazio poi al crollo dei metalli preziosi sui mercati derivati e al confronto sul divario delle pensioni integrative.\nIn chiusura l'agenda economica della settimana e una curiosità dalla Corea del Sud.\nFonti: Jason Pizzino, Michael Pizzino, Financial Education 2, Marco Casario, MindTheChart.",
+ "tags": [
+  "Nvidia",
+  "Bitcoin",
+  "S&P 500",
+  "Nasdaq",
+  "Oro",
+  "Borsa oggi",
+  "Mercati finanziari",
+  "Crypto",
+  "Pensioni",
+  "Analisi tecnica"
+ ],
+ "thumbnail_text": "Nvidia TEST 335B",
+ "mood": "neutral",
+ "segments": [
+  {
+   "id": "s1",
+   "kind": "hook",
+   "heading": "Nvidia e il grande test",
+   "narration": "Nvidia affronta i dati trimestrali senza Jensen Huang e con un nuovo comitato di vigilanza nazionale, mentre le opzioni stimano oscillazioni per 335 miliardi di dollari. Intanto il Nasdaq cede il 2,5%, il Bitcoin scambia a 64.994 dollari e l'oro subisce pesanti vendite sul mercato cartaceo.",
+   "bullets": [
+    "Trimestrale Nvidia decisiva per l'AI",
+    "Nasdaq in calo del 2,5%",
+    "Bitcoin a quota 64.994 dollari"
+   ],
+   "ticker": "NVDA",
+   "sentiment": "bearish",
+   "sources": [
+    "Investing.com",
+    "CoinDesk"
+   ]
+  },
+  {
+   "id": "s2",
+   "kind": "market",
+   "heading": "Wall Street in arretramento",
+   "narration": "Sedata la spinta rialzista delle scorse sedute, le borse americane chiudono una giornata di forte pressione sul comparto tecnologico. L'indice S&P 500 cede l'1,9% fermandosi a 7.417 punti, mentre il Nasdaq Composite incassa una flessione del 2,5% a quota 24.510. Il Dow Jones limita le perdite con un calo dell'1,4% a 51.608 punti. In Europa il FTSE MIB arretra dello 0,6% a 51.218 punti e l'Euro Stoxx 50 perde l'0,9% a 6.288. L'indice VIX della volatilità registra un balzo del 17,1% su scala settimanale pur segnando un lieve -0,5% giornaliero a 23 punti. Il rendimento del titolo di Stato decennale statunitense scende al 5,1%.",
+   "bullets": [
+    "S&P 500: 7.417 (-1,9%)",
+    "Nasdaq: 24.510 (-2,5%)",
+    "FTSE MIB: 51.218 (-0,6%)",
+    "VIX a 23 (+17,1% in 5 giorni)"
+   ],
+   "ticker": "^GSPC",
+   "sentiment": "bearish",
+   "sources": [
+    "ANSA Economia",
+    "Yahoo Finance"
+   ]
+  },
+  {
+   "id": "s3",
+   "kind": "topic",
+   "heading": "Scossa sul settore tecnologico",
+   "narration": "L'imminente pubblicazione dei risultati di Nvidia rappresenta uno snodo cruciale per il settore dell'intelligenza artificiale. La società ha istituito un comitato di vigilanza per la sicurezza nazionale dopo gli sviluppi sulle indagini interne. Sul mercato delle opzioni il prezzo delle azioni incorpora uno spostamento di valore pari a 335 miliardi di dollari. Sul comparto dei chip la pressione resta elevata: Nvidia si trova sulle valutazioni più vendute dal 2019, mentre Intel registra un calo del 46% dai massimi. Inoltre l'aumento del debito a margine, salito a 1,5 mila miliardi di dollari prima dell'inizio del ritracciamento, accentua le vendite sui titoli ad alta crescita. Senza un recupero dei volumi d'acquisto sul Nasdaq, la fase correttiva rischia di prolungarsi.",
+   "bullets": [
+    "Nvidia: opzioni stimano swing di 335B$",
+    "Comitato di vigilanza per export e sicurezza",
+    "Intel giù del 46% dai massimi",
+    "Debito a margine a 1,5 mila miliardi"
+   ],
+   "ticker": "NVDA",
+   "sentiment": "bearish",
+   "sources": [
+    "Financial Education 2",
+    "MindTheChart",
+    "Investing.com",
+    "ANSA Economia"
+   ]
+  },
+  {
+   "id": "s4",
+   "kind": "topic",
+   "heading": "Bitcoin tra supporti e cicli",
+   "narration": "Il Bitcoin scambia a 64.994 dollari con un lieve +0,2% giornaliero, ma mostra una perdita dell'8,9% negli ultimi cinque giorni. Ethereum si attesta a 1.821 dollari, in calo del 9,7% su scala settimanale. La flessione di quasi il 30% registrata dal mercato cripto negli ultimi due mesi ha violato le strutture tecniche a 75.000, 71.000 e 67.000 dollari. La sequenza di undici giornate consecutive senza superare i massimi del giorno precedente conferma la debolezza del trend. I dati storici dei cicli ribassisti evidenziano che circa il 60% delle settimane in queste fasi si chiude in rosso, indicando che un eventuale recupero verso i massimi storici richiederà fino a dodici mesi. Nel breve termine resta possibile un temporaneo rimbalzo tecnico grazie ai primi segnali di acquisto dai volumi degli scambi.",
+   "bullets": [
+    "Bitcoin: 64.994$ (-8,9% in 5 giorni)",
+    "Ethereum: 1.821$ (-9,7% in 5 giorni)",
+    "Supporti chiave infranti a 67.000$",
+    "Cicli storici: recupero in 12 mesi"
+   ],
+   "ticker": "BTC-USD",
+   "sentiment": "bearish",
+   "sources": [
+    "Jason Pizzino",
+    "Michael Pizzino",
+    "MindTheChart"
+   ]
+  },
+  {
+   "id": "s5",
+   "kind": "topic",
+   "heading": "Crollo dei metalli preziosi",
+   "narration": "L'oro quota 3.862 dollari l'oncia con un progresso dello 0,2% giornaliero, ma registra un calo del 4,2% a cinque giorni. Dal picco di gennaio l'oro perde circa il 32%, mentre l'argento segna una contrazione del 61%, configurando una correzione paragonabile a quella del 2011. La causa principale di questa forte volatilità risiede nel mercato dei contratti cartacei, le cui dimensioni superano dalle 200 alle 400 volte la disponibilità di metallo fisico reale. Finché l'oro rimane al di sotto della soglia chiave di 3.900 dollari l'oncia e il valore del dollaro statunitense conserva la propria forza, la tendenza macro si mantiene ribassista, con possibili aree di supporto individuate tra 3.200 e 3.600 dollari l'oncia.",
+   "bullets": [
+    "Oro a 3.862$ (-4,2% in 5 giorni)",
+    "Oro -32% dal picco di gennaio",
+    "Argento in calo del 61%",
+    "Mercato cartaceo 400 volte il fisico"
+   ],
+   "ticker": "GC=F",
+   "sentiment": "bearish",
+   "sources": [
+    "Jason Pizzino",
+    "Michael Pizzino"
+   ]
+  },
+  {
+   "id": "s6",
+   "kind": "topic",
+   "heading": "La sfida della previdenza",
+   "narration": "Il tema della pensione evidenzia un forte divario tra la realtà italiana e il modello nordeuropeo. Nei Paesi Bassi il patrimonio dei fondi pensione integrativi raggiunge il 92,3% del Prodotto Interno Lordo, sostenuto da un sistema obbligatorio per legge. In Italia la previdenza complementare rappresenta solo l'11,6% del PIL, con 33 centesimi di ogni euro di stipendio lordo assorbiti dai contributi INPS e dal TFR. Inoltre il 38,5% del patrimonio dei fondi pensione italiani è investito in titoli di Stato del Paese, esponendo il risparmio privato al rischio sovrano. Le stime pubbliche indicano che chi andrà in pensione nel 2070 riceverà un assegno pari a circa il 58,5% dell'ultimo stipendio. Una pianificazione autonoma delle risorse diventa quindi fondamentale per tutelare il futuro finanziario.",
+   "bullets": [
+    "Fondi pensione: Olanda 92% PIL, Italia 11%",
+    "33 centesimi su 1€ vanno a INPS e TFR",
+    "38,5% dei fondi italiani in BTP",
+    "Tasso di sostituzione 2070 al 58,5%"
+   ],
+   "ticker": null,
+   "sentiment": "neutral",
+   "sources": [
+    "Marco Casario"
+   ]
+  },
+  {
+   "id": "s7",
+   "kind": "ahead",
+   "heading": "Gli eventi da monitorare",
+   "narration": "I mercati attendono una serie di appuntamenti chiave per i prossimi giorni. Oggi martedì 17 novembre alle 14:30 ora italiana vengono diffusi i dati sulle vendite al dettaglio negli Stati Uniti, stimate in rialzo dello 0,1%. Mercoledì 18 novembre alle 10:00 la Banca Centrale Europea presenta il rapporto sulla stabilità finanziaria, mentre alle 15:25 è previsto l'intervento di Christine Lagarde. Alle 20:00 ora italiana la Federal Reserve pubblica i verbali dell'ultima riunione del FOMC. Giovedì 19 novembre alle 14:30 sono attesi l'indice manifatturiero della Philly Fed e le richieste settimanali di sussidio di disoccupazione negli Stati Uniti.",
+   "bullets": [
+    "Martedì 14:30: Vendite al dettaglio USA",
+    "Mercoledì 10:00: Stabilità finanziaria BCE",
+    "Mercoledì 20:00: Verbali FOMC Fed",
+    "Giovedì 14:30: Sussidi disoccupazione USA"
+   ],
+   "ticker": null,
+   "sentiment": "neutral",
+   "sources": [
+    "ANSA Economia",
+    "Yahoo Finance"
+   ]
+  },
+  {
+   "id": "s8",
+   "kind": "curious",
+   "heading": "Silenzio nei cieli coreani",
+   "narration": "In Corea del Sud tutti i voli aerei vengono bloccati a terra per 35 minuti nella giornata di giovedì. La sospensione dei decolli e degli atterraggi in tutto il Paese è disposta per evitare rumori durante la prova di ascolto degli esami universitari d'ammissione, e per l'occasione anche l'apertura dei mercati finanziari viene ritardata.",
+   "bullets": [
+    "Voli aerei bloccati per 35 minuti",
+    "Silenzio garantito per gli esami",
+    "Apertura dei mercati posticipata"
+   ],
+   "ticker": null,
+   "sentiment": "neutral",
+   "sources": [
+    "CNBC"
+   ]
+  },
+  {
+   "id": "s9",
+   "kind": "outro",
+   "heading": "Note finali",
+   "narration": "Questo contenuto ha carattere esclusivamente informativo e non costituisce una sollecitazione all'investimento né un consiglio finanziario. Iscrivetevi al canale e attivate la campanella per non perdere i prossimi aggiornamenti di mercato.",
+   "bullets": [
+    "Informazione non promozionale",
+    "Nessun consiglio finanziario",
+    "Iscriviti a Coin Ticker 360"
+   ],
+   "ticker": null,
+   "sentiment": "neutral",
+   "sources": []
+  }
+ ],
+ "words": 814,
+ "model": "gemini-3.6-flash",
+ "n_notes": 6,
+ "n_news": 301
+}
