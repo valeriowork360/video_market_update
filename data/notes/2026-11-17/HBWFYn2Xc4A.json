@@ -1,0 +1,60 @@
+{
+ "market_relevance": 10,
+ "scope": "global",
+ "kind": "market update",
+ "summary": "The speaker analyzes recent market trends across the S&P 500, Dow Jones, Nasdaq, Bitcoin, US Dollar, Crude Oil, and Gold, focusing on low volume rallies and critical support and resistance levels. He highlights that low volume upward movements often precede pullbacks, pointing out the need for key bottoms to hold. For equities, breaking recent lows could lead to further declines, while tech remains weak near a 50% resistance level. Bitcoin is viewed as extremely weak following consecutive declining days without a break of prior highs, despite sitting above July support. The US Dollar continues to exert upward pressure, creating headwinds for other asset classes, while crude oil and gold maintain cautious outlooks amid ongoing range-bound conditions and crucial support zones.",
+ "digest_it": "L'autore analizza l'andamento recente dei principali indici azionari, di Bitcoin, del dollaro, del petrolio e dell'oro, evidenziando come i rialzi a bassi volumi possano anticipare ribassi. Sottolinea l'importanza di difendere i supporti chiave, soprattutto in un contesto in cui il dollaro forte e la debolezza del settore tecnologico mantengono alta la pressione ribassista sui mercati.",
+ "author_tone": "cautious",
+ "tone_evidence": "The speaker emphasizes the need to stay nimble and diligent because market trends can reverse quickly and key support levels remain vulnerable.",
+ "key_points": [
+  {
+   "point": "S&P 500 saw price increases on declining volume, signaling potential vulnerability if the November 6 bottom fails.",
+   "timestamp": "00:43"
+  },
+  {
+   "point": "Nasdaq remains in the weakest position among indices, facing strong resistance near the 29,000 point level.",
+   "timestamp": "02:41"
+  },
+  {
+   "point": "Bitcoin has experienced 11 consecutive down days without breaking a prior day's high, remaining in a weak position above the July support level.",
+   "timestamp": "08:11"
+  },
+  {
+   "point": "US Dollar continues its upward trajectory, imposing significant headwind and downward pressure on other asset classes.",
+   "timestamp": "10:02"
+  },
+  {
+   "point": "Gold continues to hold below the key breakdown zone of $3,900 per ounce, keeping the macro trend firmly lower.",
+   "timestamp": "12:35"
+  }
+ ],
+ "tickers": [
+  "SPX",
+  "DJI",
+  "NDX",
+  "BTC",
+  "DXY",
+  "CL",
+  "GC"
+ ],
+ "predictions": [
+  "If the S&P 500 breaches the November 6 bottom, lower prices are expected.",
+  "If Nasdaq breaks above 29,000 points with sustainable daily closes, it could indicate a bottom.",
+  "If Bitcoin breaches the July 1st bottom, prices could decline towards the $50,000 range.",
+  "If the US Dollar cools off below 102.7, it could provide relief and tailwind for other assets."
+ ],
+ "catalysts": [],
+ "rumors": [],
+ "curiosities": [],
+ "promo": true,
+ "language": "en",
+ "video_id": "HBWFYn2Xc4A",
+ "title": "The Stock Market Is Running Out of Time... Buyers Must Act Now",
+ "author": "Michael Pizzino",
+ "url": "https://www.youtube.com/watch?v=HBWFYn2Xc4A",
+ "published": "2026-11-17T00:17:15+00:00",
+ "duration_min": 15,
+ "partial": false,
+ "analysed_at": "2026-11-17T03:11:55.181258+00:00",
+ "model": "gemini-3.5-flash-lite"
+}

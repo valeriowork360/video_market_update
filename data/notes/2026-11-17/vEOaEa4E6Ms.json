@@ -1,0 +1,60 @@
+{
+ "market_relevance": 10,
+ "scope": "global",
+ "kind": "market update",
+ "summary": "The speaker analyzes recent severe declines in gold and silver, calling them the worst drops since 2011. He explains that retail enthusiasm and paper markets drive excessive volatility, contrasting physical demand with paper trading volumes. The author examines historical correlations between previous market peaks and current downturns, noting that central bank buying does not immediately lift prices. Finally, he outlines potential accumulation zones and cautions investors against blindly following popular bullish narratives.",
+ "digest_it": "L'autore analizza i recenti cali di oro e argento, considerandoli i peggiori dal 2011 a causa della speculazione cartacea. Spiega che gli acquisti delle banche centrali non fermano la discesa dei prezzi e indica i livelli di supporto da monitorare per una futura riaccumulazione.",
+ "author_tone": "bearish",
+ "tone_evidence": "He states that gold and silver are seeing their worst crash since 2011 and warns of ongoing distribution and lower prices.",
+ "key_points": [
+  {
+   "point": "Gold and silver experienced their worst crash since 2011, driven by massive retail hype and subsequent liquidations.",
+   "timestamp": "00:05"
+  },
+  {
+   "point": "The paper market for gold and silver is estimated to be 200 to 400 times larger than the physical market.",
+   "timestamp": "07:16"
+  },
+  {
+   "point": "Gold is currently down 32% over 291 days from its recent peak in January of this year.",
+   "timestamp": "08:02"
+  },
+  {
+   "point": "Silver is currently down 61% from its peak, representing a much worse correction than the 2011-2013 cycle.",
+   "timestamp": "18:15"
+  }
+ ],
+ "tickers": [
+  "GC=F",
+  "SI=F",
+  "S&P 500",
+  "BTC",
+  "SOXX",
+  "AIG",
+  "MAGS",
+  "DX-Y.NYB"
+ ],
+ "predictions": [
+  "Gold downside target zones range between 3200 and 3600 dollars before significant support confirms.",
+  "Silver support levels sit around 43 and 35 dollars respectively.",
+  "The US dollar index is projected to maintain strength, applying continued downward pressure on metals."
+ ],
+ "catalysts": [
+  "Black Friday market sessions coming up this week"
+ ],
+ "rumors": [],
+ "curiosities": [
+  "The paper market for gold is claimed to be up to 400 times larger than the physical market."
+ ],
+ "promo": false,
+ "language": "en",
+ "video_id": "vEOaEa4E6Ms",
+ "title": "Gold & Silver Are Collapsing: This Is Worse Than 2011",
+ "author": "Jason Pizzino",
+ "url": "https://www.youtube.com/watch?v=vEOaEa4E6Ms",
+ "published": "2026-11-17T00:37:00+00:00",
+ "duration_min": 24,
+ "partial": false,
+ "analysed_at": "2026-11-17T03:11:37.599666+00:00",
+ "model": "gemini-3.5-flash-lite"
+}
