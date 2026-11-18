@@ -3,10 +3,10 @@
  "requests": {
   "gemini-3.8-flash": 8,
   "gemini-3.7-flash": 8,
-  "gemini-3.6-flash": 10,
-  "gemini-3.5-flash": 8,
+  "gemini-3.6-flash": 12,
+  "gemini-3.5-flash": 10,
   "gemini-2.5-flash": 1,
-  "gemini-3.5-flash-lite": 5
+  "gemini-3.5-flash-lite": 7
  },
  "exhausted": {
   "gemini-2.5-flash": "non disponibile",

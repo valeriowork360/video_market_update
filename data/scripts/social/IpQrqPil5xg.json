@@ -1,0 +1,550 @@
+{
+ "it": [
+  {
+   "title": "Il crollo di 1.300 punti che chiude il ciclo",
+   "hook": "Crollo di 1.300 punti",
+   "beats": [
+    {
+     "say": "Un calo di 1.300 punti segna il massimo ciclico definitivo.",
+     "show": "Crollo di 1.300 punti",
+     "figure": "1.300"
+    },
+    {
+     "say": "Il mercato azionario mostra una debolezza strutturale di lungo termine.",
+     "show": "Debolezza strutturale",
+     "figure": ""
+    },
+    {
+     "say": "Le correzioni precedenti si sono fermate al venti percento.",
+     "show": "Precedenti correzioni",
+     "figure": "20%"
+    },
+    {
+     "say": "Sotto i livelli attuali la soglia critica resta a 7.300 punti.",
+     "show": "Supporto a 7.300",
+     "figure": "7.300"
+    },
+    {
+     "say": "La struttura tecnica deciderà la prossima direzione del mercato. Segui il canale.",
+     "show": "Direzione del mercato",
+     "figure": ""
+    }
+   ],
+   "origin": "Jason Pizzino",
+   "source_video": "Last Time It Crashed Like This, The Markets Squeezed Them Out!",
+   "narration": "Un calo di 1.300 punti segna il massimo ciclico definitivo. Il mercato azionario mostra una debolezza strutturale di lungo termine. Le correzioni precedenti si sono fermate al venti percento. Sotto i livelli attuali la soglia critica resta a 7.300 punti. La struttura tecnica deciderà la prossima direzione del mercato. Segui il canale.",
+   "ticker": "^GSPC",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "La struttura di lungo termine si indebolisce mentre i mercati affrontano test cruciali. Segui il canale per gli aggiornamenti.",
+   "hashtags": [
+    "#finanza",
+    "#borsa",
+    "#investimenti",
+    "#trading",
+    "#mercati"
+   ]
+  },
+  {
+   "title": "Nvidia vola del quattro percento dopo i conti",
+   "hook": "Nvidia sale del 4%",
+   "beats": [
+    {
+     "say": "Nvidia sale del quattro percento nelle contrattazioni after hours.",
+     "show": "Nvidia sale del 4%",
+     "figure": "4%"
+    },
+    {
+     "say": "Le azioni si spingono verso quota 162 dollari dopo la chiusura.",
+     "show": "Quota 162 dollari",
+     "figure": "$162"
+    },
+    {
+     "say": "La forte spinta rialzista condizionerà la prossima apertura delle borse.",
+     "show": "Spinta rialzista",
+     "figure": ""
+    },
+    {
+     "say": "Il livello chiave punta ora verso la soglia psicologica di 200 dollari.",
+     "show": "Target a 200 dollari",
+     "figure": "$200"
+    },
+    {
+     "say": "La pressione d'acquisto guida la ripresa tecnologica. Segui il canale.",
+     "show": "Ripresa tecnologica",
+     "figure": ""
+    }
+   ],
+   "origin": "Jason Pizzino",
+   "source_video": "Last Time It Crashed Like This, The Markets Squeezed Them Out!",
+   "narration": "Nvidia sale del quattro percento nelle contrattazioni after hours. Le azioni si spingono verso quota 162 dollari dopo la chiusura. La forte spinta rialzista condizionerà la prossima apertura delle borse. Il livello chiave punta ora verso la soglia psicologica di 200 dollari. La pressione d'acquisto guida la ripresa tecnologica. Segui il canale.",
+   "ticker": "NVDA",
+   "sentiment": "bullish",
+   "sources": [],
+   "caption": "I risultati di Nvidia spingono i prezzi al rialzo nel dopo chiusura. Segui il canale per rimanere aggiornato.",
+   "hashtags": [
+    "#nvidia",
+    "#azioni",
+    "#tecnologia",
+    "#borsa",
+    "#trading"
+   ]
+  },
+  {
+   "title": "La soglia critica dei 7.300 punti per il mercato",
+   "hook": "Test a 7.300 punti",
+   "beats": [
+    {
+     "say": "L'indice S&P 500 testa il supporto chiave a quota 7.300.",
+     "show": "Test a 7.300 punti",
+     "figure": "7.300"
+    },
+    {
+     "say": "Le medie mobili principali si concentrano esattamente in questa zona.",
+     "show": "Medie mobili",
+     "figure": ""
+    },
+    {
+     "say": "I prezzi si muovono lateralmente da sei mesi dopo i segnali di debolezza.",
+     "show": "Sei mesi laterali",
+     "figure": "6"
+    },
+    {
+     "say": "La tenuta del livello separa un semplice rimbalzo da un crollo profondo.",
+     "show": "Soglia critica",
+     "figure": ""
+    },
+    {
+     "say": "La reazione su questa zona deciderà il trend. Segui il canale.",
+     "show": "Trend di borsa",
+     "figure": ""
+    }
+   ],
+   "origin": "Jason Pizzino",
+   "source_video": "Last Time It Crashed Like This, The Markets Squeezed Them Out!",
+   "narration": "L'indice S&P 500 testa il supporto chiave a quota 7.300. Le medie mobili principali si concentrano esattamente in questa zona. I prezzi si muovono lateralmente da sei mesi dopo i segnali di debolezza. La tenuta del livello separa un semplice rimbalzo da un crollo profondo. La reazione su questa zona deciderà il trend. Segui il canale.",
+   "ticker": "^GSPC",
+   "sentiment": "neutral",
+   "sources": [],
+   "caption": "I mercati affrontano zone di supporto cruciali dopo mesi di movimenti laterali. Segui il canale.",
+   "hashtags": [
+    "#sp500",
+    "#borsa",
+    "#trading",
+    "#analisi",
+    "#finanza"
+   ]
+  },
+  {
+   "title": "Le divergenze estreme della volatilità di mercato",
+   "hook": "Divergenze estreme",
+   "beats": [
+    {
+     "say": "L'indice di volatilità mostra divergenze simili alle crisi storiche.",
+     "show": "Divergenze estreme",
+     "figure": ""
+    },
+    {
+     "say": "La contrazione della volatilità ricorda i minimi del 2020 e del 2008.",
+     "show": "Crisi storiche",
+     "figure": ""
+    },
+    {
+     "say": "Durante la pandemia l'indice è crollato mentre i mercati scendevano.",
+     "show": "Crollo del VIX",
+     "figure": ""
+    },
+    {
+     "say": "Questi estremi storici anticipano spesso la formazione di minimi temporanei.",
+     "show": "Minimi storici",
+     "figure": ""
+    },
+    {
+     "say": "Il comportamento della volatilità svela la direzione nascosta. Segui il canale.",
+     "show": "Volatilità occulta",
+     "figure": ""
+    }
+   ],
+   "origin": "Jason Pizzino",
+   "source_video": "Last Time It Crashed Like This, The Markets Squeezed Them Out!",
+   "narration": "L'indice di volatilità mostra divergenze simili alle crisi storiche. La contrazione della volatilità ricorda i minimi del 2020 e del 2008. Durante la pandemia l'indice è crollato mentre i mercati scendevano. Questi estremi storici anticipano spesso la formazione di minimi temporanei. Il comportamento della volatilità svela la direzione nascosta. Segui il canale.",
+   "ticker": null,
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "La volatilità raggiunge livelli comparabili alle grandi crisi finanziarie del passato. Segui il canale.",
+   "hashtags": [
+    "#vix",
+    "#volatilita",
+    "#mercati",
+    "#finanza",
+    "#trading"
+   ]
+  },
+  {
+   "title": "Bitcoin testa i livelli chiave del cinquanta percento",
+   "hook": "Forte ritracciamento",
+   "beats": [
+    {
+     "say": "Bitcoin registra un forte ritracciamento dai massimi precedenti.",
+     "show": "Forte ritracciamento",
+     "figure": ""
+    },
+    {
+     "say": "I prezzi testano la zona di supporto tecnica intorno a 75.000 dollari.",
+     "show": "Supporto a 75.000",
+     "figure": "$75.000"
+    },
+    {
+     "say": "Il calo ha raggiunto il livello del cinquanta percento del rally.",
+     "show": "Ritracciamento 50%",
+     "figure": "50%"
+    },
+    {
+     "say": "La media mobile a 200 giorni funge da zona di controllo cruciale.",
+     "show": "Media a 200 giorni",
+     "figure": "200"
+    },
+    {
+     "say": "La tenuta del supporto deciderà la prossima mossa. Segui il canale.",
+     "show": "Prossima mossa",
+     "figure": ""
+    }
+   ],
+   "origin": "Jason Pizzino",
+   "source_video": "Last Time It Crashed Like This, The Markets Squeezed Them Out!",
+   "narration": "Bitcoin registra un forte ritracciamento dai massimi precedenti. I prezzi testano la zona di supporto tecnica intorno a 75.000 dollari. Il calo ha raggiunto il livello del cinquanta percento del rally. La media mobile a 200 giorni funge da zona di controllo cruciale. La tenuta del supporto deciderà la prossima mossa. Segui il canale.",
+   "ticker": "BTC-USD",
+   "sentiment": "neutral",
+   "sources": [],
+   "caption": "Le criptovalute testano zone di supporto importanti vicino alle medie mobili principali. Segui il canale.",
+   "hashtags": [
+    "#bitcoin",
+    "#crypto",
+    "#trading",
+    "#analisi",
+    "#mercati"
+   ]
+  }
+ ],
+ "en": [
+  {
+   "title": "The 1,300 Point Drop Ending The Cycle",
+   "hook": "1,300 point drop",
+   "beats": [
+    {
+     "say": "A drop of 1,300 points signals the definitive cyclical top.",
+     "show": "1,300 point drop",
+     "figure": "1,300"
+    },
+    {
+     "say": "The stock market is building long-term structural weakness.",
+     "show": "Structural weakness",
+     "figure": ""
+    },
+    {
+     "say": "Previous major corrections reached twenty and ten percent drops.",
+     "show": "Past corrections",
+     "figure": "20%"
+    },
+    {
+     "say": "Support at 7,300 points dictates the next major price reaction.",
+     "show": "Support at 7,300",
+     "figure": "7,300"
+    },
+    {
+     "say": "Technical levels will determine the upcoming market trend. Follow for more.",
+     "show": "Market trend",
+     "figure": ""
+    }
+   ],
+   "origin": "Jason Pizzino",
+   "source_video": "Last Time It Crashed Like This, The Markets Squeezed Them Out!",
+   "narration": "A drop of 1,300 points signals the definitive cyclical top. The stock market is building long-term structural weakness. Previous major corrections reached twenty and ten percent drops. Support at 7,300 points dictates the next major price reaction. Technical levels will determine the upcoming market trend. Follow for more.",
+   "ticker": "^GSPC",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Long-term market structure builds weakness as key price thresholds approach. Follow for daily insights.",
+   "hashtags": [
+    "#finance",
+    "#stocks",
+    "#investing",
+    "#trading",
+    "#markets"
+   ]
+  },
+  {
+   "title": "Nvidia Jumps Four Percent After Earnings",
+   "hook": "Nvidia gains 4%",
+   "beats": [
+    {
+     "say": "Nvidia gains roughly four percent in after-hours trading sessions.",
+     "show": "Nvidia gains 4%",
+     "figure": "4%"
+    },
+    {
+     "say": "Shares climb toward 162 dollars following strong quarterly reports.",
+     "show": "Hits 162 dollars",
+     "figure": "$162"
+    },
+    {
+     "say": "This upward momentum will heavily influence upcoming market openings.",
+     "show": "Upward momentum",
+     "figure": ""
+    },
+    {
+     "say": "Further recovery targets a push toward the 200 dollar resistance zone.",
+     "show": "200 dollar target",
+     "figure": "$200"
+    },
+    {
+     "say": "Post-earnings strength dictates sector direction. Follow for more.",
+     "show": "Sector direction",
+     "figure": ""
+    }
+   ],
+   "origin": "Jason Pizzino",
+   "source_video": "Last Time It Crashed Like This, The Markets Squeezed Them Out!",
+   "narration": "Nvidia gains roughly four percent in after-hours trading sessions. Shares climb toward 162 dollars following strong quarterly reports. This upward momentum will heavily influence upcoming market openings. Further recovery targets a push toward the 200 dollar resistance zone. Post-earnings strength dictates sector direction. Follow for more.",
+   "ticker": "NVDA",
+   "sentiment": "bullish",
+   "sources": [],
+   "caption": "Nvidia earnings drive after-hours gains that impact broader indices. Follow for daily insights.",
+   "hashtags": [
+    "#nvidia",
+    "#stocks",
+    "#tech",
+    "#trading",
+    "#markets"
+   ]
+  },
+  {
+   "title": "The Critical 7,300 Support Level For Stocks",
+   "hook": "Testing 7,300",
+   "beats": [
+    {
+     "say": "The index tests crucial historical support around 7,300 points.",
+     "show": "Testing 7,300",
+     "figure": "7,300"
+    },
+    {
+     "say": "Key moving averages converge directly near this important price zone.",
+     "show": "Moving averages",
+     "figure": ""
+    },
+    {
+     "say": "Prices traded sideways for six months following earlier weakness.",
+     "show": "Sideways for months",
+     "figure": "6"
+    },
+    {
+     "say": "This zone determines whether current lows spark a squeeze or collapse.",
+     "show": "Critical zone",
+     "figure": ""
+    },
+    {
+     "say": "Support survival dictates upcoming price action. Follow for more.",
+     "show": "Price action",
+     "figure": ""
+    }
+   ],
+   "origin": "Jason Pizzino",
+   "source_video": "Last Time It Crashed Like This, The Markets Squeezed Them Out!",
+   "narration": "The index tests crucial historical support around 7,300 points. Key moving averages converge directly near this important price zone. Prices traded sideways for six months following earlier weakness. This zone determines whether current lows spark a squeeze or collapse. Support survival dictates upcoming price action. Follow for more.",
+   "ticker": "^GSPC",
+   "sentiment": "neutral",
+   "sources": [],
+   "caption": "Major stock indices test key moving averages and support zones. Follow for daily insights.",
+   "hashtags": [
+    "#sp500",
+    "#stocks",
+    "#trading",
+    "#analysis",
+    "#markets"
+   ]
+  },
+  {
+   "title": "Extreme Market Volatility Divergences Explained",
+   "hook": "Extreme divergence",
+   "beats": [
+    {
+     "say": "Volatility indicators display divergences comparable to historical crashes.",
+     "show": "Extreme divergence",
+     "figure": ""
+    },
+    {
+     "say": "Current structures mirror extremes seen during the pandemic and 2008.",
+     "show": "Historical extremes",
+     "figure": ""
+    },
+    {
+     "say": "Declining volatility coincided with major market lows in past crises.",
+     "show": "Market lows",
+     "figure": ""
+    },
+    {
+     "say": "These rare extremes help assess the probability of temporary bottoms.",
+     "show": "Temporary bottom",
+     "figure": ""
+    },
+    {
+     "say": "Volatility behavior reveals hidden market shifts. Follow for more.",
+     "show": "Market shifts",
+     "figure": ""
+    }
+   ],
+   "origin": "Jason Pizzino",
+   "source_video": "Last Time It Crashed Like This, The Markets Squeezed Them Out!",
+   "narration": "Volatility indicators display divergences comparable to historical crashes. Current structures mirror extremes seen during the pandemic and 2008. Declining volatility coincided with major market lows in past crises. These rare extremes help assess the probability of temporary bottoms. Volatility behavior reveals hidden market shifts. Follow for more.",
+   "ticker": null,
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Volatility metrics match extreme patterns from past financial crises. Follow for daily insights.",
+   "hashtags": [
+    "#vix",
+    "#volatility",
+    "#markets",
+    "#finance",
+    "#trading"
+   ]
+  },
+  {
+   "title": "Bitcoin Tests Key Fifty Percent Retracement Levels",
+   "hook": "Notable pullback",
+   "beats": [
+    {
+     "say": "Bitcoin experiences a notable pullback from previous high valuations.",
+     "show": "Notable pullback",
+     "figure": ""
+    },
+    {
+     "say": "Prices currently test technical support zones near 75,000 dollars.",
+     "show": "Support at 75,000",
+     "figure": "$75,000"
+    },
+    {
+     "say": "The correction reached a fifty percent decline of the prior rally.",
+     "show": "Fifty percent drop",
+     "figure": "50%"
+    },
+    {
+     "say": "The 200-day moving average acts as a critical reaction boundary.",
+     "show": "200-day average",
+     "figure": "200"
+    },
+    {
+     "say": "Support levels dictate upcoming crypto price action. Follow for more.",
+     "show": "Crypto action",
+     "figure": ""
+    }
+   ],
+   "origin": "Jason Pizzino",
+   "source_video": "Last Time It Crashed Like This, The Markets Squeezed Them Out!",
+   "narration": "Bitcoin experiences a notable pullback from previous high valuations. Prices currently test technical support zones near 75,000 dollars. The correction reached a fifty percent decline of the prior rally. The 200-day moving average acts as a critical reaction boundary. Support levels dictate upcoming crypto price action. Follow for more.",
+   "ticker": "BTC-USD",
+   "sentiment": "neutral",
+   "sources": [],
+   "caption": "Bitcoin pulls back to major moving averages and retracement zones. Follow for daily insights.",
+   "hashtags": [
+    "#bitcoin",
+    "#crypto",
+    "#trading",
+    "#analysis",
+    "#markets"
+   ]
+  }
+ ],
+ "carousels": {
+  "it": {
+   "topic": "Analisi dei mercati finanziari globali",
+   "caption": "I mercati affrontano livelli di supporto chiave mentre la volatilità mostra segnali storici estremi. Segui il canale per rimanere sempre aggiornato.",
+   "sentiment": "neutral",
+   "ticker": "^GSPC",
+   "slides": [
+    {
+     "title": "I mercati affrontano test cruciali",
+     "body": "Analizziamo i livelli chiave, la volatilità e le tendenze di lungo termine."
+    },
+    {
+     "title": "S&P 500 a rischio",
+     "body": "Un calo di 1.300 punti confermerebbe l'arrivo del massimo ciclico definitivo per i mercati azionari globali."
+    },
+    {
+     "title": "Nvidia vola in borsa",
+     "body": "I risultati trimestrali spingono le azioni vicino a 162 dollari con guadagni del quattro percento dopo la chiusura."
+    },
+    {
+     "title": "Supporto a 7.300 punti",
+     "body": "L'indice azionario testa le medie mobili chiave in una zona critica che dura da sei mesi."
+    },
+    {
+     "title": "Volatilità estrema",
+     "body": "I livelli attuali della volatilità ricordano le divergenze storiche viste durante la pandemia e la crisi del 2008."
+    },
+    {
+     "title": "Bitcoin in ritracciamento",
+     "body": "Le criptovalute testano la media mobile a 200 giorni e il livello di supporto del cinquanta percento."
+    },
+    {
+     "title": "Segui gli aggiornamenti",
+     "body": "La struttura tecnica deciderà i prossimi movimenti dei mercati. Segui il canale per non perdere nulla."
+    }
+   ],
+   "hashtags": [
+    "#finanza",
+    "#borsa",
+    "#investimenti",
+    "#trading",
+    "#mercati",
+    "#sp500",
+    "#bitcoin",
+    "#nvidia"
+   ]
+  },
+  "en": {
+   "topic": "Global financial market analysis",
+   "caption": "Major markets test crucial support thresholds while volatility displays historical extremes. Follow for daily updates.",
+   "sentiment": "neutral",
+   "ticker": "^GSPC",
+   "slides": [
+    {
+     "title": "Markets face crucial tests",
+     "body": "We examine key support levels, volatility metrics, and long-term trends."
+    },
+    {
+     "title": "S&P 500 under pressure",
+     "body": "A drop of 1,300 points would confirm the definitive cyclical top for global stock markets."
+    },
+    {
+     "title": "Nvidia earnings jump",
+     "body": "Strong quarterly reports push shares toward 162 dollars with four percent after-hours gains."
+    },
+    {
+     "title": "Support at 7,300",
+     "body": "The stock index tests key moving averages within a crucial zone that has lasted six months."
+    },
+    {
+     "title": "Extreme volatility",
+     "body": "Current volatility metrics mirror historical divergences seen during the pandemic and 2008."
+    },
+    {
+     "title": "Bitcoin retracement",
+     "body": "Crypto assets test the 200-day moving average and the fifty percent support retracement zone."
+    },
+    {
+     "title": "Stay updated",
+     "body": "Technical structures will dictate upcoming market movements. Follow the channel for more insights."
+    }
+   ],
+   "hashtags": [
+    "#finance",
+    "#stocks",
+    "#investing",
+    "#trading",
+    "#markets",
+    "#sp500",
+    "#bitcoin",
+    "#nvidia"
+   ]
+  }
+ }
+}
