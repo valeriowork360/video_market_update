@@ -178,5 +178,23 @@
   "first_seen": "2026-11-18T02:32:25.233405+00:00",
   "tries": 1,
   "done_at": "2026-11-18T02:32:39.684205+00:00"
+ },
+ "zvHvhrHvMg0": {
+  "status": "done",
+  "attempts": 0,
+  "channel": "Marco Casario EXTRA",
+  "title": "NVDA e Anthropic faranno ripartire il Mercato: 5 numeri da guardare prima di comprare",
+  "first_seen": "2026-11-18T19:04:59.769781+00:00",
+  "tries": 1,
+  "done_at": "2026-11-18T19:06:01.706358+00:00"
+ },
+ "ef1nWfPRKIw": {
+  "status": "done",
+  "attempts": 0,
+  "channel": "Marco Casario",
+  "title": "Se l'Europa salva la Francia, il conto lo paghi tu (come difendersi)",
+  "first_seen": "2026-11-18T19:06:01.707058+00:00",
+  "tries": 1,
+  "done_at": "2026-11-18T19:06:41.991193+00:00"
  }
 }
