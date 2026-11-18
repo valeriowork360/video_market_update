@@ -1,0 +1,550 @@
+{
+ "it": [
+  {
+   "title": "Nvidia, ricavi a 115 miliardi e margini record",
+   "hook": "Ricavi a 115 miliardi",
+   "beats": [
+    {
+     "say": "Nvidia ha registrato ricavi trimestrali per 115.8 miliardi di dollari.",
+     "show": "Ricavi a 115 miliardi",
+     "figure": "$115.8B"
+    },
+    {
+     "say": "I guadagni sono raddoppiati rispetto allo scorso anno.",
+     "show": "Crescita record",
+     "figure": "+100%"
+    },
+    {
+     "say": "L'azienda vanta margini operativi vicini al 67%.",
+     "show": "Margini al 67%",
+     "figure": "67%"
+    },
+    {
+     "say": "Il titolo scambia a 10.8 volte gli utili previsti.",
+     "show": "Multipli bassi",
+     "figure": "10.8x"
+    },
+    {
+     "say": "I numeri battono ogni previsione. Segui per l'aggiornamento di domani",
+     "show": "Utili battuti",
+     "figure": ""
+    }
+   ],
+   "origin": "Marco Casario EXTRA",
+   "source_video": "NVDA e Anthropic faranno ripartire il Mercato: 5 numeri da guardare prima di com",
+   "narration": "Nvidia ha registrato ricavi trimestrali per 115.8 miliardi di dollari. I guadagni sono raddoppiati rispetto allo scorso anno. L'azienda vanta margini operativi vicini al 67%. Il titolo scambia a 10.8 volte gli utili previsti. I numeri battono ogni previsione. Segui per l'aggiornamento di domani",
+   "ticker": "NVDA",
+   "sentiment": "bullish",
+   "sources": [],
+   "caption": "Nvidia stupisce ancora con ricavi oltre i 115 miliardi e margini record. Segui per l'aggiornamento di domani.",
+   "hashtags": [
+    "#Nvidia",
+    "#Azioni",
+    "#Mercati",
+    "#Borsa",
+    "#Finanza"
+   ]
+  },
+  {
+   "title": "Nvidia, impegni infrastrutturali per 518 miliardi",
+   "hook": "Impegni per 518 miliardi",
+   "beats": [
+    {
+     "say": "Gli impegni futuri di Nvidia superano quota 518 miliardi di dollari.",
+     "show": "Impegni per 518 miliardi",
+     "figure": "$518B"
+    },
+    {
+     "say": "La cifra include 390 miliardi in capacità produttiva.",
+     "show": "Forniture bloccate",
+     "figure": "$390B"
+    },
+    {
+     "say": "Ci sono anche 118 miliardi di garanzie massime.",
+     "show": "Garanzie enormi",
+     "figure": "$118B"
+    },
+    {
+     "say": "Gli accordi includono contratti a lungo termine per i data center.",
+     "show": "Accordi a lungo termine",
+     "figure": "20 anni"
+    },
+    {
+     "say": "La rete di fornitura si espande. Segui per l'aggiornamento di domani",
+     "show": "Forniture record",
+     "figure": ""
+    }
+   ],
+   "origin": "Marco Casario EXTRA",
+   "source_video": "NVDA e Anthropic faranno ripartire il Mercato: 5 numeri da guardare prima di com",
+   "narration": "Gli impegni futuri di Nvidia superano quota 518 miliardi di dollari. La cifra include 390 miliardi in capacità produttiva. Ci sono anche 118 miliardi di garanzie massime. Gli accordi includono contratti a lungo termine per i data center. La rete di fornitura si espande. Segui per l'aggiornamento di domani",
+   "ticker": "NVDA",
+   "sentiment": "neutral",
+   "sources": [],
+   "caption": "Nvidia blocca oltre mezzo trilione in impegni infrastrutturali. Segui per l'aggiornamento di domani.",
+   "hashtags": [
+    "#Nvidia",
+    "#Infrastrutture",
+    "#Mercati",
+    "#Borsa",
+    "#Tech"
+   ]
+  },
+  {
+   "title": "Nvidia, crediti verso clienti a quota 81 miliardi",
+   "hook": "Crediti a 81 miliardi",
+   "beats": [
+    {
+     "say": "I crediti commerciali di Nvidia salgono a 81 miliardi di dollari.",
+     "show": "Crediti a 81 miliardi",
+     "figure": "$81B"
+    },
+    {
+     "say": "Le scorte di magazzino toccano quota 40 miliardi.",
+     "show": "Scorte in aumento",
+     "figure": "$40B"
+    },
+    {
+     "say": "I grandi clienti ottengono termini di pagamento più lunghi.",
+     "show": "Pagamenti estesi",
+     "figure": "Rateali"
+    },
+    {
+     "say": "I volumi di materiale invenduto continuano la crescita.",
+     "show": "Accumulo scorte",
+     "figure": "$40B"
+    },
+    {
+     "say": "La cassa richiede attenzione immediata. Segui per l'aggiornamento di domani",
+     "show": "Segnali di allarme",
+     "figure": ""
+    }
+   ],
+   "origin": "Marco Casario EXTRA",
+   "source_video": "NVDA e Anthropic faranno ripartire il Mercato: 5 numeri da guardare prima di com",
+   "narration": "I crediti commerciali di Nvidia salgono a 81 miliardi di dollari. Le scorte di magazzino toccano quota 40 miliardi. I grandi clienti ottengono termini di pagamento più lunghi. I volumi di materiale invenduto continuano la crescita. La cassa richiede attenzione immediata. Segui per l'aggiornamento di domani",
+   "ticker": "NVDA",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Nvidia registra crediti e scorte in forte aumento. Segui per l'aggiornamento di domani.",
+   "hashtags": [
+    "#Nvidia",
+    "#Bilancio",
+    "#Analisi",
+    "#Mercati",
+    "#Borsa"
+   ]
+  },
+  {
+   "title": "Anthropic, perdite operative per 104 miliardi",
+   "hook": "Perdita di 104 miliardi",
+   "beats": [
+    {
+     "say": "Anthropic registra una perdita netta di 104 miliardi in nove mesi.",
+     "show": "Perdita di 104 miliardi",
+     "figure": "$104B"
+    },
+    {
+     "say": "I costi operativi continuano la loro rapida ascesa.",
+     "show": "Costi in salita",
+     "figure": "Spese record"
+    },
+    {
+     "say": "La crescita sequenziale del secondo trimestre mostra un rallentamento.",
+     "show": "Crescita lenta",
+     "figure": "Rallentamento"
+    },
+    {
+     "say": "Le spese per infrastrutture pesano sui conti.",
+     "show": "Spese hardware",
+     "figure": "Costi IA"
+    },
+    {
+     "say": "I conti evidenziano forti pressioni finanziarie. Segui per l'aggiornamento di domani",
+     "show": "Bilancio in rosso",
+     "figure": ""
+    }
+   ],
+   "origin": "Marco Casario EXTRA",
+   "source_video": "NVDA e Anthropic faranno ripartire il Mercato: 5 numeri da guardare prima di com",
+   "narration": "Anthropic registra una perdita netta di 104 miliardi in nove mesi. I costi operativi continuano la loro rapida ascesa. La crescita sequenziale del secondo trimestre mostra un rallentamento. Le spese per infrastrutture pesano sui conti. I conti evidenziano forti pressioni finanziarie. Segui per l'aggiornamento di domani",
+   "ticker": null,
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Anthropic chiude nove mesi con pesanti perdite operative. Segui per l'aggiornamento di domani.",
+   "hashtags": [
+    "#Anthropic",
+    "#AI",
+    "#Startup",
+    "#Finanza",
+    "#Mercati"
+   ]
+  },
+  {
+   "title": "Anthropic, impegni di spesa per 900 miliardi",
+   "hook": "Costi per 900 miliardi",
+   "beats": [
+    {
+     "say": "Anthropic firma impegni di costo futuri per 900 miliardi.",
+     "show": "Costi per 900 miliardi",
+     "figure": "$900B"
+    },
+    {
+     "say": "Ben 70 miliardi scadono nei prossimi dodici mesi.",
+     "show": "70 miliardi in arrivo",
+     "figure": "$70B"
+    },
+    {
+     "say": "Gli acquisti di hardware per il calcolo guidano le uscite.",
+     "show": "Spese hardware",
+     "figure": "Compute"
+    },
+    {
+     "say": "I contratti vincolano la cassa futura dell'azienda.",
+     "show": "Cassa impegnata",
+     "figure": "Vincoli"
+    },
+    {
+     "say": "La pressione sui conti resta altissima. Segui per l'aggiornamento di domani",
+     "show": "Cassa a rischio",
+     "figure": ""
+    }
+   ],
+   "origin": "Marco Casario EXTRA",
+   "source_video": "NVDA e Anthropic faranno ripartire il Mercato: 5 numeri da guardare prima di com",
+   "narration": "Anthropic firma impegni di costo futuri per 900 miliardi. Ben 70 miliardi scadono nei prossimi dodici mesi. Gli acquisti di hardware per il calcolo guidano le uscite. I contratti vincolano la cassa futura dell'azienda. La pressione sui conti resta altissima. Segui per l'aggiornamento di domani",
+   "ticker": null,
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Anthropic accumula impegni di spesa per quasi un trilione. Segui per l'aggiornamento di domani.",
+   "hashtags": [
+    "#Anthropic",
+    "#AI",
+    "#Investimenti",
+    "#Mercati",
+    "#Borsa"
+   ]
+  }
+ ],
+ "en": [
+  {
+   "title": "Nvidia revenue hits 115 billion with record margins",
+   "hook": "Revenue 115 billion",
+   "beats": [
+    {
+     "say": "Nvidia posted quarterly revenue of $115.8 billion.",
+     "show": "Revenue 115 billion",
+     "figure": "$115.8B"
+    },
+    {
+     "say": "Earnings more than doubled compared to last year.",
+     "show": "Surging growth",
+     "figure": "+100%"
+    },
+    {
+     "say": "Operating margins reached nearly 67%.",
+     "show": "67% margin",
+     "figure": "67%"
+    },
+    {
+     "say": "The stock trades at 10.8 times forward earnings.",
+     "show": "Low multiple",
+     "figure": "10.8x"
+    },
+    {
+     "say": "The results smash all expectations. Follow for tomorrow's update",
+     "show": "Beating expectations",
+     "figure": ""
+    }
+   ],
+   "origin": "Marco Casario EXTRA",
+   "source_video": "NVDA e Anthropic faranno ripartire il Mercato: 5 numeri da guardare prima di com",
+   "narration": "Nvidia posted quarterly revenue of $115.8 billion. Earnings more than doubled compared to last year. Operating margins reached nearly 67%. The stock trades at 10.8 times forward earnings. The results smash all expectations. Follow for tomorrow's update",
+   "ticker": "NVDA",
+   "sentiment": "bullish",
+   "sources": [],
+   "caption": "Nvidia smashes expectations with massive revenue and soaring margins. Follow for tomorrow's update.",
+   "hashtags": [
+    "#Nvidia",
+    "#Stocks",
+    "#Markets",
+    "#Investing",
+    "#Finance"
+   ]
+  },
+  {
+   "title": "Nvidia locks in 518 billion in infrastructure commitments",
+   "hook": "518 billion commitments",
+   "beats": [
+    {
+     "say": "Nvidia's future commitments top $518 billion.",
+     "show": "518 billion commitments",
+     "figure": "$518B"
+    },
+    {
+     "say": "The total includes $390 billion in supply capacity.",
+     "show": "Secured supply",
+     "figure": "$390B"
+    },
+    {
+     "say": "Another $118 billion covers maximum guarantees.",
+     "show": "Massive guarantees",
+     "figure": "$118B"
+    },
+    {
+     "say": "Long-term data center leases drive the spending.",
+     "show": "Data center leases",
+     "figure": "20 years"
+    },
+    {
+     "say": "Infrastructure spending reaches new heights. Follow for tomorrow's update",
+     "show": "Scale expansion",
+     "figure": ""
+    }
+   ],
+   "origin": "Marco Casario EXTRA",
+   "source_video": "NVDA e Anthropic faranno ripartire il Mercato: 5 numeri da guardare prima di com",
+   "narration": "Nvidia's future commitments top $518 billion. The total includes $390 billion in supply capacity. Another $118 billion covers maximum guarantees. Long-term data center leases drive the spending. Infrastructure spending reaches new heights. Follow for tomorrow's update",
+   "ticker": "NVDA",
+   "sentiment": "neutral",
+   "sources": [],
+   "caption": "Nvidia secures over half a trillion in supply and capacity deals. Follow for tomorrow's update.",
+   "hashtags": [
+    "#Nvidia",
+    "#Infrastructure",
+    "#Markets",
+    "#Tech",
+    "#Investing"
+   ]
+  },
+  {
+   "title": "Nvidia accounts receivable jump to 81 billion",
+   "hook": "81 billion receivables",
+   "beats": [
+    {
+     "say": "Nvidia's accounts receivable climbed to $81 billion.",
+     "show": "81 billion receivables",
+     "figure": "$81B"
+    },
+    {
+     "say": "Inventories expanded to nearly $40 billion.",
+     "show": "Growing inventories",
+     "figure": "$40B"
+    },
+    {
+     "say": "Major clients receive extended payment terms.",
+     "show": "Extended terms",
+     "figure": "Delayed"
+    },
+    {
+     "say": "Raw material stockpiles show clear expansion.",
+     "show": "Stockpile growth",
+     "figure": "$40B"
+    },
+    {
+     "say": "Balance sheet metrics need close watching. Follow for tomorrow's update",
+     "show": "Balance sheet watch",
+     "figure": ""
+    }
+   ],
+   "origin": "Marco Casario EXTRA",
+   "source_video": "NVDA e Anthropic faranno ripartire il Mercato: 5 numeri da guardare prima di com",
+   "narration": "Nvidia's accounts receivable climbed to $81 billion. Inventories expanded to nearly $40 billion. Major clients receive extended payment terms. Raw material stockpiles show clear expansion. Balance sheet metrics need close watching. Follow for tomorrow's update",
+   "ticker": "NVDA",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Nvidia receivables and inventories surge amid extended client terms. Follow for tomorrow's update.",
+   "hashtags": [
+    "#Nvidia",
+    "#BalanceSheet",
+    "#Analysis",
+    "#Markets",
+    "#Finance"
+   ]
+  },
+  {
+   "title": "Anthropic posts 104 billion in operating losses",
+   "hook": "104 billion loss",
+   "beats": [
+    {
+     "say": "Anthropic reported a net loss of $104 billion in nine months.",
+     "show": "104 billion loss",
+     "figure": "$104B"
+    },
+    {
+     "say": "Operating expenses continue a sharp upward trajectory.",
+     "show": "Rising expenses",
+     "figure": "High burn"
+    },
+    {
+     "say": "Second-quarter sequential growth shows clear deceleration.",
+     "show": "Slowing growth",
+     "figure": "Deceleration"
+    },
+    {
+     "say": "Infrastructure spending drives heavy cash outflows.",
+     "show": "Hardware costs",
+     "figure": "CapEx"
+    },
+    {
+     "say": "Financial pressures weigh on the valuation. Follow for tomorrow's update",
+     "show": "Financial pressure",
+     "figure": ""
+    }
+   ],
+   "origin": "Marco Casario EXTRA",
+   "source_video": "NVDA e Anthropic faranno ripartire il Mercato: 5 numeri da guardare prima di com",
+   "narration": "Anthropic reported a net loss of $104 billion in nine months. Operating expenses continue a sharp upward trajectory. Second-quarter sequential growth shows clear deceleration. Infrastructure spending drives heavy cash outflows. Financial pressures weigh on the valuation. Follow for tomorrow's update",
+   "ticker": null,
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Anthropic S-1 reveals steep operating losses and slowing growth. Follow for tomorrow's update.",
+   "hashtags": [
+    "#Anthropic",
+    "#AI",
+    "#Tech",
+    "#Markets",
+    "#Investing"
+   ]
+  },
+  {
+   "title": "Anthropic signs 900 billion in cost commitments",
+   "hook": "900 billion commitments",
+   "beats": [
+    {
+     "say": "Anthropic signed $900 billion in cumulative future costs.",
+     "show": "900 billion commitments",
+     "figure": "$900B"
+    },
+    {
+     "say": "Seventy billion dollars come due in the next year.",
+     "show": "70 billion due soon",
+     "figure": "$70B"
+    },
+    {
+     "say": "Compute hardware purchases drive the massive outflow.",
+     "show": "Hardware buying",
+     "figure": "Compute"
+    },
+    {
+     "say": "Long-term contracts lock in heavy future spending.",
+     "show": "Locked spending",
+     "figure": "CapEx"
+    },
+    {
+     "say": "Cash outflows test the business model. Follow for tomorrow's update",
+     "show": "Cash outflow",
+     "figure": ""
+    }
+   ],
+   "origin": "Marco Casario EXTRA",
+   "source_video": "NVDA e Anthropic faranno ripartire il Mercato: 5 numeri da guardare prima di com",
+   "narration": "Anthropic signed $900 billion in cumulative future costs. Seventy billion dollars come due in the next year. Compute hardware purchases drive the massive outflow. Long-term contracts lock in heavy future spending. Cash outflows test the business model. Follow for tomorrow's update",
+   "ticker": null,
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Anthropic faces massive near-term cash commitments for compute. Follow for tomorrow's update.",
+   "hashtags": [
+    "#Anthropic",
+    "#AI",
+    "#Tech",
+    "#Markets",
+    "#Finance"
+   ]
+  }
+ ],
+ "carousels": {
+  "it": {
+   "topic": "Nvidia e Anthropic: i numeri chiave",
+   "caption": "Analizziamo i conti di Nvidia e i documenti di Anthropic per capire lo stato della febbre legata all'intelligenza artificiale. Segui per l'aggiornamento di domani.",
+   "sentiment": "neutral",
+   "ticker": "NVDA",
+   "slides": [
+    {
+     "title": "Nvidia e Anthropic: i numeri da guardare",
+     "body": "Analizziamo i bilanci record e i rischi nascosti dietro la corsa dell'intelligenza artificiale."
+    },
+    {
+     "title": "Ricavi a 115 miliardi",
+     "body": "Nvidia registra ricavi trimestrali per 115.8 miliardi di dollari, con utili raddoppiati su base annua e margini operativi al 67%."
+    },
+    {
+     "title": "Impegni per 518 miliardi",
+     "body": "La società blocca contratti di fornitura e capacità futura per 518 miliardi di dollari, inclusi accordi di lungo termine."
+    },
+    {
+     "title": "Crediti a 81 miliardi",
+     "body": "I crediti commerciali salgono a 81 miliardi e le scorte toccano quota 40 miliardi a causa di termini di pagamento estesi."
+    },
+    {
+     "title": "Perdite Anthropic",
+     "body": "Il deposito S-1 di Anthropic rivela una perdita netta di 104 miliardi in nove mesi e una crescita in rallentamento."
+    },
+    {
+     "title": "900 miliardi di costi",
+     "body": "Anthropic accumula impegni di spesa per 900 miliardi, con 70 miliardi in scadenza nei prossimi dodici mesi per l'hardware."
+    },
+    {
+     "title": "Cautela sui mercati",
+     "body": "I numeri record convivono con crescenti impegni di cassa e crediti in espansione. Segui per l'aggiornamento di domani."
+    }
+   ],
+   "hashtags": [
+    "#Nvidia",
+    "#Anthropic",
+    "#AI",
+    "#Mercati",
+    "#Borsa",
+    "#Azioni",
+    "#Finanza",
+    "#Investimenti"
+   ]
+  },
+  "en": {
+   "topic": "Nvidia and Anthropic key financial numbers",
+   "caption": "We break down Nvidia's earnings and Anthropic's filings to evaluate the true state of the AI boom. Follow for tomorrow's update.",
+   "sentiment": "neutral",
+   "ticker": "NVDA",
+   "slides": [
+    {
+     "title": "Nvidia and Anthropic: key numbers to watch",
+     "body": "We examine record earnings and hidden balance sheet risks behind the artificial intelligence boom."
+    },
+    {
+     "title": "115 billion revenue",
+     "body": "Nvidia posts quarterly revenue of $115.8 billion with earnings doubling year-over-year and margins nearing 67%."
+    },
+    {
+     "title": "518 billion commitments",
+     "body": "The company locks in $518 billion in future supply and capacity deals, including long-term data center leases."
+    },
+    {
+     "title": "81 billion receivables",
+     "body": "Accounts receivable climb to $81 billion while inventories reach $40 billion amid extended client payment terms."
+    },
+    {
+     "title": "Anthropic losses",
+     "body": "Anthropic's filing reveals a $104 billion net loss over nine months alongside slowing sequential quarterly growth."
+    },
+    {
+     "title": "900 billion in costs",
+     "body": "Anthropic accumulates $900 billion in cost commitments, with $70 billion due soon for compute hardware."
+    },
+    {
+     "title": "Market outlook",
+     "body": "Record growth meets massive capital commitments and rising receivables. Follow for tomorrow's update."
+    }
+   ],
+   "hashtags": [
+    "#Nvidia",
+    "#Anthropic",
+    "#AI",
+    "#Markets",
+    "#Stocks",
+    "#Investing",
+    "#Finance",
+    "#Tech"
+   ]
+  }
+ }
+}

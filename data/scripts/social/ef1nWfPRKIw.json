@@ -1,0 +1,262 @@
+{
+ "it": [
+  {
+   "title": "Il rischio nascosto dei tuoi risparmi",
+   "hook": "Risparmi a rischio",
+   "beats": [
+    {
+     "say": "10.000 euro in banca rischiano 550 euro di perdita nel potere d'acquisto.",
+     "show": "Risparmi a rischio",
+     "figure": "550 €"
+    },
+    {
+     "say": "L'instabilità fiscale della Francia minaccia la stabilità dell'intera zona euro.",
+     "show": "Francia sotto pressione",
+     "figure": ""
+    },
+    {
+     "say": "Molti ignorano che l'intervento della Banca Centrale Europea ricade sui cittadini.",
+     "show": "Conto ai cittadini",
+     "figure": ""
+    },
+    {
+     "say": "Il livello da monitorare è l'erosione reale del capitale nel prossimo anno.",
+     "show": "Monitora il potere",
+     "figure": ""
+    },
+    {
+     "say": "Proteggi il tuo portafoglio. Segui per l'aggiornamento.",
+     "show": "Diversifica ora",
+     "figure": ""
+    }
+   ],
+   "origin": "Marco Casario",
+   "source_video": "Se l'Europa salva la Francia, il conto lo paghi tu (come difendersi)",
+   "narration": "10.000 euro in banca rischiano 550 euro di perdita nel potere d'acquisto. L'instabilità fiscale della Francia minaccia la stabilità dell'intera zona euro. Molti ignorano che l'intervento della Banca Centrale Europea ricade sui cittadini. Il livello da monitorare è l'erosione reale del capitale nel prossimo anno. Proteggi il tuo portafoglio. Segui per l'aggiornamento.",
+   "ticker": null,
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "L'inflazione erode il valore dei risparmi. Ecco perché la situazione francese riguarda tutti.",
+   "hashtags": [
+    "#economia",
+    "#risparmi",
+    "#inflazione",
+    "#eurozona"
+   ]
+  },
+  {
+   "title": "Francia e Italia: il confronto",
+   "hook": "Debito francese alto",
+   "beats": [
+    {
+     "say": "119,1% è il rapporto debito su PIL che mette la Francia nei guai.",
+     "show": "Debito francese alto",
+     "figure": "119,1%"
+    },
+    {
+     "say": "La Francia dipende dai mercati esteri molto più di quanto faccia l'Italia.",
+     "show": "Dipendenza estera",
+     "figure": ""
+    },
+    {
+     "say": "Spesso si teme l'Italia, ma il vero carico per l'Eurozona è Parigi.",
+     "show": "Parigi sotto esame",
+     "figure": ""
+    },
+    {
+     "say": "Il dato da osservare è la sostenibilità del debito francese nel tempo.",
+     "show": "Debito sostenibile",
+     "figure": ""
+    },
+    {
+     "say": "La situazione cambia rapidamente. Segui per l'aggiornamento.",
+     "show": "Monitora i mercati",
+     "figure": ""
+    }
+   ],
+   "origin": "Marco Casario",
+   "source_video": "Se l'Europa salva la Francia, il conto lo paghi tu (come difendersi)",
+   "narration": "119,1% è il rapporto debito su PIL che mette la Francia nei guai. La Francia dipende dai mercati esteri molto più di quanto faccia l'Italia. Spesso si teme l'Italia, ma il vero carico per l'Eurozona è Parigi. Il dato da osservare è la sostenibilità del debito francese nel tempo. La situazione cambia rapidamente. Segui per l'aggiornamento.",
+   "ticker": "BTP",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Il debito francese spaventa i mercati. Ecco il confronto critico con l'Italia.",
+   "hashtags": [
+    "#debito",
+    "#finanza",
+    "#italia",
+    "#francia"
+   ]
+  }
+ ],
+ "en": [
+  {
+   "title": "The hidden risk to your savings",
+   "hook": "Savings at risk",
+   "beats": [
+    {
+     "say": "10,000 euros in the bank could lose 550 euros in purchasing power.",
+     "show": "Savings at risk",
+     "figure": "550 €"
+    },
+    {
+     "say": "France's fiscal instability is now threatening the stability of the entire Eurozone.",
+     "show": "France under pressure",
+     "figure": ""
+    },
+    {
+     "say": "Few realize that any bailout by the European Central Bank costs citizens.",
+     "show": "Taxpayers pay",
+     "figure": ""
+    },
+    {
+     "say": "The key metric to watch is the real erosion of capital annually.",
+     "show": "Watch your value",
+     "figure": ""
+    },
+    {
+     "say": "Protect your portfolio. Follow for tomorrow's update.",
+     "show": "Diversify now",
+     "figure": ""
+    }
+   ],
+   "origin": "Marco Casario",
+   "source_video": "Se l'Europa salva la Francia, il conto lo paghi tu (come difendersi)",
+   "narration": "10,000 euros in the bank could lose 550 euros in purchasing power. France's fiscal instability is now threatening the stability of the entire Eurozone. Few realize that any bailout by the European Central Bank costs citizens. The key metric to watch is the real erosion of capital annually. Protect your portfolio. Follow for tomorrow's update.",
+   "ticker": null,
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Inflation erodes savings value. Here is why the French fiscal situation affects everyone.",
+   "hashtags": [
+    "#economy",
+    "#savings",
+    "#inflation",
+    "#eurozone"
+   ]
+  },
+  {
+   "title": "France vs Italy: debt reality",
+   "hook": "High French debt",
+   "beats": [
+    {
+     "say": "119.1% is the debt-to-GDP ratio currently putting France in serious trouble.",
+     "show": "High French debt",
+     "figure": "119.1%"
+    },
+    {
+     "say": "France relies on foreign investors far more heavily than Italy does today.",
+     "show": "Foreign reliance",
+     "figure": ""
+    },
+    {
+     "say": "Markets often fear Italy, but the real burden is shifting toward Paris.",
+     "show": "Paris under scrutiny",
+     "figure": ""
+    },
+    {
+     "say": "The key figure to watch is the long-term sustainability of French debt.",
+     "show": "Debt sustainability",
+     "figure": ""
+    },
+    {
+     "say": "The situation moves fast. Follow for tomorrow's update.",
+     "show": "Watch the markets",
+     "figure": ""
+    }
+   ],
+   "origin": "Marco Casario",
+   "source_video": "Se l'Europa salva la Francia, il conto lo paghi tu (come difendersi)",
+   "narration": "119.1% is the debt-to-GDP ratio currently putting France in serious trouble. France relies on foreign investors far more heavily than Italy does today. Markets often fear Italy, but the real burden is shifting toward Paris. The key figure to watch is the long-term sustainability of French debt. The situation moves fast. Follow for tomorrow's update.",
+   "ticker": "BTP",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "French debt is shaking markets. Here is the critical comparison with Italy.",
+   "hashtags": [
+    "#debt",
+    "#finance",
+    "#italy",
+    "#france"
+   ]
+  }
+ ],
+ "carousels": {
+  "it": {
+   "topic": "Rischi fiscali in Europa",
+   "caption": "La situazione fiscale francese minaccia la stabilità dell'intera Eurozona. Proteggi i tuoi risparmi diversificando il portafoglio. Segui per l'aggiornamento di domani.",
+   "sentiment": "bearish",
+   "ticker": null,
+   "slides": [
+    {
+     "title": "Francia: il rischio nascosto",
+     "body": "Scopri come la crisi fiscale francese potrebbe impattare direttamente sui tuoi risparmi personali."
+    },
+    {
+     "title": "Il costo dell'inflazione",
+     "body": "10.000 euro in banca possono perdere 550 euro di potere d'acquisto in un solo anno."
+    },
+    {
+     "title": "Debito fuori controllo",
+     "body": "Il rapporto debito su PIL francese ha raggiunto il 119,1% con una crescita negativa."
+    },
+    {
+     "title": "Dipendenza estera",
+     "body": "La Francia dipende dai capitali esteri molto più dell'Italia per finanziare il proprio debito pubblico."
+    },
+    {
+     "title": "Lo scudo BCE",
+     "body": "L'intervento della Banca Centrale Europea non è automatico ma vincolato a riforme fiscali rigorose."
+    },
+    {
+     "title": "Proteggi il capitale",
+     "body": "La diversificazione rimane lo strumento principale per difendersi dall'instabilità economica europea. Segui per l'aggiornamento di domani."
+    }
+   ],
+   "hashtags": [
+    "#economia",
+    "#finanza",
+    "#investimenti",
+    "#francia",
+    "#eurozona"
+   ]
+  },
+  "en": {
+   "topic": "Fiscal risks in Europe",
+   "caption": "The French fiscal situation threatens the stability of the entire Eurozone. Protect your savings by diversifying your portfolio. Follow for tomorrow's update.",
+   "sentiment": "bearish",
+   "ticker": null,
+   "slides": [
+    {
+     "title": "France: the hidden risk",
+     "body": "Learn how the French fiscal crisis could directly impact your personal savings and purchasing power."
+    },
+    {
+     "title": "The cost of inflation",
+     "body": "10,000 euros in the bank can lose 550 euros in purchasing power in a single year."
+    },
+    {
+     "title": "Debt out of control",
+     "body": "The French debt-to-GDP ratio has reached 119.1% alongside stagnating economic growth."
+    },
+    {
+     "title": "Foreign dependency",
+     "body": "France relies on foreign capital much more than Italy does to fund its public debt."
+    },
+    {
+     "title": "The ECB shield",
+     "body": "European Central Bank intervention is not automatic but strictly tied to rigorous fiscal reforms."
+    },
+    {
+     "title": "Protect your capital",
+     "body": "Diversification remains the primary tool to hedge against European economic instability. Follow for tomorrow's update."
+    }
+   ],
+   "hashtags": [
+    "#economy",
+    "#finance",
+    "#investing",
+    "#france",
+    "#eurozone"
+   ]
+  }
+ }
+}

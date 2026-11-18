@@ -115,5 +115,37 @@
   "tries": 1,
   "title": "Last Time It Crashed Like This, The Markets Squeezed Them Out!",
   "done": true
+ },
+ "ef1nWfPRKIw": {
+  "sent": [
+   "it:s1",
+   "it:s2",
+   "it:c",
+   "en:s1",
+   "en:s2",
+   "en:c"
+  ],
+  "tries": 1,
+  "title": "Se l'Europa salva la Francia, il conto lo paghi tu (come difendersi)",
+  "done": true
+ },
+ "zvHvhrHvMg0": {
+  "sent": [
+   "it:s1",
+   "it:s2",
+   "it:s3",
+   "it:s4",
+   "it:s5",
+   "it:c",
+   "en:s1",
+   "en:s2",
+   "en:s3",
+   "en:s4",
+   "en:s5",
+   "en:c"
+  ],
+  "tries": 1,
+  "title": "NVDA e Anthropic faranno ripartire il Mercato: 5 numeri da guardare prima di com",
+  "done": true
  }
 }

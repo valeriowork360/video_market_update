@@ -1,17 +1,16 @@
 {
- "day": "2026-11-17",
+ "day": "2026-11-18",
  "requests": {
-  "gemini-3.8-flash": 8,
-  "gemini-3.7-flash": 8,
-  "gemini-3.6-flash": 12,
-  "gemini-3.5-flash": 10,
+  "gemini-3.8-flash": 4,
+  "gemini-3.7-flash": 4,
+  "gemini-3.6-flash": 4,
+  "gemini-3.5-flash": 4,
   "gemini-2.5-flash": 1,
-  "gemini-3.5-flash-lite": 7
+  "gemini-3.5-flash-lite": 4,
+  "gemini-3.1-flash-lite": 1
  },
  "exhausted": {
-  "gemini-2.5-flash": "non disponibile",
-  "gemini-3.8-flash": "quota giornaliera",
-  "gemini-3.7-flash": "quota giornaliera"
+  "gemini-2.5-flash": "non disponibile"
  },
  "video_seconds": 0
 }
