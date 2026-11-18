@@ -46,7 +46,11 @@ RULES = """HARD RULES
 - Unconfirmed news is called what it is ("indiscrezione non confermata", "unconfirmed report"),
   without naming who reported it. Curious stories only if present in the inputs.
 - Paraphrase everything; we never reuse anyone's words or footage.
-- No buy/sell advice, no promises of gains. Ignore anything promotional in the inputs."""
+- No buy/sell advice, no promises of gains. Ignore anything promotional in the inputs.
+- The channel NEVER presents itself as an authority: never "professional", "expert", "advice",
+  "analysis you can trust", "signals", "guidance", "consulenza", "professionale", "esperti".
+  A follow invite is plain and neutral: "Follow for tomorrow's update" / "Segui per l'aggiornamento
+  di domani". Nothing more."""
 
 A_PROMPT = """You are the head writer of "{brand}", a faceless stock-market news channel.
 Write the script of {what}. Date: {date}. Total narration: about {words} words.
@@ -263,6 +267,7 @@ def long_script(notes, news, market, cal, lang, kind, date_label, week_scripts=N
             if attempt == 1:                # second draft: keep it even if something slipped through
                 _names_check(spoken + " " + script["title"])
                 _voice_check(spoken)
+            _authority_check(spoken + " " + script["title"] + " " + script["description"])
         except llm.LLMError as e:
             problem = e
             if best or attempt == 2:
@@ -365,8 +370,25 @@ _HEDGE = re.compile(
     r"|according to|some (?:expect|see|argue|believe)|the (?:bullish|bearish|optimistic|cautious) camp)", re.I)
 
 
+_AUTHORITY = re.compile(
+    r"\b(?:professional|professionale|professionali|expert|experts|esperto|esperti|financial advice|"
+    r"investment advice|consulenza|consigli finanziari|consigli di investimento|trading signals?|segnali di trading|"
+    r"guidance|guida finanziaria|trusted analysis|analisi affidabil\w*)\b", re.I)
+_DISCLAIMER = re.compile(r"\bnot (?:financial|investment) advice\b|\bnon (?:è|e') (?:una )?consulenza\b|"
+                         r"\bnon costituisc\w+ consulenza\b|\bnon sono consigli\b", re.I)
+
+
+def _authority_check(text):
+    """Never sell the channel as professional or advice (the disclaimer itself is allowed)."""
+    found = sorted({m.group(0).lower() for m in _AUTHORITY.finditer(_DISCLAIMER.sub(" ", text))})
+    if found:
+        raise llm.LLMError("the channel is presented as an authority (" + ", ".join(found[:5]) + "): use a plain, "
+                           "neutral follow invite such as \"Follow for tomorrow's update\", never professional/expert/advice")
+
+
 def _voice_check(text):
     """The channel states things itself: no 'analysts say', no 'according to'."""
+    _authority_check(text)
     found = sorted({m.group(0).lower() for m in _HEDGE.finditer(text)})
     if found:
         raise llm.LLMError("attributions found (" + ", ".join(found[:6]) + "): rewrite those sentences as "

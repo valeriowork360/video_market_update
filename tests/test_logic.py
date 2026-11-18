@@ -379,6 +379,14 @@ def test_speech():
     except llm.LLMError:
         pass
     writer._names_check("Secondo diversi analisti il mercato sale")
+    for bad in ("Follow CoinTicker 360 for professional financial analysis.", "Segui gli esperti di Coin Ticker 360"):
+        try:
+            writer._voice_check(bad)
+            raise AssertionError("authority claim not caught: " + bad)
+        except llm.LLMError:
+            pass
+    writer._voice_check("This is not financial advice. Follow for tomorrow's update.")
+    writer._voice_check("Questo non è una consulenza finanziaria. Segui per l'aggiornamento di domani.")
     print("speech ok")
 
 
