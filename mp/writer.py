@@ -374,8 +374,9 @@ _AUTHORITY = re.compile(
     r"\b(?:professional|professionale|professionali|expert|experts|esperto|esperti|financial advice|"
     r"investment advice|consulenza|consigli finanziari|consigli di investimento|trading signals?|segnali di trading|"
     r"guidance|guida finanziaria|trusted analysis|analisi affidabil\w*)\b", re.I)
-_DISCLAIMER = re.compile(r"\bnot (?:financial|investment) advice\b|\bnon (?:è|e') (?:una )?consulenza\b|"
-                         r"\bnon costituisc\w+ consulenza\b|\bnon sono consigli\b", re.I)
+_DISCLAIMER = re.compile(r"\bnot (?:financial|investment) advice\b|"
+                         r"\bnon (?:è|e'|sono|costituisc\w+)(?: (?:una|un|di|dei))? (?:consulenza|consigli)\b|"
+                         r"\bnon una consulenza\b|\bnon (?:è|e') (?:un )?consiglio\b", re.I)
 
 
 def _authority_check(text):
