@@ -1,0 +1,175 @@
+{
+ "title": "Nvidia batte le stime ma Huang non torna, crollo S&P 500 e VIX a 25",
+ "description": "Nvidia supera le stime sui ricavi ma la governance resta incerta. Wall Street e l'Europa chiudono in rosso con l'S&P 500 ai minimi e il VIX in forte rialzo. Bitcoin cerca stabilità in area 64.000 dollari.\n\nContenuti basati sulle analisi di Jason Pizzino e sulle notizie di CNBC, Yahoo Finance, MarketWatch e CoinDesk.",
+ "tags": [
+  "Nvidia",
+  "S&P 500",
+  "Nasdaq",
+  "Bitcoin",
+  "Borsa",
+  "Mercati Finanziari",
+  "VIX",
+  "FOMC",
+  "Wall Street",
+  "FTSE MIB"
+ ],
+ "thumbnail_text": "Nvidia VOLA, S&P 500 CROLLA",
+ "mood": "neutral",
+ "segments": [
+  {
+   "id": "s1",
+   "kind": "hook",
+   "heading": "Nvidia batte le stime",
+   "narration": "Nvidia supera le attese nei conti trimestrali e trascina al rialzo i futures a Wall Street, ma il consiglio di amministrazione esclude il ritorno di Jensen Huang alla guida del gruppo. Nel frattempo l'indice S&P 500 tocca nuovi minimi di periodo e il Bitcoin cerca stabilità a 64.000 dollari.",
+   "bullets": [
+    "Nvidia supera le attese nei conti",
+    "Huang: nessun rientro nel consiglio",
+    "S&P 500 sui minimi di periodo"
+   ],
+   "ticker": "NVDA",
+   "sentiment": "neutral",
+   "sources": [
+    "Yahoo Finance",
+    "CNBC",
+    "Jason Pizzino"
+   ]
+  },
+  {
+   "id": "s2",
+   "kind": "market",
+   "heading": "Volatilità in forte rialzo",
+   "narration": "La giornata sui mercati finanziari evidenzia una diffusa debolezza degli indici azionari. Negli Stati Uniti l'S&P 500 chiude in calo dell'1,0% a 7.341 punti, mentre il Nasdaq Composite cede lo 0,7% posizionandosi a 24.328 punti. Anche il Dow Jones arretra dell'1,6% a 50.759 punti. In Europa prevale il segno rosso: l'Euro Stoxx 50 arretra del 2,2% a 6.212 punti e Piazza Affari vede il FTSE MIB scendere dell'1,3% a 50.846 punti. L'indice di volatilità VIX registra un balzo dell'11,1% a quota 25. Sul mercato obbligazionario il rendimento del titolo decennale americano si attesta al 5,1%. Infine l'oro flette dell'1,6% a 3.792 dollari l'oncia.",
+   "bullets": [
+    "S&P 500 cede l'1,0%",
+    "Nasdaq giù dello 0,7%",
+    "Indice VIX in aumento dell'11,1%"
+   ],
+   "ticker": "^GSPC",
+   "sentiment": "bearish",
+   "sources": [
+    "Yahoo Finance",
+    "ANSA Economia"
+   ]
+  },
+  {
+   "id": "s3",
+   "kind": "topic",
+   "heading": "Nvidia: record e governance",
+   "narration": "Nvidia ha pubblicato i risultati del terzo trimestre battendo le stime del mercato e fornendo una previsione sui ricavi superiori alle attese, spinta dalla forte domanda di semiconduttori per l'intelligenza artificiale. Le azioni hanno reagito con un rialzo nel dopoborsa, ma l'attenzione resta concentrata sulla struttura di vertice dell'azienda. Il consiglio di amministrazione ha confermato ufficialmente che Jensen Huang non rientrerà nel ruolo di amministratore delegato, lasciando la gestione ad interim a Colette Kress. Sulla società pendono inoltre le verifiche della SEC e la gestione dei vincoli commerciali sulle forniture di chip destinate al mercato cinese. Parallelamente, il management ha espresso un approccio disciplinato nel sostegno finanziario alle società di infrastruttura cloud. I solidi dati finanziari offrono supporto nell'immediato, ma l'incertezza sulla leadership di lungo termine e la regolamentazione mantengono alta la volatilità sul titolo.",
+   "bullets": [
+    "Ricavi trimestrali oltre le previsioni",
+    "Colette Kress resta CEO ad interim",
+    "Indagini SEC ed export verso Cina"
+   ],
+   "ticker": "NVDA",
+   "sentiment": "neutral",
+   "sources": [
+    "MarketWatch",
+    "Investing.com",
+    "CNBC",
+    "Jason Pizzino"
+   ]
+  },
+  {
+   "id": "s4",
+   "kind": "topic",
+   "heading": "Livelli chiave su S&P 500",
+   "narration": "Dal punto di vista tecnico, l'S&P 500 si trova sotto pressione dopo aver infranto i minimi precedenti e aver raggiunto l'area di supporto a 7.300 punti. In caso di ulteriore cedimento, i livelli chiave da monitorare si collocano a 7.250 e 7.100 punti. Al contrario, il Nasdaq mostra un comportamento differente, mantenendo una struttura con un minimo relativo più alto che riflette la resilienza di alcune componenti del comparto tecnologico. Le oscillazioni storiche dell'indice di volatilità indicano una fase di elevata tensione del mercato, paragonabile per ampiezza ai periodi di profonda incertezza del passato. Con il rendimento del decennale statunitense stabilizzato al 5,1% e il dollaro forte, il mercato azionario richiede la conferma di una base solida prima di poter ipotizzare un'inversione di tendenza duratura.",
+   "bullets": [
+    "Supporto principale a 7.300 punti",
+    "Target inferiori a 7.250 e 7.100",
+    "Nasdaq mantiene minimi più alti"
+   ],
+   "ticker": "^GSPC",
+   "sentiment": "bearish",
+   "sources": [
+    "Jason Pizzino"
+   ]
+  },
+  {
+   "id": "s5",
+   "kind": "topic",
+   "heading": "Bitcoin e mercato dell'oro",
+   "narration": "Nel comparto delle criptovalute la pressione di vendita mostra una pausa, pur all'interno di un quadro settimanale negativo. Bitcoin quota a 64.486 dollari con una variazione giornaliera del -0,6%, ma accumula un calo del 9,6% negli ultimi cinque giorni. Ethereum si attesta a 1.806 dollari, in flessione dello 0,7%. Il prezzo di Bitcoin si trova vicino alla media mobile a duecento giorni, un livello di supporto grafico determinante per la tenuta strutturale del trend. Contemporaneamente, si evidenzia la complessa dinamica del mercato dell'oro, dove il volume complessivo dei contratti derivati scambiati sulla carta supera di centinaia di volte la disponibilità reale del metallo fisico. Questa forte sproporzione amplifica i movimenti di prezzo durante i momenti di liquidazione generalizzata delle posizioni da parte degli operatori finanziari.",
+   "bullets": [
+    "Bitcoin a 64.486 dollari",
+    "Test della media a 200 giorni",
+    "Derivati oro oltre il metallo fisico"
+   ],
+   "ticker": "BTC-USD",
+   "sentiment": "neutral",
+   "sources": [
+    "Jason Pizzino",
+    "CoinDesk"
+   ]
+  },
+  {
+   "id": "s6",
+   "kind": "topic",
+   "heading": "Tagli Salesforce e strategie Nike",
+   "narration": "Oltre ai conti di Nvidia, diverse notizie scuotono il settore tecnologico e retail. Salesforce ha avviato un nuovo ciclo di riduzioni dell'organico nell'ambito di un piano di contenimento dei costi. Nel settore dell'abbigliamento sportivo, Nike registra un calo in borsa a seguito dell'illustrazione dei propri obiettivi finanziari a lungo termine, che vedono l'azienda mirare al risanamento dei ricavi e alla progettazione locale della metà dei prodotti destinati alla Cina. Nel frattempo, istituti bancari come JPMorgan sperimentano soluzioni avanzate con agenti autonomi di intelligenza artificiale per le transazioni finanziarie. Nel settore retail statunitense cresce inoltre la domanda di beni di prima necessità e di scorta da parte dei consumatori, in risposta ai timori per possibili interruzioni nelle reti di trasporto e alle recenti anomalie infrastrutturali.",
+   "bullets": [
+    "Salesforce avvia nuovi tagli personale",
+    "Nike punta su produzione locale cinese",
+    "AI agent nei servizi bancari"
+   ],
+   "ticker": "NKE",
+   "sentiment": "neutral",
+   "sources": [
+    "Investing.com",
+    "Yahoo Finance",
+    "CNBC Finance"
+   ]
+  },
+  {
+   "id": "s7",
+   "kind": "ahead",
+   "heading": "Verbali Fed ed eventi macro",
+   "narration": "Il calendario macroeconomico presenta appuntamenti decisivi. Oggi alle ore 20:00 italiana saranno pubblicati i verbali dell'ultima riunione del FOMC della Federal Reserve, fondamentali per valutare l'orientamento della politica monetaria statunitense. Giovedì alle ore 14:30 italiana si attendono l'indice manifatturiero della Philly Fed e i dati settimanali sui sussidi di disoccupazione negli Stati Uniti. Sul fronte delle quotazioni azionarie, mercoledì sera è prevista la fissazione del prezzo per l'IPO di Anthropic, mentre Target pubblicherà i propri risultati trimestrali. In Europa si terranno gli interventi della presidente della Banca Centrale Europea Christine Lagarde nella giornata di giovedì alle ore 14:30 italiana e venerdì alle ore 09:15 italiana.",
+   "bullets": [
+    "Verbali FOMC mercoledì ore 20:00",
+    "Sussidi disoccupazione giovedì ore 14:30",
+    "Debutto in borsa di Anthropic"
+   ],
+   "ticker": null,
+   "sentiment": "neutral",
+   "sources": [
+    "Yahoo Finance",
+    "CNBC"
+   ]
+  },
+  {
+   "id": "s8",
+   "kind": "curious",
+   "heading": "Cimice nella sede OpenAI",
+   "narration": "Negli Stati Uniti andrà a processo a gennaio l'uomo arrestato con l'accusa di aver piazzato una cimice per l'ascolto clandestino all'interno di una sala conferenze di OpenAI. Il sospetto si trova attualmente in carcere senza possibilità di cauzione.",
+   "bullets": [
+    "Cimice nascosta in sala riunioni",
+    "Processo all'imputato a gennaio",
+    "Custodia cautelare senza cauzione"
+   ],
+   "ticker": null,
+   "sentiment": "neutral",
+   "sources": [
+    "CNBC"
+   ]
+  },
+  {
+   "id": "s9",
+   "kind": "outro",
+   "heading": "Chiusura",
+   "narration": "I contenuti di questo video hanno scopo puramente informativo e non costituiscono una sollecitazione all'investimento. Segui per l'aggiornamento di domani.",
+   "bullets": [
+    "Informazioni a scopo divulgativo",
+    "Segui per l'aggiornamento di domani"
+   ],
+   "ticker": null,
+   "sentiment": "neutral",
+   "sources": []
+  }
+ ],
+ "words": 824,
+ "model": "gemini-3.6-flash",
+ "n_notes": 1,
+ "n_news": 292
+}
