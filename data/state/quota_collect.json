@@ -1,9 +1,9 @@
 {
  "day": "2026-11-17",
  "requests": {
-  "gemini-3.5-flash-lite": 2,
+  "gemini-3.5-flash-lite": 3,
   "gemini-3.1-flash-lite": 1
  },
  "exhausted": {},
- "video_seconds": 419
+ "video_seconds": 1548
 }

@@ -1,0 +1,108 @@
+{
+ "market_relevance": 10,
+ "scope": "global",
+ "kind": "market update",
+ "summary": "The S&P 500 reached fresh lows while Nasdaq printed a higher low, and Nvidia shares climbed following post-market earnings. The speaker analyzes long-term market trends, noting that the S&P 500 still lacks cyclical top confirmation, which typically requires a deeper price and time drop. Volatility indicators like the VIX show historical divergences comparable to pandemic and financial crisis lows. Yields, dollar strength, and commodities like gold and oil are evaluated to determine future price directions across major stock indices and crypto.",
+ "digest_it": "L'autore analizza i recenti minimi dell'S&P 500 e i movimenti del Nasdaq, confrontandoli con i cicli di mercato passati e i dati sulla volatilità. Si aspetta ulteriori fasi di consolidamento o possibili rimbalzi tecnici prima di confermare un'inversione di tendenza macroeconomica.",
+ "author_tone": "cautious",
+ "tone_evidence": "The speaker advises caution by stating they are looking for temporary lows and signs of base-forming rather than calling an outright macro bull market.",
+ "key_points": [
+  {
+   "point": "The S&P 500 has dropped to a fresh low, and a decline of over 1,300 points over an extended timeframe would signal a major cycle top.",
+   "timestamp": "00:05"
+  },
+  {
+   "point": "Nvidia stock rose about 4 percent in after-hours trading following its earnings announcement.",
+   "timestamp": "04:35"
+  },
+  {
+   "point": "S&P 500 key support levels are noted around 7,300, with potential lower targets near 7,250 and 7,100.",
+   "timestamp": "05:15"
+  },
+  {
+   "point": "Historical VIX data shows extreme volatility contractions during the 2020 pandemic and 2008 financial crisis, which aligned with subsequent market recoveries.",
+   "timestamp": "08:33"
+  },
+  {
+   "point": "Bitcoin has pulled back toward the 200-day moving average and 50% retracement level near 75,000 to 76,000.",
+   "timestamp": "20:30"
+  }
+ ],
+ "moments": [
+  {
+   "timestamp": "00:05",
+   "topic": "S&P 500 and Nasdaq Market Structure",
+   "claim": "Long-term market weakness is forming, but a definitive cyclical top requires a larger overbalance in time and price.",
+   "details": "The S&P 500 hit a fresh low while Nasdaq recorded a higher low following Nvidia earnings. The speaker highlights that previous corrections were 20% and 10%, and a price drop exceeding 1,300 points over an extended period would indicate an economic stock market top.",
+   "surprise": "A drop of 1,300 points over 62 days would signal that the major economic cycle top has been reached."
+  },
+  {
+   "timestamp": "04:09",
+   "topic": "Nvidia Earnings and Post-Market Reaction",
+   "claim": "Nvidia's strong earnings and post-market price gains of around 4% will heavily influence upcoming market sessions.",
+   "details": "Following strong earnings and leadership changes, Nvidia shares climbed to $162 in after-hours trading. The speaker notes this upward pressure will impact the S&P 500 and Nasdaq pit openings.",
+   "surprise": "Nvidia gained roughly 4% in after-hours trading after closing near $155."
+  },
+  {
+   "timestamp": "05:13",
+   "topic": "S&P 500 Support Levels and Moving Averages",
+   "claim": "Support levels at 7,300 and moving averages will determine whether current lows represent a short squeeze or a deeper collapse.",
+   "details": "The S&P 500 tests support levels from prior months around 7,300. The speaker points out that the 200-day and 50-week moving averages are sitting near similar levels, acting as critical zones for a potential bounce or further correction.",
+   "surprise": "Prices have remained largely sideways for six months following the May weakness signal."
+  },
+  {
+   "timestamp": "07:00",
+   "topic": "VIX Volatility Index and Market Divergences",
+   "claim": "Current volatility divergences resemble historical extremes seen during the 2020 pandemic and 2008 financial crisis.",
+   "details": "The VIX displayed extreme contraction during historical crises, where declining volatility coincided with market lows. The speaker compares current low pricing structures with past divergences to assess the likelihood of temporary market bottoms.",
+   "surprise": "The VIX dropped to extreme lows during the 2020 pandemic while the S&P 500 recorded lower lows and higher highs in volatility."
+  },
+  {
+   "timestamp": "15:15",
+   "topic": "Bonds, Yields, and US Dollar Strength",
+   "claim": "Bond yields remain elevated and the US dollar continues to rally while smart money holds cash instead of precious metals.",
+   "details": "US government bond yields continue to hold near highs following Federal Reserve rate increases. Meanwhile, the US dollar index rallies above 102, and smart money avoids buying gold and silver at current levels, favoring cash positions.",
+   "surprise": "Retail investors view gold and silver as safe havens, but paper markets are hundreds of times larger than physical supply."
+  },
+  {
+   "timestamp": "20:10",
+   "topic": "Bitcoin and Crypto Market Pullbacks",
+   "claim": "Bitcoin has retraced to key technical levels, testing the 200-day moving average and 50% retracement zones.",
+   "details": "Bitcoin and crypto assets have pulled back significantly from previous highs, currently testing support around the $63,000 to $76,000 range. The speaker evaluates whether these levels will hold for a temporary bounce or lead to further declines.",
+   "surprise": "Bitcoin's pullback brought prices back to the 50% decline level of the previous rally near 75,000."
+  }
+ ],
+ "tickers": [
+  "NVDA",
+  "AAPL",
+  "AMZN",
+  "GOOG",
+  "META",
+  "MSFT",
+  "TSLA",
+  "BTC"
+ ],
+ "predictions": [
+  "S&P 500 could test support levels around 7,300 and potentially drop toward 7,250 or 7,100 if lows break.",
+  "Nvidia could target a close above $196 and approach $200 if the post-earnings recovery continues.",
+  "Bitcoin may find temporary support near 75,000 to 76,000 around the 200-day moving average."
+ ],
+ "catalysts": [
+  "Black Friday sale on TIA Pro mentioned during platform references"
+ ],
+ "rumors": [],
+ "curiosities": [
+  "The paper market for gold and silver is estimated to be hundreds of times larger than the physical market."
+ ],
+ "promo": true,
+ "language": "en",
+ "video_id": "IpQrqPil5xg",
+ "title": "Last Time It Crashed Like This, The Markets Squeezed Them Out!",
+ "author": "Jason Pizzino",
+ "url": "https://www.youtube.com/watch?v=IpQrqPil5xg",
+ "published": "2026-11-18T02:08:21+00:00",
+ "duration_min": 23,
+ "partial": false,
+ "analysed_at": "2026-11-18T02:32:39.683911+00:00",
+ "model": "gemini-3.5-flash-lite"
+}
