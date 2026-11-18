@@ -240,7 +240,7 @@ def backups():
 def _pick_model(b):
     if b["name"] in _backup_model:
         return _backup_model[b["name"]]
-    chosen = b["models"][0]
+    chosen = (b.get("models") or [None])[0]
     try:
         r = requests.get(b["base_url"] + "/models", timeout=30,
                          headers={"Authorization": f"Bearer {secret(b['secret'])}"})
@@ -254,12 +254,16 @@ def _pick_model(b):
         hit = [m for m in b["models"] if m in ids]
         if hit:
             chosen = hit[0]
+        elif ids and b.get("free_only"):
+            chosen = ids[0]
         elif ids:
             chat = [i for i in ids if not re.search(r"whisper|tts|guard|embed|moderation|ocr|voxtral", i)]
             big = [i for i in chat if re.search(r"large|120b|70b|medium", i)]
             chosen = (big or chat or ids)[0]
     except Exception as e:
         log(f"    {b['name']}: elenco modelli non letto ({str(e)[:80]})")
+    if not chosen:
+        raise RuntimeError(f"{b['name']}: nessun modello disponibile")
     _backup_model[b["name"]] = chosen
     return chosen
 

@@ -49,8 +49,13 @@ def main():
             return "nessuna chiave di riserva (facoltativa): MISTRAL_API_KEY o GROQ_API_KEY"
         out = []
         for x in llm.backups():
-            d, m = llm._backup_once(x, 'Return the JSON object {"ok": true}', 0.2)
-            out.append(f"{x['name']} ({m['model']}) ok: {str(d)[:30]}")
+            try:
+                d, m = llm._backup_once(x, 'Return the JSON object {"ok": true}', 0.2)
+                out.append(f"{x['name']} ({m['model']}) OK")
+            except Exception as e:
+                out.append(f"{x['name']} NON VA: {str(e)[:120]}")
+        if any("NON VA" in o for o in out):
+            raise RuntimeError(" | ".join(out))
         return ", ".join(out)
 
     def cursor_key():
@@ -68,8 +73,9 @@ def main():
             except Exception:
                 pass
         try:
-            r = requests.get("https://api.cursor.com/v0/me", headers={"Authorization": f"Bearer {k}"}, timeout=20)
-            if r.status_code < 300:
+            r = requests.get("https://api.cursor.com/teams/members", auth=(k, ""), timeout=20)
+            r2 = requests.get("https://api.cursor.com/v0/me", headers={"Authorization": f"Bearer {k}"}, timeout=20)
+            if r.status_code < 300 or r2.status_code < 300 or r.status_code == 403:
                 return "e' una chiave di Cursor: serve solo per Cursor, non puo' scrivere i nostri testi"
         except Exception:
             pass
