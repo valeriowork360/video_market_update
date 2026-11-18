@@ -244,7 +244,13 @@ def _pick_model(b):
     try:
         r = requests.get(b["base_url"] + "/models", timeout=30,
                          headers={"Authorization": f"Bearer {secret(b['secret'])}"})
-        ids = [m.get("id", "") for m in r.json().get("data", [])]
+        data = r.json().get("data", [])
+        ids = [m.get("id", "") for m in data]
+        if b.get("free_only"):
+            ids = [m.get("id", "") for m in data if m.get("id", "").endswith(":free")
+                   and int((m.get("context_length") or 0)) >= 32000]
+            big = re.compile(r"(\d{3})b|large|deepseek|qwen3|llama-3\.3-70b|gpt-oss-120b|kimi|glm", re.I)
+            ids.sort(key=lambda i: (not big.search(i), "vision" in i or "vl" in i))
         hit = [m for m in b["models"] if m in ids]
         if hit:
             chosen = hit[0]
@@ -267,6 +273,9 @@ def _backup_once(b, prompt, temperature):
     for attempt in (1, 2):
         r = requests.post(b["base_url"] + "/chat/completions", json=body, timeout=240,
                           headers={"Authorization": f"Bearer {secret(b['secret'])}"})
+        if r.status_code == 400 and "response_format" in body and attempt == 1:
+            body.pop("response_format")        # some models do not support JSON mode
+            continue
         if r.status_code == 429 and attempt == 1:
             d = min(float(r.headers.get("retry-after", 30) or 30) + 2, 70)
             log(f"    {b['name']}: limite, attendo {d:.0f}s")

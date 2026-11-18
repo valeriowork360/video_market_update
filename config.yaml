@@ -151,25 +151,32 @@ ai:
   daily_caps: {flash: 18, lite: 450}     # richieste al giorno per modello (resta sotto il limite)
   default_flash: [gemini-3.8-flash, gemini-3.6-flash]
   default_lite: [gemini-3.5-flash-lite, gemini-3.1-flash-lite]
-  backups:
-    - name: mistral
-      secret: MISTRAL_API_KEY
-      base_url: https://api.mistral.ai/v1
-      models: [mistral-large-latest, mistral-medium-latest, mistral-small-latest]
-      max_chars: 60000
-      max_tokens: 6000
-    - name: xai
-      secret: XAI_API_KEY           # Grok di xAI: a pagamento, usato solo quando Gemini e' esaurito
-      base_url: https://api.x.ai/v1
-      models: [grok-4.3, grok-4.7]
-      max_chars: 60000
-      max_tokens: 6000
+  backups:                      # usate in quest'ordine quando Gemini e' esaurito (solo se la chiave esiste)
     - name: groq
       secret: GROQ_API_KEY
       base_url: https://api.groq.com/openai/v1
       models: [openai/gpt-oss-120b, llama-3.3-70b-versatile]
       max_chars: 11000
       max_tokens: 3200
+    - name: openrouter
+      secret: OPENROUTER_API_KEY
+      base_url: https://openrouter.ai/api/v1
+      free_only: true               # solo i modelli gratuiti (":free")
+      models: []                    # vuoto = sceglie da solo il migliore gratuito disponibile
+      max_chars: 40000
+      max_tokens: 6000
+    - name: xai
+      secret: XAI_API_KEY           # Grok di xAI: a pagamento
+      base_url: https://api.x.ai/v1
+      models: [grok-4.3, grok-4.7]
+      max_chars: 60000
+      max_tokens: 6000
+    - name: mistral
+      secret: MISTRAL_API_KEY       # a pagamento da novembre 2026
+      base_url: https://api.mistral.ai/v1
+      models: [mistral-large-latest, mistral-medium-latest, mistral-small-latest]
+      max_chars: 60000
+      max_tokens: 6000
 
 # ------------------------------------------------------------
 #  Voce narrante (Edge TTS, gratis)

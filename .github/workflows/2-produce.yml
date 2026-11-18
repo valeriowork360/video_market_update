@@ -54,6 +54,8 @@ jobs:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           MISTRAL_API_KEY: ${{ secrets.MISTRAL_API_KEY }}
           GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+          CURSOR_API_KEY: ${{ secrets.CURSOR_API_KEY }}
           XAI_API_KEY: ${{ secrets.XAI_API_KEY }}
           IG_TOKEN_IT: ${{ secrets.IG_TOKEN_IT }}
           IG_TOKEN_EN: ${{ secrets.IG_TOKEN_EN }}

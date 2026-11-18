@@ -50,8 +50,30 @@ def main():
         out = []
         for x in llm.backups():
             d, m = llm._backup_once(x, 'Return the JSON object {"ok": true}', 0.2)
-            out.append(f"{x['name']} ({m['model']}) ok")
+            out.append(f"{x['name']} ({m['model']}) ok: {str(d)[:30]}")
         return ", ".join(out)
+
+    def cursor_key():
+        import requests
+        k = secret("CURSOR_API_KEY")
+        if not k:
+            return "non presente"
+        tries = {"xAI (Grok)": "https://api.x.ai/v1/models", "OpenRouter": "https://openrouter.ai/api/v1/models",
+                 "Groq": "https://api.groq.com/openai/v1/models", "OpenAI": "https://api.openai.com/v1/models"}
+        for name, url in tries.items():
+            try:
+                r = requests.get(url, headers={"Authorization": f"Bearer {k}"}, timeout=20)
+                if r.ok and name != "OpenRouter":
+                    return f"e' una chiave {name}: va rinominata (per xAI: XAI_API_KEY)"
+            except Exception:
+                pass
+        try:
+            r = requests.get("https://api.cursor.com/v0/me", headers={"Authorization": f"Bearer {k}"}, timeout=20)
+            if r.status_code < 300:
+                return "e' una chiave di Cursor: serve solo per Cursor, non puo' scrivere i nostri testi"
+        except Exception:
+            pass
+        raise RuntimeError("non e' riconosciuta da xAI, Groq, OpenAI ne' Cursor")
 
     def feeds():
         tot, empty, srcs = 0, [], set()
@@ -139,6 +161,7 @@ def main():
     check("Gemini (testo, modello leggero)", gemini_text)
     check("Gemini (scrittura copioni)", gemini_writer)
     check("AI di riserva", backups)
+    check("Chiave CURSOR_API_KEY", cursor_key)
     check("Feed YouTube dei canali", feeds)
     if "sample" in state:
         check("Gemini guarda un video", video_clip)
