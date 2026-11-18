@@ -267,7 +267,14 @@ def long_script(notes, news, market, cal, lang, kind, date_label, week_scripts=N
             if attempt == 1:                # second draft: keep it even if something slipped through
                 _names_check(spoken + " " + script["title"])
                 _voice_check(spoken)
-            _authority_check(spoken + " " + script["title"] + " " + script["description"])
+            try:
+                _authority_check(spoken + " " + script["title"] + " " + script["description"])
+            except llm.LLMError:
+                if attempt == 1:
+                    raise
+                for x in script["segments"]:
+                    x["narration"] = _strip_authority(x["narration"])
+                script["description"] = _strip_authority(script["description"])
         except llm.LLMError as e:
             problem = e
             if best or attempt == 2:
@@ -370,21 +377,28 @@ _HEDGE = re.compile(
     r"|according to|some (?:expect|see|argue|believe)|the (?:bullish|bearish|optimistic|cautious) camp)", re.I)
 
 
-_AUTHORITY = re.compile(
-    r"\b(?:professional|professionale|professionali|expert|experts|esperto|esperti|financial advice|"
-    r"investment advice|consulenza|consigli finanziari|consigli di investimento|trading signals?|segnali di trading|"
-    r"guidance|guida finanziaria|trusted analysis|analisi affidabil\w*)\b", re.I)
-_DISCLAIMER = re.compile(r"\bnot (?:financial|investment) advice\b|"
-                         r"\bnon (?:è|e'|sono|costituisc\w+)(?: (?:una|un|di|dei))? (?:consulenza|consigli)\b|"
-                         r"\bnon una consulenza\b|\bnon (?:è|e') (?:un )?consiglio\b", re.I)
+_SELF = re.compile(r"\b(?:follow|segui|seguici|subscribe|iscriv\w*|join|unisciti|our channel|il (?:nostro )?canale|"
+                   r"coin\s?ticker\s?360)\b", re.I)
+_CLAIM = re.compile(r"\b(?:professional|professionale|professionali|expert|experts|esperto|esperti|advice|consulenza|"
+                    r"consigli|signals?|segnali|trusted|affidabil\w*|guidance|guida)\b", re.I)
+_NEGATED = re.compile(r"\b(?:not|n't|never|no|non|nessun\w*|né)\b", re.I)
 
 
 def _authority_check(text):
-    """Never sell the channel as professional or advice (the disclaimer itself is allowed)."""
-    found = sorted({m.group(0).lower() for m in _AUTHORITY.finditer(_DISCLAIMER.sub(" ", text))})
-    if found:
-        raise llm.LLMError("the channel is presented as an authority (" + ", ".join(found[:5]) + "): use a plain, "
-                           "neutral follow invite such as \"Follow for tomorrow's update\", never professional/expert/advice")
+    """The channel never sells itself as professional or as advice. Only sentences that promote
+    the channel are judged ("Follow ... for professional analysis"), so market terms like "Fed
+    guidance" and the disclaimer "this is not financial advice" stay allowed."""
+    for sent in re.split(r"(?<=[.!?])\s+", text):
+        if _SELF.search(sent) and _CLAIM.search(sent) and not _NEGATED.search(sent):
+            raise llm.LLMError("the channel is presented as an authority (\"" + sent.strip()[:80] + "\"): use a plain, "
+                               "neutral follow invite such as \"Follow for tomorrow's update\"")
+
+
+def _strip_authority(text):
+    """Last resort: drop the self-promoting sentence instead of losing the whole edition."""
+    keep = [x for x in re.split(r"(?<=[.!?])\s+", text)
+            if not (_SELF.search(x) and _CLAIM.search(x) and not _NEGATED.search(x))]
+    return " ".join(keep)
 
 
 def _voice_check(text):

@@ -386,6 +386,9 @@ def test_speech():
         except llm.LLMError:
             pass
     writer._voice_check("This is not financial advice. Follow for tomorrow's update.")
+    writer._voice_check("This content is for informational purposes and should not be considered financial advice.")
+    writer._voice_check("Markets wait for Fed guidance on rates. Follow for tomorrow's update.")
+    assert writer._strip_authority("Gold is up. Follow us for professional analysis.") == "Gold is up."
     writer._voice_check("Questo non è una consulenza finanziaria. Segui per l'aggiornamento di domani.")
     print("speech ok")
 
