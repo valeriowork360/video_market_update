@@ -134,7 +134,11 @@
     "title": "Nvidia batte le stime ma Huang non torna, crollo S&P 500 e VIX a 25",
     "social": true
    },
-   "en": {}
+   "en": {
+    "long": true,
+    "title": "Nvidia Earnings Surge, Markets Rebound, and Tech Focus",
+    "social": true
+   }
   },
   "notes": [
    "IpQrqPil5xg"

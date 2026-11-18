@@ -1,0 +1,147 @@
+{
+ "title": "Nvidia Earnings Surge, Markets Rebound, and Tech Focus",
+ "description": "Daily market briefing for November 18, 2026. Coverage includes Nvidia earnings, macroeconomic data, and global trade updates. Sources: CNBC, Yahoo Finance, MarketWatch, Bloomberg.",
+ "tags": [
+  "Nvidia",
+  "Stock Market",
+  "Bitcoin",
+  "Federal Reserve",
+  "Tech Stocks",
+  "Wall Street",
+  "Economy",
+  "Earnings",
+  "AI Trade",
+  "Inflation"
+ ],
+ "thumbnail_text": "Nvidia Beats Earnings",
+ "mood": "neutral",
+ "segments": [
+  {
+   "id": "s1",
+   "kind": "hook",
+   "heading": "Nvidia Earnings Revive Markets",
+   "narration": "Nvidia sparks a broad market recovery with blowout quarterly results and a massive revenue forecast, helping Wall Street look past recent tech sector turbulence. At the same time, major geopolitical meetings get underway in China, and traders prepare for upcoming central bank policy updates.",
+   "bullets": [
+    "Nvidia blows past quarterly estimates",
+    "Futures point to a strong rebound",
+    "Central bank minutes arrive today"
+   ],
+   "ticker": "NVDA",
+   "sentiment": "bullish",
+   "sources": [
+    "Yahoo Finance",
+    "CNBC"
+   ]
+  },
+  {
+   "id": "s2",
+   "kind": "market",
+   "heading": "Market Snapshot Today",
+   "narration": "The S&P 500 closed at 7,340, down 1.0%. The Nasdaq Composite finished at 24,328, falling 0.7%. The Dow Jones lost 1.6% to settle at 50,759. Meanwhile, the VIX volatility index jumped 11.1% to 25.46, and the United States 10-year Treasury yield hovered at 5.1%.",
+   "bullets": [
+    "S&P 500 drops to 7,340",
+    "Nasdaq declines to 24,328",
+    "VIX volatility index jumps to 25.46",
+    "US 10-year yield holds at 5.1%"
+   ],
+   "ticker": "^GSPC",
+   "sentiment": "bearish",
+   "sources": [
+    "Yahoo Finance"
+   ]
+  },
+  {
+   "id": "s3",
+   "kind": "topic",
+   "heading": "Nvidia Results Ease Fears",
+   "narration": "Nvidia posted third-quarter results that easily beat Wall Street expectations, paired with an upbeat outlook reaching $130 billion that quickly injected fresh optimism back into the artificial intelligence trade. The blowout figures helped alleviate mounting investor concerns surrounding the recent leadership transition and ongoing regulatory scrutiny. Despite the positive reception to the financial report, company representatives confirmed that former chief executive Jensen Huang will not return to the role, while ongoing federal inquiries continue to examine parts distribution networks. In addition, broader market sentiment remains watchful as trade restrictions on chip exports to China continue to shape the competitive landscape for major semiconductor manufacturers.",
+   "bullets": [
+    "Q3 results beat estimates comfortably",
+    "Upbeat outlook targets huge revenue",
+    "Leadership transition concerns ease",
+    "China chip restrictions remain in focus"
+   ],
+   "ticker": "NVDA",
+   "sentiment": "bullish",
+   "sources": [
+    "Yahoo Finance",
+    "CNBC",
+    "Investing.com",
+    "MarketWatch"
+   ]
+  },
+  {
+   "id": "s4",
+   "kind": "topic",
+   "heading": "Global Leaders Meet in Asia",
+   "narration": "Global trade and economic policies take center stage as international leaders gather in Shenzhen for high-level meetings alongside APEC discussions. Discussions focus heavily on removing trade and investment barriers, even as regional tensions surrounding critical supply chains and industrial competitiveness persist. Manufacturing executives from major mining firms are scheduled to meet with regional officials to address ongoing pricing pressures in key commodities like iron ore. Meanwhile, energy markets show resilient third-quarter performance across multiple oil and gas operators, even as broader industrial demand indicators present a mixed picture across international manufacturing sectors.",
+   "bullets": [
+    "APEC leaders gather in Shenzhen",
+    "Trade and investment barriers discussed",
+    "Mining executives meet regional officials",
+    "Energy sector earnings stay resilient"
+   ],
+   "ticker": "CL=F",
+   "sentiment": "neutral",
+   "sources": [
+    "CNBC",
+    "Investing.com",
+    "Yahoo Finance"
+   ]
+  },
+  {
+   "id": "s5",
+   "kind": "topic",
+   "heading": "Crypto Retracement Persists",
+   "narration": "Digital asset markets continue to navigate a cooling phase, with Bitcoin trading near 64,368 dollars and Ethereum holding around 1,800 dollars following recent downward pressure. Technical readings place Bitcoin near its moving averages and key retracement levels, with market participants closely monitoring volume indicators to gauge the strength of buyer interest. While large holders have moved substantial amounts of alternative tokens across private wallets without immediate exchange transfers, overall market liquidity remains constrained. Observers note that historical volatility patterns resemble previous consolidation cycles, leaving the sector searching for clear signals of a durable price base.",
+   "bullets": [
+    "Bitcoin trades near 64,368 dollars",
+    "Ethereum holds around 1,800 dollars",
+    "Large token movements noted off exchanges",
+    "Volume indicators signal weak momentum"
+   ],
+   "ticker": "BTC-USD",
+   "sentiment": "neutral",
+   "sources": [
+    "Yahoo Finance",
+    "CoinDesk",
+    "Jason Pizzino"
+   ]
+  },
+  {
+   "id": "s6",
+   "kind": "ahead",
+   "heading": "Key Economic Events Ahead",
+   "narration": "Macroeconomic catalysts will dominate the remainder of the week as investors await crucial data releases and central bank announcements. Today at 2:00 PM Eastern Time, the Federal Reserve will release the latest FOMC meeting minutes, providing deeper insight into future monetary policy direction. On Thursday, initial jobless claims and the Philadelphia Fed Manufacturing Index will be published at 8:30 AM Eastern Time. Later in the week, revised consumer sentiment and inflation expectations data will arrive on Friday morning, alongside scheduled remarks from European Central Bank leadership.",
+   "bullets": [
+    "FOMC meeting minutes out today at 2 PM ET",
+    "Jobless claims and Philly Fed out Thursday",
+    "Consumer sentiment data arrives Friday"
+   ],
+   "ticker": "^TNX",
+   "sentiment": "neutral",
+   "sources": [
+    "Forex Factory"
+   ]
+  },
+  {
+   "id": "s7",
+   "kind": "outro",
+   "heading": "Stay Updated Tomorrow",
+   "narration": "This presentation is for informational purposes only and does not constitute financial advice. Follow for the update tomorrow.",
+   "bullets": [
+    "Not financial advice",
+    "Follow for daily updates"
+   ],
+   "ticker": null,
+   "sentiment": "neutral",
+   "sources": [
+    "Coin Ticker 360"
+   ]
+  }
+ ],
+ "words": 483,
+ "model": "gemini-3.5-flash-lite",
+ "n_notes": 1,
+ "n_news": 241
+}
