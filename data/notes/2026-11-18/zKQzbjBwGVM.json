@@ -1,0 +1,111 @@
+{
+ "market_relevance": 10,
+ "scope": "global",
+ "kind": "market update",
+ "summary": "Jeremy Lefebvre reviews recent declines across major indexes, crypto, commodities, and individual stocks. He argues that broad market sell-offs create opportunities for disciplined investors while punishing those using high leverage or poor asset allocation. He covers his recent sale of some Cheesecake Factory shares after a massive run and discusses several other stocks he bought or follows.",
+ "digest_it": "Il mercato azionario e le criptovalute hanno subito correzioni recenti, ma l'autore le vede come normali fluttuazioni e occasioni per investitori non indebitati. Spiega perché ha venduto parte delle sue azioni di Cheesecake Factory e analizza altre aziende tra cui Salesforce, SoFi e American Express.",
+ "author_tone": "cautious",
+ "tone_evidence": "He warns viewers against over-leveraging and sloppy portfolio management while highlighting recent broad-market pullbacks.",
+ "key_points": [
+  {
+   "point": "In under a month and a half, the S&P 500 is down 6.5%, NASDAQ down 13.5%, AMD down over 20%, Micron down 35%, Nvidia down 37%, CoreWeave down 48%, and SanDisk down 54%.",
+   "timestamp": "00:10"
+  },
+  {
+   "point": "Bitcoin is down over 23%, Ethereum down 27%, silver down 21.5%, and gold down double digits over the past month.",
+   "timestamp": "03:56"
+  },
+  {
+   "point": "WTI crude oil is down 21% month-to-date, trading around the mid-80s.",
+   "timestamp": "05:51"
+  },
+  {
+   "point": "The author sold 1,222 shares of Cheesecake Factory (CAKE) from a private portfolio, capturing gains after buying around $30-35.",
+   "timestamp": "28:15"
+  },
+  {
+   "point": "Recent stock purchases include CELH (around the low 30s), Wynn Resorts, Sofi, Netflix, and American Express.",
+   "timestamp": "33:10"
+  }
+ ],
+ "moments": [
+  {
+   "timestamp": "00:00",
+   "topic": "Recent market pullback overview",
+   "claim": "Major market indexes and high-flying tech stocks experienced steep pullbacks over the past month and a half.",
+   "details": "The S&P 500 fell 6.5%, NASDAQ dropped 13.5%, and several semiconductor stocks like Micron, Nvidia, CoreWeave, and SanDisk dropped between 35% and 54% in less than two months. The speaker frames this as a normal market cycle where large institutions control the short-term direction.",
+   "surprise": "SanDisk dropping 54% in less than a month and a half."
+  },
+  {
+   "timestamp": "03:25",
+   "topic": "Commodities, crypto and inflation",
+   "claim": "Bitcoin, Ethereum, gold, silver, copper, and oil have all suffered significant drops over the past month.",
+   "details": "Bitcoin fell over 23% and Ethereum dropped 27% in a month. Silver is down 21.5%, gold is down double digits, and copper dropped 14%. WTI crude oil dropped 21% month-to-date, which the speaker notes could be a positive signal for future inflation numbers.",
+   "surprise": "Gold dropping by double-digit percentages in a single month is described as very unusual."
+  },
+  {
+   "timestamp": "06:17",
+   "topic": "Why portfolios get wrecked",
+   "claim": "Investors lose money during drawdowns primarily due to laziness, excessive risk, or lack of fundamental knowledge.",
+   "details": "The speaker categorizes struggling investors into three groups: those who do not monitor or research their holdings, those taking too much risk through leverage or heavy concentration in one sector, and those lacking fundamental understanding of financial statements and valuations.",
+   "surprise": "Over-concentrating entire portfolios into semiconductor stocks like Nvidia or Micron proved disastrous for undisciplined retail investors."
+  },
+  {
+   "timestamp": "24:34",
+   "topic": "Anthropic IPO and SaaS impact",
+   "claim": "Anthropic's upcoming public offering at an expected price of $83 per share will drain capital from other SaaS stocks.",
+   "details": "The speaker notes that massive upcoming IPOs like Anthropic tend to draw liquidity out of existing software-as-a-service (SaaS) companies as investors reallocate capital into the new offering, putting extra pressure on already beaten-down SaaS valuations.",
+   "surprise": "Anthropic's IPO is highlighted as one of the largest liquidity sinks in recent market history."
+  },
+  {
+   "timestamp": "28:04",
+   "topic": "Selling Cheesecake Factory shares",
+   "claim": "The author trimmed his Cheesecake Factory (CAKE) position after significant multi-year gains.",
+   "details": "After purchasing shares between $30 and $35 over the past few years, the stock ran up to around $120. The author sold 1,222 shares from a private portfolio to lock in profits, explaining that the rapid rise had pulled future expected returns forward.",
+   "surprise": "Cheesecake Factory shares appreciated over 260% from the author's original purchase prices."
+  },
+  {
+   "timestamp": "33:04",
+   "topic": "New stock buys and price targets",
+   "claim": "The author details his recent purchases in CELH, Wynn Resorts, SoFi, Netflix, and American Express.",
+   "details": "New purchases include Celsius (CELH) in the low 30s, Wynn Resorts in the low 80s, SoFi in the 14s, Netflix around 590, and American Express around 315. He outlines long-term conservative and base-case growth models for these companies pointing to strong multi-year compounding potential.",
+   "surprise": "The author outlines base-case revenue growth models expecting SoFi to grow into a top-10 financial institution over the next decade."
+  }
+ ],
+ "tickers": [
+  "SPY",
+  "QQQ",
+  "AMD",
+  "MU",
+  "NVDA",
+  "BTC",
+  "ETH",
+  "SLV",
+  "GLD",
+  "GSG"
+ ],
+ "predictions": [
+  "SoFi will become a top-10 financial institution over the next 10 years",
+  "Celsius will see mid-20s compounded annual growth and return a mid-20s growth rate over coming years",
+  "American Express will deliver around 30% compounded annual growth in a base case scenario"
+ ],
+ "catalysts": [
+  "Salesforce earnings in two weeks",
+  "Anthropic IPO scheduled soon"
+ ],
+ "rumors": [],
+ "curiosities": [
+  "The author mentions managing multiple million-dollar portfolios while wearing a baseball cap in a bedroom setting."
+ ],
+ "promo": true,
+ "language": "en",
+ "video_id": "zKQzbjBwGVM",
+ "title": "I Just Sold",
+ "author": "Jeremy Lefebvre Makes Money",
+ "url": "https://www.youtube.com/watch?v=zKQzbjBwGVM",
+ "published": "2026-11-18T23:49:17+00:00",
+ "duration_min": 40,
+ "partial": false,
+ "analysed_at": "2026-11-19T01:13:30.678355+00:00",
+ "model": "gemini-3.5-flash-lite"
+}

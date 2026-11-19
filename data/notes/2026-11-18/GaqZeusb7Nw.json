@@ -1,0 +1,100 @@
+{
+ "market_relevance": 10,
+ "scope": "global",
+ "kind": "market update",
+ "summary": "The speaker analyzes current market conditions across major stock indices, the US dollar, crude oil, gold, copper, and bitcoin. Stock markets remain in a broader downtrend with selling pressure dominating, while the US dollar continues to climb on safe-haven flows. Commodities like oil, gold, and copper show weakness, pointing toward an overall defensive stance in the economy. Key support and resistance levels are examined for each asset class to identify potential turning points. Without clear trend reversals or increased buying volume, the current cautious outlook persists.",
+ "digest_it": "L'autore esamina l'andamento di indici azionari, dollaro, petrolio, oro e bitcoin evidenziando una fase di debolezza generale e pressione ribassista. Si evidenzia la forza del dollaro come bene rifugio mentre le materie prime e i mercati azionari lottano contro importanti livelli di supporto. Senza segnali di inversione e volumi d'acquisto convincenti, la cautela rimane d'obbligo.",
+ "author_tone": "bearish",
+ "tone_evidence": "The speaker emphasizes that money is rushing to safe places and that nothing seems safe in the current market environment.",
+ "key_points": [
+  {
+   "point": "S&P 500 is in a downtrend with key resistance around 7600 points.",
+   "timestamp": "00:55"
+  },
+  {
+   "point": "Nasdaq faces a critical midpoint hurdle at 29,000 points.",
+   "timestamp": "02:37"
+  },
+  {
+   "point": "Dow Jones tests the 50,000 point midpoint level following February highs.",
+   "timestamp": "03:55"
+  },
+  {
+   "point": "Russell small caps break below support and January peaks, trading near 2,890 points.",
+   "timestamp": "04:49"
+  },
+  {
+   "point": "US dollar continues climbing, with key support watchers looking at a break beneath 102.7.",
+   "timestamp": "06:26"
+  },
+  {
+   "point": "Gold and base metals face heavy selling pressure, testing major support zones.",
+   "timestamp": "08:59"
+  },
+  {
+   "point": "Bitcoin sees continued downward drift with key resistance levels around 70,000 to 75,000 dollars.",
+   "timestamp": "10:33"
+  }
+ ],
+ "moments": [
+  {
+   "timestamp": "00:55",
+   "topic": "S&P 500 and Nasdaq technical outlook",
+   "claim": "Stock indices remain in a clear downtrend with important support levels being tested.",
+   "details": "The S&P 500 faces high failure risk around 7,600 points unless it breaks above midpoint resistance. Nasdaq trades below the July bottom with a key reversal level set at 29,000 points.",
+   "surprise": "The S&P 500 has not broken down much further yet, still sitting at crucial support."
+  },
+  {
+   "timestamp": "03:55",
+   "topic": "Dow Jones and Russell small cap weakness",
+   "claim": "Dow Jones and small cap stocks show significant weakness below previous highs.",
+   "details": "Dow Jones is back near the 50,000 point psychological midpoint and below the February peak. The Russell small cap index has broken support and January peaks, pointing to broader economic softness.",
+   "surprise": "Small cap stocks have broken down from major support levels established in January."
+  },
+  {
+   "timestamp": "06:26",
+   "topic": "US dollar strength and commodity pressure",
+   "claim": "The US dollar climbs as a safe haven while commodities experience ongoing selling pressure.",
+   "details": "The US dollar prints consecutive higher lows after August, while crude oil, gold, and copper show sustained weakness and breakdown from major support zones.",
+   "surprise": "Gold experienced a continuous bloodbath after breaking down from support at 3,900 to 4,000 dollars per ounce."
+  },
+  {
+   "timestamp": "10:33",
+   "topic": "Bitcoin price action and market summary",
+   "claim": "Bitcoin exhibits ongoing downward pressure with temporary relief failing to reverse the trend.",
+   "details": "Bitcoin continues its slide with support attempts failing to trigger trend changes. The speaker highlights that bears remain in control across equities, commodities, and crypto.",
+   "surprise": "Despite some green shoots on weekends, no structural trend changes have occurred for Bitcoin."
+  }
+ ],
+ "tickers": [
+  "SPY",
+  "QQQ",
+  "DIA",
+  "IWM",
+  "DXY",
+  "CL",
+  "GC",
+  "HG",
+  "BTC"
+ ],
+ "predictions": [
+  "S&P 500 risk of failure remains high below 7600 points",
+  "Nasdaq must reclaim 29000 points to improve market picture",
+  "US dollar needs a break beneath 102.7 to signal a trend change",
+  "Gold needs a break above 3900 to 4000 dollars to shift bearish momentum"
+ ],
+ "catalysts": [],
+ "rumors": [],
+ "curiosities": [],
+ "promo": true,
+ "language": "en",
+ "video_id": "GaqZeusb7Nw",
+ "title": "The Market Is Running Out of Time... Something Has to Change",
+ "author": "Michael Pizzino",
+ "url": "https://www.youtube.com/watch?v=GaqZeusb7Nw",
+ "published": "2026-11-18T21:59:11+00:00",
+ "duration_min": 14,
+ "partial": false,
+ "analysed_at": "2026-11-19T01:13:44.035779+00:00",
+ "model": "gemini-3.5-flash-lite"
+}

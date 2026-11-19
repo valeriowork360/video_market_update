@@ -196,5 +196,23 @@
   "first_seen": "2026-11-18T19:06:01.707058+00:00",
   "tries": 1,
   "done_at": "2026-11-18T19:06:41.991193+00:00"
+ },
+ "zKQzbjBwGVM": {
+  "status": "done",
+  "attempts": 0,
+  "channel": "Financial Education 2",
+  "title": "I Just Sold",
+  "done_at": "2026-11-19T01:13:30.678614+00:00",
+  "duplicate": true,
+  "tries": 1
+ },
+ "GaqZeusb7Nw": {
+  "status": "done",
+  "attempts": 0,
+  "channel": "Michael Pizzino",
+  "title": "The Market Is Running Out of Time... Something Has to Change",
+  "first_seen": "2026-11-19T01:13:30.679325+00:00",
+  "tries": 1,
+  "done_at": "2026-11-19T01:13:44.036004+00:00"
  }
 }
