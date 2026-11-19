@@ -214,5 +214,14 @@
   "first_seen": "2026-11-19T01:13:30.679325+00:00",
   "tries": 1,
   "done_at": "2026-11-19T01:13:44.036004+00:00"
+ },
+ "zHJbCnRyYJs": {
+  "status": "pending",
+  "attempts": 0,
+  "channel": "Jeremy Lefebvre Clips",
+  "title": "SELL-OFF vs ROTATION! Don't Misread This Market",
+  "first_seen": "2026-11-19T04:32:18.594956+00:00",
+  "tries": 1,
+  "last_error": "Gemini non riesce ad aprire questo video adesso (live appena finita, video riservato o rimosso)"
  }
 }
