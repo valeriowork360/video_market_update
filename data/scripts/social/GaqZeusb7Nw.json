@@ -1,0 +1,460 @@
+{
+ "it": [
+  {
+   "title": "S&P 500 e Nasdaq sul filo del rasoio",
+   "hook": "RISCHIO CROLLO INDICI",
+   "beats": [
+    {
+     "say": "S&P 500 e Nasdaq rischiano un nuovo crollo sui supporti chiave.",
+     "show": "RISCHIO CROLLO INDICI",
+     "figure": "7.600"
+    },
+    {
+     "say": "I principali indici azionari americani rimangono intrappolati in un netto trend ribassista.",
+     "show": "TREND AL RIBASSO",
+     "figure": ""
+    },
+    {
+     "say": "La tenuta attuale dei minimi non basta: i venditori mantengono il pieno controllo.",
+     "show": "VENDITORI AL COMANDO",
+     "figure": ""
+    },
+    {
+     "say": "Il Nasdaq deve recuperare 29.000 punti per allontanare lo spettro di nuovi minimi.",
+     "show": "LIVELLO CHIAVE Nasdaq",
+     "figure": "29.000"
+    },
+    {
+     "say": "Senza una reazione immediata la discesa proseguirà. Segui per aggiornamenti.",
+     "show": "OCCHI SUI SUPPORTI",
+     "figure": ""
+    }
+   ],
+   "origin": "Michael Pizzino",
+   "source_video": "The Market Is Running Out of Time... Something Has to Change",
+   "narration": "S&P 500 e Nasdaq rischiano un nuovo crollo sui supporti chiave. I principali indici azionari americani rimangono intrappolati in un netto trend ribassista. La tenuta attuale dei minimi non basta: i venditori mantengono il pieno controllo. Il Nasdaq deve recuperare 29.000 punti per allontanare lo spettro di nuovi minimi. Senza una reazione immediata la discesa proseguirà. Segui per aggiornamenti.",
+   "ticker": "^GSPC",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "S&P 500 e Nasdaq restano sotto forte pressione sui supporti critici. Segui per l'aggiornamento di domani.",
+   "hashtags": [
+    "#sp500",
+    "#nasdaq",
+    "#borsausa",
+    "#wallstreet",
+    "#trading",
+    "#finanza"
+   ]
+  },
+  {
+   "title": "Dow Jones e Small Cap rompono i minimi",
+   "hook": "SMALL CAP CEDONO",
+   "beats": [
+    {
+     "say": "Le Small Cap rompono i supporti di inizio anno con forza.",
+     "show": "SMALL CAP CEDONO",
+     "figure": "50.000"
+    },
+    {
+     "say": "Il Dow Jones scivola verso la soglia psicologica dei 50.000 punti.",
+     "show": "DOW SOTTO PRESSIONE",
+     "figure": "50.000"
+    },
+    {
+     "say": "La debolezza delle piccole imprese anticipa spesso un rallentamento economico molto più ampio.",
+     "show": "SEGNALE ECONOMICO NEGATIVO",
+     "figure": ""
+    },
+    {
+     "say": "Senza il recupero dei massimi di gennaio la struttura resta gravemente compromessa.",
+     "show": "MASSIMI DA RECUPERARE",
+     "figure": ""
+    },
+    {
+     "say": "La pressione ribassista non accenna a diminuire. Segui per aggiornamenti.",
+     "show": "TREND ANCORA DEBOLE",
+     "figure": ""
+    }
+   ],
+   "origin": "Michael Pizzino",
+   "source_video": "The Market Is Running Out of Time... Something Has to Change",
+   "narration": "Le Small Cap rompono i supporti di inizio anno con forza. Il Dow Jones scivola verso la soglia psicologica dei 50.000 punti. La debolezza delle piccole imprese anticipa spesso un rallentamento economico molto più ampio. Senza il recupero dei massimi di gennaio la struttura resta gravemente compromessa. La pressione ribassista non accenna a diminuire. Segui per aggiornamenti.",
+   "ticker": "IWM",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Dow Jones e Small Cap confermano la debolezza diffusa del mercato azionario. Segui per l'aggiornamento di domani.",
+   "hashtags": [
+    "#dowjones",
+    "#russell2000",
+    "#smallcap",
+    "#borse",
+    "#mercatifinanziari",
+    "#economia"
+   ]
+  },
+  {
+   "title": "Dollaro forte e materie prime al collasso",
+   "hook": "ORO IN CADUTA",
+   "beats": [
+    {
+     "say": "L'oro affonda dopo la rottura di 3.900 dollari l'oncia.",
+     "show": "ORO IN CADUTA",
+     "figure": "3.900 $"
+    },
+    {
+     "say": "Il dollaro americano sale senza sosta attirando flussi come bene rifugio.",
+     "show": "DOLLARO IN RALLY",
+     "figure": "102,7"
+    },
+    {
+     "say": "Petrolio, rame e metalli preziosi cedono terreno all'unisono sotto la pressione valutaria.",
+     "show": "COMMODITIES SOTTO TIRO",
+     "figure": ""
+    },
+    {
+     "say": "Solo una discesa del dollaro sotto 102,7 alleggerirà le materie prime.",
+     "show": "SOGLIA DEL DOLLARO",
+     "figure": "102,7"
+    },
+    {
+     "say": "Il contesto macroeconomico resta profondamente difensivo. Segui per aggiornamenti.",
+     "show": "ASSET DIFENSIVI FORTI",
+     "figure": ""
+    }
+   ],
+   "origin": "Michael Pizzino",
+   "source_video": "The Market Is Running Out of Time... Something Has to Change",
+   "narration": "L'oro affonda dopo la rottura di 3.900 dollari l'oncia. Il dollaro americano sale senza sosta attirando flussi come bene rifugio. Petrolio, rame e metalli preziosi cedono terreno all'unisono sotto la pressione valutaria. Solo una discesa del dollaro sotto 102,7 alleggerirà le materie prime. Il contesto macroeconomico resta profondamente difensivo. Segui per aggiornamenti.",
+   "ticker": "DX-Y.NYB",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Il dollaro americano schiaccia le materie prime mentre l'oro cede i supporti chiave. Segui per l'aggiornamento di domani.",
+   "hashtags": [
+    "#dollaro",
+    "#oro",
+    "#petrolio",
+    "#materieprime",
+    "#inflazione",
+    "#valute"
+   ]
+  },
+  {
+   "title": "Bitcoin intrappolato nel canale ribassista",
+   "hook": "Bitcoin SENZA FORZA",
+   "beats": [
+    {
+     "say": "Bitcoin non riesce a invertire la tendenza ribassista in corso.",
+     "show": "Bitcoin SENZA FORZA",
+     "figure": ""
+    },
+    {
+     "say": "I rimbalzi temporanei si scontrano regolarmente con volumi di vendita elevati.",
+     "show": "RIMBALZI RESPINTI SUBITO",
+     "figure": ""
+    },
+    {
+     "say": "I rialzisti del fine settimana non hanno generato alcuna inversione strutturale reale.",
+     "show": "FALSI SEGNALI BULLISH",
+     "figure": ""
+    },
+    {
+     "say": "I venditori detengono il controllo simultaneo su azioni, materie prime e criptovalute.",
+     "show": "PRESSIONE RIBASSISTA TOTALE",
+     "figure": ""
+    },
+    {
+     "say": "La cautela resta d'obbligo finché mancano i volumi. Segui per aggiornamenti.",
+     "show": "VOLUMI ASSENTI",
+     "figure": ""
+    }
+   ],
+   "origin": "Michael Pizzino",
+   "source_video": "The Market Is Running Out of Time... Something Has to Change",
+   "narration": "Bitcoin non riesce a invertire la tendenza ribassista in corso. I rimbalzi temporanei si scontrano regolarmente con volumi di vendita elevati. I rialzisti del fine settimana non hanno generato alcuna inversione strutturale reale. I venditori detengono il controllo simultaneo su azioni, materie prime e criptovalute. La cautela resta d'obbligo finché mancano i volumi. Segui per aggiornamenti.",
+   "ticker": "BTC-USD",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Bitcoin fatica a confermare i rimbalzi mentre i ribassisti mantengono il controllo. Segui per l'aggiornamento di domani.",
+   "hashtags": [
+    "#bitcoin",
+    "#crypto",
+    "#btc",
+    "#criptovalute",
+    "#analisitecnica",
+    "#tradingitalia"
+   ]
+  }
+ ],
+ "en": [
+  {
+   "title": "S&P 500 and Nasdaq Test Crucial Floors",
+   "hook": "INDEX BREAKDOWN RISK",
+   "beats": [
+    {
+     "say": "The S&P 500 faces major breakdown risk right at key support.",
+     "show": "INDEX BREAKDOWN RISK",
+     "figure": "7,600"
+    },
+    {
+     "say": "Major US stock benchmarks remain locked in an aggressive broader downtrend.",
+     "show": "DOWNTREND IN CONTROL",
+     "figure": ""
+    },
+    {
+     "say": "Current support is holding for now, but buyers lack any real momentum.",
+     "show": "WEAK BUYING VOLUME",
+     "figure": ""
+    },
+    {
+     "say": "Nasdaq needs to reclaim 29,000 points to trigger any structural relief.",
+     "show": "CRITICAL REVERSAL LEVEL",
+     "figure": "29,000"
+    },
+    {
+     "say": "A breakdown here opens up deeper losses. Follow for updates.",
+     "show": "WATCH KEY LEVELS",
+     "figure": ""
+    }
+   ],
+   "origin": "Michael Pizzino",
+   "source_video": "The Market Is Running Out of Time... Something Has to Change",
+   "narration": "The S&P 500 faces major breakdown risk right at key support. Major US stock benchmarks remain locked in an aggressive broader downtrend. Current support is holding for now, but buyers lack any real momentum. Nasdaq needs to reclaim 29,000 points to trigger any structural relief. A breakdown here opens up deeper losses. Follow for updates.",
+   "ticker": "^GSPC",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "The S&P 500 and Nasdaq struggle at critical support levels as selling pressure dominates. Follow for tomorrow's update.",
+   "hashtags": [
+    "#stockmarket",
+    "#sp500",
+    "#nasdaq",
+    "#wallstreet",
+    "#trading",
+    "#investing"
+   ]
+  },
+  {
+   "title": "Dow Jones and Small Caps Crack Support",
+   "hook": "SMALL CAPS CRACK",
+   "beats": [
+    {
+     "say": "Small cap stocks have officially broken below their January support levels.",
+     "show": "SMALL CAPS CRACK",
+     "figure": "50,000"
+    },
+    {
+     "say": "The Dow Jones is sliding back toward the 50,000 psychological threshold.",
+     "show": "DOW RETREATS FAST",
+     "figure": "50,000"
+    },
+    {
+     "say": "Persistent weakness in domestic small caps reveals severe underlying economic fragility.",
+     "show": "BROADER ECONOMIC DRAG",
+     "figure": ""
+    },
+    {
+     "say": "Failure to quickly reclaim prior peaks keeps sellers entirely in charge.",
+     "show": "SELLERS IN CHARGE",
+     "figure": ""
+    },
+    {
+     "say": "The market breadth continues to deteriorate rapidly. Follow for updates.",
+     "show": "BEARISH MARKET BREADTH",
+     "figure": ""
+    }
+   ],
+   "origin": "Michael Pizzino",
+   "source_video": "The Market Is Running Out of Time... Something Has to Change",
+   "narration": "Small cap stocks have officially broken below their January support levels. The Dow Jones is sliding back toward the 50,000 psychological threshold. Persistent weakness in domestic small caps reveals severe underlying economic fragility. Failure to quickly reclaim prior peaks keeps sellers entirely in charge. The market breadth continues to deteriorate rapidly. Follow for updates.",
+   "ticker": "IWM",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "The Dow Jones retreats while small caps breach critical support. Follow for tomorrow's update.",
+   "hashtags": [
+    "#dowjones",
+    "#russell2000",
+    "#smallcaps",
+    "#economy",
+    "#stocks",
+    "#trading"
+   ]
+  },
+  {
+   "title": "US Dollar Surges as Commodities Crash",
+   "hook": "GOLD CRACKS SUPPORT",
+   "beats": [
+    {
+     "say": "Gold suffered a sharp breakdown after losing 3,900 dollars.",
+     "show": "GOLD CRACKS SUPPORT",
+     "figure": "$3,900"
+    },
+    {
+     "say": "The US dollar continues climbing as investors seek safe havens.",
+     "show": "DOLLAR GAINS MOMENTUM",
+     "figure": "102.7"
+    },
+    {
+     "say": "Crude oil, copper, and gold are all sliding together under dollar strength.",
+     "show": "COMMODITIES UNDER PRESSURE",
+     "figure": ""
+    },
+    {
+     "say": "The greenback needs to drop below 102.7 to relieve selling pressure.",
+     "show": "PIVOTAL DOLLAR LEVEL",
+     "figure": "102.7"
+    },
+    {
+     "say": "Defensive positioning dominates across all global assets. Follow for updates.",
+     "show": "DEFENSIVE MARKET REGIME",
+     "figure": ""
+    }
+   ],
+   "origin": "Michael Pizzino",
+   "source_video": "The Market Is Running Out of Time... Something Has to Change",
+   "narration": "Gold suffered a sharp breakdown after losing 3,900 dollars. The US dollar continues climbing as investors seek safe havens. Crude oil, copper, and gold are all sliding together under dollar strength. The greenback needs to drop below 102.7 to relieve selling pressure. Defensive positioning dominates across all global assets. Follow for updates.",
+   "ticker": "DX-Y.NYB",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "A strengthening US dollar triggers sharp selling across gold, oil, and copper. Follow for tomorrow's update.",
+   "hashtags": [
+    "#gold",
+    "#commodities",
+    "#usd",
+    "#crudeoil",
+    "#forex",
+    "#markets"
+   ]
+  },
+  {
+   "title": "Bitcoin Struggles Against Relentless Downtrend",
+   "hook": "Bitcoin SLIDES LOWER",
+   "beats": [
+    {
+     "say": "Bitcoin continues sliding as temporary relief rallies fail to hold.",
+     "show": "Bitcoin SLIDES LOWER",
+     "figure": ""
+    },
+    {
+     "say": "Every bounce attempt is quickly met with heavy institutional selling.",
+     "show": "BOUNCES SOLD OFF",
+     "figure": ""
+    },
+    {
+     "say": "Weekend green shoots failed to produce any meaningful structural trend change.",
+     "show": "NO TREND REVERSAL",
+     "figure": ""
+    },
+    {
+     "say": "Bears remain firmly in control across equities, commodities, and crypto simultaneously.",
+     "show": "BEARS DOMINATE ASSETS",
+     "figure": ""
+    },
+    {
+     "say": "Caution dominates until fresh buying volume steps in. Follow for updates.",
+     "show": "WAIT FOR VOLUME",
+     "figure": ""
+    }
+   ],
+   "origin": "Michael Pizzino",
+   "source_video": "The Market Is Running Out of Time... Something Has to Change",
+   "narration": "Bitcoin continues sliding as temporary relief rallies fail to hold. Every bounce attempt is quickly met with heavy institutional selling. Weekend green shoots failed to produce any meaningful structural trend change. Bears remain firmly in control across equities, commodities, and crypto simultaneously. Caution dominates until fresh buying volume steps in. Follow for updates.",
+   "ticker": "BTC-USD",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Bitcoin fails to spark a structural trend reversal as selling pressure persists across all markets. Follow for tomorrow's update.",
+   "hashtags": [
+    "#bitcoin",
+    "#crypto",
+    "#btc",
+    "#cryptocurrency",
+    "#technicalanalysis",
+    "#marketupdate"
+   ]
+  }
+ ],
+ "carousels": {
+  "it": {
+   "topic": "Mercati sotto assedio ribassista globale",
+   "caption": "Azioni, materie prime e Bitcoin affrontano una forte pressione di vendita mentre il dollaro rafforza il suo ruolo difensivo. Segui per l'aggiornamento di domani.",
+   "sentiment": "bearish",
+   "ticker": null,
+   "slides": [
+    {
+     "title": "I mercati sono senza tempo",
+     "body": "Azioni, materie prime e criptovalute affrontano livelli di supporto critici mentre il dollaro sale senza sosta."
+    },
+    {
+     "title": "Indici sul baratro",
+     "body": "S&P 500 rischia grosso vicino a 7.600 punti, mentre il Nasdaq deve riconquistare 29.000 punti per allontanare nuovi minimi."
+    },
+    {
+     "title": "Small cap in affanno",
+     "body": "Il Dow Jones torna verso 50.000 punti e le piccole imprese cedono i minimi di gennaio, confermando la debolezza economica."
+    },
+    {
+     "title": "Crollo delle materie prime",
+     "body": "L'oro ha subito vendite pesanti sotto 3.900 dollari l'oncia, mentre petrolio e rame seguono la discesa contro il dollaro forte."
+    },
+    {
+     "title": "Dollaro al comando",
+     "body": "Il dollaro americano continua a formare minimi crescenti. Una discesa sotto 102,7 resta necessaria per ridare fiato agli asset rischiosi."
+    },
+    {
+     "title": "Bitcoin senza spinta",
+     "body": "I rimbalzi temporanei su Bitcoin non invertono il trend. La prudenza è d'obbligo. Segui per l'aggiornamento di domani."
+    }
+   ],
+   "hashtags": [
+    "#mercatifinanziari",
+    "#wallstreet",
+    "#sp500",
+    "#dollaro",
+    "#oro",
+    "#bitcoin",
+    "#trading",
+    "#finanza"
+   ]
+  },
+  "en": {
+   "topic": "Global Markets Under Selling Pressure",
+   "caption": "Stock indices, commodities, and Bitcoin struggle near critical support as safe-haven dollar flows surge. Follow for tomorrow's update.",
+   "sentiment": "bearish",
+   "ticker": null,
+   "slides": [
+    {
+     "title": "Markets Are Running Out of Time",
+     "body": "Equities, commodities, and crypto are testing make-or-break support levels as capital rushes into defensive assets."
+    },
+    {
+     "title": "Tech and Benchmarks Teeter",
+     "body": "The S&P 500 faces high failure risk near 7,600 points, while the Nasdaq must reclaim 29,000 to halt its slide."
+    },
+    {
+     "title": "Small Caps Break Support",
+     "body": "The Dow Jones retreats toward 50,000 points and small cap stocks crack below their January lows, signaling macro weakness."
+    },
+    {
+     "title": "Commodity Bloodbath Unfolds",
+     "body": "Gold collapsed after falling below 3,900 dollars, with crude oil and copper tumbling alongside it under dollar strength."
+    },
+    {
+     "title": "Dollar Safe-Haven Surges",
+     "body": "The US dollar posts consistent higher lows. It must drop beneath 102.7 to signal any genuine trend relief."
+    },
+    {
+     "title": "Crypto Lacks Trend Reversal",
+     "body": "Bitcoin relief rallies continue failing without buying volume. Defensive discipline is essential. Follow for tomorrow's update."
+    }
+   ],
+   "hashtags": [
+    "#stockmarket",
+    "#wallstreet",
+    "#sp500",
+    "#nasdaq",
+    "#bitcoin",
+    "#gold",
+    "#commodities",
+    "#investing"
+   ]
+  }
+ }
+}

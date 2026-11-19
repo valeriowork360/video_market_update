@@ -1,0 +1,652 @@
+{
+ "it": [
+  {
+   "title": "Crollo sui chip: Nasdaq giù del 13,5%",
+   "hook": "Crollo Nasdaq",
+   "beats": [
+    {
+     "say": "Il Nasdaq ha perso il 13,5% in sei settimane.",
+     "show": "Crollo Nasdaq",
+     "figure": "-13,5%"
+    },
+    {
+     "say": "L'indice S&P 500 arretra del 6,5% trascinato dai titoli tecnologici.",
+     "show": "S&P 500 giù",
+     "figure": "-6,5%"
+    },
+    {
+     "say": "Il ridimensionamento riguarda soprattutto i semiconduttori con cali oltre il 35%.",
+     "show": "Semiconduttori giù",
+     "figure": "-35%"
+    },
+    {
+     "say": "SanDisk registra il crollo più violento arrivando a perdere il 54%.",
+     "show": "SanDisk crolla",
+     "figure": "-54%"
+    },
+    {
+     "say": "I cicli di mercato correggono gli eccessi del settore tecnologico. Segui per aggiornamenti.",
+     "show": "Eccessi azzerati",
+     "figure": ""
+    }
+   ],
+   "origin": "Jeremy Lefebvre",
+   "source_video": "I Just Sold",
+   "narration": "Il Nasdaq ha perso il 13,5% in sei settimane. L'indice S&P 500 arretra del 6,5% trascinato dai titoli tecnologici. Il ridimensionamento riguarda soprattutto i semiconduttori con cali oltre il 35%. SanDisk registra il crollo più violento arrivando a perdere il 54%. I cicli di mercato correggono gli eccessi del settore tecnologico. Segui per aggiornamenti.",
+   "ticker": "^GSPC",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Forte contrazione sul comparto tecnologico nelle ultime sei settimane con il Nasdaq in calo di oltre il 13%.",
+   "hashtags": [
+    "#mercati",
+    "#borsa",
+    "#nasdaq",
+    "#sp500",
+    "#nvidia",
+    "#chip"
+   ]
+  },
+  {
+   "title": "Cripto e materie prime in forte calo",
+   "hook": "Bitcoin giù",
+   "beats": [
+    {
+     "say": "Bitcoin ha perso oltre il 23% in un solo mese.",
+     "show": "Bitcoin giù",
+     "figure": "-23%"
+    },
+    {
+     "say": "Ethereum segue la flessione registrando un calo del 27%.",
+     "show": "Ethereum giù",
+     "figure": "-27%"
+    },
+    {
+     "say": "Anche i metalli arretrano con l'argento in calo del 21,5%.",
+     "show": "Argento giù",
+     "figure": "-21,5%"
+    },
+    {
+     "say": "Il petrolio WTI cede il 21% mitigando le pressioni inflazionistiche.",
+     "show": "Petrolio WTI",
+     "figure": "-21%"
+    },
+    {
+     "say": "Il ribasso diffuso delle materie prime riduce i rischi di inflazione. Segui per aggiornamenti.",
+     "show": "Inflazione giù",
+     "figure": ""
+    }
+   ],
+   "origin": "Jeremy Lefebvre",
+   "source_video": "I Just Sold",
+   "narration": "Bitcoin ha perso oltre il 23% in un solo mese. Ethereum segue la flessione registrando un calo del 27%. Anche i metalli arretrano con l'argento in calo del 21,5%. Il petrolio WTI cede il 21% mitigando le pressioni inflazionistiche. Il ribasso diffuso delle materie prime riduce i rischi di inflazione. Segui per aggiornamenti.",
+   "ticker": "BTC-USD",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Mese di vendite intense su Bitcoin, Ethereum e materie prime, mentre il calo del petrolio frena l'inflazione.",
+   "hashtags": [
+    "#bitcoin",
+    "#ethereum",
+    "#cripto",
+    "#petrolio",
+    "#inflazione",
+    "#oro"
+   ]
+  },
+  {
+   "title": "Tre errori che distruggono i portafogli",
+   "hook": "Portafogli a rischio",
+   "beats": [
+    {
+     "say": "Le fasi di ribasso puniscono l'assenza di gestione del rischio.",
+     "show": "Portafogli a rischio",
+     "figure": ""
+    },
+    {
+     "say": "La leva finanziaria amplifica le perdite durante le correzioni di mercato.",
+     "show": "Leva pericolosa",
+     "figure": ""
+    },
+    {
+     "say": "Concentrare il portafoglio su un solo settore crea vulnerabilità estreme.",
+     "show": "Concentrazione errata",
+     "figure": ""
+    },
+    {
+     "say": "I principali titoli dei semiconduttori hanno perso oltre il 35%.",
+     "show": "Semiconduttori -35%",
+     "figure": "-35%"
+    },
+    {
+     "say": "La comprensione dei bilanci protegge il capitale nei momenti critici. Segui per aggiornamenti.",
+     "show": "Proteggi capitale",
+     "figure": ""
+    }
+   ],
+   "origin": "Jeremy Lefebvre",
+   "source_video": "I Just Sold",
+   "narration": "Le fasi di ribasso puniscono l'assenza di gestione del rischio. La leva finanziaria amplifica le perdite durante le correzioni di mercato. Concentrare il portafoglio su un solo settore crea vulnerabilità estreme. I principali titoli dei semiconduttori hanno perso oltre il 35%. La comprensione dei bilanci protegge il capitale nei momenti critici. Segui per aggiornamenti.",
+   "ticker": "NVDA",
+   "sentiment": "neutral",
+   "sources": [],
+   "caption": "Troppa leva e concentrazione eccessiva su singoli settori portano a forti perdite durante i ribassi.",
+   "hashtags": [
+    "#finanza",
+    "#investimenti",
+    "#portafoglio",
+    "#rischio",
+    "#azioni",
+    "#trading"
+   ]
+  },
+  {
+   "title": "IPO Anthropic a $83: pressione sui SaaS",
+   "hook": "Anthropic IPO",
+   "beats": [
+    {
+     "say": "Anthropic prepara l'offerta pubblica iniziale a $83 per azione.",
+     "show": "Anthropic IPO",
+     "figure": "$83"
+    },
+    {
+     "say": "Le mega quotazioni drenano liquidità dai titoli software già sul mercato.",
+     "show": "Liquidità sottratta",
+     "figure": ""
+    },
+    {
+     "say": "Gli investitori riallocano capitale verso la nuova quotazione legata all'intelligenza artificiale.",
+     "show": "Riallocazione capitale",
+     "figure": ""
+    },
+    {
+     "say": "Le valutazioni del settore SaaS subiscono un'ulteriore compressione dei multipli.",
+     "show": "Valutazioni SaaS",
+     "figure": ""
+    },
+    {
+     "say": "I grandi eventi di quotazione modificano i flussi dei comparti tecnologici. Segui per aggiornamenti.",
+     "show": "Flussi di mercato",
+     "figure": ""
+    }
+   ],
+   "origin": "Jeremy Lefebvre",
+   "source_video": "I Just Sold",
+   "narration": "Anthropic prepara l'offerta pubblica iniziale a $83 per azione. Le mega quotazioni drenano liquidità dai titoli software già sul mercato. Gli investitori riallocano capitale verso la nuova quotazione legata all'intelligenza artificiale. Le valutazioni del settore SaaS subiscono un'ulteriore compressione dei multipli. I grandi eventi di quotazione modificano i flussi dei comparti tecnologici. Segui per aggiornamenti.",
+   "ticker": null,
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "L'arrivo di Anthropic a $83 per azione assorbe liquidità dal mercato azionario SaaS.",
+   "hashtags": [
+    "#anthropic",
+    "#ipo",
+    "#saas",
+    "#tech",
+    "#intelligenzaartificiale",
+    "#azioni"
+   ]
+  },
+  {
+   "title": "Cheesecake Factory: incasso dopo il +260%",
+   "hook": "CAKE +260%",
+   "beats": [
+    {
+     "say": "Cheesecake Factory registra una salita del 260% dai minimi scorsi.",
+     "show": "CAKE +260%",
+     "figure": "+260%"
+    },
+    {
+     "say": "Il titolo si è mosso dalla fascia tra $30 e $35 fino a quota $120.",
+     "show": "Da $30 a $120",
+     "figure": "$120"
+    },
+    {
+     "say": "Le prese di beneficio azionarie riducono il rischio di portafoglio dopo forti rialzi.",
+     "show": "Prese di beneficio",
+     "figure": ""
+    },
+    {
+     "say": "Una posizione da 1.222 azioni è stata ridotta per consolidare i guadagni.",
+     "show": "1.222 Azioni",
+     "figure": "1.222"
+    },
+    {
+     "say": "La gestione della liquidità garantisce flessibilità nelle fasi di incertezza. Segui per aggiornamenti.",
+     "show": "Gestione capitale",
+     "figure": ""
+    }
+   ],
+   "origin": "Jeremy Lefebvre",
+   "source_video": "I Just Sold",
+   "narration": "Cheesecake Factory registra una salita del 260% dai minimi scorsi. Il titolo si è mosso dalla fascia tra $30 e $35 fino a quota $120. Le prese di beneficio azionarie riducono il rischio di portafoglio dopo forti rialzi. Una posizione da 1.222 azioni è stata ridotta per consolidare i guadagni. La gestione della liquidità garantisce flessibilità nelle fasi di incertezza. Segui per aggiornamenti.",
+   "ticker": "CAKE",
+   "sentiment": "bullish",
+   "sources": [],
+   "caption": "Forte rivalutazione per Cheesecake Factory con un balzo da $30 a $120.",
+   "hashtags": [
+    "#cheesecakefactory",
+    "#cake",
+    "#azioni",
+    "#borsa",
+    "#investimenti",
+    "#profitto"
+   ]
+  },
+  {
+   "title": "Nuovi acquisti: da SoFi a Netflix",
+   "hook": "SoFi a $14",
+   "beats": [
+    {
+     "say": "SoFi entra nel mirino degli acquisti a quota $14.",
+     "show": "SoFi a $14",
+     "figure": "$14"
+    },
+    {
+     "say": "Il settore finanziario innovativo mostra modelli di crescita sostenuta a lungo termine.",
+     "show": "Crescita FinTech",
+     "figure": ""
+    },
+    {
+     "say": "Celsius a quota $30 e Netflix a $590 completano le posizioni accumulate.",
+     "show": "CELH e NFLX",
+     "figure": "$590"
+    },
+    {
+     "say": "American Express a $315 offre stabilità all'interno del comparto dei pagamenti.",
+     "show": "Amex a $315",
+     "figure": "$315"
+    },
+    {
+     "say": "La diversificazione su titoli fondamentali mitiga la volatilità di mercato. Segui per aggiornamenti.",
+     "show": "Diversificazione",
+     "figure": ""
+    }
+   ],
+   "origin": "Jeremy Lefebvre",
+   "source_video": "I Just Sold",
+   "narration": "SoFi entra nel mirino degli acquisti a quota $14. Il settore finanziario innovativo mostra modelli di crescita sostenuta a lungo termine. Celsius a quota $30 e Netflix a $590 completano le posizioni accumulate. American Express a $315 offre stabilità all'interno del comparto dei pagamenti. La diversificazione su titoli fondamentali mitiga la volatilità di mercato. Segui per aggiornamenti.",
+   "ticker": "SOFI",
+   "sentiment": "bullish",
+   "sources": [],
+   "caption": "Accumulazione su titoli selezionati tra cui SoFi a $14, Netflix a $590 e American Express a $315.",
+   "hashtags": [
+    "#sofi",
+    "#netflix",
+    "#americanexpress",
+    "#celsius",
+    "#azioni",
+    "#investire"
+   ]
+  }
+ ],
+ "en": [
+  {
+   "title": "Tech selloff: Nasdaq drops 13.5%",
+   "hook": "Nasdaq Drop",
+   "beats": [
+    {
+     "say": "Nasdaq dropped 13.5% in just six weeks.",
+     "show": "Nasdaq Drop",
+     "figure": "-13.5%"
+    },
+    {
+     "say": "The S&P 500 fell 6.5% under heavy pressure from high flying tech stocks.",
+     "show": "S&P 500 Down",
+     "figure": "-6.5%"
+    },
+    {
+     "say": "Semiconductor leaders suffered steep drawdowns exceeding 35%.",
+     "show": "Chips Plunge",
+     "figure": "-35%"
+    },
+    {
+     "say": "SanDisk marked the sharpest drop losing 54% in less than two months.",
+     "show": "SanDisk Crash",
+     "figure": "-54%"
+    },
+    {
+     "say": "Market pullbacks clear out extreme leverage in hot sectors. Follow for updates.",
+     "show": "Leverage Reset",
+     "figure": ""
+    }
+   ],
+   "origin": "Jeremy Lefebvre",
+   "source_video": "I Just Sold",
+   "narration": "Nasdaq dropped 13.5% in just six weeks. The S&P 500 fell 6.5% under heavy pressure from high flying tech stocks. Semiconductor leaders suffered steep drawdowns exceeding 35%. SanDisk marked the sharpest drop losing 54% in less than two months. Market pullbacks clear out extreme leverage in hot sectors. Follow for updates.",
+   "ticker": "^GSPC",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Tech stocks lead a sharp market drawdown as semiconductor equities drop up to 54%.",
+   "hashtags": [
+    "#stocks",
+    "#nasdaq",
+    "#sp500",
+    "#chips",
+    "#nvidia",
+    "#investing"
+   ]
+  },
+  {
+   "title": "Crypto and commodities drop together",
+   "hook": "Bitcoin Drop",
+   "beats": [
+    {
+     "say": "Bitcoin fell over 23% in one single month.",
+     "show": "Bitcoin Drop",
+     "figure": "-23%"
+    },
+    {
+     "say": "Ethereum followed the decline with a 27% loss.",
+     "show": "Ethereum Plunge",
+     "figure": "-27%"
+    },
+    {
+     "say": "Precious metals retreated as silver sank 21.5%.",
+     "show": "Silver Falls",
+     "figure": "-21.5%"
+    },
+    {
+     "say": "WTI crude oil dropped 21% easing broader cost pressures.",
+     "show": "Oil Drops",
+     "figure": "-21%"
+    },
+    {
+     "say": "A broad commodity decline offers relief to future inflation data. Follow for updates.",
+     "show": "Inflation Relief",
+     "figure": ""
+    }
+   ],
+   "origin": "Jeremy Lefebvre",
+   "source_video": "I Just Sold",
+   "narration": "Bitcoin fell over 23% in one single month. Ethereum followed the decline with a 27% loss. Precious metals retreated as silver sank 21.5%. WTI crude oil dropped 21% easing broader cost pressures. A broad commodity decline offers relief to future inflation data. Follow for updates.",
+   "ticker": "BTC-USD",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Crypto assets and hard commodities pull back simultaneously while falling oil prices ease inflation risks.",
+   "hashtags": [
+    "#bitcoin",
+    "#ethereum",
+    "#crypto",
+    "#oil",
+    "#commodities",
+    "#silver"
+   ]
+  },
+  {
+   "title": "Why portfolios get wrecked in market drawdowns",
+   "hook": "Portfolio Wreck",
+   "beats": [
+    {
+     "say": "Market drawdowns severely punish portfolios lacking risk control.",
+     "show": "Portfolio Wreck",
+     "figure": ""
+    },
+    {
+     "say": "Excessive leverage expands losses rapidly when stock prices turn down.",
+     "show": "Leverage Risk",
+     "figure": ""
+    },
+    {
+     "say": "Heavy concentration in single sectors leaves capital exposed.",
+     "show": "Over Concentration",
+     "figure": ""
+    },
+    {
+     "say": "Leading semiconductor stocks suffered pullbacks of more than 35%.",
+     "show": "Semis -35%",
+     "figure": "-35%"
+    },
+    {
+     "say": "Disciplined fundamental analysis protects long term equity portfolios. Follow for updates.",
+     "show": "Disciplined Investing",
+     "figure": ""
+    }
+   ],
+   "origin": "Jeremy Lefebvre",
+   "source_video": "I Just Sold",
+   "narration": "Market drawdowns severely punish portfolios lacking risk control. Excessive leverage expands losses rapidly when stock prices turn down. Heavy concentration in single sectors leaves capital exposed. Leading semiconductor stocks suffered pullbacks of more than 35%. Disciplined fundamental analysis protects long term equity portfolios. Follow for updates.",
+   "ticker": "NVDA",
+   "sentiment": "neutral",
+   "sources": [],
+   "caption": "Concentrated bets and excess leverage amplify downside risk when equity markets correct.",
+   "hashtags": [
+    "#investing",
+    "#riskmanagement",
+    "#stocks",
+    "#finance",
+    "#portfoliomanagement",
+    "#trading"
+   ]
+  },
+  {
+   "title": "Anthropic $83 IPO drains SaaS liquidity",
+   "hook": "Anthropic IPO",
+   "beats": [
+    {
+     "say": "Anthropic targets an upcoming initial public offering at $83.",
+     "show": "Anthropic IPO",
+     "figure": "$83"
+    },
+    {
+     "say": "Large scale offerings absorb market liquidity from existing software stocks.",
+     "show": "Liquidity Drain",
+     "figure": ""
+    },
+    {
+     "say": "Investors rotate capital out of incumbent SaaS names into artificial intelligence.",
+     "show": "Capital Shift",
+     "figure": ""
+    },
+    {
+     "say": "Existing software multiples face continued structural valuation pressure.",
+     "show": "SaaS Multiples",
+     "figure": ""
+    },
+    {
+     "say": "Major public debuts reshape sector liquidity across technology markets. Follow for updates.",
+     "show": "Tech Reallocation",
+     "figure": ""
+    }
+   ],
+   "origin": "Jeremy Lefebvre",
+   "source_video": "I Just Sold",
+   "narration": "Anthropic targets an upcoming initial public offering at $83. Large scale offerings absorb market liquidity from existing software stocks. Investors rotate capital out of incumbent SaaS names into artificial intelligence. Existing software multiples face continued structural valuation pressure. Major public debuts reshape sector liquidity across technology markets. Follow for updates.",
+   "ticker": null,
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "The upcoming $83 Anthropic debut pulls investor capital away from existing SaaS valuations.",
+   "hashtags": [
+    "#anthropic",
+    "#ipo",
+    "#saas",
+    "#tech",
+    "#ai",
+    "#stocks"
+   ]
+  },
+  {
+   "title": "Cheesecake Factory surges over 260%",
+   "hook": "CAKE +260%",
+   "beats": [
+    {
+     "say": "Cheesecake Factory rallied 260% from prior purchase levels.",
+     "show": "CAKE +260%",
+     "figure": "+260%"
+    },
+    {
+     "say": "The stock advanced from the $30 range up to $120.",
+     "show": "$30 to $120",
+     "figure": "$120"
+    },
+    {
+     "say": "Rapid price appreciation pulls expected multi year investment returns forward.",
+     "show": "Returns Forward",
+     "figure": ""
+    },
+    {
+     "say": "Trimming a block of 1,222 shares locks in realized profits.",
+     "show": "1,222 Shares",
+     "figure": "1,222"
+    },
+    {
+     "say": "Rebalancing high growth winners preserves capital for future opportunities. Follow for updates.",
+     "show": "Rebalance Winner",
+     "figure": ""
+    }
+   ],
+   "origin": "Jeremy Lefebvre",
+   "source_video": "I Just Sold",
+   "narration": "Cheesecake Factory rallied 260% from prior purchase levels. The stock advanced from the $30 range up to $120. Rapid price appreciation pulls expected multi year investment returns forward. Trimming a block of 1,222 shares locks in realized profits. Rebalancing high growth winners preserves capital for future opportunities. Follow for updates.",
+   "ticker": "CAKE",
+   "sentiment": "bullish",
+   "sources": [],
+   "caption": "Cheesecake Factory stock climbs from $30 to $120 pulling expected long term gains forward.",
+   "hashtags": [
+    "#cheesecakefactory",
+    "#cake",
+    "#stocks",
+    "#investing",
+    "#profit",
+    "#equities"
+   ]
+  },
+  {
+   "title": "Stock accumulative phase: SoFi, Netflix and Amex",
+   "hook": "SoFi at $14",
+   "beats": [
+    {
+     "say": "SoFi trades into buying ranges around $14.",
+     "show": "SoFi at $14",
+     "figure": "$14"
+    },
+    {
+     "say": "Fintech business models offer compounding potential over multi year horizons.",
+     "show": "Fintech Growth",
+     "figure": ""
+    },
+    {
+     "say": "Positions in Celsius near $30 and Netflix around $590 expand exposure.",
+     "show": "CELH and NFLX",
+     "figure": "$590"
+    },
+    {
+     "say": "American Express at $315 anchors the financial payments allocation.",
+     "show": "Amex at $315",
+     "figure": "$315"
+    },
+    {
+     "say": "Selective accumulation targets companies with strong valuation metrics. Follow for updates.",
+     "show": "Selective Value",
+     "figure": ""
+    }
+   ],
+   "origin": "Jeremy Lefebvre",
+   "source_video": "I Just Sold",
+   "narration": "SoFi trades into buying ranges around $14. Fintech business models offer compounding potential over multi year horizons. Positions in Celsius near $30 and Netflix around $590 expand exposure. American Express at $315 anchors the financial payments allocation. Selective accumulation targets companies with strong valuation metrics. Follow for updates.",
+   "ticker": "SOFI",
+   "sentiment": "bullish",
+   "sources": [],
+   "caption": "Recent equity accumulation centers on SoFi around $14, Netflix near $590, and American Express at $315.",
+   "hashtags": [
+    "#sofi",
+    "#netflix",
+    "#americanexpress",
+    "#celsius",
+    "#stocks",
+    "#investing"
+   ]
+  }
+ ],
+ "carousels": {
+  "it": {
+   "topic": "Analisi globale sui recenti cali azionari",
+   "caption": "Panoramica dettagliata sulle ultime correzioni di mercato tra tecnologia, criptovalute e materie prime. Scopri le dinamiche e i livelli chiave da monitorare. Segui per altri aggiornamenti.",
+   "sentiment": "neutral",
+   "ticker": "^GSPC",
+   "slides": [
+    {
+     "title": "Mercati in calo: cosa sta succedendo",
+     "body": "Ecco l'analisi completa sui cali di Nasdaq, Bitcoin e materie prime."
+    },
+    {
+     "title": "Nasdaq e chip in flessione",
+     "body": "Il Nasdaq cede il 13,5% e l'S&P 500 perde il 6,5%. I titoli dei semiconduttori registrano flessioni tra il 35% e il 54%."
+    },
+    {
+     "title": "Cripto e materie prime giù",
+     "body": "Bitcoin perde il 23% ed Ethereum il 27%. Il calo del petrolio WTI al 21% allenta la pressione sui dati futuri dell'inflazione."
+    },
+    {
+     "title": "IPO Anthropic a 83 dollari",
+     "body": "La quotazione di Anthropic a $83 per azione assorbe liquidità dai titoli software aziendali riducendone i multipli di valutazione."
+    },
+    {
+     "title": "Presa di profitto su CAKE",
+     "body": "Cheesecake Factory sale del 260% passando da $30 a $120. Ridurre la posizione consente di consolidare il capitale."
+    },
+    {
+     "title": "Nuovi livelli d'acquisto",
+     "body": "Focus su SoFi a $14, Celsius in area $30, Netflix a $590 e American Express attorno a $315 per il lungo termine."
+    },
+    {
+     "title": "Pianifica la tua strategia",
+     "body": "La disciplina e la comprensione dei fondamentali proteggono il portafoglio. Segui per altri aggiornamenti."
+    }
+   ],
+   "hashtags": [
+    "#mercati",
+    "#borsa",
+    "#finanza",
+    "#nasdaq",
+    "#bitcoin",
+    "#investimenti",
+    "#azioni",
+    "#sp500"
+   ]
+  },
+  "en": {
+   "topic": "Global pullback and stock strategy breakdown",
+   "caption": "A broad overview of recent market pullbacks across tech, commodities, and crypto, paired with key stock levels. Learn how liquidity shifts impact equity valuations. Follow for daily updates.",
+   "sentiment": "neutral",
+   "ticker": "^GSPC",
+   "slides": [
+    {
+     "title": "Market Drawdown: What You Must Know",
+     "body": "Here is the breakdown of recent pullbacks across tech, crypto, and commodities."
+    },
+    {
+     "title": "Tech and Chips Pullback",
+     "body": "Nasdaq dropped 13.5% while the S&P 500 fell 6.5%. Semiconductor stocks experienced steep declines ranging from 35% to 54%."
+    },
+    {
+     "title": "Crypto and Oil Decline",
+     "body": "Bitcoin sank over 23% and Ethereum 27%. A 21% drop in WTI crude oil eases upcoming inflation expectations."
+    },
+    {
+     "title": "Anthropic $83 IPO Impact",
+     "body": "The upcoming $83 Anthropic listing draws liquidity away from SaaS equities, placing pressure on software valuations."
+    },
+    {
+     "title": "Cheesecake Factory Surge",
+     "body": "Cheesecake Factory advanced 260% from $30 up to $120, making profit realization a prudential portfolio adjustment."
+    },
+    {
+     "title": "Key Accumulation Targets",
+     "body": "Long term accumulation centers on SoFi at $14, Celsius in low 30s, Netflix near $590, and American Express at $315."
+    },
+    {
+     "title": "Manage Risk with Discipline",
+     "body": "Fundamental evaluation and risk control remain essential during periods of volatility. Follow for daily updates."
+    }
+   ],
+   "hashtags": [
+    "#stocks",
+    "#investing",
+    "#markets",
+    "#nasdaq",
+    "#bitcoin",
+    "#crypto",
+    "#finance",
+    "#trading"
+   ]
+  }
+ }
+}

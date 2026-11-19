@@ -147,5 +147,43 @@
   "tries": 1,
   "title": "NVDA e Anthropic faranno ripartire il Mercato: 5 numeri da guardare prima di com",
   "done": true
+ },
+ "GaqZeusb7Nw": {
+  "sent": [
+   "it:s1",
+   "it:s2",
+   "it:s3",
+   "it:s4",
+   "it:c",
+   "en:s1",
+   "en:s2",
+   "en:s3",
+   "en:s4",
+   "en:c"
+  ],
+  "tries": 1,
+  "title": "The Market Is Running Out of Time... Something Has to Change",
+  "done": true
+ },
+ "zKQzbjBwGVM": {
+  "sent": [
+   "it:s1",
+   "it:s2",
+   "it:s3",
+   "it:s4",
+   "it:s5",
+   "it:s6",
+   "it:c",
+   "en:s1",
+   "en:s2",
+   "en:s3",
+   "en:s4",
+   "en:s5",
+   "en:s6",
+   "en:c"
+  ],
+  "tries": 1,
+  "title": "I Just Sold",
+  "done": true
  }
 }
