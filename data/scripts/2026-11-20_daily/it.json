@@ -1,0 +1,188 @@
+{
+ "title": "Wall Street affonda col VIX a 28, bufera su AMD e Bitcoin a 61.000$",
+ "description": "Wall Street accelera al ribasso dopo il debutto di Anthropic con l'indice VIX che si porta a 28.\nAMD scivola dopo le accuse sulle forniture in Cina, mentre Bitcoin tocca i minimi a quattro mesi.\nTutti i numeri chiave della correzione in corso sui mercati finanziari globali.\nFonti e analisi a cura di Jeremy Lefebvre Makes Money.",
+ "tags": [
+  "Wall Street",
+  "S&P 500",
+  "Nasdaq",
+  "VIX",
+  "AMD",
+  "Bitcoin",
+  "Anthropic",
+  "Nvidia",
+  "Mercati Finanziari",
+  "Borsa"
+ ],
+ "thumbnail_text": "CROLLO TECH: VIX 28",
+ "mood": "urgent",
+ "segments": [
+  {
+   "id": "s1",
+   "kind": "hook",
+   "heading": "Vendite a valanga su Wall Street",
+   "narration": "Il debutto trionfale di Anthropic non basta a fermare l'emorragia sui mercati. Wall Street archivia una seduta drammatica con perdite superiori al due per cento, mentre AMD crolla per le accuse su presunte violazioni in Cina e Bitcoin scivola sui minimi da quattro mesi.",
+   "bullets": [
+    "Wall Street perde oltre il due per cento",
+    "AMD in picchiata dopo il report",
+    "Bitcoin scivola verso 61.000 dollari"
+   ],
+   "ticker": "^GSPC",
+   "sentiment": "bearish",
+   "sources": [
+    "Yahoo Finance",
+    "CNBC"
+   ]
+  },
+  {
+   "id": "s2",
+   "kind": "market",
+   "heading": "Il panico spinge il VIX a 28",
+   "narration": "La pressione di vendita accelera violentemente su tutti i principali listini statunitensi. L'indice S&P 500 cede il 2,0% scendendo a 7.176 punti, mentre il Nasdaq perde il 2,3% a 23.879 punti. Male anche il Dow Jones, in calo del 2,2% a 49.097 punti. In Europa la debolezza è più contenuta, con il FTSE MIB a 49.941 punti, in ribasso dello 0,5%, e l'Euro Stoxx 50 che arretra dello 0,7% a 6.114 punti. Il dato più rilevante arriva dalla volatilità: l'indice VIX schizza del 15,8% portandosi a quota 28,4, con un balzo di oltre il 52% nelle ultime cinque sedute. Sui beni rifugio prosegue la correzione dell'oro, che perde il 5,7% scendendo a 3.528 dollari.",
+   "bullets": [
+    "S&P 500: 7.176 punti (-2,0%)",
+    "Nasdaq: 23.879 punti (-2,3%)",
+    "VIX a 28,4 (+15,8%)",
+    "Oro in calo a 3.528 dollari"
+   ],
+   "ticker": "^VIX",
+   "sentiment": "bearish",
+   "sources": [
+    "Yahoo Finance"
+   ]
+  },
+  {
+   "id": "s3",
+   "kind": "topic",
+   "heading": "Anthropic vola ma Wall Street sprofonda",
+   "narration": "La quotazione di Anthropic doveva rappresentare il punto di svolta per ridare vigore all'intero comparto dell'intelligenza artificiale. L'esordio ha visto il titolo chiudere in rialzo del 17% rispetto al prezzo di collocamento di 83 dollari, con una valutazione vicina a 1,5 mila miliardi di dollari. Tuttavia, l'entusiasmo si è spento rapidamente nelle contrattazioni serali. Il mercato ha trasformato l'evento in un classico copione di vendita sulla notizia. Anziché contagiare positivamente il resto del settore, l'esordio ha innescato un pesante drenaggio di liquidità: investitori istituzionali e fondi hanno alleggerito le posizioni storiche per far spazio alla nuova arrivata. La rotazione ha penalizzato duramente i pesi massimi della tecnologia, confermando una fase di evidente stanchezza per le valutazioni elevate del settore.",
+   "bullets": [
+    "Anthropic debutta a +17%",
+    "Vendite diffuse sul settore tecnologico",
+    "Drenaggio di liquidità dai giganti tech"
+   ],
+   "ticker": "^IXIC",
+   "sentiment": "bearish",
+   "sources": [
+    "Yahoo Finance",
+    "CNBC"
+   ]
+  },
+  {
+   "id": "s4",
+   "kind": "topic",
+   "heading": "AMD nel mirino sulle forniture cinesi",
+   "narration": "Una nuova bufera investe il comparto dei semiconduttori. Le azioni di AMD hanno registrato una flessione superiore al 7% in seguito alla pubblicazione di un report di una società di vendite allo scoperto. Le accuse sostengono che il firmware sviluppato da AMD sia comparso negli aggiornamenti software di un produttore cinese di server inserito nella lista nera governativa americana. La società ha respinto le tesi, dichiarando il pieno rispetto delle leggi sugli scambi commerciali con l'estero. Le affermazioni sollevano timori normativi ma appaiono prive di conseguenze legali immediate. Nel lungo termine, la traiettoria di AMD nei server e nei ricavi da calcolo avanzato poggia su basi solide. Nel breve periodo, il nervosismo attorno alle restrizioni commerciali verso Pechino continua però a pesare pesantemente sul sentiment del settore dei chip.",
+   "bullets": [
+    "AMD in calo di oltre il 7%",
+    "Report su presunto firmware in Cina",
+    "Azienda dichiara piena conformità legale"
+   ],
+   "ticker": "AMD",
+   "sentiment": "bearish",
+   "sources": [
+    "Jeremy Lefebvre Makes Money",
+    "CNBC"
+   ]
+  },
+  {
+   "id": "s5",
+   "kind": "topic",
+   "heading": "Correzione profonda e vendite fiscali",
+   "narration": "I numeri confermano l'ingresso in una correzione di media intensità su scala globale. Il Nasdaq arretra ora del 15% dai massimi storici toccati a inizio ottobre. L'indice S&P 500 perde l'8% dal proprio picco, mentre il Dow Jones ha bruciato oltre 5.000 punti, pari a una discesa del 10%. Il movimento riflette schemi già osservati nelle grandi fasi correttive del 2008 e del 2018. Se il Nasdaq dovesse estendere le perdite fino al 20%, entrerebbe formalmente in una correzione severa, mentre un calo del 25% aprirebbe lo scenario di un vero e proprio crash. La prossima settimana potrebbe presentare un rimbalzo tecnico guidato dagli acquisti sugli eccessi di ribasso. Tuttavia, il mese di dicembre porta con sé il rischio concreto delle vendite legate all'ottimizzazione fiscale sulle minusvalenze, fattore che potrebbe rinnovare la pressione al ribasso.",
+   "bullets": [
+    "Nasdaq giù del 15% dai massimi",
+    "Dow Jones perde oltre 5.000 punti",
+    "Rischio vendite fiscali a dicembre"
+   ],
+   "ticker": "^GSPC",
+   "sentiment": "bearish",
+   "sources": [
+    "Jeremy Lefebvre Makes Money"
+   ]
+  },
+  {
+   "id": "s6",
+   "kind": "topic",
+   "heading": "Bitcoin rompe al ribasso a 61.400",
+   "narration": "Il comparto delle criptovalute segue a ruota il calo delle attività di rischio tradizionali. Bitcoin scende del 2,4% a 61.472 dollari, toccando i livelli più bassi degli ultimi quattro mesi, con un arretramento superiore al 4% nell'arco di cinque sedute. Anche Ethereum mostra debolezza, cedendo il 2,9% per attestarsi a 1.723 dollari. Sul piano infrastrutturale si segnala un cambiamento rilevante: la società di gestione VanEck ha interrotto la collaborazione con Gemini come custode per i propri ETF spot su Bitcoin, Ethereum e Solana, riallocando la custodia degli attivi. La rottura dei precedenti supporti tecnici attorno a 64.000 dollari lascia la struttura di mercato esposta a ulteriore volatilità. Fino a quando i volumi d'acquisto non mostreranno una chiara inversione, la pressione sui derivati e le liquidazioni continueranno a guidare le quotazioni.",
+   "bullets": [
+    "Bitcoin a 61.472 dollari (-2,4%)",
+    "Minimi degli ultimi quattro mesi",
+    "VanEck revoca custodia a Gemini"
+   ],
+   "ticker": "BTC-USD",
+   "sentiment": "bearish",
+   "sources": [
+    "CoinDesk",
+    "Yahoo Finance"
+   ]
+  },
+  {
+   "id": "s7",
+   "kind": "topic",
+   "heading": "Asia in picchiata e mandati su Nvidia",
+   "narration": "L'ondata ribassista di Wall Street ha travolto i mercati asiatici, con Tokyo, Seul e Taipei scivolate ai minimi degli ultimi sette mesi. L'indice giapponese SoftBank ha subito un vero e proprio crollo, chiudendo in ribasso di oltre il 16% per via della sua forte esposizione alle partecipazioni nell'ecosistema dell'intelligenza artificiale. Parallelamente, proseguono gli sviluppi legali negli Stati Uniti. Il procuratore generale della California ha emesso un mandato di comparizione formale nei confronti di Nvidia, nell'ambito dell'indagine sul presunto dirottamento di microchip verso la Cina. La notizia aggiunge un ulteriore elemento di incertezza sulla catena di fornitura globale dei chip. Le restrizioni all'export e le verifiche sulle vendite approvate a favore di entità cinesi mantengono l'intero comparto tecnologico sotto stretta sorveglianza istituzionale.",
+   "bullets": [
+    "SoftBank sprofonda di oltre il 16%",
+    "Borse asiatiche ai minimi da sette mesi",
+    "Mandato legale su Nvidia in California"
+   ],
+   "ticker": "NVDA",
+   "sentiment": "bearish",
+   "sources": [
+    "CNBC",
+    "Investing.com"
+   ]
+  },
+  {
+   "id": "s8",
+   "kind": "ahead",
+   "heading": "Agenda economica e scadenze normative",
+   "narration": "L'attenzione dei mercati si sposta sui dati macroeconomici e sulle prossime scadenze regolatorie. Questa mattina alle ore 9:15 italiane è previsto l'intervento del presidente della Banca Centrale Europea Christine Lagarde. Nel pomeriggio, alle 16:00 ora italiana, gli Stati Uniti pubblicheranno la revisione della fiducia dei consumatori dell'Università del Michigan, con attese a 51,7 punti, insieme alle aspettative di inflazione, precedentemente rilevate al 4,3%. Oltre ai dati macro, il mercato guarda con attenzione all'avvicinarsi della scadenza di gennaio sulle nuove norme statunitensi per l'export verso le affiliate estere, un passaggio cruciale per valutare l'impatto sui ricavi futuri dei produttori di chip.",
+   "bullets": [
+    "Ore 09:15: discorso di Lagarde",
+    "Ore 16:00: fiducia consumatori USA",
+    "Attesa per le regole export di gennaio"
+   ],
+   "ticker": null,
+   "sentiment": "neutral",
+   "sources": [
+    "Forex Factory",
+    "Jeremy Lefebvre Makes Money"
+   ]
+  },
+  {
+   "id": "s9",
+   "kind": "curious",
+   "heading": "L'errore da 35 miliardi di Citigroup",
+   "narration": "Una clamorosa svista contabile emerge a Wall Street. Citigroup ha sottostimato i propri attivi ponderati per il rischio per un ammontare pari a ben 35 miliardi di dollari. L'origine del buco risiede in un errore materiale nella registrazione contabile di una serie di operazioni di trading. Una distrazione tecnica che dimostra quanto anche le più imponenti istituzioni finanziarie possano inciampare nei propri sistemi interni di monitoraggio.",
+   "bullets": [
+    "Errore contabile di Citigroup",
+    "35 miliardi di dollari di attivi a rischio",
+    "Operazioni registrate in modo errato"
+   ],
+   "ticker": null,
+   "sentiment": "neutral",
+   "sources": [
+    "Investing.com"
+   ]
+  },
+  {
+   "id": "s10",
+   "kind": "outro",
+   "heading": "Domani un nuovo aggiornamento",
+   "narration": "Queste informazioni hanno esclusivamente scopo informativo e non costituiscono in alcun modo consulenza finanziaria. Iscriviti al canale e attiva le notifiche per non perdere l'aggiornamento dei mercati di domani.",
+   "bullets": [
+    "Nessun consiglio finanziario",
+    "Segui per l'aggiornamento di domani"
+   ],
+   "ticker": null,
+   "sentiment": "neutral",
+   "sources": []
+  }
+ ],
+ "words": 987,
+ "model": "gemini-3.8-flash",
+ "n_notes": 1,
+ "n_news": 286
+}

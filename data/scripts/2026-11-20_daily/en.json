@@ -1,0 +1,179 @@
+{
+ "title": "Tech Selloff Deepens as AMD and Citi Face Shock Probes",
+ "description": "Wall Street suffers a severe reversal as tech indexes slide to fresh monthly lows despite Anthropic's debut. AMD drops on a China firmware report while Citigroup reveals a $35 billion asset discrepancy.\n\nKey levels across the S&P 500, Nasdaq, Bitcoin, and gold as December tax selling approaches.\n\nSources: Jeremy Lefebvre Makes Money, CNBC, Yahoo Finance, Investing.com, CoinDesk, MarketWatch.",
+ "tags": [
+  "stock market news",
+  "S&P 500",
+  "Nasdaq crash",
+  "AMD stock",
+  "Citigroup",
+  "Bitcoin price",
+  "Anthropic IPO",
+  "market correction",
+  "semiconductor stocks",
+  "gold prices"
+ ],
+ "thumbnail_text": "TECH SELLOFF DEEPENS",
+ "mood": "urgent",
+ "segments": [
+  {
+   "id": "s1",
+   "kind": "hook",
+   "heading": "Brutal Reversal Hits Tech",
+   "narration": "A brutal reversal wiped billions off Wall Street as tech stocks tumbled despite Anthropic's record debut. Today, the anatomy of this accelerating market correction, a short-seller attack hitting AMD over Chinese server firmware, and Citigroup's thirty-five billion dollar balance sheet blunder.",
+   "bullets": [
+    "Tech stocks plunge after debut",
+    "AMD hit by short report",
+    "Citi uncovers $35B balance error"
+   ],
+   "ticker": "^IXIC",
+   "sentiment": "bearish",
+   "sources": [
+    "Yahoo Finance",
+    "CNBC"
+   ]
+  },
+  {
+   "id": "s2",
+   "kind": "market",
+   "heading": "Wall Street Drops Sharply",
+   "narration": "Selling pressure dominated Wall Street in yesterday's session, driving equities to fresh monthly lows. The S&P 500 dropped 2.0% to close at 7,176. The tech-heavy Nasdaq Composite slid 2.3% to 23,879, while the Dow Jones tumbled 2.2% to 49,097. Volatility spiked sharply, with the VIX jumping nearly 16% to 28. Meanwhile, the benchmark ten-year Treasury yield held near 5.1%. Capital fled speculative assets across the board. Gold dropped 5.7% to $3,528 an ounce, and crude oil settled near $83 a barrel. Anthropic's seventeen percent debut pop was completely overwhelmed by broad-based liquidation in semiconductor and mega-cap tech names.",
+   "bullets": [
+    "S&P 500 down 2.0% to 7,176",
+    "Nasdaq Composite falls 2.3%",
+    "VIX volatility index jumps 16%",
+    "Gold plunges 5.7% to $3,528"
+   ],
+   "ticker": "^GSPC",
+   "sentiment": "bearish",
+   "sources": [
+    "Yahoo Finance",
+    "CNBC"
+   ]
+  },
+  {
+   "id": "s3",
+   "kind": "topic",
+   "heading": "Market Correction Deepens",
+   "narration": "The post-IPO euphoria vanished instantly. The Nasdaq is now down 15% from its early October peak, sitting right on the edge of a formal twenty percent bear-market drawdown. The S&P 500 has pulled back 8%, while the Dow Jones has shed over 5,000 points, or 10% from its August peak. High-flying artificial intelligence trades are bearing the brunt of the damage. While Anthropic closed its first session up 17% above its $83 offer price, aggressive late selling erased morning gains and dragged peers down. SoftBank plummeted over 16% in Tokyo, and Asian chipmakers suffered heavy losses. Short-term relief bounces remain possible next week, but December tax-loss harvesting threatens to amplify selling pressure into year-end. A breakdown below current levels risks turning this medium-sized correction into a twenty-five percent crash.",
+   "bullets": [
+    "Nasdaq down 15% from peak",
+    "Dow Jones sheds 5,000 points",
+    "SoftBank plunges 16% in Tokyo",
+    "Tax-loss harvesting risks ahead"
+   ],
+   "ticker": "^IXIC",
+   "sentiment": "bearish",
+   "sources": [
+    "Jeremy Lefebvre Makes Money",
+    "CNBC",
+    "Investing.com"
+   ]
+  },
+  {
+   "id": "s4",
+   "kind": "topic",
+   "heading": "AMD Hit by Short Seller",
+   "narration": "Semiconductor sentiment soured further after a targeted short-seller report struck Advanced Micro Devices. The report claims that AMD firmware appeared in software updates for server maker IEIT, a Chinese entity currently on the United States trade blacklist. AMD shares tumbled more than 7% in response. The company stated unequivocally that it complies with all export control regulations. The legal foundation of the short allegations appears weak. However, regulatory sensitivity is at fever pitch. Lawmakers are already scrutinizing recent approvals for hundreds of thousands of AI chips bound for China. Strict export control revisions take effect in January, introducing tighter restrictions on foreign affiliates. While long-term enterprise server market share for AMD remains intact, near-term geopolitical headlines continue to punish the entire semiconductor sector.",
+   "bullets": [
+    "AMD drops over 7% on report",
+    "Firmware tied to blacklisted IEIT",
+    "Company confirms legal compliance",
+    "New US export rules loom in January"
+   ],
+   "ticker": "AMD",
+   "sentiment": "bearish",
+   "sources": [
+    "Jeremy Lefebvre Makes Money",
+    "CNBC"
+   ]
+  },
+  {
+   "id": "s5",
+   "kind": "topic",
+   "heading": "Citi Blunder & Nvidia Subpoena",
+   "narration": "Institutional stability faces unexpected shocks from both Wall Street and Silicon Valley. Citigroup incorrectly booked internal transactions, underestimating its risky assets by an astonishing $35 billion. The massive accounting miscalculation adds fresh anxiety over bank risk controls and capital adequacy metrics during an already fragile market window. At the same time, legal scrutiny around AI hardware diversion is escalating. The California attorney general issued a formal subpoena to Nvidia regarding potential chip diversion schemes to China. This state-level probe intensifies the regulatory storm surrounding semiconductor trade routes. With financial institutions underestimating risk exposure and chip leaders navigating state and federal investigations, institutional capital is pulling back from risk assets until structural clarity returns.",
+   "bullets": [
+    "Citi misbooks $35B in risky assets",
+    "Internal trade recording errors revealed",
+    "California AG subpoenas Nvidia",
+    "Regulatory scrutiny escalates nationwide"
+   ],
+   "ticker": "C",
+   "sentiment": "bearish",
+   "sources": [
+    "Investing.com",
+    "CNBC"
+   ]
+  },
+  {
+   "id": "s6",
+   "kind": "topic",
+   "heading": "Crypto and Gold Liquidation",
+   "narration": "Liquidity contraction is hitting digital assets and precious metals with equal force. Bitcoin dropped 2.4% over the last twenty-four hours to trade near $61,472, touching a four-month low. Ethereum declined 2.9% to $1,723. In institutional infrastructure news, VanEck terminated its custody agreement with Gemini for its spot Bitcoin, Ethereum, and Solana exchange-traded funds, pointing to operational realignments among major issuers. Meanwhile, traditional havens offered zero protection during this liquidation wave. Gold suffered a severe 5.7% drop to $3,528, now down 32% from its 2026 highs. Silver has suffered an even steeper collapse, dropping 62% from its peak. When high-beta tech unwinds, margin calls force fund managers to sell liquid winners, turning both crypto and precious metals into funding vehicles.",
+   "bullets": [
+    "Bitcoin slides to $61,472",
+    "VanEck drops Gemini custody",
+    "Gold falls 5.7% to $3,528",
+    "Silver down 62% from highs"
+   ],
+   "ticker": "BTC-USD",
+   "sentiment": "bearish",
+   "sources": [
+    "CoinDesk",
+    "Jeremy Lefebvre Makes Money"
+   ]
+  },
+  {
+   "id": "s7",
+   "kind": "curious",
+   "heading": "Unconventional Bond Wager",
+   "narration": "When tech stocks crater, founders usually buy their own shares to signal confidence. CoreWeave took a very different path. Following a sharp slide in AI cloud valuation multiples after Anthropic's debut, CoreWeave's co-founder placed an unconventional $30 million personal bet directly on the company's battered corporate bonds. Stepping into the debt market rather than the equity market aims to shore up credit confidence, where rising borrowing costs pose an immediate test for capital-intensive AI infrastructure.",
+   "bullets": [
+    "$30M personal bet on debt",
+    "Executive bypasses company stock",
+    "Targeted push to calm bond markets"
+   ],
+   "ticker": null,
+   "sentiment": "neutral",
+   "sources": [
+    "MarketWatch"
+   ]
+  },
+  {
+   "id": "s8",
+   "kind": "ahead",
+   "heading": "Consumer Sentiment Ahead",
+   "narration": "Key macroeconomic catalysts arrive later today. European Central Bank President Christine Lagarde speaks at 03:15 Eastern Time. In the United States, the University of Michigan releases revised November Consumer Sentiment and Inflation Expectations at 10:00 Eastern Time. The sentiment index is expected to edge up slightly to 51.7. Beyond today's macro releases, market participants face mounting tax-loss selling into December. Investors are also watching for federal guidance on the new AI export restrictions slated for January. Stabilizing the equity indexes requires holding immediate support before tax-motivated selling accelerates.",
+   "bullets": [
+    "Lagarde speaks at 03:15 ET",
+    "US Consumer Sentiment at 10:00 ET",
+    "December tax selling approaching",
+    "January export rules deadline"
+   ],
+   "ticker": null,
+   "sentiment": "neutral",
+   "sources": [
+    "Forex Factory",
+    "Jeremy Lefebvre Makes Money"
+   ]
+  },
+  {
+   "id": "s9",
+   "kind": "outro",
+   "heading": "Final Thoughts",
+   "narration": "This briefing is strictly for informational purposes and does not constitute financial advice. Stay ahead of shifting market trends. Follow for tomorrow's update.",
+   "bullets": [
+    "Informational purposes only",
+    "Follow for tomorrow's update"
+   ],
+   "ticker": null,
+   "sentiment": "neutral",
+   "sources": []
+  }
+ ],
+ "words": 809,
+ "model": "gemini-3.8-flash",
+ "n_notes": 1,
+ "n_news": 235
+}
