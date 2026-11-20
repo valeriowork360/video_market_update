@@ -268,5 +268,50 @@
   "first_seen": "2026-11-20T14:34:43.272523+00:00",
   "tries": 1,
   "last_error": "Gemini non riesce ad aprire questo video adesso (live appena finita, video riservato o rimosso)"
+ },
+ "xYTe7rnhGyU": {
+  "status": "done",
+  "attempts": 0,
+  "channel": "Jason Pizzino",
+  "title": "It's Happening! Market Collapse on Bitcoin, Gold, Stocks",
+  "first_seen": "2026-11-20T21:55:11.543892+00:00",
+  "tries": 1,
+  "done_at": "2026-11-20T21:56:59.116801+00:00"
+ },
+ "VMnaMPiTP5c": {
+  "status": "pending",
+  "attempts": 0,
+  "channel": "0xTalks",
+  "title": "MI SBAGLIAVO. | 0xFriday | 20 Novembre 2026",
+  "first_seen": "2026-11-20T21:56:59.117882+00:00",
+  "tries": 1,
+  "last_error": "Gemini non riesce ad aprire questo video adesso (live appena finita, video riservato o rimosso)"
+ },
+ "wb7oB3NgpI8": {
+  "status": "pending",
+  "attempts": 0,
+  "channel": "Jeremy Lefebvre Clips",
+  "title": "Inflation? Recession? Investors Need to See This!",
+  "first_seen": "2026-11-20T21:57:23.817561+00:00",
+  "tries": 1,
+  "last_error": "Gemini non riesce ad aprire questo video adesso (live appena finita, video riservato o rimosso)"
+ },
+ "W5jh2qIBwu4": {
+  "status": "pending",
+  "attempts": 0,
+  "channel": "Jeremy Lefebvre Clips",
+  "title": "I'm SELLING This Stock! Here's Why...",
+  "first_seen": "2026-11-20T21:57:30.982618+00:00",
+  "tries": 1,
+  "last_error": "Gemini non riesce ad aprire questo video adesso (live appena finita, video riservato o rimosso)"
+ },
+ "18zA_5MTU-A": {
+  "status": "pending",
+  "attempts": 0,
+  "channel": "Jeremy Lefebvre Clips",
+  "title": "BIG OPPORTUNITIES AHEAD! The Stocks I'm Buying NEXT",
+  "first_seen": "2026-11-20T21:57:37.975758+00:00",
+  "tries": 1,
+  "last_error": "Gemini non riesce ad aprire questo video adesso (live appena finita, video riservato o rimosso)"
  }
 }
