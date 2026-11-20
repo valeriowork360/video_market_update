@@ -223,5 +223,34 @@
   "tries": 1,
   "title": "Il Portafoglio SANGUINA: l'errore che ho fatto (e cosa fare ora)",
   "done": true
+ },
+ "xYTe7rnhGyU": {
+  "sent": [
+   "it:s1",
+   "it:s2",
+   "it:s3",
+   "it:s4",
+   "it:s5",
+   "it:s6",
+   "it:s7",
+   "it:s8",
+   "it:s9",
+   "it:s10",
+   "it:c",
+   "en:s1",
+   "en:s2",
+   "en:s3",
+   "en:s4",
+   "en:s5",
+   "en:s6",
+   "en:s7",
+   "en:s8",
+   "en:s9",
+   "en:s10",
+   "en:c"
+  ],
+  "tries": 1,
+  "title": "It's Happening! Market Collapse on Bitcoin, Gold, Stocks",
+  "done": true
  }
 }
