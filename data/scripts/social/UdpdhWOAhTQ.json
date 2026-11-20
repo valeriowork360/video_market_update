@@ -1,0 +1,460 @@
+{
+ "it": [
+  {
+   "title": "Mercati in caduta: S&P 500 e Nasdaq arretrano",
+   "hook": "MERCATI IN ROSSO",
+   "beats": [
+    {
+     "say": "S&P 500 e Nasdaq hanno perso oltre il 5% nell'ultimo mese.",
+     "show": "MERCATI IN ROSSO",
+     "figure": "-5,5%"
+    },
+    {
+     "say": "La pressione ribassista ha trascinato giù i principali listini azionari globali.",
+     "show": "VENDITE GENERALIZZATE",
+     "figure": ""
+    },
+    {
+     "say": "Un portafoglio diversificato ha limitato le perdite settimanali a meno del 3%.",
+     "show": "TENUTA DIFENSIVA",
+     "figure": "-2,7%"
+    },
+    {
+     "say": "Il calo del 6,2% del Nasdaq 100 mette alla prova i supporti tecnici.",
+     "show": "SUPPORTO Nasdaq",
+     "figure": "-6,2%"
+    },
+    {
+     "say": "La correzione è reale, ma la gestione del rischio fa la differenza: segui per l'aggiornamento.",
+     "show": "GESTIONE RISCHIO",
+     "figure": ""
+    }
+   ],
+   "origin": "Marco Casario EXTRA",
+   "source_video": "Il Portafoglio SANGUINA: l'errore che ho fatto (e cosa fare ora)",
+   "narration": "S&P 500 e Nasdaq hanno perso oltre il 5% nell'ultimo mese. La pressione ribassista ha trascinato giù i principali listini azionari globali. Un portafoglio diversificato ha limitato le perdite settimanali a meno del 3%. Il calo del 6,2% del Nasdaq 100 mette alla prova i supporti tecnici. La correzione è reale, ma la gestione del rischio fa la differenza: segui per l'aggiornamento.",
+   "ticker": "^GSPC",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "S&P 500 e Nasdaq 100 registrano pesanti correzioni mensili. L'asset allocation resta la prima difesa del portafoglio.",
+   "hashtags": [
+    "#sp500",
+    "#nasdaq",
+    "#borsa",
+    "#finanza",
+    "#investimenti",
+    "#trading"
+   ]
+  },
+  {
+   "title": "Inflazione Italia al 5,5%: l'illusione dei dati",
+   "hook": "INFLAZIONE 5,5%",
+   "beats": [
+    {
+     "say": "5,5%: l'inflazione in Italia supera ancora le stime di consenso.",
+     "show": "INFLAZIONE 5,5%",
+     "figure": "5,5%"
+    },
+    {
+     "say": "Il dato complessivo di ottobre si è attestato sopra le previsioni del 5,4%.",
+     "show": "DATO OTTOBRE",
+     "figure": "5,4%"
+    },
+    {
+     "say": "L'inflazione core al netto di energia e alimentari resta ferma al 2%.",
+     "show": "CORE AL 2%",
+     "figure": "2%"
+    },
+    {
+     "say": "Questo aumento dipende interamente dall'energia e non dai consumi interni reali.",
+     "show": "SPINTA ENERGETICA",
+     "figure": ""
+    },
+    {
+     "say": "La pressione sui prezzi non è generalizzata: segui per l'aggiornamento.",
+     "show": "PREZZI STABILI",
+     "figure": ""
+    }
+   ],
+   "origin": "Marco Casario EXTRA",
+   "source_video": "Il Portafoglio SANGUINA: l'errore che ho fatto (e cosa fare ora)",
+   "narration": "5,5%: l'inflazione in Italia supera ancora le stime di consenso. Il dato complessivo di ottobre si è attestato sopra le previsioni del 5,4%. L'inflazione core al netto di energia e alimentari resta ferma al 2%. Questo aumento dipende interamente dall'energia e non dai consumi interni reali. La pressione sui prezzi non è generalizzata: segui per l'aggiornamento.",
+   "ticker": null,
+   "sentiment": "neutral",
+   "sources": [],
+   "caption": "L'inflazione italiana tocca il 5,5% a ottobre per effetto dell'energia, ma la componente core resta ancorata al 2%.",
+   "hashtags": [
+    "#inflazione",
+    "#italia",
+    "#economia",
+    "#macroeconomia",
+    "#prezzi",
+    "#consumi"
+   ]
+  },
+  {
+   "title": "Petrolio giù del 20%: curva inflazione invertita",
+   "hook": "PETROLIO -20%",
+   "beats": [
+    {
+     "say": "Petrolio in caduta: i future perdono il 20% in un mese.",
+     "show": "PETROLIO -20%",
+     "figure": "-20%"
+    },
+    {
+     "say": "Le quotazioni del greggio continuano a scendere nonostante le tensioni geopolitiche internazionali.",
+     "show": "PRESSIONE RIBASSISTA",
+     "figure": ""
+    },
+    {
+     "say": "La curva dei tassi di inflazione breakeven si è invertita sui mercati obbligazionari.",
+     "show": "CURVA INVERTITA",
+     "figure": ""
+    },
+    {
+     "say": "Le aspettative di inflazione a 10 anni sono inferiori a quelle a 5 anni.",
+     "show": "ATTESE 10 ANNI",
+     "figure": "10Y < 5Y"
+    },
+    {
+     "say": "I mercati prezzano un rapido raffreddamento dei costi energetici: segui per l'aggiornamento.",
+     "show": "PREZZI IN CALO",
+     "figure": ""
+    }
+   ],
+   "origin": "Marco Casario EXTRA",
+   "source_video": "Il Portafoglio SANGUINA: l'errore che ho fatto (e cosa fare ora)",
+   "narration": "Petrolio in caduta: i future perdono il 20% in un mese. Le quotazioni del greggio continuano a scendere nonostante le tensioni geopolitiche internazionali. La curva dei tassi di inflazione breakeven si è invertita sui mercati obbligazionari. Le aspettative di inflazione a 10 anni sono inferiori a quelle a 5 anni. I mercati prezzano un rapido raffreddamento dei costi energetici: segui per l'aggiornamento.",
+   "ticker": "CL=F",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Il petrolio scivola del 20% mensile e inverte la curva breakeven. Il mercato anticipa tassi d'inflazione più bassi nel lungo periodo.",
+   "hashtags": [
+    "#petrolio",
+    "#crudeoil",
+    "#materieprime",
+    "#obbligazioni",
+    "#inflazione",
+    "#mercati"
+   ]
+  },
+  {
+   "title": "Addio stock picking: la mossa quantitativa",
+   "hook": "15 ASSET UGUALI",
+   "beats": [
+    {
+     "say": "15 posizioni uguali per azzerare l'errore dello stock picking.",
+     "show": "15 ASSET UGUALI",
+     "figure": "15"
+    },
+    {
+     "say": "I mercati volatili puniscono la gestione passiva dei singoli titoli azionari.",
+     "show": "TITOLI A RISCHIO",
+     "figure": ""
+    },
+    {
+     "say": "Un ribilanciamento quantitativo elimina la discrezionalità ed esclude i settori deboli.",
+     "show": "MODELLO QUANT",
+     "figure": ""
+    },
+    {
+     "say": "Vincoli di volatilità e qualità difensiva proteggono il capitale nelle fasi ribassiste.",
+     "show": "VINCOLI VOLATILITÀ",
+     "figure": ""
+    },
+    {
+     "say": "La disciplina metodica batte le scommesse sui singoli nomi: segui per l'aggiornamento.",
+     "show": "DISCIPLINA OPERATIVA",
+     "figure": ""
+    }
+   ],
+   "origin": "Marco Casario EXTRA",
+   "source_video": "Il Portafoglio SANGUINA: l'errore che ho fatto (e cosa fare ora)",
+   "narration": "15 posizioni uguali per azzerare l'errore dello stock picking. I mercati volatili puniscono la gestione passiva dei singoli titoli azionari. Un ribilanciamento quantitativo elimina la discrezionalità ed esclude i settori deboli. Vincoli di volatilità e qualità difensiva proteggono il capitale nelle fasi ribassiste. La disciplina metodica batte le scommesse sui singoli nomi: segui per l'aggiornamento.",
+   "ticker": null,
+   "sentiment": "neutral",
+   "sources": [],
+   "caption": "Quando i mercati scendono, lo stock picking discrezionale amplifica gli errori. La diversificazione quantitativa impone rigore.",
+   "hashtags": [
+    "#portafoglio",
+    "#investimenti",
+    "#assetallocation",
+    "#strategia",
+    "#quant",
+    "#gestione"
+   ]
+  }
+ ],
+ "en": [
+  {
+   "title": "Stock Market Pullback: S&P 500 and Nasdaq Drop",
+   "hook": "MARKET SELLOFF",
+   "beats": [
+    {
+     "say": "S&P 500 fell more than 5% over the past month.",
+     "show": "MARKET SELLOFF",
+     "figure": "-5.5%"
+    },
+    {
+     "say": "Heavy selling dragged down the major Wall Street indexes across the board.",
+     "show": "BROAD DROP",
+     "figure": ""
+    },
+    {
+     "say": "A disciplined asset allocation kept weekly drawdowns under 3%.",
+     "show": "BALANCED DEFENSE",
+     "figure": "-2.7%"
+    },
+    {
+     "say": "Nasdaq 100 drop of 6.2% puts key technical supports to the test.",
+     "show": "Nasdaq SUPPORT",
+     "figure": "-6.2%"
+    },
+    {
+     "say": "Volatility is back, but balanced exposure softens the blow: follow for updates.",
+     "show": "RISK CONTROL",
+     "figure": ""
+    }
+   ],
+   "origin": "Marco Casario EXTRA",
+   "source_video": "Il Portafoglio SANGUINA: l'errore che ho fatto (e cosa fare ora)",
+   "narration": "S&P 500 fell more than 5% over the past month. Heavy selling dragged down the major Wall Street indexes across the board. A disciplined asset allocation kept weekly drawdowns under 3%. Nasdaq 100 drop of 6.2% puts key technical supports to the test. Volatility is back, but balanced exposure softens the blow: follow for updates.",
+   "ticker": "^GSPC",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "S&P 500 and Nasdaq 100 slip over 5% in a month. Asset allocation remains the first line of defense.",
+   "hashtags": [
+    "#sp500",
+    "#nasdaq",
+    "#stockmarket",
+    "#investing",
+    "#markets",
+    "#finance"
+   ]
+  },
+  {
+   "title": "Italian Inflation at 5.5%: What Lies Beneath",
+   "hook": "INFLATION AT 5.5%",
+   "beats": [
+    {
+     "say": "5.5% headline inflation in Italy just topped consensus estimates.",
+     "show": "INFLATION AT 5.5%",
+     "figure": "5.5%"
+    },
+    {
+     "say": "October consumer prices rose above the forecasted 5.4% mark across the country.",
+     "show": "OCTOBER PRINT",
+     "figure": "5.4%"
+    },
+    {
+     "say": "Core inflation excluding energy and food remains anchored at exactly 2%.",
+     "show": "CORE AT 2%",
+     "figure": "2%"
+    },
+    {
+     "say": "This surge is driven entirely by energy bills rather than domestic consumer demand.",
+     "show": "ENERGY DRIVER",
+     "figure": ""
+    },
+    {
+     "say": "The underlying economy is not overheating despite the headline spike: follow for updates.",
+     "show": "CORE STABILITY",
+     "figure": ""
+    }
+   ],
+   "origin": "Marco Casario EXTRA",
+   "source_video": "Il Portafoglio SANGUINA: l'errore che ho fatto (e cosa fare ora)",
+   "narration": "5.5% headline inflation in Italy just topped consensus estimates. October consumer prices rose above the forecasted 5.4% mark across the country. Core inflation excluding energy and food remains anchored at exactly 2%. This surge is driven entirely by energy bills rather than domestic consumer demand. The underlying economy is not overheating despite the headline spike: follow for updates.",
+   "ticker": null,
+   "sentiment": "neutral",
+   "sources": [],
+   "caption": "Italian headline inflation reached 5.5% in October, but core prices remain anchored at 2%.",
+   "hashtags": [
+    "#inflation",
+    "#italy",
+    "#macroeconomics",
+    "#economy",
+    "#energyprices",
+    "#cpi"
+   ]
+  },
+  {
+   "title": "Crude Oil Drops 20%: Breakeven Curve Inverts",
+   "hook": "OIL CRASHES 20%",
+   "beats": [
+    {
+     "say": "Crude oil futures plunged 20% over the last thirty days.",
+     "show": "OIL CRASHES 20%",
+     "figure": "-20%"
+    },
+    {
+     "say": "Energy prices keep sliding lower despite persistent geopolitical conflict in oil-producing regions.",
+     "show": "ENERGY SLIDE",
+     "figure": ""
+    },
+    {
+     "say": "Bond markets reacted by completely inverting the breakeven inflation curve.",
+     "show": "CURVE INVERSION",
+     "figure": ""
+    },
+    {
+     "say": "Long-term ten-year inflation expectations are now sitting below five-year projections.",
+     "show": "10Y BELOW 5Y",
+     "figure": "10Y < 5Y"
+    },
+    {
+     "say": "Smart money is pricing a rapid cool-off in commodities: follow for updates.",
+     "show": "COMMODITY RELIEF",
+     "figure": ""
+    }
+   ],
+   "origin": "Marco Casario EXTRA",
+   "source_video": "Il Portafoglio SANGUINA: l'errore che ho fatto (e cosa fare ora)",
+   "narration": "Crude oil futures plunged 20% over the last thirty days. Energy prices keep sliding lower despite persistent geopolitical conflict in oil-producing regions. Bond markets reacted by completely inverting the breakeven inflation curve. Long-term ten-year inflation expectations are now sitting below five-year projections. Smart money is pricing a rapid cool-off in commodities: follow for updates.",
+   "ticker": "CL=F",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Crude oil plunged 20% this month while the breakeven curve inverted, signaling lower expected long-term inflation.",
+   "hashtags": [
+    "#crudeoil",
+    "#oilprices",
+    "#commodities",
+    "#bonds",
+    "#macroeconomics",
+    "#energy"
+   ]
+  },
+  {
+   "title": "Dropping Stock Picking for Systematic Rules",
+   "hook": "15 EQUAL ASSETS",
+   "beats": [
+    {
+     "say": "15 equal positions replace stock picking during market downturns.",
+     "show": "15 EQUAL ASSETS",
+     "figure": "15"
+    },
+    {
+     "say": "Volatile markets quickly punish passive management and concentrated equity positions.",
+     "show": "EQUITY DRAWDOWN",
+     "figure": ""
+    },
+    {
+     "say": "A quantitative rules-based rebalance removes emotion from cutting lagging sectors.",
+     "show": "QUANT SHIFT",
+     "figure": ""
+    },
+    {
+     "say": "Strict volatility constraints and defensive quality assets safeguard capital against further drawdowns.",
+     "show": "VOLATILITY CAPS",
+     "figure": ""
+    },
+    {
+     "say": "Systematic discipline consistently outperforms guesswork when markets bleed: follow for updates.",
+     "show": "METHODICAL EDGE",
+     "figure": ""
+    }
+   ],
+   "origin": "Marco Casario EXTRA",
+   "source_video": "Il Portafoglio SANGUINA: l'errore che ho fatto (e cosa fare ora)",
+   "narration": "15 equal positions replace stock picking during market downturns. Volatile markets quickly punish passive management and concentrated equity positions. A quantitative rules-based rebalance removes emotion from cutting lagging sectors. Strict volatility constraints and defensive quality assets safeguard capital against further drawdowns. Systematic discipline consistently outperforms guesswork when markets bleed: follow for updates.",
+   "ticker": null,
+   "sentiment": "neutral",
+   "sources": [],
+   "caption": "Market drawdowns penalize emotional stock picking. A quantitative approach enforces discipline through equal weighting.",
+   "hashtags": [
+    "#portfoliomanagement",
+    "#investing",
+    "#assetallocation",
+    "#quantstrategy",
+    "#riskmanagement",
+    "#wealth"
+   ]
+  }
+ ],
+ "carousels": {
+  "it": {
+   "topic": "Gestire il portafoglio nei ribassi",
+   "caption": "I mercati correggono, l'inflazione mostra segnali contrastanti e le materie prime arretrano. Ecco l'analisi completa della situazione macro. Segui per l'aggiornamento di domani.",
+   "sentiment": "neutral",
+   "ticker": null,
+   "slides": [
+    {
+     "title": "I mercati correggono del 6%: cosa fare",
+     "body": "Ecco cosa rivelano i dati sull'inflazione e perché le regole quantitative battono lo stock picking."
+    },
+    {
+     "title": "Indici sotto pressione",
+     "body": "Nell'ultimo mese S&P 500 cede il 5,5% e Nasdaq 100 arretra del 6,2%, segnalando vendite estese sul comparto azionario."
+    },
+    {
+     "title": "Inflazione: il dato reale",
+     "body": "L'inflazione headline italiana tocca il 5,5%, ma la componente core depurata da energia e alimentari resta al 2%."
+    },
+    {
+     "title": "Petrolio e curva invertita",
+     "body": "Il greggio arretra del 20% in trenta giorni. La curva breakeven a 10 anni scende sotto quella a 5 anni."
+    },
+    {
+     "title": "Ribilanciamento quantitativo",
+     "body": "Abbandonare la selezione discrezionale per un paniere di 15 asset equi-pesati riduce l'esposizione alla volatilità e tutela il capitale."
+    },
+    {
+     "title": "La regola fondamentale",
+     "body": "Nei mercati ribassisti il metodo sistematico batte l'emotività. Segui per l'aggiornamento di domani."
+    }
+   ],
+   "hashtags": [
+    "#finanza",
+    "#investimenti",
+    "#portafoglio",
+    "#sp500",
+    "#inflazione",
+    "#petrolio",
+    "#assetallocation",
+    "#trading"
+   ]
+  },
+  "en": {
+   "topic": "Navigating market drawdowns and macro shifts",
+   "caption": "Equities are pulling back, inflation prints are distorted by energy, and commodity curves are inverting. Here is what the numbers actually show. Follow for tomorrow's update.",
+   "sentiment": "neutral",
+   "ticker": null,
+   "slides": [
+    {
+     "title": "Markets down 6%: what to do",
+     "body": "Here is what the inflation data exposes and why systematic models outperform stock picking."
+    },
+    {
+     "title": "Major indexes slide",
+     "body": "Over the past month S&P 500 fell 5.5% while Nasdaq 100 dropped 6.2%, confirming broad equity pressure."
+    },
+    {
+     "title": "Italian inflation breakdown",
+     "body": "Headline consumer prices reached 5.5%, but core inflation excluding volatile energy and food components sits quietly at 2%."
+    },
+    {
+     "title": "Oil sinks 20%",
+     "body": "Crude futures dropped 20% over 30 days, inverting the 10-year versus 5-year breakeven inflation curve."
+    },
+    {
+     "title": "Systematic rebalancing",
+     "body": "Replacing discretionary stock picks with 15 equally weighted positions under volatility limits cuts risk efficiently."
+    },
+    {
+     "title": "The core takeaway",
+     "body": "Disciplined rules protect portfolios far better than guessing bottoms. Follow for tomorrow's update."
+    }
+   ],
+   "hashtags": [
+    "#investing",
+    "#portfoliomanagement",
+    "#stockmarket",
+    "#sp500",
+    "#inflation",
+    "#crudeoil",
+    "#assetallocation",
+    "#finance"
+   ]
+  }
+ }
+}

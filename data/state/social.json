@@ -206,5 +206,22 @@
   "tries": 1,
   "title": "AMD & Market Emergency!",
   "done": true
+ },
+ "UdpdhWOAhTQ": {
+  "sent": [
+   "it:s1",
+   "it:s2",
+   "it:s3",
+   "it:s4",
+   "it:c",
+   "en:s1",
+   "en:s2",
+   "en:s3",
+   "en:s4",
+   "en:c"
+  ],
+  "tries": 1,
+  "title": "Il Portafoglio SANGUINA: l'errore che ho fatto (e cosa fare ora)",
+  "done": true
  }
 }
