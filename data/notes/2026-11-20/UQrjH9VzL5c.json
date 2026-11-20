@@ -1,0 +1,189 @@
+{
+ "market_relevance": 10,
+ "scope": "global",
+ "kind": "market update",
+ "summary": "The video provides a comprehensive market update analyzing the ongoing stock market correction and the severe drawdowns in high-flying AI stocks, major indices, and precious metals. The author examines historical parallels from 2008 and 2018 to argue that such extreme corrections create exceptional long-term buying opportunities while warning of upcoming December tax-loss harvesting. Additionally, he breaks down a short-seller report on AMD by Hunterbrook Media alleging Chinese server firmware compliance issues, dismissing the claims as legally unsubstantiated. Finally, he shares details on his own recent portfolio purchases during the dip, emphasizing a long-term perspective on market volatility.",
+ "digest_it": "L'autore analizza la correzione dei mercati azionari, il crollo dei titoli legati all'intelligenza artificiale e la recente discesa dei metalli preziosi, evidenziando come queste fasi storiche offrano opportunità d'acquisto a lungo termine nonostante i rischi di fine anno legati alle vendite per fini fiscali. Successivamente, esamina e smonta il rapporto short di Hunterbrook Media contro AMD, definendone le accuse infondate e strumentali, e conclude illustrando i propri recenti investimenti effettuati approfittando del ribasso dei mercati.",
+ "author_tone": "cautious",
+ "tone_evidence": "He maintains a measured and analytical perspective while breaking down the short-seller report and market reaction, while warning that markets are experiencing a medium-size correction with potential for further downside.",
+ "key_points": [
+  {
+   "point": "Nasdaq is down 15% from its early October highs.",
+   "timestamp": ""
+  },
+  {
+   "point": "Russell 2000 is down 13% from its August highs.",
+   "timestamp": ""
+  },
+  {
+   "point": "Dow Jones is down 10% from its early August highs, dropping over 5,000 points.",
+   "timestamp": ""
+  },
+  {
+   "point": "S&P 500 is down 8% from early October highs.",
+   "timestamp": ""
+  },
+  {
+   "point": "Gold has fallen 32% from its 2026 highs.",
+   "timestamp": ""
+  },
+  {
+   "point": "Silver is down 62% from its highs hit this year.",
+   "timestamp": ""
+  },
+  {
+   "point": "Bitcoin is down over 40% over the past year.",
+   "timestamp": ""
+  },
+  {
+   "point": "Hunterbrook Media published a short report accusing AMD of illegal server firmware shipments to China, causing the stock to drop 13% in 30 minutes.",
+   "timestamp": ""
+  }
+ ],
+ "moments": [
+  {
+   "timestamp": "00:00",
+   "topic": "Current Index Correction Levels",
+   "claim": "Major market indices are experiencing a medium-size correction from their recent highs.",
+   "details": "The Nasdaq is down 15% from its early October highs. The Russell 2000 is down 13% from August highs, the Dow Jones has dropped 10% representing a loss of over 5,000 points, and the S&P 500 is down 8%.",
+   "surprise": "The Nasdaq has dropped 15% in a relatively short period since early October."
+  },
+  {
+   "timestamp": "00:48",
+   "topic": "AI Semiconductor Stocks Drawdowns",
+   "claim": "Stocks connected to the AI trade have suffered severe declines since their June peak.",
+   "details": "AMD is down 10%, Nvidia is down 29%, Micron is down 41%, C3.ai is down nearly 47%, and various leveraged ETFs have lost up to 94% of their value from the peak excitement in June.",
+   "surprise": "Sandisk's 2X leverage ETF has lost 94% of its value."
+  },
+  {
+   "timestamp": "02:03",
+   "topic": "Caterpillar's Energy Infrastructure",
+   "claim": "Caterpillar is tied to the AI trade through on-site power solutions for data centers.",
+   "details": "Caterpillar sells gas generators, diesel engines, and turbines to help data centers bypass grid bottlenecks and avoid deployment delays, including multi-billion dollar agreements like a 3.4 billion dollar deal with Anthropic.",
+   "surprise": "Caterpillar has a 3.4 billion dollar agreement for gas generators tied to AI power needs."
+  },
+  {
+   "timestamp": "",
+   "topic": "Anthropic IPO and Market Impact",
+   "claim": "The Anthropic IPO marked a local top before retail investors experienced steep sell-offs.",
+   "details": "Anthropic came public around 111 dollars per share and subsequently tanked into the 90s. The author highlights that big money enters prior to the IPO, leaving retail investors to absorb losses post-launch.",
+   "surprise": "Anthropic shares dropped sharply immediately following their public debut."
+  },
+  {
+   "timestamp": "",
+   "topic": "Status of the AI Trade",
+   "claim": "The short-term AI trade has been dead since June despite ongoing long-term corporate investment.",
+   "details": "While companies continue spending fortunes on AI infrastructure over the long term, short-term trading momentum in related stocks peaked in June, with many stocks down significantly since then.",
+   "surprise": "The short-term AI trade died months before the broader market correction became pronounced."
+  },
+  {
+   "timestamp": "",
+   "topic": "Historical Perspectives on Crashes",
+   "claim": "Market corrections and crashes historically create significant long-term wealth opportunities.",
+   "details": "Drawing from personal experience starting in the 2008 financial crisis, the author emphasizes that severe market downturns generate massive gains on the recovery side for investors positioned in the right stocks.",
+   "surprise": "The author started investing in late 2008 during the depths of the financial crisis."
+  },
+  {
+   "timestamp": "",
+   "topic": "Gold and Silver Plunge",
+   "claim": "Precious metals like gold and silver have experienced steep and unusual declines.",
+   "details": "Gold has fallen 32% from its 2026 highs, while silver is down 62% from its highs this year. The author notes that such large declines in precious metals are extremely rare.",
+   "surprise": "Silver is down 62% from its highs hit during the year."
+  },
+  {
+   "timestamp": "",
+   "topic": "Bitcoin and 10-Year Yields",
+   "claim": "Bitcoin is down over 40% while 10-year Treasury yields remain relatively flat.",
+   "details": "Bitcoin has dropped over 41% over the past year. Meanwhile, 10-year Treasury yields have remained near 5% without showing the significant downward movement seen in other asset classes.",
+   "surprise": "The 10-year Treasury yield has stayed relatively flat while risk assets experienced steep drops."
+  },
+  {
+   "timestamp": "",
+   "topic": "VIX Volatility Index Signals",
+   "claim": "The VIX volatility index spiking toward 30 signals strong buying opportunities during corrections.",
+   "details": "When the VIX approaches or exceeds the 30 level, it historically serves as a buy signal for the stock market, though it does not necessarily mark the exact bottom.",
+   "surprise": "The VIX spiking to 30 or above has historically preceded major buying opportunities."
+  },
+  {
+   "timestamp": "",
+   "topic": "2018 Market Analogy",
+   "claim": "Current market action correlates strongly with the downturn seen in late 2018.",
+   "details": "In late 2018, the Nasdaq fell over 23%, and mega-cap tech stocks like Amazon, Apple, and Nvidia suffered heavy declines ranging from 33% to 55% before eventually recovering.",
+   "surprise": "Nvidia fell 55% during the 2018 market downturn."
+  },
+  {
+   "timestamp": "",
+   "topic": "December Tax-Loss Harvesting Warning",
+   "claim": "Severe losses across major stocks set the stage for heavy tax-loss harvesting in December.",
+   "details": "Stocks down 30% to over 60% from their 52-week highs, including Nvidia, Broadcom, Intel, and AMD, face potential tax-loss harvesting pressure as investors offload losing positions before year-end.",
+   "surprise": "Intel is down over 60% and Broadcom is down 30% from their highs."
+  },
+  {
+   "timestamp": "40:35",
+   "topic": "AMD short-seller report breakdown",
+   "claim": "Hunterbrook Media released a short report on AMD alleging illegal chip sales to China.",
+   "details": "The report caused AMD stock to crash 13% in 30 minutes, falling from $550 down to the $480 range. Hunterbrook disclosed a short position and alleged that AMD firmware was used by blacklisted Chinese server makers.",
+   "surprise": "The stock dropped 13% in just 30 minutes after the report release."
+  },
+  {
+   "timestamp": "",
+   "topic": "AMD Export Compliance Allegations",
+   "claim": "The speaker argues that Hunterbrook's allegations regarding export violations lack legal substance.",
+   "details": "He notes that Hunterbrook admits its records do not establish export control violations and relies on outdated supply chain data from 2016. Furthermore, TSMC handles wafer fabrication while AMD diversifies packaging globally.",
+   "surprise": "The supply chain data cited in the short report dates back over a decade."
+  },
+  {
+   "timestamp": "",
+   "topic": "AMD Server Fundamentals",
+   "claim": "AMD's underlying data center fundamentals remain extremely robust despite regulatory headwinds.",
+   "details": "In Q3 2026, AMD's server CPU market share rose to 35.5% from 27.8% a year prior. Data center revenue surged 97% year-over-year, backed by a Q4 guidance of $17 billion.",
+   "surprise": "AMD server CPU market share jumped to 35.5% in Q3 2026."
+  },
+  {
+   "timestamp": "",
+   "topic": "Recent Portfolio Purchases",
+   "claim": "The speaker deployed $650,000 into multiple stocks during the market pullback.",
+   "details": "Purchases included shares of Salesforce at $183, On Holding at $446, SoFi, and The Trade Desk. He emphasized that market pullbacks present buying opportunities for strong companies.",
+   "surprise": "He deployed $650,000 in new capital during the market dip."
+  }
+ ],
+ "tickers": [
+  "QQQ",
+  "AMD",
+  "NVDA",
+  "MU",
+  "AMZN",
+  "META",
+  "GOOGL",
+  "TSLA",
+  "PLTR",
+  "ASML"
+ ],
+ "predictions": [
+  "Nasdaq may fall 20% to enter a major correction or 25% to enter crash territory",
+  "Potential for a big bounce in the market next week followed by further downside in December",
+  "AMD server market share and earnings will continue to grow over the long term despite short-term FUD"
+ ],
+ "catalysts": [
+  "December tax-loss harvesting selling pressure",
+  "Upcoming US export rules with a January deadline regarding affiliate restrictions"
+ ],
+ "rumors": [
+  "Hunterbrook alleged that AMD firmware appeared in software updates for blacklisted Chinese server maker IEIT"
+ ],
+ "curiosities": [
+  "The author shares an anecdote about starting his investing journey with a few hundred dollars while working at a Walgreens photo department during the 2008 financial crisis.",
+  "The speaker equates short-seller reports to fishing in a hurricane, urging long-term investors to ignore noise"
+ ],
+ "promo": true,
+ "language": "en",
+ "video_id": "UQrjH9VzL5c",
+ "title": "AMD & Market Emergency!",
+ "author": "Jeremy Lefebvre Makes Money",
+ "url": "https://www.youtube.com/watch?v=UQrjH9VzL5c",
+ "published": "2026-11-20T01:36:41+00:00",
+ "duration_min": 57,
+ "partial": false,
+ "analysed_at": "2026-11-20T04:33:11.850478+00:00",
+ "model": "gemini-3.5-flash-lite"
+}

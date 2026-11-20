@@ -221,7 +221,16 @@
   "channel": "Jeremy Lefebvre Clips",
   "title": "SELL-OFF vs ROTATION! Don't Misread This Market",
   "first_seen": "2026-11-19T04:32:18.594956+00:00",
-  "tries": 4,
+  "tries": 5,
   "last_error": "Gemini non riesce ad aprire questo video adesso (live appena finita, video riservato o rimosso)"
+ },
+ "UQrjH9VzL5c": {
+  "status": "done",
+  "attempts": 0,
+  "channel": "Financial Education 2",
+  "title": "AMD & Market Emergency!",
+  "done_at": "2026-11-20T04:33:11.851000+00:00",
+  "duplicate": true,
+  "tries": 1
  }
 }
