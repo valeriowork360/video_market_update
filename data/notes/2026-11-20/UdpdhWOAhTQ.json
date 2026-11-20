@@ -1,0 +1,96 @@
+{
+ "market_relevance": 9,
+ "scope": "global",
+ "kind": "market update",
+ "summary": "The author reviews his portfolio performance during a week of market decline. He admits to neglecting active management, which led to losses in several positions. He analyzes current market conditions, specifically noting the impact of inflation data and central bank policies. He discusses the importance of asset allocation and the risks of holding defensive assets in the current economic environment. Finally, he outlines plans to rebalance his portfolio using a quantitative approach.",
+ "digest_it": "L'autore analizza le perdite del suo portafoglio dovute a una gestione passiva durante un periodo di calo dei mercati. Spiega come l'inflazione e le politiche delle banche centrali stiano influenzando le asset class e annuncia un ribilanciamento basato su un modello quantitativo.",
+ "author_tone": "cautious",
+ "tone_evidence": "The author acknowledges his own mistakes in portfolio management and emphasizes the need for active, rational decision-making in a volatile market.",
+ "key_points": [
+  {
+   "point": "Portfolio suffered a 2.67% loss over the past week.",
+   "timestamp": "02:05"
+  },
+  {
+   "point": "S&P 500 declined 5.45% and Nasdaq 100 fell 6.19% in the last month.",
+   "timestamp": "02:22"
+  },
+  {
+   "point": "Italian inflation reached 5.5% in October, higher than expected.",
+   "timestamp": "08:22"
+  },
+  {
+   "point": "Crude oil futures have dropped 20% in the last month.",
+   "timestamp": "16:53"
+  },
+  {
+   "point": "5-year breakeven inflation rate is at 2.22%.",
+   "timestamp": "17:50"
+  },
+  {
+   "point": "Portfolio rebalancing will focus on reducing exposure to tech and increasing utility holdings.",
+   "timestamp": "27:05"
+  }
+ ],
+ "moments": [
+  {
+   "timestamp": "01:15",
+   "topic": "Market performance overview",
+   "claim": "Major indices have experienced significant declines recently.",
+   "details": "The S&P 500 and Nasdaq 100 have both seen substantial drops over the last month, with the S&P 500 down 5.45% and the Nasdaq 100 down 6.19%.",
+   "surprise": "The portfolio's 2.67% weekly loss is relatively modest compared to the broader market decline."
+  },
+  {
+   "timestamp": "08:10",
+   "topic": "Italian inflation analysis",
+   "claim": "Inflation data is more complex than the headline number suggests.",
+   "details": "Italian inflation reached 5.5% in October, exceeding the 5.4% estimate. However, core inflation, excluding energy and fresh food, remains at 2%.",
+   "surprise": "The primary driver of the headline inflation figure is energy costs, not general consumer demand."
+  },
+  {
+   "timestamp": "16:40",
+   "topic": "Crude oil and inflation expectations",
+   "claim": "The market is pricing in a resolution to the current geopolitical conflict.",
+   "details": "Crude oil futures have fallen 20% over the last month, suggesting market expectations of lower future energy prices. Breakeven inflation rates show an inverted curve, indicating lower inflation expectations in the long term.",
+   "surprise": "The market is pricing in less inflation for the 10-year horizon than for the 5-year horizon."
+  },
+  {
+   "timestamp": "27:00",
+   "topic": "Portfolio rebalancing strategy",
+   "claim": "A quantitative approach is being used to adjust the portfolio.",
+   "details": "The author is using a tool called Quantaste to select 15 new positions based on equal weighting and volatility constraints. The strategy involves reducing exposure to sectors that have underperformed and increasing holdings in defensive, high-quality assets.",
+   "surprise": "The author is replacing individual stock picks with a diversified, quantitatively selected portfolio."
+  }
+ ],
+ "tickers": [
+  "SPX",
+  "NDX",
+  "CL1",
+  "NVDA",
+  "TLT",
+  "HYG",
+  "JNK",
+  "ENX"
+ ],
+ "predictions": [
+  "Inflation expectations may decrease over the long term based on the inverted breakeven curve."
+ ],
+ "catalysts": [
+  "Upcoming launch of Quantaste's MCP functionality for the public."
+ ],
+ "rumors": [],
+ "curiosities": [
+  "The author uses a specific quantitative tool to manage his personal portfolio and shares the output with his audience."
+ ],
+ "promo": true,
+ "language": "it",
+ "video_id": "UdpdhWOAhTQ",
+ "title": "Il Portafoglio SANGUINA: l'errore che ho fatto (e cosa fare ora)",
+ "author": "Marco Casario EXTRA",
+ "url": "https://www.youtube.com/watch?v=UdpdhWOAhTQ",
+ "published": "2026-11-20T14:06:52+00:00",
+ "duration_min": 40,
+ "partial": false,
+ "analysed_at": "2026-11-20T14:34:36.010624+00:00",
+ "model": "gemini-3.1-flash-lite"
+}

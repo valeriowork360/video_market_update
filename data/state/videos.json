@@ -232,5 +232,41 @@
   "done_at": "2026-11-20T04:33:11.851000+00:00",
   "duplicate": true,
   "tries": 1
+ },
+ "UdpdhWOAhTQ": {
+  "status": "done",
+  "attempts": 0,
+  "channel": "Marco Casario EXTRA",
+  "title": "Il Portafoglio SANGUINA: l'errore che ho fatto (e cosa fare ora)",
+  "first_seen": "2026-11-20T14:23:37.976483+00:00",
+  "tries": 1,
+  "done_at": "2026-11-20T14:34:36.010887+00:00"
+ },
+ "Y-kYBJLUYOo": {
+  "status": "pending",
+  "attempts": 0,
+  "channel": "Jeremy Lefebvre Clips",
+  "title": "My HONEST Opinion on the NVIDIA Situation!",
+  "first_seen": "2026-11-20T14:34:36.011532+00:00",
+  "tries": 1,
+  "last_error": "Gemini non riesce ad aprire questo video adesso (live appena finita, video riservato o rimosso)"
+ },
+ "PMnVIhTULnw": {
+  "status": "pending",
+  "attempts": 0,
+  "channel": "Jeremy Lefebvre Clips",
+  "title": "SaaS Stocks! What Investors NEED to UNDERSTAND",
+  "first_seen": "2026-11-20T14:34:36.254356+00:00",
+  "tries": 1,
+  "last_error": "Gemini non riesce ad aprire questo video adesso (live appena finita, video riservato o rimosso)"
+ },
+ "h1gtqoUp0ZU": {
+  "status": "pending",
+  "attempts": 0,
+  "channel": "Jeremy Lefebvre Clips",
+  "title": "AMD Shareholders! Here's What Comes NEXT",
+  "first_seen": "2026-11-20T14:34:43.272523+00:00",
+  "tries": 1,
+  "last_error": "Gemini non riesce ad aprire questo video adesso (live appena finita, video riservato o rimosso)"
  }
 }
