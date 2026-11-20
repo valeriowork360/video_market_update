@@ -1,0 +1,652 @@
+{
+ "it": [
+  {
+   "title": "Il Nasdaq perde il 15% dai massimi",
+   "hook": "Nasdaq GIÙ 15%",
+   "beats": [
+    {
+     "say": "Il Nasdaq ha già perso il 15% dai massimi di ottobre.",
+     "show": "Nasdaq GIÙ 15%",
+     "figure": "-15%"
+    },
+    {
+     "say": "Tutti i listini principali stanno affrontando una correzione marcata, con il Dow Jones sotto di 5.000 punti.",
+     "show": "Dow Jones -5000",
+     "figure": "-5.000"
+    },
+    {
+     "say": "Non è una semplice pausa tecnica, ma una fuga generalizzata dagli asset più rischiosi.",
+     "show": "FUGA DAL RISCHIO",
+     "figure": ""
+    },
+    {
+     "say": "Se il Nasdaq toccherà un calo del 20%, entrerà ufficialmente in territorio di mercato orso.",
+     "show": "SOGLIA CRITICA -20%",
+     "figure": "-20%"
+    },
+    {
+     "say": "La pressione sui titoli tecnologici resta elevata. Segui per aggiornamenti.",
+     "show": "PRESSIONE SUL TECH",
+     "figure": ""
+    }
+   ],
+   "origin": "Jeremy Lefebvre",
+   "source_video": "AMD & Market Emergency!",
+   "narration": "Il Nasdaq ha già perso il 15% dai massimi di ottobre. Tutti i listini principali stanno affrontando una correzione marcata, con il Dow Jones sotto di 5.000 punti. Non è una semplice pausa tecnica, ma una fuga generalizzata dagli asset più rischiosi. Se il Nasdaq toccherà un calo del 20%, entrerà ufficialmente in territorio di mercato orso. La pressione sui titoli tecnologici resta elevata. Segui per aggiornamenti.",
+   "ticker": "^IXIC",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "I principali indici americani accelerano al ribasso dai massimi di ottobre. Segui per l'aggiornamento di domani.",
+   "hashtags": [
+    "#nasdaq",
+    "#wallstreet",
+    "#dowjones",
+    "#borse",
+    "#investimenti",
+    "#finanza"
+   ]
+  },
+  {
+   "title": "Crollo sui semiconduttori e intelligenza artificiale",
+   "hook": "CHIP IN CRACK",
+   "beats": [
+    {
+     "say": "Nvidia ha perso il 29% e Micron è crollata del 41%.",
+     "show": "CHIP IN CRACK",
+     "figure": "-29%"
+    },
+    {
+     "say": "I titoli legati all'intelligenza artificiale stanno subendo vendite pesantissime dai picchi di giugno.",
+     "show": "VENDITE SU AI",
+     "figure": ""
+    },
+    {
+     "say": "Mentre le aziende continuano a investire, il momentum sui titoli di settore si è esaurito mesi fa.",
+     "show": "MOMENTUM FINITO",
+     "figure": ""
+    },
+    {
+     "say": "Alcuni strumenti a leva su questi comparti hanno perso fino al 94% del loro valore.",
+     "show": "ETF A LEVA -94%",
+     "figure": "-94%"
+    },
+    {
+     "say": "Il settore richiede estrema selettività sui bilanci. Segui per aggiornamenti.",
+     "show": "FOCUS FONDAMENTALI",
+     "figure": ""
+    }
+   ],
+   "origin": "Jeremy Lefebvre",
+   "source_video": "AMD & Market Emergency!",
+   "narration": "Nvidia ha perso il 29% e Micron è crollata del 41%. I titoli legati all'intelligenza artificiale stanno subendo vendite pesantissime dai picchi di giugno. Mentre le aziende continuano a investire, il momentum sui titoli di settore si è esaurito mesi fa. Alcuni strumenti a leva su questi comparti hanno perso fino al 94% del loro valore. Il settore richiede estrema selettività sui bilanci. Segui per aggiornamenti.",
+   "ticker": "NVDA",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Forte contrazione per i titoli dei chip dopo i massimi estivi. Segui per l'aggiornamento di domani.",
+   "hashtags": [
+    "#nvidia",
+    "#semiconduttori",
+    "#intelligenzartificiale",
+    "#azioni",
+    "#trading",
+    "#mercati"
+   ]
+  },
+  {
+   "title": "Caterpillar e l'accordo da 3,4 miliardi",
+   "hook": "CATERPILLAR 3,4 MILIARDI",
+   "beats": [
+    {
+     "say": "Caterpillar sigla un accordo da 3,4 miliardi di dollari per alimentare data center.",
+     "show": "CATERPILLAR 3,4 MILIARDI",
+     "figure": "3,4 mld $"
+    },
+    {
+     "say": "L'azienda fornisce turbine, generatori a gas e motori diesel direttamente ai giganti tecnologici.",
+     "show": "ENERGIA PER AI",
+     "figure": ""
+    },
+    {
+     "say": "I colossi dell'intelligenza artificiale aggirano la rete elettrica tradizionale per evitare ritardi infrastrutturali enormi.",
+     "show": "RETE AGGIRATA",
+     "figure": ""
+    },
+    {
+     "say": "La domanda per soluzioni energetiche dedicate cresce più in fretta dei chip stessi.",
+     "show": "BOOM GENERATORI",
+     "figure": ""
+    },
+    {
+     "say": "L'energia è il vero collo di bottiglia del settore. Segui per aggiornamenti.",
+     "show": "NODO ENERGETICO",
+     "figure": ""
+    }
+   ],
+   "origin": "Jeremy Lefebvre",
+   "source_video": "AMD & Market Emergency!",
+   "narration": "Caterpillar sigla un accordo da 3,4 miliardi di dollari per alimentare data center. L'azienda fornisce turbine, generatori a gas e motori diesel direttamente ai giganti tecnologici. I colossi dell'intelligenza artificiale aggirano la rete elettrica tradizionale per evitare ritardi infrastrutturali enormi. La domanda per soluzioni energetiche dedicate cresce più in fretta dei chip stessi. L'energia è il vero collo di bottiglia del settore. Segui per aggiornamenti.",
+   "ticker": "CAT",
+   "sentiment": "bullish",
+   "sources": [],
+   "caption": "I colossi tech si rivolgono all'energia autonoma per alimentare i nuovi data center. Segui per l'aggiornamento di domani.",
+   "hashtags": [
+    "#caterpillar",
+    "#datacenter",
+    "#energia",
+    "#intelligenzartificiale",
+    "#infrastrutture",
+    "#finanza"
+   ]
+  },
+  {
+   "title": "Crollo improvviso per oro e argento",
+   "hook": "ARGENTO GIÙ 62%",
+   "beats": [
+    {
+     "say": "L'argento è crollato del 62% e l'oro ha perso il 32%.",
+     "show": "ARGENTO GIÙ 62%",
+     "figure": "-62%"
+    },
+    {
+     "say": "I metalli preziosi stanno affrontando una contrazione rara e improvvisa dai recenti massimi.",
+     "show": "METALLI IN FLESSIONE",
+     "figure": ""
+    },
+    {
+     "say": "Neppure i beni rifugio storici sono riusciti a evitare le vendite generalizzate sui mercati.",
+     "show": "BENI RIFUGIO VENDUTI",
+     "figure": ""
+    },
+    {
+     "say": "La combinazione di rendimenti obbligazionari stabili e liquidazioni forzate ha colpito il comparto.",
+     "show": "LIQUIDAZIONI FORZATE",
+     "figure": ""
+    },
+    {
+     "say": "La volatilità sulle materie prime resta su livelli estremi. Segui per aggiornamenti.",
+     "show": "COMMODITY RECORD",
+     "figure": ""
+    }
+   ],
+   "origin": "Jeremy Lefebvre",
+   "source_video": "AMD & Market Emergency!",
+   "narration": "L'argento è crollato del 62% e l'oro ha perso il 32%. I metalli preziosi stanno affrontando una contrazione rara e improvvisa dai recenti massimi. Neppure i beni rifugio storici sono riusciti a evitare le vendite generalizzate sui mercati. La combinazione di rendimenti obbligazionari stabili e liquidazioni forzate ha colpito il comparto. La volatilità sulle materie prime resta su livelli estremi. Segui per aggiornamenti.",
+   "ticker": "SI=F",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Forte ribasso per i metalli preziosi in una fase di riduzione del rischio. Segui per l'aggiornamento di domani.",
+   "hashtags": [
+    "#oro",
+    "#argento",
+    "#materieprime",
+    "#inflazione",
+    "#investimenti",
+    "#metalli"
+   ]
+  },
+  {
+   "title": "Il VIX verso quota 30 e i segnali storici",
+   "hook": "VIX A 30",
+   "beats": [
+    {
+     "say": "L'indice VIX vicino a quota 30 accende un importante segnale contrarian.",
+     "show": "VIX A 30",
+     "figure": "30"
+    },
+    {
+     "say": "La paura sui mercati sale mentre i listini azionari continuano a perdere terreno.",
+     "show": "PAURA IN AUMENTO",
+     "figure": ""
+    },
+    {
+     "say": "Storicamente, picchi del VIX a questo livello non indicano il minimo assoluto ma precedono forti rimbalzi.",
+     "show": "SEGNALE DI ACQUISTO",
+     "figure": ""
+    },
+    {
+     "say": "Nel 2018 il mercato reagì con un violento recupero proprio dopo un picco analogo.",
+     "show": "PRECEDENTE 2018",
+     "figure": ""
+    },
+    {
+     "say": "Le fasi di panico creano spesso le migliori finestre d'ingresso. Segui per aggiornamenti.",
+     "show": "PANICO E OCCASIONI",
+     "figure": ""
+    }
+   ],
+   "origin": "Jeremy Lefebvre",
+   "source_video": "AMD & Market Emergency!",
+   "narration": "L'indice VIX vicino a quota 30 accende un importante segnale contrarian. La paura sui mercati sale mentre i listini azionari continuano a perdere terreno. Storicamente, picchi del VIX a questo livello non indicano il minimo assoluto ma precedono forti rimbalzi. Nel 2018 il mercato reagì con un violento recupero proprio dopo un picco analogo. Le fasi di panico creano spesso le migliori finestre d'ingresso. Segui per aggiornamenti.",
+   "ticker": "^VIX",
+   "sentiment": "bullish",
+   "sources": [],
+   "caption": "Il picco dell'indice di volatilità VIX apre scenari interessanti per i mercati. Segui per l'aggiornamento di domani.",
+   "hashtags": [
+    "#vix",
+    "#volatilita",
+    "#borse",
+    "#investire",
+    "#trading",
+    "#wallstreet"
+   ]
+  },
+  {
+   "title": "AMD tra report ribassista e quota server",
+   "hook": "AMD -13% FLASH",
+   "beats": [
+    {
+     "say": "AMD perde il 13% in trenta minuti, ma la sua quota server sale al 35,5%.",
+     "show": "AMD -13% FLASH",
+     "figure": "35,5%"
+    },
+    {
+     "say": "Un report ribassista ha accusato la società di violazioni sull'export verso la Cina.",
+     "show": "REPORT RIBASSISTA",
+     "figure": ""
+    },
+    {
+     "say": "Il documento stesso ammette l'assenza di violazioni legali e cita dati della catena di fornitura del 2016.",
+     "show": "DATI DEL 2016",
+     "figure": "2016"
+    },
+    {
+     "say": "Nel frattempo i ricavi dei data center AMD sono cresciuti del 97% su base annua.",
+     "show": "RICAVI +97%",
+     "figure": "+97%"
+    },
+    {
+     "say": "I fondamentali industriali restano intatti nonostante il rumore. Segui per aggiornamenti.",
+     "show": "FONDAMENTALI SOLIDI",
+     "figure": ""
+    }
+   ],
+   "origin": "Jeremy Lefebvre",
+   "source_video": "AMD & Market Emergency!",
+   "narration": "AMD perde il 13% in trenta minuti, ma la sua quota server sale al 35,5%. Un report ribassista ha accusato la società di violazioni sull'export verso la Cina. Il documento stesso ammette l'assenza di violazioni legali e cita dati della catena di fornitura del 2016. Nel frattempo i ricavi dei data center AMD sono cresciuti del 97% su base annua. I fondamentali industriali restano intatti nonostante il rumore. Segui per aggiornamenti.",
+   "ticker": "AMD",
+   "sentiment": "bullish",
+   "sources": [],
+   "caption": "AMD crolla sulle indiscrezioni ma continua a guadagnare quote nei data center. Segui per l'aggiornamento di domani.",
+   "hashtags": [
+    "#amd",
+    "#semiconduttori",
+    "#azioni",
+    "#datacenter",
+    "#investimenti",
+    "#tech"
+   ]
+  }
+ ],
+ "en": [
+  {
+   "title": "Nasdaq Drops 15% from Peak",
+   "hook": "Nasdaq DOWN 15%",
+   "beats": [
+    {
+     "say": "The Nasdaq is down 15% from its early October highs.",
+     "show": "Nasdaq DOWN 15%",
+     "figure": "-15%"
+    },
+    {
+     "say": "Major indices are pulling back sharply, with the Dow Jones dropping over 5,000 points.",
+     "show": "DOW DOWN 5000",
+     "figure": "-5,000"
+    },
+    {
+     "say": "This pullback marks a broad liquidation rather than routine profit taking.",
+     "show": "BROAD LIQUIDATION",
+     "figure": ""
+    },
+    {
+     "say": "A drop extending to 20% would officially put the index into a full correction.",
+     "show": "WATCH 20% DROP",
+     "figure": "-20%"
+    },
+    {
+     "say": "Tech volatility remains elevated across the board. Follow for updates.",
+     "show": "HIGH VOLATILITY",
+     "figure": ""
+    }
+   ],
+   "origin": "Jeremy Lefebvre",
+   "source_video": "AMD & Market Emergency!",
+   "narration": "The Nasdaq is down 15% from its early October highs. Major indices are pulling back sharply, with the Dow Jones dropping over 5,000 points. This pullback marks a broad liquidation rather than routine profit taking. A drop extending to 20% would officially put the index into a full correction. Tech volatility remains elevated across the board. Follow for updates.",
+   "ticker": "^IXIC",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Tech indices face steep drawdowns as major benchmarks slide. Follow for tomorrow's update.",
+   "hashtags": [
+    "#nasdaq",
+    "#stocks",
+    "#stockmarket",
+    "#investing",
+    "#dowjones",
+    "#trading"
+   ]
+  },
+  {
+   "title": "AI Chip Stocks Suffer Massive Drawdown",
+   "hook": "CHIPS CRASH HARD",
+   "beats": [
+    {
+     "say": "Nvidia is down 29% and Micron has fallen 41%.",
+     "show": "CHIPS CRASH HARD",
+     "figure": "-29%"
+    },
+    {
+     "say": "High-flying artificial intelligence stocks are experiencing severe drawdowns from their June peaks.",
+     "show": "AI STOCKS DUMP",
+     "figure": ""
+    },
+    {
+     "say": "Corporate infrastructure spending continues, but trading momentum broke down months ago.",
+     "show": "MOMENTUM IS DEAD",
+     "figure": ""
+    },
+    {
+     "say": "Leveraged semiconductor funds have lost up to 94% during this decline.",
+     "show": "LEVERAGE DOWN 94%",
+     "figure": "-94%"
+    },
+    {
+     "say": "High valuations are facing a strict reality check. Follow for updates.",
+     "show": "VALUATION CHECK",
+     "figure": ""
+    }
+   ],
+   "origin": "Jeremy Lefebvre",
+   "source_video": "AMD & Market Emergency!",
+   "narration": "Nvidia is down 29% and Micron has fallen 41%. High-flying artificial intelligence stocks are experiencing severe drawdowns from their June peaks. Corporate infrastructure spending continues, but trading momentum broke down months ago. Leveraged semiconductor funds have lost up to 94% during this decline. High valuations are facing a strict reality check. Follow for updates.",
+   "ticker": "NVDA",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Semiconductor leaders take a beating as speculative trading cools off. Follow for tomorrow's update.",
+   "hashtags": [
+    "#nvidia",
+    "#semiconductors",
+    "#aistocks",
+    "#wallstreet",
+    "#investing",
+    "#techstocks"
+   ]
+  },
+  {
+   "title": "Caterpillar Inks Massive $3.4B AI Deal",
+   "hook": "CAT $3.4B DEAL",
+   "beats": [
+    {
+     "say": "Caterpillar secured a $3.4 billion deal for data center power generators.",
+     "show": "CAT $3.4B DEAL",
+     "figure": "$3.4B"
+    },
+    {
+     "say": "The company sells industrial gas turbines and generators directly to major tech firms.",
+     "show": "POWERING DATA CENTERS",
+     "figure": ""
+    },
+    {
+     "say": "Artificial intelligence hubs are bypassing regional power grids entirely to eliminate deployment bottlenecks.",
+     "show": "GRID BOTTLENECK",
+     "figure": ""
+    },
+    {
+     "say": "Demand for dedicated on-site power generation now outpaces hardware supply chains.",
+     "show": "RISING POWER DEMAND",
+     "figure": ""
+    },
+    {
+     "say": "Infrastructure remains the critical backbone for tech expansion. Follow for updates.",
+     "show": "TECH BACKBONE",
+     "figure": ""
+    }
+   ],
+   "origin": "Jeremy Lefebvre",
+   "source_video": "AMD & Market Emergency!",
+   "narration": "Caterpillar secured a $3.4 billion deal for data center power generators. The company sells industrial gas turbines and generators directly to major tech firms. Artificial intelligence hubs are bypassing regional power grids entirely to eliminate deployment bottlenecks. Demand for dedicated on-site power generation now outpaces hardware supply chains. Infrastructure remains the critical backbone for tech expansion. Follow for updates.",
+   "ticker": "CAT",
+   "sentiment": "bullish",
+   "sources": [],
+   "caption": "Tech giants turn to Caterpillar to bypass traditional grid constraints. Follow for tomorrow's update.",
+   "hashtags": [
+    "#caterpillar",
+    "#datacenters",
+    "#energy",
+    "#aiinfrastructure",
+    "#stocks",
+    "#investing"
+   ]
+  },
+  {
+   "title": "Silver and Gold Suffer Sharp Plunge",
+   "hook": "SILVER CRASHES 62%",
+   "beats": [
+    {
+     "say": "Silver has dropped 62% and gold has plunged 32%.",
+     "show": "SILVER CRASHES 62%",
+     "figure": "-62%"
+    },
+    {
+     "say": "Precious metals are experiencing an extraordinarily rare and steep drawdown from their highs.",
+     "show": "METALS DUMP HARD",
+     "figure": ""
+    },
+    {
+     "say": "Traditional safe havens failed to protect portfolios during the recent liquidity drain.",
+     "show": "SAFE HAVENS FAIL",
+     "figure": ""
+    },
+    {
+     "say": "With benchmark yields holding near 5%, non-yielding assets faced heavy liquidations.",
+     "show": "YIELDS HOLD 5%",
+     "figure": "5%"
+    },
+    {
+     "say": "Commodity price swings remain at historic extremes. Follow for updates.",
+     "show": "EXTREME SWINGS",
+     "figure": ""
+    }
+   ],
+   "origin": "Jeremy Lefebvre",
+   "source_video": "AMD & Market Emergency!",
+   "narration": "Silver has dropped 62% and gold has plunged 32%. Precious metals are experiencing an extraordinarily rare and steep drawdown from their highs. Traditional safe havens failed to protect portfolios during the recent liquidity drain. With benchmark yields holding near 5%, non-yielding assets faced heavy liquidations. Commodity price swings remain at historic extremes. Follow for updates.",
+   "ticker": "SI=F",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Precious metals face heavy selling pressure across the commodities board. Follow for tomorrow's update.",
+   "hashtags": [
+    "#gold",
+    "#silver",
+    "#commodities",
+    "#preciousmetals",
+    "#markets",
+    "#investing"
+   ]
+  },
+  {
+   "title": "VIX Approaches 30: Historical Signal",
+   "hook": "VIX HITS 30",
+   "beats": [
+    {
+     "say": "The VIX spiking toward 30 triggers a major historical buy signal.",
+     "show": "VIX HITS 30",
+     "figure": "30"
+    },
+    {
+     "say": "Market volatility is surging as broad equity indices tumble.",
+     "show": "VOLATILITY SURGE",
+     "figure": ""
+    },
+    {
+     "say": "A VIX at 30 does not mark the exact bottom, but it historically rewards patient accumulation.",
+     "show": "NOT THE BOTTOM",
+     "figure": ""
+    },
+    {
+     "say": "Similar volatility spikes in late 2018 preceded massive long-term recoveries across mega caps.",
+     "show": "2018 PLAYBOOK",
+     "figure": ""
+    },
+    {
+     "say": "Extreme fear historically creates durable entry opportunities. Follow for updates.",
+     "show": "OPPORTUNITY AHEAD",
+     "figure": ""
+    }
+   ],
+   "origin": "Jeremy Lefebvre",
+   "source_video": "AMD & Market Emergency!",
+   "narration": "The VIX spiking toward 30 triggers a major historical buy signal. Market volatility is surging as broad equity indices tumble. A VIX at 30 does not mark the exact bottom, but it historically rewards patient accumulation. Similar volatility spikes in late 2018 preceded massive long-term recoveries across mega caps. Extreme fear historically creates durable entry opportunities. Follow for updates.",
+   "ticker": "^VIX",
+   "sentiment": "bullish",
+   "sources": [],
+   "caption": "Elevated volatility levels historically signal asymmetric risk-reward setups. Follow for tomorrow's update.",
+   "hashtags": [
+    "#vix",
+    "#volatility",
+    "#stockmarket",
+    "#trading",
+    "#investing",
+    "#options"
+   ]
+  },
+  {
+   "title": "AMD Dumps 13% on Short Report",
+   "hook": "AMD 13% DROP",
+   "beats": [
+    {
+     "say": "AMD crashed 13% in 30 minutes, yet server market share hit 35.5%.",
+     "show": "AMD 13% DROP",
+     "figure": "35.5%"
+    },
+    {
+     "say": "A short-seller report alleged export compliance violations regarding Chinese server makers.",
+     "show": "EXPORT ALLEGATIONS",
+     "figure": ""
+    },
+    {
+     "say": "The report concedes no legal violations occurred and cites supply chain records from 2016.",
+     "show": "OUTDATED 2016 DATA",
+     "figure": "2016"
+    },
+    {
+     "say": "AMD data center revenues surged 97% year over year in the third quarter.",
+     "show": "REVENUE UP 97%",
+     "figure": "+97%"
+    },
+    {
+     "say": "Underlying data center growth remains entirely intact. Follow for updates.",
+     "show": "STRONG GROWTH",
+     "figure": ""
+    }
+   ],
+   "origin": "Jeremy Lefebvre",
+   "source_video": "AMD & Market Emergency!",
+   "narration": "AMD crashed 13% in 30 minutes, yet server market share hit 35.5%. A short-seller report alleged export compliance violations regarding Chinese server makers. The report concedes no legal violations occurred and cites supply chain records from 2016. AMD data center revenues surged 97% year over year in the third quarter. Underlying data center growth remains entirely intact. Follow for updates.",
+   "ticker": "AMD",
+   "sentiment": "bullish",
+   "sources": [],
+   "caption": "AMD absorbs a sharp sell-off amid short-seller claims while server fundamentals surge. Follow for tomorrow's update.",
+   "hashtags": [
+    "#amd",
+    "#chips",
+    "#semiconductors",
+    "#datacenter",
+    "#stocks",
+    "#techstocks"
+   ]
+  }
+ ],
+ "carousels": {
+  "it": {
+   "topic": "La correzione dei mercati e AMD",
+   "caption": "I mercati affrontano una correzione pesante tra tecnologia, materie prime e sell-off di fine anno. Analizziamo i numeri chiave. Segui per l'aggiornamento di domani.",
+   "sentiment": "neutral",
+   "ticker": "^IXIC",
+   "slides": [
+    {
+     "title": "Mercati sotto stress: cosa succede",
+     "body": "Dalla caduta del Nasdaq ai semiconduttori, ecco cosa rivelano i dati reali oltre il panico."
+    },
+    {
+     "title": "Indici in correzione decisa",
+     "body": "Il Nasdaq perde il 15% da ottobre, il Dow Jones arretra di 5.000 punti e l'S&P 500 cede l'8%."
+    },
+    {
+     "title": "I chip guidano i ribassi",
+     "body": "Nvidia perde il 29% e Micron il 41% dai massimi estivi, esaurendo il momentum speculativo iniziato a giugno."
+    },
+    {
+     "title": "Metalli preziosi in affanno",
+     "body": "L'argento arretra del 62% e l'oro cede il 32%, travolti da liquidazioni forzate e tassi decennali fermi al 5%."
+    },
+    {
+     "title": "AMD tra accuse e numeri",
+     "body": "Il titolo perde il 13% su un report ribassista, ma la quota server sale al 35,5% con ricavi data center a +97%."
+    },
+    {
+     "title": "Il nodo fiscale di dicembre",
+     "body": "I titoli con ribassi oltre il 30% affronteranno forti vendite per minusvalenze fiscali prima del nuovo anno."
+    },
+    {
+     "title": "La volatilità crea opportunità",
+     "body": "Le correzioni ripuliscono gli eccessi e preparano il recupero dei titoli solidi. Segui per l'aggiornamento di domani."
+    }
+   ],
+   "hashtags": [
+    "#borse",
+    "#mercati",
+    "#tecnologia",
+    "#nasdaq",
+    "#amd",
+    "#investimenti",
+    "#finanza",
+    "#azioni"
+   ]
+  },
+  "en": {
+   "topic": "Market Correction and AMD Breakdown",
+   "caption": "A widespread market pullback is shaking tech stocks, commodities, and key indices. Here is the full breakdown. Follow for tomorrow's update.",
+   "sentiment": "neutral",
+   "ticker": "^IXIC",
+   "slides": [
+    {
+     "title": "Market Emergency: What is Real?",
+     "body": "From tech sell-offs to commodity crashes, here is what the data reveals across major asset classes."
+    },
+    {
+     "title": "Indices in Full Correction",
+     "body": "The Nasdaq is down 15% from October highs, while the Dow Jones has lost over 5,000 points."
+    },
+    {
+     "title": "AI Hardware Pulls Back",
+     "body": "Nvidia has dropped 29% and Micron 41% from summer peaks as short-term speculative momentum cools."
+    },
+    {
+     "title": "Precious Metals Liquidation",
+     "body": "Silver is down 62% and gold 32%, hit by liquidity demands while 10-year Treasury yields hold near 5%."
+    },
+    {
+     "title": "AMD: Claims vs Fundamentals",
+     "body": "A short report pushed AMD down 13%, but server CPU market share reached 35.5% with data center sales up 97%."
+    },
+    {
+     "title": "December Tax-Loss Pressure",
+     "body": "Heavily beaten-down shares face additional year-end tax-loss selling before institutional positioning resets."
+    },
+    {
+     "title": "Long-Term Perspective Wins",
+     "body": "Severe market pullbacks routinely reset valuations and build major accumulation zones. Follow for tomorrow's update."
+    }
+   ],
+   "hashtags": [
+    "#stockmarket",
+    "#nasdaq",
+    "#investing",
+    "#amd",
+    "#nvidia",
+    "#techstocks",
+    "#wallstreet",
+    "#trading"
+   ]
+  }
+ }
+}
