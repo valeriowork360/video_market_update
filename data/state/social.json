@@ -296,9 +296,45 @@
   "done": true
  },
  "VMnaMPiTP5c": {
-  "sent": [],
-  "tries": 1,
+  "sent": [
+   "it:s1",
+   "it:s2",
+   "it:s3",
+   "it:s4",
+   "it:s5",
+   "it:s6",
+   "it:s7",
+   "it:s8",
+   "it:c",
+   "en:s1",
+   "en:s2",
+   "en:s3",
+   "en:s4",
+   "en:s5",
+   "en:s6",
+   "en:s7",
+   "en:s8",
+   "en:c"
+  ],
+  "tries": 2,
   "title": "MI SBAGLIAVO. | 0xFriday | 20 Novembre 2026",
-  "done": false
+  "done": true
+ },
+ "PMnVIhTULnw": {
+  "sent": [
+   "it:s1",
+   "it:s2",
+   "it:s3",
+   "it:s4",
+   "it:c",
+   "en:s1",
+   "en:s2",
+   "en:s3",
+   "en:s4",
+   "en:c"
+  ],
+  "tries": 1,
+  "title": "SaaS Stocks! What Investors NEED to UNDERSTAND",
+  "done": true
  }
 }

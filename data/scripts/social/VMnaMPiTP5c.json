@@ -1,0 +1,820 @@
+{
+ "it": [
+  {
+   "title": "Bitcoin rompe i supporti chiave",
+   "hook": "Bitcoin STRUTTURA ROTTA",
+   "beats": [
+    {
+     "say": "La struttura rialzista di Bitcoin dopo il mercato orso si è ufficialmente rotta.",
+     "show": "Bitcoin STRUTTURA ROTTA",
+     "figure": "68.000 $"
+    },
+    {
+     "say": "Il prezzo ha ceduto supporti tecnici decisivi cancellando la spinta attesa.",
+     "show": "SUPPORTI INFRANTI",
+     "figure": ""
+    },
+    {
+     "say": "La chiusura frettolosa delle coperture corte ha amplificato l'impatto del ribasso.",
+     "show": "HEDGE CHIUSO",
+     "figure": ""
+    },
+    {
+     "say": "I volumi confermano una fase laterale nervosa senza ripartenze immediate.",
+     "show": "FASE LATERALE",
+     "figure": ""
+    },
+    {
+     "say": "Il ciclo rialzista deve ricalibrare le sue tempistiche. Segui per aggiornamenti.",
+     "show": "PROSSIMO LIVELLO",
+     "figure": ""
+    }
+   ],
+   "origin": "0xTalks",
+   "source_video": "MI SBAGLIAVO. | 0xFriday | 20 Novembre 2026",
+   "narration": "La struttura rialzista di Bitcoin dopo il mercato orso si è ufficialmente rotta. Il prezzo ha ceduto supporti tecnici decisivi cancellando la spinta attesa. La chiusura frettolosa delle coperture corte ha amplificato l'impatto del ribasso. I volumi confermano una fase laterale nervosa senza ripartenze immediate. Il ciclo rialzista deve ricalibrare le sue tempistiche. Segui per aggiornamenti.",
+   "ticker": "BTC-USD",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Bitcoin perde i supporti tecnici chiave e invalida la tesi di continuazione rialzista immediata.",
+   "hashtags": [
+    "#bitcoin",
+    "#criptovalute",
+    "#trading",
+    "#btc",
+    "#mercati"
+   ]
+  },
+  {
+   "title": "Fuga dagli ETF Bitcoin: oltre 4 miliardi usciti",
+   "hook": "4,1 MILIARDI OUT",
+   "beats": [
+    {
+     "say": "Oltre 4,1 miliardi di dollari sono usciti dagli ETF spot su Bitcoin.",
+     "show": "4,1 MILIARDI OUT",
+     "figure": "-4,1 mld $"
+    },
+    {
+     "say": "I riscatti istituzionali tra fine ottobre e metà novembre non si sono fermati.",
+     "show": "DEFLUSSI RECORD",
+     "figure": ""
+    },
+    {
+     "say": "I flussi negativi consecutivi hanno azzerato la liquidità sul book degli ordini.",
+     "show": "LIQUIDITÀ AZZERATA",
+     "figure": ""
+    },
+    {
+     "say": "Senza un ritorno netto dei flussi positivi ogni rimbalzo resta fragile.",
+     "show": "FLUSSI NEGATIVI",
+     "figure": ""
+    },
+    {
+     "say": "I capitali istituzionali restano alla finestra. Segui per aggiornamenti.",
+     "show": "ATTESA FONDI",
+     "figure": ""
+    }
+   ],
+   "origin": "0xTalks",
+   "source_video": "MI SBAGLIAVO. | 0xFriday | 20 Novembre 2026",
+   "narration": "Oltre 4,1 miliardi di dollari sono usciti dagli ETF spot su Bitcoin. I riscatti istituzionali tra fine ottobre e metà novembre non si sono fermati. I flussi negativi consecutivi hanno azzerato la liquidità sul book degli ordini. Senza un ritorno netto dei flussi positivi ogni rimbalzo resta fragile. I capitali istituzionali restano alla finestra. Segui per aggiornamenti.",
+   "ticker": "BTC-USD",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Deflussi superiori a 4,1 miliardi di dollari colpiscono gli ETF spot su Bitcoin in poche settimane.",
+   "hashtags": [
+    "#bitcoin",
+    "#etf",
+    "#criptovalute",
+    "#finanza",
+    "#investimenti"
+   ]
+  },
+  {
+   "title": "Paura estrema sul mercato crypto: indice a 11",
+   "hook": "INDICE PAURA A 11",
+   "beats": [
+    {
+     "say": "L'indice di paura e avidità è crollato a quota 11.",
+     "show": "INDICE PAURA A 11",
+     "figure": "11"
+    },
+    {
+     "say": "Il sentiment degli investitori segnala un livello di panico estremo.",
+     "show": "PANICO ESTREMO",
+     "figure": ""
+    },
+    {
+     "say": "Livelli così bassi hanno storicamente preceduto minimi ciclici significativi.",
+     "show": "MINIMO CICLICO",
+     "figure": ""
+    },
+    {
+     "say": "La violenza dei ribassi impone massima cautela prima di posizionarsi al rialzo.",
+     "show": "GESTIONE RISCHIO",
+     "figure": ""
+    },
+    {
+     "say": "Il pessimismo dilaga ma offre le migliori asimmetrie. Segui per aggiornamenti.",
+     "show": "PESSIMISMO RECORD",
+     "figure": ""
+    }
+   ],
+   "origin": "0xTalks",
+   "source_video": "MI SBAGLIAVO. | 0xFriday | 20 Novembre 2026",
+   "narration": "L'indice di paura e avidità è crollato a quota 11. Il sentiment degli investitori segnala un livello di panico estremo. Livelli così bassi hanno storicamente preceduto minimi ciclici significativi. La violenza dei ribassi impone massima cautela prima di posizionarsi al rialzo. Il pessimismo dilaga ma offre le migliori asimmetrie. Segui per aggiornamenti.",
+   "ticker": "BTC-USD",
+   "sentiment": "neutral",
+   "sources": [],
+   "caption": "Il Fear and Greed Index tocca quota 11 segnalando una fase di pessimismo estremo sul mercato.",
+   "hashtags": [
+    "#criptovalute",
+    "#bitcoin",
+    "#sentiment",
+    "#trading",
+    "#finanza"
+   ]
+  },
+  {
+   "title": "Bitcoin e la trappola gamma a 60.000 dollari",
+   "hook": "TRAPPOLA 60.000 $",
+   "beats": [
+    {
+     "say": "Quota 60.000 dollari concentra una massiccia esposizione gamma negativa.",
+     "show": "TRAPPOLA 60.000 $",
+     "figure": "60.000 $"
+    },
+    {
+     "say": "I market maker devono coprire posizioni in derivati su questo strike.",
+     "show": "GAMMA NEGATIVA",
+     "figure": ""
+    },
+    {
+     "say": "Questa configurazione costringe i dealer a vendere mentre il prezzo scende.",
+     "show": "VENDITE FORZATE",
+     "figure": ""
+    },
+    {
+     "say": "La volatilità aumenta drasticamente avvicinandosi alla soglia dei 60.000 dollari.",
+     "show": "VOLATILITÀ ALTA",
+     "figure": ""
+    },
+    {
+     "say": "I derivati guidano il prezzo spot. Segui per aggiornamenti.",
+     "show": "DERIVATI DECISIVI",
+     "figure": ""
+    }
+   ],
+   "origin": "0xTalks",
+   "source_video": "MI SBAGLIAVO. | 0xFriday | 20 Novembre 2026",
+   "narration": "Quota 60.000 dollari concentra una massiccia esposizione gamma negativa. I market maker devono coprire posizioni in derivati su questo strike. Questa configurazione costringe i dealer a vendere mentre il prezzo scende. La volatilità aumenta drasticamente avvicinandosi alla soglia dei 60.000 dollari. I derivati guidano il prezzo spot. Segui per aggiornamenti.",
+   "ticker": "BTC-USD",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "La concentrazione di gamma negativa vicino a 60.000 dollari accelera la volatilità su Bitcoin.",
+   "hashtags": [
+    "#bitcoin",
+    "#derivati",
+    "#opzioni",
+    "#trading",
+    "#criptovalute"
+   ]
+  },
+  {
+   "title": "Anthropic: le crypto anticipano il Nasdaq",
+   "hook": "ANTHROPIC PRE-IPO",
+   "beats": [
+    {
+     "say": "I contratti decentralizzati hanno scambiato Anthropic prima del Nasdaq.",
+     "show": "ANTHROPIC PRE-IPO",
+     "figure": "110 $"
+    },
+    {
+     "say": "Le quotazioni sui DEX hanno toccato una valutazione di 1.440 miliardi.",
+     "show": "1.440 MILIARDI",
+     "figure": "1.440 mld $"
+    },
+    {
+     "say": "Il prezzo è poi sceso fino a 83 dollari all'IPO ufficiale.",
+     "show": "IPO A 83 $",
+     "figure": "83 $"
+    },
+    {
+     "say": "Gli exchange decentralizzati sono diventati il vero motore del price discovery.",
+     "show": "PRICE DISCOVERY",
+     "figure": ""
+    },
+    {
+     "say": "La finanza on-chain anticipa Wall Street. Segui per aggiornamenti.",
+     "show": "CRYPTO GUIDA",
+     "figure": ""
+    }
+   ],
+   "origin": "0xTalks",
+   "source_video": "MI SBAGLIAVO. | 0xFriday | 20 Novembre 2026",
+   "narration": "I contratti decentralizzati hanno scambiato Anthropic prima del Nasdaq. Le quotazioni sui DEX hanno toccato una valutazione di 1.440 miliardi. Il prezzo è poi sceso fino a 83 dollari all'IPO ufficiale. Gli exchange decentralizzati sono diventati il vero motore del price discovery. La finanza on-chain anticipa Wall Street. Segui per aggiornamenti.",
+   "ticker": null,
+   "sentiment": "neutral",
+   "sources": [],
+   "caption": "I derivati crypto decentralizzati hanno guidato il price discovery pre-IPO di Anthropic.",
+   "hashtags": [
+    "#anthropic",
+    "#ipo",
+    "#nasdaq",
+    "#dex",
+    "#intelligenzaartificiale"
+   ]
+  },
+  {
+   "title": "Nasdaq giù del 18%: tech sotto pressione",
+   "hook": "Nasdaq -18%",
+   "beats": [
+    {
+     "say": "Il Nasdaq registra una correzione del 18% dai massimi.",
+     "show": "Nasdaq -18%",
+     "figure": "-18%"
+    },
+    {
+     "say": "Il settore tecnologico subisce la flessione più pesante dell'azionario americano.",
+     "show": "TECH IN CRISI",
+     "figure": ""
+    },
+    {
+     "say": "I semiconduttori e le mega cap soffrono i tassi di interesse elevati.",
+     "show": "TASSI ELEVATI",
+     "figure": ""
+    },
+    {
+     "say": "I multipli prezzo utili restano vulnerabili a rallentamenti degli utili.",
+     "show": "MULTIPLI A RISCHIO",
+     "figure": ""
+    },
+    {
+     "say": "La crescita tech richiede conferme concrete. Segui per aggiornamenti.",
+     "show": "PROSSIMI UTILI",
+     "figure": ""
+    }
+   ],
+   "origin": "0xTalks",
+   "source_video": "MI SBAGLIAVO. | 0xFriday | 20 Novembre 2026",
+   "narration": "Il Nasdaq registra una correzione del 18% dai massimi. Il settore tecnologico subisce la flessione più pesante dell'azionario americano. I semiconduttori e le mega cap soffrono i tassi di interesse elevati. I multipli prezzo utili restano vulnerabili a rallentamenti degli utili. La crescita tech richiede conferme concrete. Segui per aggiornamenti.",
+   "ticker": "^IXIC",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Il Nasdaq scende del 18% dai massimi storici a causa della contrazione dei multipli tecnologici.",
+   "hashtags": [
+    "#nasdaq",
+    "#tecnologia",
+    "#wallstreet",
+    "#azioni",
+    "#mercati"
+   ]
+  },
+  {
+   "title": "S&P 500 corregge del 10%: allarme o routine?",
+   "hook": "S&P 500 -10%",
+   "beats": [
+    {
+     "say": "L'indice S&P 500 ha perso il 10% dai suoi massimi storici.",
+     "show": "S&P 500 -10%",
+     "figure": "-10%"
+    },
+    {
+     "say": "Il ritracciamento rientra nei parametri storici di una normale correzione ciclica.",
+     "show": "CORREZIONE CICLICA",
+     "figure": ""
+    },
+    {
+     "say": "Nello scenario peggiore la correzione potrebbe estendersi fino al 20%.",
+     "show": "SCENARIO -20%",
+     "figure": "-20%"
+    },
+    {
+     "say": "I volumi attuali non evidenziano una rottura strutturale dell'economia.",
+     "show": "VOLUMI STABILI",
+     "figure": ""
+    },
+    {
+     "say": "I ritracciamenti creano occasioni per gli investitori. Segui per aggiornamenti.",
+     "show": "OCCHI AI SUPPORTI",
+     "figure": ""
+    }
+   ],
+   "origin": "0xTalks",
+   "source_video": "MI SBAGLIAVO. | 0xFriday | 20 Novembre 2026",
+   "narration": "L'indice S&P 500 ha perso il 10% dai suoi massimi storici. Il ritracciamento rientra nei parametri storici di una normale correzione ciclica. Nello scenario peggiore la correzione potrebbe estendersi fino al 20%. I volumi attuali non evidenziano una rottura strutturale dell'economia. I ritracciamenti creano occasioni per gli investitori. Segui per aggiornamenti.",
+   "ticker": "^GSPC",
+   "sentiment": "neutral",
+   "sources": [],
+   "caption": "Una correzione del 10% sull'S&P 500 rientra nella normale ciclicità di mercato.",
+   "hashtags": [
+    "#sp500",
+    "#wallstreet",
+    "#borse",
+    "#investimenti",
+    "#finanza"
+   ]
+  },
+  {
+   "title": "Oro: cicli decennali e lunghi letarghi",
+   "hook": "ORO CICLI DECENNALI",
+   "beats": [
+    {
+     "say": "L'oro attraversa storicamente cicli laterali durati decenni interi.",
+     "show": "ORO CICLI DECENNALI",
+     "figure": ""
+    },
+    {
+     "say": "Chi ha comprato durante le fasi piatte ha atteso anni prima di vedere guadagni.",
+     "show": "ANNI LATERALI",
+     "figure": ""
+    },
+    {
+     "say": "A queste lunghe attese seguono poi espansioni violente e improvvise.",
+     "show": "ESPANSIONI RAPIDE",
+     "figure": ""
+    },
+    {
+     "say": "La rotazione tra metalli preziosi e asset digitali evidenzia logiche temporali opposte.",
+     "show": "ORO VS CRYPTO",
+     "figure": ""
+    },
+    {
+     "say": "La pazienza resta il vero costo dell'oro. Segui per aggiornamenti.",
+     "show": "TEMPO DECISIVO",
+     "figure": ""
+    }
+   ],
+   "origin": "0xTalks",
+   "source_video": "MI SBAGLIAVO. | 0xFriday | 20 Novembre 2026",
+   "narration": "L'oro attraversa storicamente cicli laterali durati decenni interi. Chi ha comprato durante le fasi piatte ha atteso anni prima di vedere guadagni. A queste lunghe attese seguono poi espansioni violente e improvvise. La rotazione tra metalli preziosi e asset digitali evidenzia logiche temporali opposte. La pazienza resta il vero costo dell'oro. Segui per aggiornamenti.",
+   "ticker": "GC=F",
+   "sentiment": "neutral",
+   "sources": [],
+   "caption": "La storia dell'oro mostra fasi laterali pluriennali seguite da violenti breakout ciclici.",
+   "hashtags": [
+    "#oro",
+    "#materieprime",
+    "#investimenti",
+    "#finanza",
+    "#macro"
+   ]
+  }
+ ],
+ "en": [
+  {
+   "title": "Bitcoin Macro Bull Thesis Broken",
+   "hook": "Bitcoin STRUCTURE BROKEN",
+   "beats": [
+    {
+     "say": "Bitcoin broke its critical post bear market technical structure.",
+     "show": "Bitcoin STRUCTURE BROKEN",
+     "figure": "$68,000"
+    },
+    {
+     "say": "Price action breached key support zones instead of confirming upward continuation.",
+     "show": "SUPPORTS BROKEN",
+     "figure": ""
+    },
+    {
+     "say": "Removing short hedges too early amplified downside losses during unexpected weakness.",
+     "show": "HEDGES CUT",
+     "figure": ""
+    },
+    {
+     "say": "Choppy range bound action now dominates the macro technical chart.",
+     "show": "RANGE BOUND",
+     "figure": ""
+    },
+    {
+     "say": "The market needs time to rebuild support. Follow for updates.",
+     "show": "WATCH SUPPORTS",
+     "figure": ""
+    }
+   ],
+   "origin": "0xTalks",
+   "source_video": "MI SBAGLIAVO. | 0xFriday | 20 Novembre 2026",
+   "narration": "Bitcoin broke its critical post bear market technical structure. Price action breached key support zones instead of confirming upward continuation. Removing short hedges too early amplified downside losses during unexpected weakness. Choppy range bound action now dominates the macro technical chart. The market needs time to rebuild support. Follow for updates.",
+   "ticker": "BTC-USD",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Bitcoin breaches major technical support levels, invalidating prior upside momentum expectations.",
+   "hashtags": [
+    "#bitcoin",
+    "#btc",
+    "#crypto",
+    "#markets",
+    "#trading"
+   ]
+  },
+  {
+   "title": "Bitcoin Spot ETFs Bleed $4.1 Billion",
+   "hook": "$4.1B ETF OUTFLOWS",
+   "beats": [
+    {
+     "say": "Four point one billion dollars exited Bitcoin spot ETFs recently.",
+     "show": "$4.1B ETF OUTFLOWS",
+     "figure": "-$4.1B"
+    },
+    {
+     "say": "Institutional capital pulled funds across multiple consecutive red sessions.",
+     "show": "RED SESSIONS",
+     "figure": ""
+    },
+    {
+     "say": "Persistent selling pressure drained order book depth across major exchanges.",
+     "show": "DEPTH DRAINED",
+     "figure": ""
+    },
+    {
+     "say": "A sustained trend reversal requires ETF net inflows to turn positive again.",
+     "show": "WATCH FLOWS",
+     "figure": ""
+    },
+    {
+     "say": "Institutional demand has stepped aside for now. Follow for updates.",
+     "show": "CAPITAL SIDELINED",
+     "figure": ""
+    }
+   ],
+   "origin": "0xTalks",
+   "source_video": "MI SBAGLIAVO. | 0xFriday | 20 Novembre 2026",
+   "narration": "Four point one billion dollars exited Bitcoin spot ETFs recently. Institutional capital pulled funds across multiple consecutive red sessions. Persistent selling pressure drained order book depth across major exchanges. A sustained trend reversal requires ETF net inflows to turn positive again. Institutional demand has stepped aside for now. Follow for updates.",
+   "ticker": "BTC-USD",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Bitcoin spot ETFs register over 4.1 billion dollars in net cumulative outflows.",
+   "hashtags": [
+    "#bitcoin",
+    "#crypto",
+    "#etfs",
+    "#investing",
+    "#markets"
+   ]
+  },
+  {
+   "title": "Crypto Sentiment Hits Extreme Fear at 11",
+   "hook": "FEAR INDEX 11",
+   "beats": [
+    {
+     "say": "The Fear and Greed Index collapsed to 11.",
+     "show": "FEAR INDEX 11",
+     "figure": "11"
+    },
+    {
+     "say": "Market participants are experiencing extreme panic after sudden price drops.",
+     "show": "EXTREME PANIC",
+     "figure": ""
+    },
+    {
+     "say": "Historically these oversold sentiment levels aligned with cyclical bottoms.",
+     "show": "HISTORIC BOTTOMS",
+     "figure": ""
+    },
+    {
+     "say": "Aggressive entries remain dangerous while order books stay thin.",
+     "show": "THIN BOOKS",
+     "figure": ""
+    },
+    {
+     "say": "Extreme fear builds future opportunities. Follow for updates.",
+     "show": "FUTURE OPPORTUNITY",
+     "figure": ""
+    }
+   ],
+   "origin": "0xTalks",
+   "source_video": "MI SBAGLIAVO. | 0xFriday | 20 Novembre 2026",
+   "narration": "The Fear and Greed Index collapsed to 11. Market participants are experiencing extreme panic after sudden price drops. Historically these oversold sentiment levels aligned with cyclical bottoms. Aggressive entries remain dangerous while order books stay thin. Extreme fear builds future opportunities. Follow for updates.",
+   "ticker": "BTC-USD",
+   "sentiment": "neutral",
+   "sources": [],
+   "caption": "The Fear and Greed index drops to 11 as extreme pessimism grips crypto markets.",
+   "hashtags": [
+    "#crypto",
+    "#bitcoin",
+    "#sentiment",
+    "#trading",
+    "#macro"
+   ]
+  },
+  {
+   "title": "Bitcoin $60,000 Negative Gamma Trap",
+   "hook": "$60,000 GAMMA TRAP",
+   "beats": [
+    {
+     "say": "Negative gamma exposure is heavily concentrated around $60,000.",
+     "show": "$60,000 GAMMA TRAP",
+     "figure": "$60,000"
+    },
+    {
+     "say": "Market makers face intense hedging requirements near this strike price.",
+     "show": "DEALER HEDGING",
+     "figure": ""
+    },
+    {
+     "say": "Dealers are forced to sell into declines, worsening market volatility.",
+     "show": "FORCED SELLING",
+     "figure": ""
+    },
+    {
+     "say": "Trading behavior around $60,000 will determine near term price stability.",
+     "show": "CRUCIAL STRIKE",
+     "figure": ""
+    },
+    {
+     "say": "Derivatives mechanics rule current market moves. Follow for updates.",
+     "show": "WATCH DERIVATIVES",
+     "figure": ""
+    }
+   ],
+   "origin": "0xTalks",
+   "source_video": "MI SBAGLIAVO. | 0xFriday | 20 Novembre 2026",
+   "narration": "Negative gamma exposure is heavily concentrated around $60,000. Market makers face intense hedging requirements near this strike price. Dealers are forced to sell into declines, worsening market volatility. Trading behavior around $60,000 will determine near term price stability. Derivatives mechanics rule current market moves. Follow for updates.",
+   "ticker": "BTC-USD",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Heavy negative gamma positioning around $60,000 creates feedback loops for Bitcoin.",
+   "hashtags": [
+    "#bitcoin",
+    "#btc",
+    "#derivatives",
+    "#options",
+    "#trading"
+   ]
+  },
+  {
+   "title": "Anthropic Traded on Crypto DEXs Before IPO",
+   "hook": "ANTHROPIC PRE-IPO",
+   "beats": [
+    {
+     "say": "Decentralized perps priced Anthropic long before its Nasdaq debut.",
+     "show": "ANTHROPIC PRE-IPO",
+     "figure": "$110"
+    },
+    {
+     "say": "DEX contracts briefly traded at a $1.44 trillion valuation.",
+     "show": "$1.44 TRILLION",
+     "figure": "$1.44T"
+    },
+    {
+     "say": "The price settled lower until listing at an IPO price of $83.",
+     "show": "IPO AT $83",
+     "figure": "$83"
+    },
+    {
+     "say": "Crypto perpetuals increasingly lead price discovery for major private companies.",
+     "show": "PRICE DISCOVERY",
+     "figure": ""
+    },
+    {
+     "say": "On-chain markets are beating Wall Street. Follow for updates.",
+     "show": "ON-CHAIN LEAD",
+     "figure": ""
+    }
+   ],
+   "origin": "0xTalks",
+   "source_video": "MI SBAGLIAVO. | 0xFriday | 20 Novembre 2026",
+   "narration": "Decentralized perps priced Anthropic long before its Nasdaq debut. DEX contracts briefly traded at a $1.44 trillion valuation. The price settled lower until listing at an IPO price of $83. Crypto perpetuals increasingly lead price discovery for major private companies. On-chain markets are beating Wall Street. Follow for updates.",
+   "ticker": null,
+   "sentiment": "neutral",
+   "sources": [],
+   "caption": "Decentralized perpetual contracts led price discovery for Anthropic before its official listing.",
+   "hashtags": [
+    "#anthropic",
+    "#ipo",
+    "#nasdaq",
+    "#crypto",
+    "#defi"
+   ]
+  },
+  {
+   "title": "Nasdaq Drops 18% From Peak",
+   "hook": "Nasdaq DOWN 18%",
+   "beats": [
+    {
+     "say": "The tech heavy Nasdaq dropped 18% from its record highs.",
+     "show": "Nasdaq DOWN 18%",
+     "figure": "-18%"
+    },
+    {
+     "say": "Mega caps and semiconductor stocks absorb the brunt of the selloff.",
+     "show": "TECH PULLBACK",
+     "figure": ""
+    },
+    {
+     "say": "Shifting interest rate expectations are forcing multiple contractions across high growth.",
+     "show": "MULTIPLE SQUEEZE",
+     "figure": ""
+    },
+    {
+     "say": "Sustained earnings growth is mandatory to defend current equity valuations.",
+     "show": "EARNINGS PRESSURE",
+     "figure": ""
+    },
+    {
+     "say": "Tech volatility is far from over. Follow for updates.",
+     "show": "TECH WATCH",
+     "figure": ""
+    }
+   ],
+   "origin": "0xTalks",
+   "source_video": "MI SBAGLIAVO. | 0xFriday | 20 Novembre 2026",
+   "narration": "The tech heavy Nasdaq dropped 18% from its record highs. Mega caps and semiconductor stocks absorb the brunt of the selloff. Shifting interest rate expectations are forcing multiple contractions across high growth. Sustained earnings growth is mandatory to defend current equity valuations. Tech volatility is far from over. Follow for updates.",
+   "ticker": "^IXIC",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "The Nasdaq index drops roughly 18% from highs as interest rate shifts pressure tech valuations.",
+   "hashtags": [
+    "#nasdaq",
+    "#techstocks",
+    "#wallstreet",
+    "#investing",
+    "#markets"
+   ]
+  },
+  {
+   "title": "S&P 500 Pulls Back 10%",
+   "hook": "S&P 500 DOWN 10%",
+   "beats": [
+    {
+     "say": "The S&P 500 declined 10% from its recent peak.",
+     "show": "S&P 500 DOWN 10%",
+     "figure": "-10%"
+    },
+    {
+     "say": "Derivatives data confirms this move fits a typical cyclical correction pattern.",
+     "show": "CYCLICAL PULLBACK",
+     "figure": ""
+    },
+    {
+     "say": "A deeper structural breakdown could extend drawdown risk toward 20%.",
+     "show": "20% RISK",
+     "figure": "-20%"
+    },
+    {
+     "say": "Order book metrics show standard consolidation rather than institutional panic.",
+     "show": "HEALTHY CONSOLIDATION",
+     "figure": ""
+    },
+    {
+     "say": "Normal pullbacks reset overbought market conditions. Follow for updates.",
+     "show": "MARKET RESET",
+     "figure": ""
+    }
+   ],
+   "origin": "0xTalks",
+   "source_video": "MI SBAGLIAVO. | 0xFriday | 20 Novembre 2026",
+   "narration": "The S&P 500 declined 10% from its recent peak. Derivatives data confirms this move fits a typical cyclical correction pattern. A deeper structural breakdown could extend drawdown risk toward 20%. Order book metrics show standard consolidation rather than institutional panic. Normal pullbacks reset overbought market conditions. Follow for updates.",
+   "ticker": "^GSPC",
+   "sentiment": "neutral",
+   "sources": [],
+   "caption": "A 10% correction on the S&P 500 remains within historical bounds of a standard market pullback.",
+   "hashtags": [
+    "#sp500",
+    "#stocks",
+    "#investing",
+    "#finance",
+    "#markets"
+   ]
+  },
+  {
+   "title": "Gold Long-Term Multi-Decade Cycles",
+   "hook": "GOLD MULTI-DECADE",
+   "beats": [
+    {
+     "say": "Gold historically spends decades trading in extended sideways channels.",
+     "show": "GOLD MULTI-DECADE",
+     "figure": ""
+    },
+    {
+     "say": "Investors buying during consolidation endured years of severe underperformance.",
+     "show": "FLAT YEARS",
+     "figure": ""
+    },
+    {
+     "say": "These prolonged dormant periods typically precede massive explosive breakouts.",
+     "show": "EXPLOSIVE RALLIES",
+     "figure": ""
+    },
+    {
+     "say": "Gold time horizons contrast sharply with fast moving digital assets.",
+     "show": "GOLD VS DIGITAL",
+     "figure": ""
+    },
+    {
+     "say": "Commodity cycles demand generational patience. Follow for updates.",
+     "show": "PATIENCE WINS",
+     "figure": ""
+    }
+   ],
+   "origin": "0xTalks",
+   "source_video": "MI SBAGLIAVO. | 0xFriday | 20 Novembre 2026",
+   "narration": "Gold historically spends decades trading in extended sideways channels. Investors buying during consolidation endured years of severe underperformance. These prolonged dormant periods typically precede massive explosive breakouts. Gold time horizons contrast sharply with fast moving digital assets. Commodity cycles demand generational patience. Follow for updates.",
+   "ticker": "GC=F",
+   "sentiment": "neutral",
+   "sources": [],
+   "caption": "Historical data reveals multi-decade cycles of consolidation before sharp gold expansions.",
+   "hashtags": [
+    "#gold",
+    "#commodities",
+    "#investing",
+    "#wealth",
+    "#macro"
+   ]
+  }
+ ],
+ "carousels": {
+  "it": {
+   "topic": "Anatomia della correzione di mercato",
+   "caption": "I mercati finanziari affrontano una correzione sincronizzata tra crypto, tecnologia e indici tradizionali. Ecco cosa rivelano i dati tecnici e i flussi istituzionali. Segui per l'aggiornamento di domani.",
+   "sentiment": "neutral",
+   "ticker": null,
+   "slides": [
+    {
+     "title": "MERCATI: I VERI NUMERI DELLA CORREZIONE",
+     "body": "Ecco l'analisi completa su Bitcoin, S&P 500, Nasdaq e flussi istituzionali."
+    },
+    {
+     "title": "Bitcoin PERDE I SUPPORTI",
+     "body": "La struttura tecnica post ribasso è stata invalidata. Il prezzo entra in una fase laterale nervosa senza spinta direzionale immediata."
+    },
+    {
+     "title": "ETF: 4 MILIARDI IN USCITA",
+     "body": "I deflussi netti cumulativi dagli ETF spot su Bitcoin hanno superato 4,1 miliardi di dollari in meno di tre settimane."
+    },
+    {
+     "title": "Nasdaq GIÙ DEL 18%",
+     "body": "L'indice tecnologico corregge del 18% dai massimi. I multipli prezzo utili restano tirati e i tassi elevati pesano sulle valutazioni."
+    },
+    {
+     "title": "S&P 500 RETROCEDE DEL 10%",
+     "body": "Un calo del 10% rientra nei normali ritracciamenti ciclici. Lo scenario peggiore vedrebbe un'estensione del ribasso fino al 20%."
+    },
+    {
+     "title": "PAURA ESTREMA A 11",
+     "body": "Il sentiment scende a livelli storicamente associati a minimi ciclici, ma i book scarichi richiedono estrema disciplina."
+    },
+    {
+     "title": "LA CONCLUSIONE",
+     "body": "I mercati resettano gli eccessi prima del prossimo ciclo. Segui per l'aggiornamento di domani."
+    }
+   ],
+   "hashtags": [
+    "#finanza",
+    "#mercati",
+    "#bitcoin",
+    "#sp500",
+    "#nasdaq",
+    "#investimenti",
+    "#trading",
+    "#criptovalute"
+   ]
+  },
+  "en": {
+   "topic": "Market Correction Breakdown",
+   "caption": "Financial markets face a synchronized pullback across crypto, tech equities, and macro benchmarks. Here are the hard technical metrics you need to know. Follow for tomorrow's update.",
+   "sentiment": "neutral",
+   "ticker": null,
+   "slides": [
+    {
+     "title": "MARKETS: THE NUMBERS BEHIND THE DIP",
+     "body": "Here is the data breakdown across Bitcoin, tech valuations, and benchmark equity indices."
+    },
+    {
+     "title": "Bitcoin SUPPORT BROKEN",
+     "body": "The post bear market bullish thesis is invalidated after breaking key support levels, shifting price action into choppy ranges."
+    },
+    {
+     "title": "ETFS DRAIN $4.1 BILLION",
+     "body": "Bitcoin spot ETFs logged over 4.1 billion dollars in net cumulative outflows in consecutive red institutional sessions."
+    },
+    {
+     "title": "Nasdaq DROPS 18%",
+     "body": "The tech benchmark is down 18% from highs as elevated forward price to earnings multiples face pressure from tight rates."
+    },
+    {
+     "title": "S&P 500 10% PULLBACK",
+     "body": "A 10% drawdown represents a standard cyclical pullback, though risk models show potential extensions toward 20% in severe scenarios."
+    },
+    {
+     "title": "FEAR INDEX PLUNGES TO 11",
+     "body": "Sentiment readings reached extreme fear, historically aligning with bottoming territory while order books remain vulnerable."
+    },
+    {
+     "title": "THE TAKEAWAY",
+     "body": "Markets are resetting overextended leverage across asset classes. Follow for tomorrow's update."
+    }
+   ],
+   "hashtags": [
+    "#markets",
+    "#bitcoin",
+    "#sp500",
+    "#nasdaq",
+    "#crypto",
+    "#investing",
+    "#macroeconomics",
+    "#stocks"
+   ]
+  }
+ }
+}

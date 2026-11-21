@@ -1,0 +1,457 @@
+{
+ "it": [
+  {
+   "title": "Vendita ServiceNow e il futuro dei titoli SaaS",
+   "hook": "ServiceNow venduta sotto 90",
+   "beats": [
+    {
+     "say": "ServiceNow è stata venduta dopo il crollo sotto 90 dollari.",
+     "show": "ServiceNow venduta sotto 90",
+     "figure": "90 $"
+    },
+    {
+     "say": "Le allocazioni sul settore software si stanno spostando velocemente.",
+     "show": "Rotazione software",
+     "figure": ""
+    },
+    {
+     "say": "Salesforce e Palantir restano comunque posizioni centrali nel portafoglio.",
+     "show": "Salesforce e Palantir",
+     "figure": ""
+    },
+    {
+     "say": "L'imminente quotazione di Anthropic potrebbe drenare molta liquidità dal settore software.",
+     "show": "Impatto IPO Anthropic",
+     "figure": ""
+    },
+    {
+     "say": "La rotazione del capitale prepara il terreno per i prossimi catalizzatori. Segui per l'aggiornamento di domani.",
+     "show": "Rotazione di capitale",
+     "figure": ""
+    }
+   ],
+   "origin": "Jeremy Lefebvre",
+   "source_video": "SaaS Stocks! What Investors NEED to UNDERSTAND",
+   "narration": "ServiceNow è stata venduta dopo il crollo sotto 90 dollari. Le allocazioni sul settore software si stanno spostando velocemente. Salesforce e Palantir restano comunque posizioni centrali nel portafoglio. L'imminente quotazione di Anthropic potrebbe drenare molta liquidità dal settore software. La rotazione del capitale prepara il terreno per i prossimi catalizzatori. Segui per l'aggiornamento di domani.",
+   "ticker": "NOW",
+   "sentiment": "neutral",
+   "sources": [],
+   "caption": "Rotazione strategica sul settore software tra vendite di livello e imminenti IPO di settore.",
+   "hashtags": [
+    "#SaaS",
+    "#ServiceNow",
+    "#Salesforce",
+    "#Palantir",
+    "#Borsa",
+    "#Investimenti"
+   ]
+  },
+  {
+   "title": "Pessimismo sui mercati ai massimi storici",
+   "hook": "Pessimismo al 51,4%",
+   "beats": [
+    {
+     "say": "Il pessimismo dei piccoli risparmiatori ha raggiunto il 51,4%.",
+     "show": "Pessimismo al 51,4%",
+     "figure": "51,4%"
+    },
+    {
+     "say": "L'indice Fear and Greed si attesta in piena paura a quota 38.",
+     "show": "Fear and Greed 38",
+     "figure": "38"
+    },
+    {
+     "say": "L'estrema paura dei piccoli risparmiatori storicamente anticipa un minimo di mercato.",
+     "show": "Segnale di minimo",
+     "figure": ""
+    },
+    {
+     "say": "Oggi il sentiment negativo supera di quasi 20 punti la media storica.",
+     "show": "+20 punti sulla media",
+     "figure": "20%"
+    },
+    {
+     "say": "La paura estrema crea spesso le migliori opportunità di lungo termine. Segui per l'aggiornamento di domani.",
+     "show": "Opportunità di acquisto",
+     "figure": ""
+    }
+   ],
+   "origin": "Jeremy Lefebvre",
+   "source_video": "SaaS Stocks! What Investors NEED to UNDERSTAND",
+   "narration": "Il pessimismo dei piccoli risparmiatori ha raggiunto il 51,4%. L'indice Fear and Greed si attesta in piena paura a quota 38. L'estrema paura dei piccoli risparmiatori storicamente anticipa un minimo di mercato. Oggi il sentiment negativo supera di quasi 20 punti la media storica. La paura estrema crea spesso le migliori opportunità di lungo termine. Segui per l'aggiornamento di domani.",
+   "ticker": null,
+   "sentiment": "bullish",
+   "sources": [],
+   "caption": "Il pessimismo estremo tra i risparmiatori raggiunge livelli storici mentre la paura domina il mercato.",
+   "hashtags": [
+    "#Sentiment",
+    "#Borsa",
+    "#FearAndGreed",
+    "#Investimenti",
+    "#Mercati",
+    "#Economia"
+   ]
+  },
+  {
+   "title": "Valutazioni S&P 500 e il frattale del 2018",
+   "hook": "P/E S&P 500 18,29",
+   "beats": [
+    {
+     "say": "Il P/E forward dello S&P 500 è a 18,29.",
+     "show": "P/E S&P 500 18,29",
+     "figure": "18,29"
+    },
+    {
+     "say": "Le valutazioni del mercato azionario restano nella media storica di correttezza.",
+     "show": "Valutazioni corrette",
+     "figure": ""
+    },
+    {
+     "say": "I modelli frattali identici al 2018 indicano possibile volatilità prima di fine anno.",
+     "show": "Allarme frattale 2018",
+     "figure": ""
+    },
+    {
+     "say": "Una riserva liquida di 1,8 milioni di dollari è pronta per i ribassi.",
+     "show": "1,8M liquidità",
+     "figure": "1,8M $"
+    },
+    {
+     "say": "I ritracciamenti creano opportunità per chi mantiene la liquidità pronta. Segui per l'aggiornamento di domani.",
+     "show": "Liquidità per i ribassi",
+     "figure": ""
+    }
+   ],
+   "origin": "Jeremy Lefebvre",
+   "source_video": "SaaS Stocks! What Investors NEED to UNDERSTAND",
+   "narration": "Il P/E forward dello S&P 500 è a 18,29. Le valutazioni del mercato azionario restano nella media storica di correttezza. I modelli frattali identici al 2018 indicano possibile volatilità prima di fine anno. Una riserva liquida di 1,8 milioni di dollari è pronta per i ribassi. I ritracciamenti creano opportunità per chi mantiene la liquidità pronta. Segui per l'aggiornamento di domani.",
+   "ticker": "^GSPC",
+   "sentiment": "neutral",
+   "sources": [],
+   "caption": "Le valutazioni corrette dello S&P 500 e i modelli storici suggeriscono cautela e gestione della liquidità.",
+   "hashtags": [
+    "#SP500",
+    "#Nasdaq",
+    "#Borsa",
+    "#Investimenti",
+    "#Finanza",
+    "#Trading"
+   ]
+  },
+  {
+   "title": "Crescita straordinaria per e.l.f. Beauty e Celsius",
+   "hook": "e.l.f. oltre +1.500%",
+   "beats": [
+    {
+     "say": "I guadagni su e.l.f. Beauty hanno superato il 1.500%.",
+     "show": "e.l.f. oltre +1.500%",
+     "figure": "+1.500%"
+    },
+    {
+     "say": "I titoli del settore consumi stanno affrontando la recente volatilità con una crescita costante.",
+     "show": "Settore consumi",
+     "figure": ""
+    },
+    {
+     "say": "Celsius mantiene un guadagno del 21% ed evidenzia un'accelerazione prevista entro il 2027.",
+     "show": "Celsius +21%",
+     "figure": "+21%"
+    },
+    {
+     "say": "L'accumulo graduale continua sui leader di mercato durante le fasi di debolezza.",
+     "show": "Accumulo sui deboli",
+     "figure": ""
+    },
+    {
+     "say": "Le performance operative solide garantiscono il potenziale di lungo termine. Segui per l'aggiornamento di domani.",
+     "show": "Crescita di lungo termine",
+     "figure": ""
+    }
+   ],
+   "origin": "Jeremy Lefebvre",
+   "source_video": "SaaS Stocks! What Investors NEED to UNDERSTAND",
+   "narration": "I guadagni su e.l.f. Beauty hanno superato il 1.500%. I titoli del settore consumi stanno affrontando la recente volatilità con una crescita costante. Celsius mantiene un guadagno del 21% ed evidenzia un'accelerazione prevista entro il 2027. L'accumulo graduale continua sui leader di mercato durante le fasi di debolezza. Le performance operative solide garantiscono il potenziale di lungo termine. Segui per l'aggiornamento di domani.",
+   "ticker": "ELF",
+   "sentiment": "bullish",
+   "sources": [],
+   "caption": "Performance storiche eccellenti e proiezioni di crescita per i leader del settore consumi.",
+   "hashtags": [
+    "#ELFBeauty",
+    "#Celsius",
+    "#Borsa",
+    "#GrowthStocks",
+    "#Investimenti",
+    "#Azioni"
+   ]
+  }
+ ],
+ "en": [
+  {
+   "title": "ServiceNow Exit and SaaS Portfolio Adjustments",
+   "hook": "ServiceNow sold below 90",
+   "beats": [
+    {
+     "say": "ServiceNow was sold after breaking below 90 dollars.",
+     "show": "ServiceNow sold below 90",
+     "figure": "$90"
+    },
+    {
+     "say": "Software allocations are shifting across major tech portfolios.",
+     "show": "Software shifting",
+     "figure": ""
+    },
+    {
+     "say": "Salesforce and Palantir remain core holdings despite sector pressure.",
+     "show": "Core software holdings",
+     "figure": ""
+    },
+    {
+     "say": "The upcoming Anthropic initial public offering could drain liquidity from existing software assets.",
+     "show": "Anthropic IPO drain",
+     "figure": ""
+    },
+    {
+     "say": "Capital is rotating into higher conviction plays ahead of new market catalysts. Follow for tomorrow's update.",
+     "show": "Capital rotation",
+     "figure": ""
+    }
+   ],
+   "origin": "Jeremy Lefebvre",
+   "source_video": "SaaS Stocks! What Investors NEED to UNDERSTAND",
+   "narration": "ServiceNow was sold after breaking below 90 dollars. Software allocations are shifting across major tech portfolios. Salesforce and Palantir remain core holdings despite sector pressure. The upcoming Anthropic initial public offering could drain liquidity from existing software assets. Capital is rotating into higher conviction plays ahead of new market catalysts. Follow for tomorrow's update.",
+   "ticker": "NOW",
+   "sentiment": "neutral",
+   "sources": [],
+   "caption": "Portfolio shifts in the SaaS sector highlight strategic realignments ahead of market catalysts.",
+   "hashtags": [
+    "#SaaS",
+    "#ServiceNow",
+    "#Salesforce",
+    "#Palantir",
+    "#StockMarket",
+    "#Investing"
+   ]
+  },
+  {
+   "title": "Retail Pessimism Hits Extreme Levels",
+   "hook": "Bearishness hits 51.4%",
+   "beats": [
+    {
+     "say": "Retail investor bearishness has jumped to 51.4%.",
+     "show": "Bearishness hits 51.4%",
+     "figure": "51.4%"
+    },
+    {
+     "say": "The CNN Fear and Greed index is currently sitting deep in fear at 38.",
+     "show": "Fear and Greed 38",
+     "figure": "38"
+    },
+    {
+     "say": "Extreme retail pessimism historically signals major market bottoms rather than imminent collapse.",
+     "show": "Market bottom signal",
+     "figure": ""
+    },
+    {
+     "say": "Bearish sentiment now sits nearly 20 percentage points above historical norms.",
+     "show": "20 points above norm",
+     "figure": "20%"
+    },
+    {
+     "say": "High market fear often creates the best strategic entry opportunities. Follow for tomorrow's update.",
+     "show": "Strategic entry",
+     "figure": ""
+    }
+   ],
+   "origin": "Jeremy Lefebvre",
+   "source_video": "SaaS Stocks! What Investors NEED to UNDERSTAND",
+   "narration": "Retail investor bearishness has jumped to 51.4%. The CNN Fear and Greed index is currently sitting deep in fear at 38. Extreme retail pessimism historically signals major market bottoms rather than imminent collapse. Bearish sentiment now sits nearly 20 percentage points above historical norms. High market fear often creates the best strategic entry opportunities. Follow for tomorrow's update.",
+   "ticker": null,
+   "sentiment": "bullish",
+   "sources": [],
+   "caption": "Extreme pessimism historically presents long term opportunities as fear spikes across indices.",
+   "hashtags": [
+    "#MarketSentiment",
+    "#FearAndGreed",
+    "#StockMarket",
+    "#Investing",
+    "#Finance"
+   ]
+  },
+  {
+   "title": "S&P 500 Valuations and the 2018 Fractal",
+   "hook": "S&P 500 P/E 18.29",
+   "beats": [
+    {
+     "say": "The S&P 500 forward P/E sits at 18.29.",
+     "show": "S&P 500 P/E 18.29",
+     "figure": "18.29"
+    },
+    {
+     "say": "Broad stock valuation levels remain comfortably inside historical fair value ranges.",
+     "show": "Fair market valuation",
+     "figure": ""
+    },
+    {
+     "say": "Historical fractal patterns matching 2018 point toward potential short term volatility before year end.",
+     "show": "2018 fractal risk",
+     "figure": ""
+    },
+    {
+     "say": "A total cash reserve of $1.8 million stands ready for sudden dips.",
+     "show": "$1.8M cash reserve",
+     "figure": "$1.8M"
+    },
+    {
+     "say": "Market pullbacks provide prime positioning when cash reserves are prepared. Follow for tomorrow's update.",
+     "show": "Ready for pullbacks",
+     "figure": ""
+    }
+   ],
+   "origin": "Jeremy Lefebvre",
+   "source_video": "SaaS Stocks! What Investors NEED to UNDERSTAND",
+   "narration": "The S&P 500 forward P/E sits at 18.29. Broad stock valuation levels remain comfortably inside historical fair value ranges. Historical fractal patterns matching 2018 point toward potential short term volatility before year end. A total cash reserve of $1.8 million stands ready for sudden dips. Market pullbacks provide prime positioning when cash reserves are prepared. Follow for tomorrow's update.",
+   "ticker": "^GSPC",
+   "sentiment": "neutral",
+   "sources": [],
+   "caption": "S&P 500 valuation metrics and historical fractal models highlight short term market risks.",
+   "hashtags": [
+    "#SP500",
+    "#StockMarket",
+    "#MarketAnalysis",
+    "#Finance",
+    "#Investing"
+   ]
+  },
+  {
+   "title": "Consumer Growth Leaders: e.l.f. and Celsius",
+   "hook": "e.l.f. Beauty +1,500%",
+   "beats": [
+    {
+     "say": "Gains on e.l.f. Beauty have exceeded 1,500%.",
+     "show": "e.l.f. Beauty +1,500%",
+     "figure": "+1,500%"
+    },
+    {
+     "say": "High growth consumer stocks are navigating recent sector headwinds with strong underlying operations.",
+     "show": "Consumer growth resilient",
+     "figure": ""
+    },
+    {
+     "say": "Celsius maintains a 21% gain while brand growth is projected to accelerate by 2027.",
+     "show": "Celsius +21%",
+     "figure": "+21%"
+    },
+    {
+     "say": "Dip buying continues across consumer growth leaders despite temporary market volatility.",
+     "show": "Accumulating growth",
+     "figure": ""
+    },
+    {
+     "say": "Solid operational performance supports long term upside in resilient growth names. Follow for tomorrow's update.",
+     "show": "Long term upside",
+     "figure": ""
+    }
+   ],
+   "origin": "Jeremy Lefebvre",
+   "source_video": "SaaS Stocks! What Investors NEED to UNDERSTAND",
+   "narration": "Gains on e.l.f. Beauty have exceeded 1,500%. High growth consumer stocks are navigating recent sector headwinds with strong underlying operations. Celsius maintains a 21% gain while brand growth is projected to accelerate by 2027. Dip buying continues across consumer growth leaders despite temporary market volatility. Solid operational performance supports long term upside in resilient growth names. Follow for tomorrow's update.",
+   "ticker": "ELF",
+   "sentiment": "bullish",
+   "sources": [],
+   "caption": "Outstanding operational growth supports long term expansion across select consumer growth stocks.",
+   "hashtags": [
+    "#ELFBeauty",
+    "#Celsius",
+    "#GrowthStocks",
+    "#StockMarket",
+    "#Investing"
+   ]
+  }
+ ],
+ "carousels": {
+  "it": {
+   "topic": "SaaS e paura sui mercati",
+   "caption": "Le rotazioni sui titoli software coincidono con livelli estremi di paura sul mercato. Scopri come valutazioni e sentiment guidano le strategie correnti. Segui per l'aggiornamento di domani.",
+   "sentiment": "neutral",
+   "ticker": null,
+   "slides": [
+    {
+     "title": "Titoli SaaS e paura sui mercati",
+     "body": "Ecco cosa rivelano gli aggiustamenti di portafoglio e le metriche di sentiment attuali."
+    },
+    {
+     "title": "Uscita da ServiceNow e Software",
+     "body": "ServiceNow è stata venduta sotto 90 dollari, mentre Salesforce e Palantir restano centrali. L'imminente IPO di Anthropic assorbirà liquidità dal settore."
+    },
+    {
+     "title": "Pessimismo Estremo sui Mercati",
+     "body": "Il sentiment negativo retail raggiunge il 51,4% mentre il Fear and Greed scende a 38. La paura estrema storicamente crea opportunità."
+    },
+    {
+     "title": "Valutazioni e Frattale 2018",
+     "body": "Lo S&P 500 presenta un P/E forward di 18,29. Il frattale del Nasdaq sul 2018 segnala volatilità, con 1,8 milioni di liquidità pronti."
+    },
+    {
+     "title": "Crescita nei Consumi",
+     "body": "La posizione su e.l.f. Beauty supera il 1.500% di rialzo, mentre Celsius guadagna il 21% con un'accelerazione prevista per il 2027."
+    },
+    {
+     "title": "Strategia per la Volatilità",
+     "body": "La liquidità disponibile permette di cogliere i ribassi strategici durante le fasi di correzione. Segui per l'aggiornamento di domani."
+    }
+   ],
+   "hashtags": [
+    "#SaaS",
+    "#Borsa",
+    "#Investimenti",
+    "#Salesforce",
+    "#Palantir",
+    "#SentimentDiMercato",
+    "#Finanza",
+    "#Trading"
+   ]
+  },
+  "en": {
+   "topic": "SaaS Stocks and Market Fear",
+   "caption": "Software portfolio rotations are under way as market fear hits extreme levels. Discover how valuations and sentiment are shaping current strategy. Follow for tomorrow's update.",
+   "sentiment": "neutral",
+   "ticker": null,
+   "slides": [
+    {
+     "title": "SaaS Stocks and Market Fear Shift",
+     "body": "Here is what recent portfolio adjustments and sentiment metrics reveal about market strategy."
+    },
+    {
+     "title": "ServiceNow Exit and SaaS Focus",
+     "body": "ServiceNow was exited under $90, while Salesforce and Palantir remain top allocations. The upcoming Anthropic IPO presents a major liquidity event."
+    },
+    {
+     "title": "Extreme Pessimism Among Retail",
+     "body": "Retail sentiment shows 51.4% bearishness while the Fear and Greed index sits at 38. High fear historically points to strategic buying opportunities."
+    },
+    {
+     "title": "Fair Valuations and 2018 Fractal",
+     "body": "The S&P 500 forward P/E stands at 18.29. A 2018 Nasdaq fractal hints at short term pullbacks, backed by $1.8 million in cash."
+    },
+    {
+     "title": "Consumer Growth Outperformance",
+     "body": "e.l.f. Beauty position gains exceed 1,500%, while Celsius maintains a 21% gain with brand acceleration expected toward 2027."
+    },
+    {
+     "title": "Navigating Volatility",
+     "body": "Capital preservation and cash readiness prepare portfolios for unexpected market drawdowns. Follow for tomorrow's update."
+    }
+   ],
+   "hashtags": [
+    "#SaaS",
+    "#StockMarket",
+    "#Investing",
+    "#Salesforce",
+    "#Palantir",
+    "#MarketSentiment",
+    "#Finance",
+    "#Trading"
+   ]
+  }
+ }
+}
