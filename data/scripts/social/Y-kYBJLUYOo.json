@@ -1,0 +1,652 @@
+{
+ "it": [
+  {
+   "title": "Nvidia costa meno di Procter & Gamble?",
+   "hook": "Nvidia PIÙ ECONOMICA?",
+   "beats": [
+    {
+     "say": "Nvidia tratta a un multiplo prezzo utili inferiore a Procter & Gamble.",
+     "show": "Nvidia PIÙ ECONOMICA?",
+     "figure": "19"
+    },
+    {
+     "say": "Con un rapporto prezzo utili di 19, il leader dei chip costa meno di un produttore di beni di consumo.",
+     "show": "P/E A 19",
+     "figure": "19"
+    },
+    {
+     "say": "Nonostante una crescita vertiginosa dei ricavi, il mercato applica uno sconto enorme sull'incertezza futura.",
+     "show": "SCONTO SUL FUTURO",
+     "figure": ""
+    },
+    {
+     "say": "Il livello chiave da difendere per confermare la sottovalutazione rimane il minimo recente.",
+     "show": "LIVELLO DA DIFENDERE",
+     "figure": ""
+    },
+    {
+     "say": "La crescita pura non garantisce da sola un premio sulle valutazioni. Segui per aggiornamenti.",
+     "show": "CRESCITA E MULTIPLI",
+     "figure": ""
+    }
+   ],
+   "origin": "Jeremy Lefebvre",
+   "source_video": "My HONEST Opinion on the NVIDIA Situation!",
+   "narration": "Nvidia tratta a un multiplo prezzo utili inferiore a Procter & Gamble. Con un rapporto prezzo utili di 19, il leader dei chip costa meno di un produttore di beni di consumo. Nonostante una crescita vertiginosa dei ricavi, il mercato applica uno sconto enorme sull'incertezza futura. Il livello chiave da difendere per confermare la sottovalutazione rimane il minimo recente. La crescita pura non garantisce da sola un premio sulle valutazioni. Segui per aggiornamenti.",
+   "ticker": "NVDA",
+   "sentiment": "bullish",
+   "sources": [],
+   "caption": "Nvidia scambia a un multiplo inferiore a quello di Procter & Gamble, nonostante la crescita record dei ricavi.",
+   "hashtags": [
+    "#Nvidia",
+    "#NVDA",
+    "#BorsaUSA",
+    "#Valutazioni",
+    "#Azioni",
+    "#Finanza"
+   ]
+  },
+  {
+   "title": "Nvidia: ricavi raddoppiati ma il vertice cambia",
+   "hook": "RICAVI AL 103%",
+   "beats": [
+    {
+     "say": "Nvidia ha visto i ricavi salire del 103% nell'ultimo trimestre.",
+     "show": "RICAVI AL 103%",
+     "figure": "103%"
+    },
+    {
+     "say": "Anche l'utile lordo è salito del 107%, confermando numeri operativi impeccabili.",
+     "show": "UTILE +107%",
+     "figure": "107%"
+    },
+    {
+     "say": "Tuttavia, i bilanci perfetti non bastano quando viene a mancare il fondatore storico.",
+     "show": "VUOTO DI LEADERSHIP",
+     "figure": ""
+    },
+    {
+     "say": "Il target a lungo termine punta a un utile per azione di 20 dollari.",
+     "show": "TARGET 20 DOLLARI",
+     "figure": "20 $"
+    },
+    {
+     "say": "I conti eccellenti non cancellano la volatilità dei cambi di rotta. Segui per aggiornamenti.",
+     "show": "NUMERI E VOLATILITÀ",
+     "figure": ""
+    }
+   ],
+   "origin": "Jeremy Lefebvre",
+   "source_video": "My HONEST Opinion on the NVIDIA Situation!",
+   "narration": "Nvidia ha visto i ricavi salire del 103% nell'ultimo trimestre. Anche l'utile lordo è salito del 107%, confermando numeri operativi impeccabili. Tuttavia, i bilanci perfetti non bastano quando viene a mancare il fondatore storico. Il target a lungo termine punta a un utile per azione di 20 dollari. I conti eccellenti non cancellano la volatilità dei cambi di rotta. Segui per aggiornamenti.",
+   "ticker": "NVDA",
+   "sentiment": "neutral",
+   "sources": [],
+   "caption": "Ricavi a più 103% e margini in forte espansione, ma la transizione ai vertici apre una fase di riprezzamento.",
+   "hashtags": [
+    "#Nvidia",
+    "#NVDA",
+    "#Trimestrali",
+    "#IntelligenzaArtificiale",
+    "#Mercati",
+    "#Tech"
+   ]
+  },
+  {
+   "title": "La lezione di Apple e Wynn Resorts su Nvidia",
+   "hook": "L'ADDIO DEL FONDATORE",
+   "beats": [
+    {
+     "say": "Nvidia affronta la sfida che travolse Apple e Wynn Resorts.",
+     "show": "L'ADDIO DEL FONDATORE",
+     "figure": ""
+    },
+    {
+     "say": "L'uscita di scena di leader carismatici ha sempre provocato pesanti tagli alle valutazioni azionarie.",
+     "show": "TAGLIO VALUTAZIONI",
+     "figure": ""
+    },
+    {
+     "say": "I mercati non prezzano solo i flussi di cassa, ma la capacità unica del fondatore.",
+     "show": "PREMIO VISIONARIO",
+     "figure": ""
+    },
+    {
+     "say": "Senza questa guida, le azioni rischiano di rimanere bloccate in un canale laterale.",
+     "show": "FASE LATERALE",
+     "figure": ""
+    },
+    {
+     "say": "La storia dimostra che rimpiazzare una figura iconica richiede anni. Segui per aggiornamenti.",
+     "show": "STORIA E MERCATI",
+     "figure": ""
+    }
+   ],
+   "origin": "Jeremy Lefebvre",
+   "source_video": "My HONEST Opinion on the NVIDIA Situation!",
+   "narration": "Nvidia affronta la sfida che travolse Apple e Wynn Resorts. L'uscita di scena di leader carismatici ha sempre provocato pesanti tagli alle valutazioni azionarie. I mercati non prezzano solo i flussi di cassa, ma la capacità unica del fondatore. Senza questa guida, le azioni rischiano di rimanere bloccate in un canale laterale. La storia dimostra che rimpiazzare una figura iconica richiede anni. Segui per aggiornamenti.",
+   "ticker": "NVDA",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "La storia di Wall Street mostra che l'uscita dei fondatori storici porta quasi sempre a un forte de-rating dei multipli.",
+   "hashtags": [
+    "#Nvidia",
+    "#Apple",
+    "#Leadership",
+    "#Borsa",
+    "#WallStreet",
+    "#Investimenti"
+   ]
+  },
+  {
+   "title": "I titoli più caldi crollano fino al 50%",
+   "hook": "CROLLI DEL 50%",
+   "beats": [
+    {
+     "say": "I titoli tecnologici più amati segnano ribassi tra il 35% e il 50%.",
+     "show": "CROLLI DEL 50%",
+     "figure": "-50%"
+    },
+    {
+     "say": "Nomi come Micron, Intel, Marvell e Oracle hanno subito pesanti vendite dai massimi.",
+     "show": "VENDITE SUI SEMICONDUTTORI",
+     "figure": ""
+    },
+    {
+     "say": "I titoli che guidano la fase di entusiasmo sono sempre i primi a cedere terreno.",
+     "show": "IL PREZZO DELL'HYPE",
+     "figure": ""
+    },
+    {
+     "say": "L'indice Nasdaq rischia correzioni superiori al 20% in queste rotazioni violente.",
+     "show": "Nasdaq A RISCHIO",
+     "figure": "-20%"
+    },
+    {
+     "say": "Le correzioni ripuliscono gli eccessi prima di costruire nuove basi. Segui per aggiornamenti.",
+     "show": "RESET DEL MERCATO",
+     "figure": ""
+    }
+   ],
+   "origin": "Jeremy Lefebvre",
+   "source_video": "My HONEST Opinion on the NVIDIA Situation!",
+   "narration": "I titoli tecnologici più amati segnano ribassi tra il 35% e il 50%. Nomi come Micron, Intel, Marvell e Oracle hanno subito pesanti vendite dai massimi. I titoli che guidano la fase di entusiasmo sono sempre i primi a cedere terreno. L'indice Nasdaq rischia correzioni superiori al 20% in queste rotazioni violente. Le correzioni ripuliscono gli eccessi prima di costruire nuove basi. Segui per aggiornamenti.",
+   "ticker": null,
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "I colossi dei semiconduttori e del cloud correggono fino al 50% dai massimi storici mentre gli indici ritracciano.",
+   "hashtags": [
+    "#Nasdaq",
+    "#Semiconduttori",
+    "#Micron",
+    "#Intel",
+    "#Oracle",
+    "#MercatiFinanziari"
+   ]
+  },
+  {
+   "title": "Perché le guidance aziendali non sono sorprese",
+   "hook": "NESSUNA SORPRESA",
+   "beats": [
+    {
+     "say": "Le previsioni di fatturato non sorprendono mai i vertici aziendali.",
+     "show": "NESSUNA SORPRESA",
+     "figure": ""
+    },
+    {
+     "say": "I direttori finanziari gestiscono portafogli ordini pluriennali concordati con mesi di anticipo.",
+     "show": "ORDINI PLURIENNALI",
+     "figure": ""
+    },
+    {
+     "say": "Wall Street finge stupore per numeri che sono già pianificati e vincolati contrattualmente.",
+     "show": "TEATRO DI Wall Street",
+     "figure": ""
+    },
+    {
+     "say": "La vera variabile per Nvidia resta la spesa in conto capitale dei colossi cloud.",
+     "show": "SPESA DEI BIG TECH",
+     "figure": ""
+    },
+    {
+     "say": "Guardare gli ordini futuri conta più delle reazioni a caldo. Segui per aggiornamenti.",
+     "show": "FOCUS SULLA DOMANDA",
+     "figure": ""
+    }
+   ],
+   "origin": "Jeremy Lefebvre",
+   "source_video": "My HONEST Opinion on the NVIDIA Situation!",
+   "narration": "Le previsioni di fatturato non sorprendono mai i vertici aziendali. I direttori finanziari gestiscono portafogli ordini pluriennali concordati con mesi di anticipo. Wall Street finge stupore per numeri che sono già pianificati e vincolati contrattualmente. La vera variabile per Nvidia resta la spesa in conto capitale dei colossi cloud. Guardare gli ordini futuri conta più delle reazioni a caldo. Segui per aggiornamenti.",
+   "ticker": "NVDA",
+   "sentiment": "neutral",
+   "sources": [],
+   "caption": "I numeri delle guidance non colgono mai di sorpresa chi gestisce gli ordini: sono contratti già programmati da anni.",
+   "hashtags": [
+    "#Nvidia",
+    "#Finanza",
+    "#WallStreet",
+    "#Trading",
+    "#Economia",
+    "#Azioni"
+   ]
+  },
+  {
+   "title": "Rotazione su Micron: riacquisti e multipli bassi",
+   "hook": "ROTAZIONE SU MICRON",
+   "beats": [
+    {
+     "say": "Micron attira capitali in uscita dai titoli più surriscaldati.",
+     "show": "ROTAZIONE SU MICRON",
+     "figure": ""
+    },
+    {
+     "say": "I gestori alleggeriscono Nvidia per posizionarsi su valutazioni più conservative e attraenti.",
+     "show": "CAMBIO DI STRATEGIA",
+     "figure": ""
+    },
+    {
+     "say": "Nonostante 300 miliardi di cassa previsti per Nvidia, il rischio di stallo favorisce alternative.",
+     "show": "300 MILIARDI DI CASSA",
+     "figure": "300 MLD $"
+    },
+    {
+     "say": "Il piano di riacquisto di azioni proprie a inizio dicembre rappresenta il catalizzatore immediato.",
+     "show": "BUYBACK A DICEMBRE",
+     "figure": ""
+    },
+    {
+     "say": "La rotazione settoriale premia chi offre multipli compressi e rendimenti tangibili. Segui per aggiornamenti.",
+     "show": "CAPITALI IN MOVIMENTO",
+     "figure": ""
+    }
+   ],
+   "origin": "Jeremy Lefebvre",
+   "source_video": "My HONEST Opinion on the NVIDIA Situation!",
+   "narration": "Micron attira capitali in uscita dai titoli più surriscaldati. I gestori alleggeriscono Nvidia per posizionarsi su valutazioni più conservative e attraenti. Nonostante 300 miliardi di cassa previsti per Nvidia, il rischio di stallo favorisce alternative. Il piano di riacquisto di azioni proprie a inizio dicembre rappresenta il catalizzatore immediato. La rotazione settoriale premia chi offre multipli compressi e rendimenti tangibili. Segui per aggiornamenti.",
+   "ticker": "MU",
+   "sentiment": "bullish",
+   "sources": [],
+   "caption": "I flussi di mercato premiano Micron: multipli favorevoli e il programma di riacquisto azionario guidano la rotazione.",
+   "hashtags": [
+    "#Micron",
+    "#MU",
+    "#Nvidia",
+    "#Semiconduttori",
+    "#Investimenti",
+    "#Borsa"
+   ]
+  }
+ ],
+ "en": [
+  {
+   "title": "Is Nvidia Cheaper Than Procter & Gamble?",
+   "hook": "Nvidia CHEAPER NOW?",
+   "beats": [
+    {
+     "say": "Nvidia trades at a lower price to earnings multiple than Procter & Gamble.",
+     "show": "Nvidia CHEAPER NOW?",
+     "figure": "19"
+    },
+    {
+     "say": "With a trailing ratio of 19, the artificial intelligence champion costs less than household soap makers.",
+     "show": "P/E AT 19",
+     "figure": "19"
+    },
+    {
+     "say": "Historic growth does not prevent investors from discounting future leadership uncertainty.",
+     "show": "DISCOUNTING RISK",
+     "figure": ""
+    },
+    {
+     "say": "The key metric to watch is whether gross margins hold above 70%.",
+     "show": "MARGINS WATCH",
+     "figure": "70%"
+    },
+    {
+     "say": "Cheap multiples can stay compressed without visionary leadership. Follow for updates.",
+     "show": "COMPRESSED MULTIPLE",
+     "figure": ""
+    }
+   ],
+   "origin": "Jeremy Lefebvre",
+   "source_video": "My HONEST Opinion on the NVIDIA Situation!",
+   "narration": "Nvidia trades at a lower price to earnings multiple than Procter & Gamble. With a trailing ratio of 19, the artificial intelligence champion costs less than household soap makers. Historic growth does not prevent investors from discounting future leadership uncertainty. The key metric to watch is whether gross margins hold above 70%. Cheap multiples can stay compressed without visionary leadership. Follow for updates.",
+   "ticker": "NVDA",
+   "sentiment": "bullish",
+   "sources": [],
+   "caption": "Nvidia trades at a trailing price-to-earnings ratio of 19, sitting below traditional consumer staple giants.",
+   "hashtags": [
+    "#Nvidia",
+    "#NVDA",
+    "#StockMarket",
+    "#Valuation",
+    "#TechStocks",
+    "#Investing"
+   ]
+  },
+  {
+   "title": "Nvidia Revenues Doubled: Why Are Shares Stalling?",
+   "hook": "REVENUE UP 103%",
+   "beats": [
+    {
+     "say": "Nvidia grew total revenue by 103% over the prior year.",
+     "show": "REVENUE UP 103%",
+     "figure": "103%"
+    },
+    {
+     "say": "Gross profit increased 107%, showing flawless operational performance across data centers.",
+     "show": "PROFIT SURGE",
+     "figure": "107%"
+    },
+    {
+     "say": "Record numbers no longer protect a stock when founder culture disappears.",
+     "show": "CULTURE RISK",
+     "figure": ""
+    },
+    {
+     "say": "Long-term models project earnings per share reaching 20 dollars by fiscal 2028.",
+     "show": "EPS 20 TARGET",
+     "figure": "$20"
+    },
+    {
+     "say": "Execution remains solid, but the valuation premium is slipping away. Follow for updates.",
+     "show": "EXECUTION STAYS",
+     "figure": ""
+    }
+   ],
+   "origin": "Jeremy Lefebvre",
+   "source_video": "My HONEST Opinion on the NVIDIA Situation!",
+   "narration": "Nvidia grew total revenue by 103% over the prior year. Gross profit increased 107%, showing flawless operational performance across data centers. Record numbers no longer protect a stock when founder culture disappears. Long-term models project earnings per share reaching 20 dollars by fiscal 2028. Execution remains solid, but the valuation premium is slipping away. Follow for updates.",
+   "ticker": "NVDA",
+   "sentiment": "neutral",
+   "sources": [],
+   "caption": "Nvidia posted a 103% jump in revenue, but the market is re-evaluating its long-term premium.",
+   "hashtags": [
+    "#Nvidia",
+    "#NVDA",
+    "#Earnings",
+    "#TechNews",
+    "#Semiconductors",
+    "#Finance"
+   ]
+  },
+  {
+   "title": "What Apple and Wynn Teach Us About Nvidia",
+   "hook": "FOUNDER DEPARTURE RISK",
+   "beats": [
+    {
+     "say": "Nvidia is facing the same structural shock seen at Wynn Resorts.",
+     "show": "FOUNDER DEPARTURE RISK",
+     "figure": ""
+    },
+    {
+     "say": "When visionary founders step away, markets historically trigger aggressive valuation de-ratings.",
+     "show": "VALUATION DE-RATING",
+     "figure": ""
+    },
+    {
+     "say": "Strong cash flows cannot replace the single individual who closed every major enterprise partnership.",
+     "show": "PARTNERSHIP VACUUM",
+     "figure": ""
+    },
+    {
+     "say": "The stock faces an extended trading range while management establishes new credibility.",
+     "show": "TRADING RANGE",
+     "figure": ""
+    },
+    {
+     "say": "Replacing visionary leadership takes years, not quarters. Follow for updates.",
+     "show": "LONG TRANSITION",
+     "figure": ""
+    }
+   ],
+   "origin": "Jeremy Lefebvre",
+   "source_video": "My HONEST Opinion on the NVIDIA Situation!",
+   "narration": "Nvidia is facing the same structural shock seen at Wynn Resorts. When visionary founders step away, markets historically trigger aggressive valuation de-ratings. Strong cash flows cannot replace the single individual who closed every major enterprise partnership. The stock faces an extended trading range while management establishes new credibility. Replacing visionary leadership takes years, not quarters. Follow for updates.",
+   "ticker": "NVDA",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Historical precedents show that losing an iconic visionary triggers extended valuation contraction.",
+   "hashtags": [
+    "#Nvidia",
+    "#NVDA",
+    "#Leadership",
+    "#Apple",
+    "#StockMarket",
+    "#Investing"
+   ]
+  },
+  {
+   "title": "Top Tech Stocks Plunge Up to 50%",
+   "hook": "PLUNGING 50%",
+   "beats": [
+    {
+     "say": "High-flying tech leaders are down between 35% and 50% from peaks.",
+     "show": "PLUNGING 50%",
+     "figure": "-50%"
+    },
+    {
+     "say": "Names like Micron, Intel, Marvell, and Oracle have taken massive hits during this drawdown.",
+     "show": "TECH SELLOFF",
+     "figure": ""
+    },
+    {
+     "say": "The most celebrated speculative winners always suffer the steepest declines during market pullbacks.",
+     "show": "LEADERS FALL FIRST",
+     "figure": ""
+    },
+    {
+     "say": "Historical drawdowns often push broad indexes down by more than 20%.",
+     "show": "INDEX RISK 20%",
+     "figure": "-20%"
+    },
+    {
+     "say": "Market resets punish extreme valuations before any sustainable bottom forms. Follow for updates.",
+     "show": "VALUATION RESET",
+     "figure": ""
+    }
+   ],
+   "origin": "Jeremy Lefebvre",
+   "source_video": "My HONEST Opinion on the NVIDIA Situation!",
+   "narration": "High-flying tech leaders are down between 35% and 50% from peaks. Names like Micron, Intel, Marvell, and Oracle have taken massive hits during this drawdown. The most celebrated speculative winners always suffer the steepest declines during market pullbacks. Historical drawdowns often push broad indexes down by more than 20%. Market resets punish extreme valuations before any sustainable bottom forms. Follow for updates.",
+   "ticker": null,
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "The most hyped semiconductor and tech leaders are down 35% to 50% from their 52-week highs.",
+   "hashtags": [
+    "#TechStocks",
+    "#StockCrash",
+    "#Nasdaq",
+    "#Micron",
+    "#Semiconductors",
+    "#Trading"
+   ]
+  },
+  {
+   "title": "Why Company Guidance Is Never a Surprise",
+   "hook": "NO REAL SURPRISE",
+   "beats": [
+    {
+     "say": "Official company guidance is rarely a surprise to corporate insiders.",
+     "show": "NO REAL SURPRISE",
+     "figure": ""
+    },
+    {
+     "say": "Chief financial officers manage multi-year order pipelines secured long before public earnings calls.",
+     "show": "MULTI-YEAR PIPELINES",
+     "figure": ""
+    },
+    {
+     "say": "Wall Street treats contractual deliveries as unexpected windfalls to generate short-term trading volume.",
+     "show": "ANALYST ILLUSION",
+     "figure": ""
+    },
+    {
+     "say": "The critical factor to monitor is customer capital expenditure over coming quarters.",
+     "show": "CAPEX TRENDS",
+     "figure": ""
+    },
+    {
+     "say": "Contract backlogs reveal the true picture ahead of headlines. Follow for updates.",
+     "show": "BACKLOG REALITY",
+     "figure": ""
+    }
+   ],
+   "origin": "Jeremy Lefebvre",
+   "source_video": "My HONEST Opinion on the NVIDIA Situation!",
+   "narration": "Official company guidance is rarely a surprise to corporate insiders. Chief financial officers manage multi-year order pipelines secured long before public earnings calls. Wall Street treats contractual deliveries as unexpected windfalls to generate short-term trading volume. The critical factor to monitor is customer capital expenditure over coming quarters. Contract backlogs reveal the true picture ahead of headlines. Follow for updates.",
+   "ticker": "NVDA",
+   "sentiment": "neutral",
+   "sources": [],
+   "caption": "Multi-year enterprise contracts mean corporate leadership already knows guidance quarters in advance.",
+   "hashtags": [
+    "#Earnings",
+    "#WallStreet",
+    "#Finance",
+    "#Nvidia",
+    "#CorporateFinance",
+    "#Stocks"
+   ]
+  },
+  {
+   "title": "Why Big Money Is Rotating Into Micron",
+   "hook": "ROTATION INTO MICRON",
+   "beats": [
+    {
+     "say": "Micron is absorbing institutional capital rotating away from expensive megacaps.",
+     "show": "ROTATION INTO MICRON",
+     "figure": ""
+    },
+    {
+     "say": "Investors are trimming high-multiple leaders to capture more compelling valuations.",
+     "show": "MULTIPLE ROTATION",
+     "figure": ""
+    },
+    {
+     "say": "Even 300 billion dollars in projected free cash flow cannot prevent reallocations.",
+     "show": "$300B CASH FLOW",
+     "figure": "$300B"
+    },
+    {
+     "say": "The critical catalyst is Micron's share buyback announcement scheduled for early December.",
+     "show": "DECEMBER BUYBACK",
+     "figure": ""
+    },
+    {
+     "say": "Capital shifts where downside risk is limited by direct buybacks. Follow for updates.",
+     "show": "DOWNSIDE SUPPORT",
+     "figure": ""
+    }
+   ],
+   "origin": "Jeremy Lefebvre",
+   "source_video": "My HONEST Opinion on the NVIDIA Situation!",
+   "narration": "Micron is absorbing institutional capital rotating away from expensive megacaps. Investors are trimming high-multiple leaders to capture more compelling valuations. Even 300 billion dollars in projected free cash flow cannot prevent reallocations. The critical catalyst is Micron's share buyback announcement scheduled for early December. Capital shifts where downside risk is limited by direct buybacks. Follow for updates.",
+   "ticker": "MU",
+   "sentiment": "bullish",
+   "sources": [],
+   "caption": "Institutional rotation favors Micron ahead of its December share buyback as multiples compress elsewhere.",
+   "hashtags": [
+    "#Micron",
+    "#MU",
+    "#Nvidia",
+    "#Semiconductors",
+    "#ValueInvesting",
+    "#Stocks"
+   ]
+  }
+ ],
+ "carousels": {
+  "it": {
+   "topic": "La svolta critica di Nvidia",
+   "caption": "Tra trimestrali record, cambi al vertice e rotazioni di portafoglio, Nvidia entra in una nuova fase di mercato. Segui per l'aggiornamento di domani.",
+   "sentiment": "neutral",
+   "ticker": "NVDA",
+   "slides": [
+    {
+     "title": "Nvidia: fine dell'era dorata?",
+     "body": "Ecco cosa rivelano i numeri record, i crolli del settore e il vuoto al vertice di Nvidia."
+    },
+    {
+     "title": "Multiplo più basso di P&G",
+     "body": "Con un rapporto prezzo utili di 19, Nvidia tratta a valutazioni più basse rispetto ai giganti dei consumi difensivi."
+    },
+    {
+     "title": "Fatturato raddoppiato al 103%",
+     "body": "I ricavi salgono del 103% e i margini operativi restano impeccabili, ma il mercato guarda oltre la pura crescita."
+    },
+    {
+     "title": "Il rischio del fondatore",
+     "body": "L'uscita del leader carismatico comporta storicamente lunghi periodi di revisione al ribasso dei multipli azionari."
+    },
+    {
+     "title": "I semiconduttori cedono il 50%",
+     "body": "I titoli protagonisti del rialzo correggono fino al 50%, alimentando la rotazione verso opportunità a basso multiplo."
+    },
+    {
+     "title": "Rotazione attiva su Micron",
+     "body": "I capitali istituzionali riducono l'esposizione sui massimi per posizionarsi sul piano di riacquisto di Micron a dicembre."
+    },
+    {
+     "title": "La nuova fase",
+     "body": "I fondamentali restano solidi, ma il premio sulla leadership si ridimensiona. Segui per l'aggiornamento di domani."
+    }
+   ],
+   "hashtags": [
+    "#Nvidia",
+    "#NVDA",
+    "#Semiconduttori",
+    "#MercatiFinanziari",
+    "#WallStreet",
+    "#Azioni",
+    "#Investimenti",
+    "#IntelligenzaArtificiale"
+   ]
+  },
+  "en": {
+   "topic": "Nvidia's Critical Leadership Transition",
+   "caption": "Record revenues collide with leadership departures and sector rotations as Nvidia enters a pivotal phase. Follow for tomorrow's update.",
+   "sentiment": "neutral",
+   "ticker": "NVDA",
+   "slides": [
+    {
+     "title": "Nvidia's Golden Era at Risk?",
+     "body": "Here is what record results, deep tech pullbacks, and leadership departures mean for markets."
+    },
+    {
+     "title": "Cheaper Than Consumer Staples",
+     "body": "Nvidia trades at a trailing price-to-earnings ratio of 19, falling below defensive household brand stocks."
+    },
+    {
+     "title": "Revenue Surges 103%",
+     "body": "Sales doubled with gross profit up 107%, but flawless earnings execution is no longer shielding the multiple."
+    },
+    {
+     "title": "Founder Transition Shock",
+     "body": "History from Apple and Wynn Resorts shows visionary exits trigger prolonged valuation de-ratings and trading ranges."
+    },
+    {
+     "title": "Sector Selloff Reaches 50%",
+     "body": "Leading semiconductor and cloud names have dropped 35% to 50% from recent 52-week peak levels."
+    },
+    {
+     "title": "Rotation Toward Micron",
+     "body": "Institutions are reallocating capital toward Micron ahead of its early December share repurchase catalyst."
+    },
+    {
+     "title": "The Road Ahead",
+     "body": "Solid fundamentals remain intact, but the valuation premium requires new proof. Follow for tomorrow's update."
+    }
+   ],
+   "hashtags": [
+    "#Nvidia",
+    "#NVDA",
+    "#Semiconductors",
+    "#StockMarket",
+    "#WallStreet",
+    "#TechStocks",
+    "#Investing",
+    "#ArtificialIntelligence"
+   ]
+  }
+ }
+}

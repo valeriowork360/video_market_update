@@ -1,0 +1,644 @@
+{
+ "it": [
+  {
+   "title": "Nasdaq perde oltre il 6% in una seduta",
+   "hook": "Nasdaq -6% IN UN GIORNO",
+   "beats": [
+    {
+     "say": "Nasdaq perde oltre il 6% in una singola sessione da incubo.",
+     "show": "Nasdaq -6% IN UN GIORNO",
+     "figure": "-6%"
+    },
+    {
+     "say": "L'azionario globale affronta vendite pesanti, mentre petrolio e dollaro restano del tutto piatti.",
+     "show": "VENDITE GENERALIZZATE",
+     "figure": ""
+    },
+    {
+     "say": "Non si tratta di un calo ordinato, ma di panico puro sui titoli tecnologici.",
+     "show": "PANICO SUL TECH",
+     "figure": ""
+    },
+    {
+     "say": "Anche S&P 500 scivola del 4%, cancellando settimane di rialzi in poche ore.",
+     "show": "S&P 500 -4%",
+     "figure": "-4%"
+    },
+    {
+     "say": "Dopo crolli così verticali, la volatilità resta altissima. Segui per aggiornamenti.",
+     "show": "MASSIMA CAUTELA",
+     "figure": ""
+    }
+   ],
+   "origin": "Michael Pizzino",
+   "source_video": "The Market Is in a Bloodbath... But Something Is Changing",
+   "narration": "Nasdaq perde oltre il 6% in una singola sessione da incubo. L'azionario globale affronta vendite pesanti, mentre petrolio e dollaro restano del tutto piatti. Non si tratta di un calo ordinato, ma di panico puro sui titoli tecnologici. Anche S&P 500 scivola del 4%, cancellando settimane di rialzi in poche ore. Dopo crolli così verticali, la volatilità resta altissima. Segui per aggiornamenti.",
+   "ticker": "^IXIC",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Il Nasdaq subisce una battuta d'arresto pesantissima in una sola sessione. La volatilità domina i mercati azionari.",
+   "hashtags": [
+    "#Nasdaq",
+    "#SP500",
+    "#Borsa",
+    "#Trading",
+    "#Mercati",
+    "#Azioni"
+   ]
+  },
+  {
+   "title": "S&P 500: crollo o semplice correzione ciclica?",
+   "hook": "S&P 500 -12%",
+   "beats": [
+    {
+     "say": "S&P 500 cede il 12%, ma i cicli storici mostrano altro.",
+     "show": "S&P 500 -12%",
+     "figure": "-12%"
+    },
+    {
+     "say": "Negli ultimi diciassette anni di mercato rialzista abbiamo visto correzioni del 20%.",
+     "show": "BULL MARKET 17 ANNI",
+     "figure": "20%"
+    },
+    {
+     "say": "Un calo del 12% spaventa tutti, ma resta inferiore alla media storica.",
+     "show": "SOTTO MEDIA STORICA",
+     "figure": ""
+    },
+    {
+     "say": "I veri minimi di ciclo spesso richiedono discese profonde fino al 20%.",
+     "show": "SUPPORTO CICLICO",
+     "figure": "-20%"
+    },
+    {
+     "say": "La prospettiva storica trasforma la paura in lucidità. Segui per aggiornamenti.",
+     "show": "PROSPETTIVA MACRO",
+     "figure": ""
+    }
+   ],
+   "origin": "Michael Pizzino",
+   "source_video": "The Market Is in a Bloodbath... But Something Is Changing",
+   "narration": "S&P 500 cede il 12%, ma i cicli storici mostrano altro. Negli ultimi diciassette anni di mercato rialzista abbiamo visto correzioni del 20%. Un calo del 12% spaventa tutti, ma resta inferiore alla media storica. I veri minimi di ciclo spesso richiedono discese profonde fino al 20%. La prospettiva storica trasforma la paura in lucidità. Segui per aggiornamenti.",
+   "ticker": "^GSPC",
+   "sentiment": "neutral",
+   "sources": [],
+   "caption": "Il ritracciamento del 12% dell'S&P 500 spaventa gli investitori, ma si inserisce nei consueti ritmi di un mercato rialzista pluriennale.",
+   "hashtags": [
+    "#SP500",
+    "#MercatiFinanziari",
+    "#Macro",
+    "#Finanza",
+    "#Investimenti",
+    "#Borsa"
+   ]
+  },
+  {
+   "title": "S&P 500: volumi record ma manca il rimbalzo",
+   "hook": "S&P 500 VOLUMI RECORD",
+   "beats": [
+    {
+     "say": "S&P 500 registra volumi record mai visti dall'11 giugno.",
+     "show": "S&P 500 VOLUMI RECORD",
+     "figure": "11 giugno"
+    },
+    {
+     "say": "Volumi così alti indicano che i venditori aggressivi potrebbero essere quasi esausti.",
+     "show": "ESAURIMENTO VENDITORI",
+     "figure": ""
+    },
+    {
+     "say": "I picchi precedenti durante questo ribasso non sono bastati per innescare rimbalzi duraturi.",
+     "show": "RIMBALZO FALLITO",
+     "figure": ""
+    },
+    {
+     "say": "Per confermare un cambio di rotta serve superare quota 7.120.",
+     "show": "LIVELLO CHIAVE 7.120",
+     "figure": "7.120"
+    },
+    {
+     "say": "Grandi volumi senza conferma tecnica restano solo rumore. Segui per aggiornamenti.",
+     "show": "ATTENDERE CONFERMA",
+     "figure": ""
+    }
+   ],
+   "origin": "Michael Pizzino",
+   "source_video": "The Market Is in a Bloodbath... But Something Is Changing",
+   "narration": "S&P 500 registra volumi record mai visti dall'11 giugno. Volumi così alti indicano che i venditori aggressivi potrebbero essere quasi esausti. I picchi precedenti durante questo ribasso non sono bastati per innescare rimbalzi duraturi. Per confermare un cambio di rotta serve superare quota 7.120. Grandi volumi senza conferma tecnica restano solo rumore. Segui per aggiornamenti.",
+   "ticker": "^GSPC",
+   "sentiment": "neutral",
+   "sources": [],
+   "caption": "Picco di scambi sull'S&P 500 ai massimi dall'11 giugno. Senza il superamento di quota 7.120 il trend rimane debole.",
+   "hashtags": [
+    "#SP500",
+    "#Trading",
+    "#AnalisiTecnica",
+    "#Borsa",
+    "#Mercati",
+    "#WallStreet"
+   ]
+  },
+  {
+   "title": "Nasdaq: volumi ai livelli del crollo Covid",
+   "hook": "Nasdaq VOLUMI COVID",
+   "beats": [
+    {
+     "say": "Nasdaq tocca volumi record identici al crollo del Covid.",
+     "show": "Nasdaq VOLUMI COVID",
+     "figure": "Record"
+    },
+    {
+     "say": "Un'ondata straordinaria di scambi ha travolto il comparto tecnologico durante l'ultima discesa.",
+     "show": "SCAMBI RECORD",
+     "figure": ""
+    },
+    {
+     "say": "I volumi record durante i crolli segnalano capitolazione, non un minimo garantito.",
+     "show": "CAPITOLAZIONE IN CORSO",
+     "figure": ""
+    },
+    {
+     "say": "Serve un recupero deciso sopra i minimi precedenti per convalidare il rimbalzo.",
+     "show": "TEST DEI MINIMI",
+     "figure": ""
+    },
+    {
+     "say": "Il panico genera occasioni solo quando il grafico conferma. Segui per aggiornamenti.",
+     "show": "CONFERMA GRAFICA",
+     "figure": ""
+    }
+   ],
+   "origin": "Michael Pizzino",
+   "source_video": "The Market Is in a Bloodbath... But Something Is Changing",
+   "narration": "Nasdaq tocca volumi record identici al crollo del Covid. Un'ondata straordinaria di scambi ha travolto il comparto tecnologico durante l'ultima discesa. I volumi record durante i crolli segnalano capitolazione, non un minimo garantito. Serve un recupero deciso sopra i minimi precedenti per convalidare il rimbalzo. Il panico genera occasioni solo quando il grafico conferma. Segui per aggiornamenti.",
+   "ticker": "^IXIC",
+   "sentiment": "neutral",
+   "sources": [],
+   "caption": "Gli scambi sul Nasdaq eguagliano i picchi storici del crash del 2020. Prima di parlare di rimbalzo serve una conferma dei prezzi.",
+   "hashtags": [
+    "#Nasdaq",
+    "#TechStocks",
+    "#Trading",
+    "#MercatiFinanziari",
+    "#BorsaAmericana",
+    "#Azioni"
+   ]
+  },
+  {
+   "title": "Oro perde quota 3.900 dollari: dove si ferma?",
+   "hook": "ORO SOTTO 3.900 $",
+   "beats": [
+    {
+     "say": "Oro sfonda il supporto a 3.900 dollari e precipita senza freni.",
+     "show": "ORO SOTTO 3.900 $",
+     "figure": "3.900 $"
+    },
+    {
+     "say": "Il metallo giallo ha ceduto il livello di ritracciamento del 50% senza acquirenti.",
+     "show": "RITRACCIAMENTO DEL 50%",
+     "figure": "50%"
+    },
+    {
+     "say": "Nemmeno i beni rifugio offrono riparo quando la liquidità sparisce dal mercato.",
+     "show": "RIFUGIO IN CRISI",
+     "figure": ""
+    },
+    {
+     "say": "Le prossime soglie da monitorare scendono adesso a 3.600 e 3.000 dollari.",
+     "show": "TARGET 3.600 $ E 3.000 $",
+     "figure": "3.000 $"
+    },
+    {
+     "say": "Senza una base solida il ribasso può proseguire rapido. Segui per aggiornamenti.",
+     "show": "SUPPORTO DA TROVARE",
+     "figure": ""
+    }
+   ],
+   "origin": "Michael Pizzino",
+   "source_video": "The Market Is in a Bloodbath... But Something Is Changing",
+   "narration": "Oro sfonda il supporto a 3.900 dollari e precipita senza freni. Il metallo giallo ha ceduto il livello di ritracciamento del 50% senza acquirenti. Nemmeno i beni rifugio offrono riparo quando la liquidità sparisce dal mercato. Le prossime soglie da monitorare scendono adesso a 3.600 e 3.000 dollari. Senza una base solida il ribasso può proseguire rapido. Segui per aggiornamenti.",
+   "ticker": "GC=F",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "L'oro cede il supporto a 3.900 dollari e scivola sotto il ritracciamento del 50%. Sotto osservazione le aree a 3.600 e 3.000 dollari.",
+   "hashtags": [
+    "#Oro",
+    "#Gold",
+    "#MateriePrime",
+    "#Commodities",
+    "#Trading",
+    "#Mercati"
+   ]
+  },
+  {
+   "title": "Bitcoin: 16 giorni consecutivi di ribasso",
+   "hook": "Bitcoin 16 GIORNI ROSSI",
+   "beats": [
+    {
+     "say": "Bitcoin crolla per 16 giorni consecutivi di sole vendite.",
+     "show": "Bitcoin 16 GIORNI ROSSI",
+     "figure": "16"
+    },
+    {
+     "say": "Il prezzo tocca nuovi minimi a 410 giorni dal massimo storico.",
+     "show": "410 GIORNI DAL TOP",
+     "figure": "410"
+    },
+    {
+     "say": "Questo periodo di 410 giorni coincide perfettamente con la durata dei cicli passati.",
+     "show": "CICLO RIBASSISTA STORICO",
+     "figure": ""
+    },
+    {
+     "say": "Qualsiasi rimbalzo tecnico dovrà fare i conti con la resistenza a 67.000 dollari.",
+     "show": "RESISTENZA 67.000 $",
+     "figure": "67.000 $"
+    },
+    {
+     "say": "I mercati ribassisti azzerano la pazienza prima di ripartire. Segui per aggiornamenti.",
+     "show": "ATTESA DEL MINIMO",
+     "figure": ""
+    }
+   ],
+   "origin": "Michael Pizzino",
+   "source_video": "The Market Is in a Bloodbath... But Something Is Changing",
+   "narration": "Bitcoin crolla per 16 giorni consecutivi di sole vendite. Il prezzo tocca nuovi minimi a 410 giorni dal massimo storico. Questo periodo di 410 giorni coincide perfettamente con la durata dei cicli passati. Qualsiasi rimbalzo tecnico dovrà fare i conti con la resistenza a 67.000 dollari. I mercati ribassisti azzerano la pazienza prima di ripartire. Segui per aggiornamenti.",
+   "ticker": "BTC-USD",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Bitcoin segna sedici giorni consecutivi di vendite e raggiunge 410 giorni di bear market. Resistenza immediata a 67.000 dollari.",
+   "hashtags": [
+    "#Bitcoin",
+    "#Criptovalute",
+    "#BTC",
+    "#CryptoItalia",
+    "#Trading",
+    "#Blockchain"
+   ]
+  }
+ ],
+ "en": [
+  {
+   "title": "Nasdaq Plunges Over 6% in a Single Day",
+   "hook": "Nasdaq CRASHES 6%",
+   "beats": [
+    {
+     "say": "Nasdaq crashed over 6% in a single brutal trading session.",
+     "show": "Nasdaq CRASHES 6%",
+     "figure": "-6%"
+    },
+    {
+     "say": "Global equities faced aggressive selling while crude oil and the dollar stayed completely flat.",
+     "show": "GLOBAL LIQUIDATION",
+     "figure": ""
+    },
+    {
+     "say": "This was not an orderly decline, but pure panic selling across tech leaders.",
+     "show": "TECH PANIC",
+     "figure": ""
+    },
+    {
+     "say": "S&P 500 also tumbled 4%, wiping out weeks of hard-earned gains.",
+     "show": "S&P 500 -4%",
+     "figure": "-4%"
+    },
+    {
+     "say": "When panic hits this fast, extreme volatility usually follows. Follow for updates.",
+     "show": "EXTREME VOLATILITY",
+     "figure": ""
+    }
+   ],
+   "origin": "Michael Pizzino",
+   "source_video": "The Market Is in a Bloodbath... But Something Is Changing",
+   "narration": "Nasdaq crashed over 6% in a single brutal trading session. Global equities faced aggressive selling while crude oil and the dollar stayed completely flat. This was not an orderly decline, but pure panic selling across tech leaders. S&P 500 also tumbled 4%, wiping out weeks of hard-earned gains. When panic hits this fast, extreme volatility usually follows. Follow for updates.",
+   "ticker": "^IXIC",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Nasdaq sheds more than 6% in a historic sell-off as major indices face steep losses across the board.",
+   "hashtags": [
+    "#Nasdaq",
+    "#SP500",
+    "#StockMarket",
+    "#WallStreet",
+    "#Trading",
+    "#Stocks"
+   ]
+  },
+  {
+   "title": "S&P 500 Drops 12%: Crash or Correction?",
+   "hook": "S&P 500 DOWN 12%",
+   "beats": [
+    {
+     "say": "S&P 500 is down 12%, but historical cycles tell another story.",
+     "show": "S&P 500 DOWN 12%",
+     "figure": "-12%"
+    },
+    {
+     "say": "The ongoing seventeen-year bull market has endured multiple pullbacks of 20%.",
+     "show": "17-YEAR BULL RUN",
+     "figure": "20%"
+    },
+    {
+     "say": "A 12% decline feels catastrophic, yet it remains modest by historical standards.",
+     "show": "HISTORIC CORRECTIONS",
+     "figure": ""
+    },
+    {
+     "say": "Past macro corrections routinely flushed prices down 20% before any lasting bottom.",
+     "show": "POTENTIAL BOTTOMLINE",
+     "figure": "-20%"
+    },
+    {
+     "say": "Perspective turns market panic into cold calculation. Follow for updates.",
+     "show": "MACRO PERSPECTIVE",
+     "figure": ""
+    }
+   ],
+   "origin": "Michael Pizzino",
+   "source_video": "The Market Is in a Bloodbath... But Something Is Changing",
+   "narration": "S&P 500 is down 12%, but historical cycles tell another story. The ongoing seventeen-year bull market has endured multiple pullbacks of 20%. A 12% decline feels catastrophic, yet it remains modest by historical standards. Past macro corrections routinely flushed prices down 20% before any lasting bottom. Perspective turns market panic into cold calculation. Follow for updates.",
+   "ticker": "^GSPC",
+   "sentiment": "neutral",
+   "sources": [],
+   "caption": "The S&P 500 is down 12% from its peak, but cycle history reveals this is still within normal correction ranges.",
+   "hashtags": [
+    "#SP500",
+    "#StockMarket",
+    "#Investing",
+    "#Economy",
+    "#Finance",
+    "#Trading"
+   ]
+  },
+  {
+   "title": "S&P 500 Volume Spike: Is the Bottom In?",
+   "hook": "RECORD S&P VOLUME",
+   "beats": [
+    {
+     "say": "S&P 500 volume just hit levels unseen since June 11.",
+     "show": "RECORD S&P VOLUME",
+     "figure": "June 11"
+    },
+    {
+     "say": "Huge turnover indicates that aggressive sellers might finally be running out of fuel.",
+     "show": "SELLER EXHAUSTION",
+     "figure": ""
+    },
+    {
+     "say": "Previous volume spikes during this downtrend still failed to produce sustained rebounds.",
+     "show": "BOUNCE UNCONFIRMED",
+     "figure": ""
+    },
+    {
+     "say": "A decisive break above 7,120 is required to signal a true trend reversal.",
+     "show": "WATCH 7,120",
+     "figure": "7,120"
+    },
+    {
+     "say": "Massive volume without trend confirmation is just noise. Follow for updates.",
+     "show": "WAIT FOR CONFIRMATION",
+     "figure": ""
+    }
+   ],
+   "origin": "Michael Pizzino",
+   "source_video": "The Market Is in a Bloodbath... But Something Is Changing",
+   "narration": "S&P 500 volume just hit levels unseen since June 11. Huge turnover indicates that aggressive sellers might finally be running out of fuel. Previous volume spikes during this downtrend still failed to produce sustained rebounds. A decisive break above 7,120 is required to signal a true trend reversal. Massive volume without trend confirmation is just noise. Follow for updates.",
+   "ticker": "^GSPC",
+   "sentiment": "neutral",
+   "sources": [],
+   "caption": "Record volume on the S&P 500 signals potential exhaustion, but a move above 7,120 is essential for a true reversal.",
+   "hashtags": [
+    "#SP500",
+    "#StockMarket",
+    "#TechnicalAnalysis",
+    "#WallStreet",
+    "#Trading",
+    "#Stocks"
+   ]
+  },
+  {
+   "title": "Nasdaq Matches Covid Crash Volume",
+   "hook": "COVID LEVEL VOLUME",
+   "beats": [
+    {
+     "say": "Nasdaq trading volume just matched levels from the Covid crash.",
+     "show": "COVID LEVEL VOLUME",
+     "figure": "Record"
+    },
+    {
+     "say": "Historic institutional activity flooded the market as technology stocks plunged across the board.",
+     "show": "MASSIVE TURNOVER",
+     "figure": ""
+    },
+    {
+     "say": "Record volume during a drop often flags capitulation, not an immediate bottom.",
+     "show": "CAPITULATION SIGNAL",
+     "figure": ""
+    },
+    {
+     "say": "Buyers must push the index above prior lows to validate any relief rally.",
+     "show": "RECLAIM PRIOR LOWS",
+     "figure": ""
+    },
+    {
+     "say": "Panic selling creates opportunities only after structure confirms. Follow for updates.",
+     "show": "WAIT FOR STRUCTURE",
+     "figure": ""
+    }
+   ],
+   "origin": "Michael Pizzino",
+   "source_video": "The Market Is in a Bloodbath... But Something Is Changing",
+   "narration": "Nasdaq trading volume just matched levels from the Covid crash. Historic institutional activity flooded the market as technology stocks plunged across the board. Record volume during a drop often flags capitulation, not an immediate bottom. Buyers must push the index above prior lows to validate any relief rally. Panic selling creates opportunities only after structure confirms. Follow for updates.",
+   "ticker": "^IXIC",
+   "sentiment": "neutral",
+   "sources": [],
+   "caption": "Nasdaq trading volume reaches historic highs comparable to 2020. Relief rallies require price confirmation above prior lows.",
+   "hashtags": [
+    "#Nasdaq",
+    "#WallStreet",
+    "#TechStocks",
+    "#TradingSignals",
+    "#StockMarket",
+    "#MarketCapitulation"
+   ]
+  },
+  {
+   "title": "Gold Breaks $3,900: Next Target Levels",
+   "hook": "GOLD BREAKS $3,900",
+   "beats": [
+    {
+     "say": "Gold broke $3,900 support and plunged straight through the floor.",
+     "show": "GOLD BREAKS $3,900",
+     "figure": "$3,900"
+    },
+    {
+     "say": "The metal dropped below its critical 50% retracement level with zero buyer response.",
+     "show": "50% LEVEL LOST",
+     "figure": "50%"
+    },
+    {
+     "say": "Even classic safe-havens offer no protection when liquidity vanishes from the markets.",
+     "show": "LIQUIDITY DRAIN",
+     "figure": ""
+    },
+    {
+     "say": "Key stabilization targets now sit at $3,600 and the psychological $3,000 level.",
+     "show": "TARGETS $3,600 & $3,000",
+     "figure": "$3,000"
+    },
+    {
+     "say": "Until sellers dry up, falling knives have no support. Follow for updates.",
+     "show": "SEEKING SUPPORT",
+     "figure": ""
+    }
+   ],
+   "origin": "Michael Pizzino",
+   "source_video": "The Market Is in a Bloodbath... But Something Is Changing",
+   "narration": "Gold broke $3,900 support and plunged straight through the floor. The metal dropped below its critical 50% retracement level with zero buyer response. Even classic safe-havens offer no protection when liquidity vanishes from the markets. Key stabilization targets now sit at $3,600 and the psychological $3,000 level. Until sellers dry up, falling knives have no support. Follow for updates.",
+   "ticker": "GC=F",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Gold breaks key support at $3,900 and loses its 50% retracement mark. Watching $3,600 and $3,000 for stabilization.",
+   "hashtags": [
+    "#Gold",
+    "#Commodities",
+    "#GoldPrice",
+    "#PreciousMetals",
+    "#Trading",
+    "#Markets"
+   ]
+  },
+  {
+   "title": "Bitcoin Sinks for 16 Straight Days",
+   "hook": "Bitcoin 16 RED DAYS",
+   "beats": [
+    {
+     "say": "Bitcoin suffered 16 consecutive red days as selling intensifies.",
+     "show": "Bitcoin 16 RED DAYS",
+     "figure": "16"
+    },
+    {
+     "say": "The price hit fresh cycle lows 410 days after its all-time high.",
+     "show": "410 DAYS FROM ATH",
+     "figure": "410"
+    },
+    {
+     "say": "This 410-day duration matches the exact length of historical bear market cycles.",
+     "show": "HISTORICAL CYCLE TIME",
+     "figure": ""
+    },
+    {
+     "say": "Any short-term relief rally faces immediate and heavy resistance at $67,000.",
+     "show": "RESISTANCE AT $67,000",
+     "figure": "$67,000"
+    },
+    {
+     "say": "Bear markets test patience right before the cycle turns. Follow for updates.",
+     "show": "CYCLE LOWS AHEAD",
+     "figure": ""
+    }
+   ],
+   "origin": "Michael Pizzino",
+   "source_video": "The Market Is in a Bloodbath... But Something Is Changing",
+   "narration": "Bitcoin suffered 16 consecutive red days as selling intensifies. The price hit fresh cycle lows 410 days after its all-time high. This 410-day duration matches the exact length of historical bear market cycles. Any short-term relief rally faces immediate and heavy resistance at $67,000. Bear markets test patience right before the cycle turns. Follow for updates.",
+   "ticker": "BTC-USD",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Bitcoin records 16 straight days of selling, reaching 410 days from its peak. Watch the $67,000 resistance level.",
+   "hashtags": [
+    "#Bitcoin",
+    "#BTC",
+    "#Crypto",
+    "#BearMarket",
+    "#CryptoTrading",
+    "#Blockchain"
+   ]
+  }
+ ],
+ "carousels": {
+  "it": {
+   "topic": "Crollo mercati: livelli e segnali chiave",
+   "caption": "Borse, oro e Bitcoin affrontano una violenta ondata di liquidazioni, ma i volumi record indicano una possibile capitolazione. Ecco i livelli tecnici e i dati storici da monitorare adesso. Segui per l'aggiornamento di domani.",
+   "sentiment": "neutral",
+   "ticker": null,
+   "slides": [
+    {
+     "title": "Mercati In Fiamme: 5 Livelli Chiave",
+     "body": "Borse, oro e Bitcoin affrontano vendite storiche, ma i picchi di volume segnalano possibili svolte imminenti."
+    },
+    {
+     "title": "Nasdaq Cede Oltre 6%",
+     "body": "L'indice tecnologico ha registrato un crollo pesantissimo in una singola seduta, con volumi paragonabili solo alla crisi del 2020."
+    },
+    {
+     "title": "S&P 500 A Meno 12%",
+     "body": "Il ritracciamento del 12% spaventa, ma nelle passate correzioni dei diciassette anni di rialzo il mercato ha toccato cali del 20%."
+    },
+    {
+     "title": "Sorvegliare Quota 7.120",
+     "body": "I volumi sull'S&P 500 sono i più alti dall'11 giugno. Un superamento stabile di 7.120 confermerebbe il cambio di trend."
+    },
+    {
+     "title": "Oro Sotto 3.900 Dollari",
+     "body": "L'oro ha perso il ritracciamento del 50%. Senza un recupero rapido, le prossime aree di stabilizzazione sono a 3.600 e 3.000 dollari."
+    },
+    {
+     "title": "Bitcoin: 16 Giorni Rossi",
+     "body": "Dopo 16 giorni di vendite e 410 giorni dal massimo, Bitcoin allinea la durata storica del bear market. Resistenza a 67.000 dollari. Segui per l'aggiornamento di domani."
+    }
+   ],
+   "hashtags": [
+    "#MercatiFinanziari",
+    "#SP500",
+    "#Nasdaq",
+    "#Bitcoin",
+    "#Oro",
+    "#TradingItalia",
+    "#Investimenti",
+    "#AnalisiTecnica"
+   ]
+  },
+  "en": {
+   "topic": "Market sell-off: key levels to watch",
+   "caption": "Equities, gold, and Bitcoin face aggressive liquidations, but record volume spikes hint at capitulation. Here are the key technical levels and historical cycle data to watch. Follow for tomorrow's update.",
+   "sentiment": "neutral",
+   "ticker": null,
+   "slides": [
+    {
+     "title": "Market Bloodbath: 5 Key Levels Ahead",
+     "body": "Global stocks, gold, and Bitcoin faced brutal liquidations, but volume signals suggest a major shift."
+    },
+    {
+     "title": "Nasdaq Crashes Over 6%",
+     "body": "The tech index plunged during the session, printing trading volume levels not seen since the Covid market crash."
+    },
+    {
+     "title": "S&P 500 Down 12%",
+     "body": "A 12% drop looks deep, but past cycles in this seventeen-year bull market frequently saw corrections reaching 20%."
+    },
+    {
+     "title": "Watch 7,120 Level",
+     "body": "Turnover reached levels unseen since June 11, but reclaiming 7,120 is strictly required to signal an actual reversal."
+    },
+    {
+     "title": "Gold Breaks $3,900 Dollars",
+     "body": "Gold sliced through support and lost its 50% retracement. The next targets to monitor sit at $3,600 and $3,000."
+    },
+    {
+     "title": "Bitcoin Matches Bear Duration",
+     "body": "After 16 red days and 410 days off highs, Bitcoin hits historical bear duration. Resistance stands at $67,000. Follow for tomorrow's update."
+    }
+   ],
+   "hashtags": [
+    "#MarketCorrection",
+    "#SP500",
+    "#Nasdaq",
+    "#Bitcoin",
+    "#Gold",
+    "#Trading",
+    "#StockMarket",
+    "#TechnicalAnalysis"
+   ]
+  }
+ }
+}
