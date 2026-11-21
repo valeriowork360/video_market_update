@@ -216,7 +216,7 @@
   "done_at": "2026-11-19T01:13:44.036004+00:00"
  },
  "zHJbCnRyYJs": {
-  "status": "pending",
+  "status": "expired",
   "attempts": 0,
   "channel": "Jeremy Lefebvre Clips",
   "title": "SELL-OFF vs ROTATION! Don't Misread This Market",
@@ -243,13 +243,13 @@
   "done_at": "2026-11-20T14:34:36.010887+00:00"
  },
  "Y-kYBJLUYOo": {
-  "status": "pending",
+  "status": "done",
   "attempts": 0,
   "channel": "Jeremy Lefebvre Clips",
   "title": "My HONEST Opinion on the NVIDIA Situation!",
   "first_seen": "2026-11-20T14:34:36.011532+00:00",
-  "tries": 1,
-  "last_error": "Gemini non riesce ad aprire questo video adesso (live appena finita, video riservato o rimosso)"
+  "tries": 2,
+  "done_at": "2026-11-21T02:59:29.926772+00:00"
  },
  "PMnVIhTULnw": {
   "status": "pending",
@@ -284,7 +284,7 @@
   "channel": "0xTalks",
   "title": "MI SBAGLIAVO. | 0xFriday | 20 Novembre 2026",
   "first_seen": "2026-11-20T21:56:59.117882+00:00",
-  "tries": 1,
+  "tries": 2,
   "last_error": "Gemini non riesce ad aprire questo video adesso (live appena finita, video riservato o rimosso)"
  },
  "wb7oB3NgpI8": {
@@ -311,6 +311,33 @@
   "channel": "Jeremy Lefebvre Clips",
   "title": "BIG OPPORTUNITIES AHEAD! The Stocks I'm Buying NEXT",
   "first_seen": "2026-11-20T21:57:37.975758+00:00",
+  "tries": 1,
+  "last_error": "Gemini non riesce ad aprire questo video adesso (live appena finita, video riservato o rimosso)"
+ },
+ "4ECLohg8aio": {
+  "status": "done",
+  "attempts": 0,
+  "channel": "Michael Pizzino",
+  "title": "The Market Is in a Bloodbath... But Something Is Changing",
+  "first_seen": "2026-11-21T02:58:47.679181+00:00",
+  "tries": 1,
+  "done_at": "2026-11-21T02:58:57.764856+00:00"
+ },
+ "X7cuXlwbwWI": {
+  "status": "pending",
+  "attempts": 0,
+  "channel": "Jeremy Lefebvre Clips",
+  "title": "NVIDIA Stock! Wall Street May Be WRONG About This...",
+  "first_seen": "2026-11-21T02:58:57.765769+00:00",
+  "tries": 1,
+  "last_error": "Gemini non riesce ad aprire questo video adesso (live appena finita, video riservato o rimosso)"
+ },
+ "pjM7nM2QW4g": {
+  "status": "pending",
+  "attempts": 0,
+  "channel": "Jeremy Lefebvre Clips",
+  "title": "The Market Chaos EXPLAINED! Here's What's REALLY Happening",
+  "first_seen": "2026-11-21T02:58:57.931182+00:00",
   "tries": 1,
   "last_error": "Gemini non riesce ad aprire questo video adesso (live appena finita, video riservato o rimosso)"
  }

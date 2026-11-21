@@ -1,0 +1,104 @@
+{
+ "market_relevance": 10,
+ "scope": "global",
+ "kind": "market update",
+ "summary": "Global markets experienced heavy selling pressure with major indices and cryptocurrencies posting significant weekly losses. The author analyzes long-term market cycles, noting that current declines echo historical correction phases. Despite the severe downturn, volume spikes and extreme price action hint at potential capitulation points. However, a true reversal requires confirmation through trend changes and sustained support levels. Overall, the speaker urges caution while monitoring macro signals and critical technical thresholds.",
+ "digest_it": "I mercati globali hanno registrato forti ribassi e forti volumi di scambio in cali settimanali significativi. L'autore analizza i cicli storici per valutare la gravità della correzione, evidenziando che servono conferme tecniche prima di parlare di inversione.",
+ "author_tone": "cautious",
+ "tone_evidence": "The speaker advises caution regarding volume spikes and stresses that confirmation through trend changes is still required before expecting a lasting market bottom.",
+ "key_points": [
+  {
+   "point": "S&P 500 dropped over four percent in the session, losing around three hundred twenty points.",
+   "timestamp": "00:28"
+  },
+  {
+   "point": "Nasdaq fell over six percent on the session, losing more than one thousand six hundred points.",
+   "timestamp": "00:46"
+  },
+  {
+   "point": "GFC peak market drop lasted seventy three weeks with a fifty eight percent value loss.",
+   "timestamp": "03:13"
+  },
+  {
+   "point": "Gold broke key support near three thousand nine hundred dollars per ounce.",
+   "timestamp": "01:11"
+  },
+  {
+   "point": "Bitcoin hit new lows, bringing the bear market duration to four hundred ten days.",
+   "timestamp": "11:22"
+  }
+ ],
+ "moments": [
+  {
+   "timestamp": "00:12",
+   "topic": "Recent market sell-off overview",
+   "claim": "Major indices suffered steep losses during the week with aggressive selling pressure.",
+   "details": "The S&P 500 dropped four percent while the Nasdaq fell over five percent on the session. Meanwhile, crude oil and the US dollar remained relatively flat.",
+   "surprise": "Nasdaq plunged more than six percent in a single session."
+  },
+  {
+   "timestamp": "02:10",
+   "topic": "S&P 500 macro cycle analysis",
+   "claim": "Current S&P 500 pullback is modest compared to historical bull market corrections.",
+   "details": "Zooming out on monthly charts, the ongoing seventeen-year bull market has experienced several twenty percent corrections. The current drop sits around twelve percent from the peak.",
+   "surprise": "The current twelve percent pullback remains relatively small compared to past twenty percent market reversals."
+  },
+  {
+   "timestamp": "06:58",
+   "topic": "S&P 500 short-term price action and volume",
+   "claim": "Significant volume spikes indicate potential exhaustion, but trend confirmation is still lacking.",
+   "details": "Recent high volume suggests seller exhaustion, yet previous similar signals failed to generate sustained rebounds. A shift above seventy-one hundred twenty is required to signal a trend change.",
+   "surprise": "Recent volume is the highest recorded since the eleventh of June."
+  },
+  {
+   "timestamp": "09:00",
+   "topic": "Nasdaq historical volume analysis",
+   "claim": "Nasdaq is witnessing record volume levels during the recent correction phase.",
+   "details": "The index recorded some of the highest volume in history during this decline, comparable to the Covid sell-off. A breakout above prior lows is necessary to confirm a relief rally.",
+   "surprise": "Trading volume reached historic highs not seen since the Covid market crash."
+  },
+  {
+   "timestamp": "10:07",
+   "topic": "Gold market breakdown",
+   "claim": "Gold broke major support at three thousand nine hundred dollars and continued lower.",
+   "details": "Following the breakdown, prices slipped below the fifty percent retracement level. The author is monitoring three thousand six hundred dollars and the three thousand dollar psychological mark for stabilization.",
+   "surprise": "Gold sliced through its key support level without immediate buyer intervention."
+  },
+  {
+   "timestamp": "11:16",
+   "topic": "Bitcoin new lows and bear market duration",
+   "claim": "Bitcoin breached previous lows, extending its bear market duration.",
+   "details": "Bitcoin reached new lows four hundred ten days after its all-time high, aligning with typical bear market lengths. Analysts are watching sixty-seven thousand dollars as the initial resistance level for any relief rally.",
+   "surprise": "Bitcoin suffered sixteen consecutive days of sell-offs during this leg down."
+  }
+ ],
+ "tickers": [
+  "S&P 500",
+  "Nasdaq",
+  "Gold",
+  "Bitcoin",
+  "Crude Oil",
+  "US Dollar"
+ ],
+ "predictions": [
+  "S&P 500 could test support levels near 7120 before any sustained relief rally.",
+  "Gold may decline toward 3600 and potentially 3000 dollars per ounce if support fails.",
+  "Bitcoin could see a relief rally up to 67000 dollars before reassessing the broader trend."
+ ],
+ "catalysts": [],
+ "rumors": [],
+ "curiosities": [
+  "The ongoing bull market on the S&P 500 has lasted approximately seventeen years."
+ ],
+ "promo": false,
+ "language": "en",
+ "video_id": "4ECLohg8aio",
+ "title": "The Market Is in a Bloodbath... But Something Is Changing",
+ "author": "Michael Pizzino",
+ "url": "https://www.youtube.com/watch?v=4ECLohg8aio",
+ "published": "2026-11-20T23:50:24+00:00",
+ "duration_min": 14,
+ "partial": false,
+ "analysed_at": "2026-11-21T02:58:57.764542+00:00",
+ "model": "gemini-3.5-flash-lite"
+}
