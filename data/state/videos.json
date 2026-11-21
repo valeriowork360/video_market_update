@@ -279,13 +279,13 @@
   "done_at": "2026-11-20T21:56:59.116801+00:00"
  },
  "VMnaMPiTP5c": {
-  "status": "pending",
+  "status": "done",
   "attempts": 0,
   "channel": "0xTalks",
   "title": "MI SBAGLIAVO. | 0xFriday | 20 Novembre 2026",
   "first_seen": "2026-11-20T21:56:59.117882+00:00",
-  "tries": 3,
-  "last_error": "Gemini non riesce ad aprire questo video adesso (live appena finita, video riservato o rimosso)"
+  "tries": 4,
+  "done_at": "2026-11-21T10:40:33.989536+00:00"
  },
  "wb7oB3NgpI8": {
   "status": "pending",
@@ -302,7 +302,7 @@
   "channel": "Jeremy Lefebvre Clips",
   "title": "I'm SELLING This Stock! Here's Why...",
   "first_seen": "2026-11-20T21:57:30.982618+00:00",
-  "tries": 1,
+  "tries": 2,
   "last_error": "Gemini non riesce ad aprire questo video adesso (live appena finita, video riservato o rimosso)"
  },
  "18zA_5MTU-A": {
@@ -311,7 +311,7 @@
   "channel": "Jeremy Lefebvre Clips",
   "title": "BIG OPPORTUNITIES AHEAD! The Stocks I'm Buying NEXT",
   "first_seen": "2026-11-20T21:57:37.975758+00:00",
-  "tries": 1,
+  "tries": 2,
   "last_error": "Gemini non riesce ad aprire questo video adesso (live appena finita, video riservato o rimosso)"
  },
  "4ECLohg8aio": {
@@ -329,7 +329,7 @@
   "channel": "Jeremy Lefebvre Clips",
   "title": "NVIDIA Stock! Wall Street May Be WRONG About This...",
   "first_seen": "2026-11-21T02:58:57.765769+00:00",
-  "tries": 1,
+  "tries": 2,
   "last_error": "Gemini non riesce ad aprire questo video adesso (live appena finita, video riservato o rimosso)"
  },
  "pjM7nM2QW4g": {
