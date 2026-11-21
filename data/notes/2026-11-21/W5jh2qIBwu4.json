@@ -1,0 +1,146 @@
+{
+ "market_relevance": 10,
+ "scope": "global",
+ "kind": "stock pick",
+ "summary": "Jeremy explains why he sold Cheesecake Factory shares and shares details on five other stocks he bought. He also discusses AI infrastructure valuations, Nvidia's net margins compared to AMD, and Wynn Resorts' outlook in the Middle East. Jeremy argues that stocks rising too fast steal returns from the future, prompting him to trim positions. He evaluates Celsius, Netflix, American Express, and Amex, giving conservative multi-year growth projections. Finally, he warns that Nvidia's high profit margins face severe risks from tightening capital and market competition.",
+ "digest_it": "Jeremy spiega perché ha venduto Cheesecake Factory e analizza altri titoli acquistati di recente. Discute le valutazioni dei titoli legati all'intelligenza artificiale, confrontando i margini di Nvidia con quelli di AMD. Sostiene che una crescita azionaria troppo rapida ruba rendimenti futuri e prevede scenari per Celsius, Netflix e Amex.",
+ "author_tone": "cautious",
+ "tone_evidence": "He expresses concern that fast-rising stocks are 'stealing returns from the future' and highlights the need to take profits.",
+ "key_points": [
+  {
+   "point": "Sold 1,222 shares of Cheesecake Factory (CAKE) for nearly $144,000, bringing down a top-performing position.",
+   "timestamp": "02:24"
+  },
+  {
+   "point": "Bought 1,000 shares of Celsius (CELH) in the low 30s, investing about $33,000.",
+   "timestamp": "05:22"
+  },
+  {
+   "point": "Bought 200 shares of Wynn Resorts (WYNN) in the low 80s for around $17,000.",
+   "timestamp": "05:30"
+  },
+  {
+   "point": "Bought 2,523 shares of SoFi for roughly $36,000 with the thesis of it becoming a top-10 financial institution.",
+   "timestamp": "05:37"
+  },
+  {
+   "point": "Bought 550 shares of Netflix (NFLX) for a $33,000 move at around $59 per share.",
+   "timestamp": "05:43"
+  },
+  {
+   "point": "Bought 75 shares of American Express (AXP) in the low 300s for a $23,742 investment.",
+   "timestamp": "05:51"
+  },
+  {
+   "point": "Argues that Nvidia's net margins around 60 percent are unsustainably high and will face severe margin compression.",
+   "timestamp": "18:48"
+  }
+ ],
+ "moments": [
+  {
+   "timestamp": "00:00",
+   "topic": "Selling Cheesecake Factory stock",
+   "claim": "Jeremy sold a portion of his Cheesecake Factory shares because the stock has risen so fast it steals returns from the future.",
+   "details": "Having bought shares in 2023 and 2024 for around $30-something, Jeremy saw the stock reach $120. With a compound annual growth rate falling below 20 percent in his base case, he decided to cash out 1,222 shares for nearly $144,000 to redeploy capital elsewhere.",
+   "surprise": "The stock gained so aggressively that its projected future returns dropped below alternative investment opportunities."
+  },
+  {
+   "timestamp": "05:18",
+   "topic": "Buying CELH, WYNN, SOFI, NFLX, AXP",
+   "claim": "Jeremy deployed capital into five different stocks on November 18, 2026, targeting better multi-year return profiles.",
+   "details": "He bought Celsius in the low 30s, Wynn Resorts in the low 80s, SoFi in the 14s, Netflix around 59, and American Express in the low 300s. Each purchase represents a high-conviction play with projected annual growth rates between 20 and 30 percent.",
+   "surprise": "He allocated over $33,000 to Netflix and SoFi each in a single day of portfolio rebalancing."
+  },
+  {
+   "timestamp": "06:00",
+   "topic": "Valuation and growth projections for Celsius",
+   "claim": "Using conservative growth assumptions, Jeremy projects Celsius to reach nearly $4.8 billion in revenue by 2030.",
+   "details": "Assuming 10 percent revenue growth and 20 percent net income growth on average, he expects Celsius to deliver a mid-20s compound annual growth rate over the coming years, justifying its current valuation under very conservative conditions.",
+   "surprise": "His base case for Celsius assumes very conservative 10 percent revenue growth."
+  },
+  {
+   "timestamp": "06:56",
+   "topic": "Netflix valuation and growth case",
+   "claim": "Jeremy models Netflix reaching $78 billion in revenue and $27.5 billion in net income by 2030.",
+   "details": "With a 25 to 30 PE ratio and a 21 percent compound annual growth rate in his base case, he considers Netflix an extremely attractive holding that offers reliable multi-year compounding.",
+   "surprise": "He projects Netflix could maintain a 21 percent compound annual growth rate even under discounted assumptions."
+  },
+  {
+   "timestamp": "07:40",
+   "topic": "American Express projections and safety",
+   "claim": "American Express offers safe, predictable growth supported by high-net-worth client renewals.",
+   "details": "Jeremy models Amex reaching $113 billion in revenue and $20 billion in net income by 2030, delivering roughly a 30 percent compound annual growth rate due to the safety and resilience of its business model.",
+   "surprise": "Amex's resilient client base supports a projected 30 percent annual growth rate in Jeremy's model."
+  },
+  {
+   "timestamp": "09:02",
+   "topic": "Wynn Resorts Middle East catalyst",
+   "claim": "The scheduled opening of a $5.7 billion UAE resort in September 2027 will create a major hype and valuation cycle for Wynn.",
+   "details": "Wynn holds a 40 percent equity interest in the Al Marjan Island project, which is expected to deleverage its financials and improve credit ratings. Jeremy is investing ahead of the anticipated hype cycle starting next year.",
+   "surprise": "The UAE resort project is valued at $5.7 billion and opens in September 2027."
+  },
+  {
+   "timestamp": "11:32",
+   "topic": "Core investing skills and Discord community",
+   "claim": "Successful long-term investing requires mastering financial statements, portfolio management, and future scenario analysis.",
+   "details": "Jeremy emphasizes that understanding income statements, balance sheets, and cash flows is essential for evaluating bullish and bearish scenarios. He teaches these skills in his private community, which features dedicated course curricula and an active Hall of Fame.",
+   "surprise": "All required investing skills can be learned through dedicated study and practice over time."
+  },
+  {
+   "timestamp": "12:43",
+   "topic": "Steve Eisman on AI infrastructure and utility risks",
+   "claim": "Steve Eisman notes that municipal roadblocks and potential AI capex moratoriums pose serious risks to tech hyperscalers.",
+   "details": "In an interview clip, Eisman discusses whether local government resistance to data center construction could slow AI expansion. While a 100 percent moratorium would cause a recession, a 10 to 30 percent slowdown could actually make AI infrastructure spending more sustainable by relying on cash flows rather than debt.",
+   "surprise": "A moderate slowdown in data center construction could make hyperscaler spending much more sustainable."
+  },
+  {
+   "timestamp": "17:04",
+   "topic": "Why big tech stocks face asset-heavy risks",
+   "claim": "Tech giants like Amazon, Meta, and Google are transforming into capital-intensive, debt-reliant businesses.",
+   "details": "Jeremy explains that these companies are taking on debt and diluting shareholder value to fund massive data center expansions. Because they must constantly spend to maintain competitiveness, their return on investment is becoming increasingly uncertain.",
+   "surprise": "Tech giants are morphing into capital-heavy entities that rely on debt to fund infrastructure."
+  },
+  {
+   "timestamp": "18:20",
+   "topic": "Nvidia's unsustainable net margins compared to AMD",
+   "claim": "Nvidia's net income margins near 60 percent are historically unprecedented and leave room for significant downside.",
+   "details": "Nvidia reported $115 billion in top-line revenue and $65 billion in bottom-line net income, representing a net margin of roughly 55 to 60 percent. Jeremy warns that as demand softens, these margins will inevitably compress, whereas AMD maintains much more modest and stable net margins around 17 percent.",
+   "surprise": "Nvidia's net profit margin reaches an astronomical 55 to 60 percent."
+  }
+ ],
+ "tickers": [
+  "CAKE",
+  "CELH",
+  "WYNN",
+  "SOFI",
+  "NFLX",
+  "AXP",
+  "NVDA",
+  "AMD"
+ ],
+ "predictions": [
+  "Celsius will reach nearly $4.8 billion in revenue by 2030 with mid-20s annual growth.",
+  "Netflix will achieve $78 billion in revenue and $27.5 billion in net income by 2030.",
+  "American Express will reach $113 billion in revenue and $20 billion in net income by 2030.",
+  "SoFi will enter the top 10 largest financial institutions globally over the next decade.",
+  "Nvidia's net profit margins will compress significantly from current levels near 60 percent as competition increases."
+ ],
+ "catalysts": [
+  "Wynn Resorts Al Marjan Island UAE resort opening in September 2027"
+ ],
+ "rumors": [],
+ "curiosities": [
+  "Steve Eisman suggests a 10 to 30 percent slowdown in data center construction would benefit the industry's long-term sustainability."
+ ],
+ "promo": false,
+ "language": "en",
+ "video_id": "W5jh2qIBwu4",
+ "title": "I'm SELLING This Stock! Here's Why...",
+ "author": "Jeremy Lefebvre Clips",
+ "url": "https://www.youtube.com/watch?v=W5jh2qIBwu4",
+ "published": "2026-11-21T15:00:03+00:00",
+ "duration_min": 22,
+ "partial": false,
+ "analysed_at": "2026-11-21T17:48:11.025380+00:00",
+ "model": "gemini-3.5-flash-lite"
+}

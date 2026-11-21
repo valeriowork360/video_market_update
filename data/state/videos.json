@@ -252,13 +252,13 @@
   "done_at": "2026-11-21T02:59:29.926772+00:00"
  },
  "PMnVIhTULnw": {
-  "status": "pending",
+  "status": "done",
   "attempts": 0,
   "channel": "Jeremy Lefebvre Clips",
   "title": "SaaS Stocks! What Investors NEED to UNDERSTAND",
   "first_seen": "2026-11-20T14:34:36.254356+00:00",
-  "tries": 2,
-  "last_error": "Gemini non riesce ad aprire questo video adesso (live appena finita, video riservato o rimosso)"
+  "tries": 3,
+  "done_at": "2026-11-21T17:48:28.904562+00:00"
  },
  "h1gtqoUp0ZU": {
   "status": "pending",
@@ -297,13 +297,13 @@
   "last_error": "Gemini non riesce ad aprire questo video adesso (live appena finita, video riservato o rimosso)"
  },
  "W5jh2qIBwu4": {
-  "status": "pending",
+  "status": "done",
   "attempts": 0,
   "channel": "Jeremy Lefebvre Clips",
   "title": "I'm SELLING This Stock! Here's Why...",
   "first_seen": "2026-11-20T21:57:30.982618+00:00",
-  "tries": 2,
-  "last_error": "Gemini non riesce ad aprire questo video adesso (live appena finita, video riservato o rimosso)"
+  "tries": 3,
+  "done_at": "2026-11-21T17:48:11.025682+00:00"
  },
  "18zA_5MTU-A": {
   "status": "pending",
@@ -338,7 +338,7 @@
   "channel": "Jeremy Lefebvre Clips",
   "title": "The Market Chaos EXPLAINED! Here's What's REALLY Happening",
   "first_seen": "2026-11-21T02:58:57.931182+00:00",
-  "tries": 1,
+  "tries": 2,
   "last_error": "Gemini non riesce ad aprire questo video adesso (live appena finita, video riservato o rimosso)"
  }
 }
