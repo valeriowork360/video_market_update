@@ -1,0 +1,50 @@
+{
+ "shorts": [],
+ "carousels": [
+  {
+   "topic": "Settimana di crolli sui mercati",
+   "caption": "Una settimana di pesanti vendite travolge Wall Street, le criptovalute e le materie prime. L'indice S&P 500 entra in correzione, mentre Bitcoin scende a quota 57.680 dollari. Segui per l'aggiornamento di domani.",
+   "sentiment": "neutral",
+   "ticker": null,
+   "hashtags": [
+    "#WallStreet",
+    "#SP500",
+    "#Nasdaq",
+    "#Bitcoin",
+    "#Nvidia",
+    "#Oro",
+    "#Criptovalute",
+    "#MercatiFinanziari",
+    "#Borse",
+    "#Economia"
+   ],
+   "slides": [
+    {
+     "title": "S&P 500 in correzione: cosa succede?",
+     "body": "Una panoramica sui crolli della settimana tra azionario tecnologico, Bitcoin e materie prime."
+    },
+    {
+     "title": "Wall Street e i listini",
+     "body": "L'indice S&P 500 perde l'8,6% a 6.910 punti. Il Nasdaq cede il 10,0% a 22.618 punti e il VIX sale a 36 punti."
+    },
+    {
+     "title": "Terremoto su Nvidia e AI",
+     "body": "Il comparto dei chip perde 2.300 miliardi di dollari. Nvidia cede il 14% e Anthropic arretra dell'8,5% dopo il debutto a Wall Street."
+    },
+    {
+     "title": "Crollo di Bitcoin ed Ethereum",
+     "body": "Bitcoin scende a 57.680 dollari cedendo l'11,7%. Sotto i 57.000 dollari il livello di protezione successivo è tra 53.000 e 50.000 dollari."
+    },
+    {
+     "title": "Materie prime in picchiata",
+     "body": "L'oro chiude a 3.515 dollari l'oncia con un calo del 9,5%, mentre l'argento scende sotto i 40 dollari con un crollo del 61% dai massimi."
+    },
+    {
+     "title": "Le prospettive dei mercati",
+     "body": "Senza il ritorno dei volumi in acquisto la pressione ribassista resta elevata. Segui per l'aggiornamento di domani."
+    }
+   ]
+  }
+ ],
+ "model": "gemini-3.6-flash"
+}

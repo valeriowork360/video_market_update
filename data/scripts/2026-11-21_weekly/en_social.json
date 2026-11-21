@@ -1,0 +1,48 @@
+{
+ "shorts": [],
+ "carousels": [
+  {
+   "topic": "Global market weekly crash recap",
+   "caption": "Global markets hit correction territory this week as tech, crypto, and commodities suffered steep declines. Key technical levels are now being tested across major asset classes. Follow for tomorrow's update.",
+   "sentiment": "neutral",
+   "ticker": null,
+   "hashtags": [
+    "#MarketCrash",
+    "#SP500",
+    "#Bitcoin",
+    "#Nvidia",
+    "#StockMarket",
+    "#CryptoNews",
+    "#Finance",
+    "#WeeklyRecap"
+   ],
+   "slides": [
+    {
+     "title": "S&P 500 enters correction at 6,910",
+     "body": "Here is how tech, crypto, and commodities plunged across major global markets this week."
+    },
+    {
+     "title": "Wall Street in correction",
+     "body": "The S&P 500 tumbled 8.6% to close at 6,910. Meanwhile, the Nasdaq dropped 10.0% to 22,618. Sustaining levels above 6,900 points remains crucial."
+    },
+    {
+     "title": "Tech leads $2.3 trillion wipeout",
+     "body": "Semiconductor leaders wiped out $2.3 trillion in value. Nvidia holding above $150 keeps potential support, but falling below $127 risks a drop to $100."
+    },
+    {
+     "title": "Bitcoin breaks critical support levels",
+     "body": "Bitcoin dropped 11.7% to $57,680. Ethereum fell 11.3% to $1,628. Holding above $57,000 allows a potential recovery toward $63,000."
+    },
+    {
+     "title": "Gold and oil sharp unwind",
+     "body": "Gold fell 9.5% to $3,515 per ounce. Crude Oil dropped 5.2% to $84 per barrel. Holding $3,500 keeps gold in consolidation."
+    },
+    {
+     "title": "Key levels to watch next",
+     "body": "Key support levels across equities and crypto will determine if markets stabilize next week. Follow for tomorrow's update."
+    }
+   ]
+  }
+ ],
+ "model": "gemini-3.6-flash"
+}

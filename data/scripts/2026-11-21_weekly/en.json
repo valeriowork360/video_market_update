@@ -1,0 +1,221 @@
+{
+ "title": "S&P 500 Enters Correction as Tech and Crypto Plunge: Weekly Recap",
+ "description": "A massive unwinding across global markets pushed the S&P 500 into correction territory and brought the Nasdaq its worst week since 2020.\nNvidia and Anthropic led an AI selloff, while Bitcoin fell below $57,000 and paper gold collapsed.\nHere is your complete weekly recap of everything moving Wall Street, crypto, and global macro.\nFeaturing insights from Jeremy Lefebvre Clips, Jeremy Lefebvre Makes Money, Jason Pizzino, Michael Pizzino, Marco Casario, Financial Education 2, and MindTheChart.",
+ "tags": [
+  "stock market recap",
+  "S&P 500 correction",
+  "Nasdaq crash",
+  "Nvidia stock",
+  "Anthropic IPO",
+  "Bitcoin crash",
+  "Gold price drop",
+  "market analysis",
+  "crypto news",
+  "global macro"
+ ],
+ "thumbnail_text": "MARKET CORRECTION: S&P 500 -8.6%",
+ "mood": "urgent",
+ "segments": [
+  {
+   "id": "s1",
+   "kind": "hook",
+   "heading": "AI Crisis Sparks Market Crash",
+   "narration": "Global markets suffered an historic selloff this week as tech megacaps plunged, pushing the S&P 500 into official correction territory. Nvidia and Anthropic led an artificial intelligence unwinding, while Bitcoin dropped below $57,000 and precious metals experienced severe liquidations across all major paper markets.",
+   "bullets": [
+    "S&P 500 enters correction territory",
+    "Tech stocks suffer massive selloff",
+    "Bitcoin drops below $57,000 level"
+   ],
+   "ticker": "^GSPC",
+   "sentiment": "bearish",
+   "sources": [
+    "Jeremy Lefebvre Clips",
+    "Jason Pizzino",
+    "Michael Pizzino"
+   ]
+  },
+  {
+   "id": "s2",
+   "kind": "market",
+   "heading": "Weekly Market Snapshot",
+   "narration": "The S&P 500 tumbled 8.6% over the past five days to close at 6,910, entering correction territory. The tech-heavy Nasdaq Composite dropped 10.0% to 22,618, registering its worst weekly performance since March 2020. The Dow Jones lost 8.0% to finish at 48,147. Across the Atlantic, the FTSE MIB fell 6.1% to 48,704, while the Euro Stoxx 50 lost 7.0% to 5,942. Volatility spiked dramatically as the VIX surged 86.0% to reach 36. Meanwhile, the US 10-year Treasury yield dropped to 4.91%, reflecting a rush into safe havens amid aggressive equity selling.",
+   "bullets": [
+    "S&P 500 drops 8.6% weekly",
+    "Nasdaq plunges 10.0% to 22,618",
+    "VIX volatility index surges 86.0%",
+    "US 10Y yield falls to 4.91%"
+   ],
+   "ticker": null,
+   "sentiment": "bearish",
+   "sources": [
+    "MarketWatch",
+    "Yahoo Finance"
+   ]
+  },
+  {
+   "id": "s3",
+   "kind": "topic",
+   "heading": "AI Sector Faces Reckoning",
+   "narration": "Artificial intelligence stocks faced an unprecedented unwinding this week, wiping out over $2.3 trillion in market value across semiconductor leaders. Nvidia shares plunged after fiscal results and executive transition concerns, marking its longest weekly losing streak since 2008. The company reported quarterly revenue of $115.8 billion with operating margins near 67%, yet lingering uncertainty around leadership and valuation multiples triggered persistent selling. Anthropic made its record $81 billion debut on the Nasdaq, spiking 17% before dropping 8.5% on Friday as investors digested massive infrastructure commitments totaling $518 billion against steep operating losses. Meanwhile, Advanced Micro Devices came under pressure following short-seller allegations regarding server firmware compliance in Asian markets. The rapid shift from aggressive accumulation to risk reduction highlights growing caution toward elevated forward earnings multiples. Above $150, Nvidia retains potential support, but dropping below $127 opens downside risk toward $100.",
+   "bullets": [
+    "Chip stocks lose $2.3 trillion",
+    "Nvidia wraps longest slump since 2008",
+    "Anthropic dips after $81B IPO debut",
+    "AMD faces short seller report"
+   ],
+   "ticker": "NVDA",
+   "sentiment": "bearish",
+   "sources": [
+    "Marco Casario EXTRA",
+    "Jeremy Lefebvre Clips",
+    "Jeremy Lefebvre Makes Money",
+    "MarketWatch"
+   ]
+  },
+  {
+   "id": "s4",
+   "kind": "topic",
+   "heading": "Wall Street Enters Correction",
+   "narration": "Equities across all eleven S&P 500 sectors registered significant losses this week as institutional de-risking accelerated. Over 90% of index constituents closed lower, erasing the Nasdaq Composite's gains for the entire year. High margin debt levels, which peaked near $1.5 trillion earlier this year, forced broad liquidation across retail and institutional portfolios alike. Defensive assets failed to absorb the selling pressure, with capital moving heavily into cash balances and short-term Treasuries. Low-volume rallies early in the week quickly failed at technical resistance levels, reinforcing the broader downtrend. Market structure indicators show elevated volatility levels comparable to prior cyclical stress periods. Sustaining index levels above 6,900 points remains crucial for preventing further structural damage on the S&P 500. A daily close beneath 6,800 points would signal further technical downside toward the 6,500 level, while reclaiming 7,200 points is necessary to stabilize sentiment.",
+   "bullets": [
+    "Over 90% of S&P stocks decline",
+    "Nasdaq erases all 2026 gains",
+    "Margin debt liquidation drives selling",
+    "S&P 500 technical support at 6,900"
+   ],
+   "ticker": "^GSPC",
+   "sentiment": "bearish",
+   "sources": [
+    "Financial Education 2",
+    "Michael Pizzino",
+    "Jason Pizzino",
+    "Yahoo Finance"
+   ]
+  },
+  {
+   "id": "s5",
+   "kind": "topic",
+   "heading": "Crypto Breaks Critical Support",
+   "narration": "Digital assets suffered severe downside pressure throughout the week, with Bitcoin breaking key technical levels and falling beneath $57,000 for the first time in two years. Bitcoin traded down to $57,680, marking an 11.7% five-day drop and extending an eleven-day streak without taking out a prior daily high. Ethereum experienced a parallel decline, falling 11.3% over the week to $1,628. Forced liquidations across leveraged derivatives venues amplified the momentum, as stablecoin dominance rose and exchange reserves indicated defensive repositioning. Long-term trend analysis highlights an ongoing bear market structure that has persisted for over 400 days. Oversold conditions point to the possibility of a short-term relief bounce, yet overall market momentum remains decidedly cautious. If Bitcoin holds above $57,000, a recovery attempt toward $63,000 could develop. Dropping below $53,000, however, opens the path toward the $50,000 psychological support zone.",
+   "bullets": [
+    "Bitcoin falls 11.7% to $57,680",
+    "Ethereum drops 11.3% to $1,628",
+    "Leveraged derivatives face liquidations",
+    "Key support monitored at $53,000"
+   ],
+   "ticker": "BTC-USD",
+   "sentiment": "bearish",
+   "sources": [
+    "Jason Pizzino",
+    "Michael Pizzino",
+    "CoinDesk"
+   ]
+  },
+  {
+   "id": "s6",
+   "kind": "topic",
+   "heading": "Metals and Oil Unwind",
+   "narration": "Commodities recorded heavy selling across precious and industrial markets as safe-haven demand shifted toward cash and government debt. Gold fell 9.5% over the five-day period to $3,515 per ounce, marking one of its sharpest weekly contractions in recent history. Silver experienced even greater percentage losses, unwinding months of upside gains as paper market leverage cleared out rapidly. Paper trading volume in precious metals continues to outpace physical demand by several hundred times, creating sharp volatility during risk-off rotations. Industrial metals like copper also broke critical support levels, signaling broader macroeconomic deceleration. Meanwhile, Crude Oil WTI stabilized slightly on Friday but finished down 5.2% for the week at $84 per barrel. Gas prices at the pump offer temporary relief for consumers ahead of Thanksgiving, but energy markets remain vulnerable. Holding above $3,500 per ounce keeps Gold in a consolidation range, while breaking $3,400 risks further declines toward $3,200.",
+   "bullets": [
+    "Gold drops 9.5% to $3,515 per ounce",
+    "Paper silver unwinds upside gains",
+    "Crude oil WTI down 5.2% to $84",
+    "Gasoline prices decline before holiday"
+   ],
+   "ticker": "GC=F",
+   "sentiment": "bearish",
+   "sources": [
+    "Jason Pizzino",
+    "Michael Pizzino",
+    "Jeremy Lefebvre Makes Money"
+   ]
+  },
+  {
+   "id": "s7",
+   "kind": "topic",
+   "heading": "European Fiscal Risks Rise",
+   "narration": "European financial markets faced compounding pressure this week as sovereign debt concerns weighed heavily on regional indices. The Euro Stoxx 50 and FTSE MIB recorded sharp weekly drops amid growing scrutiny over French and Italian debt trajectories. France's debt-to-GDP ratio reaching 119.1% and negative third-quarter growth have widened yield spreads, raising questions about European fiscal stability. The European Central Bank's Transmission Protection Instrument remains a potential stabilizing mechanism, but rigid conditions present operational hurdles for intervention. The Euro softened slightly against the US Dollar to 1.10 as capital moved toward dollar-denominated assets. Simultaneously, global banking sentiment took a hit following leaks regarding Deutsche Bank exposures and regulatory scrutiny at Citigroup. Financial institutions face a challenging environment of rising default risks and elevated debt servicing costs. If French 10-year yields remain above 4.7%, sovereign spread pressure across the Eurozone will likely maintain downward pressure on European equities.",
+   "bullets": [
+    "Euro Stoxx 50 drops 7.0% weekly",
+    "FTSE MIB falls 6.1% to 48,704",
+    "France debt-to-GDP reaches 119.1%",
+    "EUR/USD slides to 1.10 level"
+   ],
+   "ticker": "^STOXX50E",
+   "sentiment": "bearish",
+   "sources": [
+    "Marco Casario"
+   ]
+  },
+  {
+   "id": "s8",
+   "kind": "topic",
+   "heading": "Consumer Stocks Show Divergence",
+   "narration": "Despite broad market weakness, fundamental performance across select consumer names highlighted stark operational divergence. High-growth beauty and beverage brands like E.l.f. Beauty and Celsius continue to demonstrate strong revenue expansion compared to traditional legacy peers like Estée Lauder. E.l.f. Beauty delivered superior net sales growth, while Celsius showed signs of potential stabilization following strong quarterly top-line beats. Similarly, small-cap consumer companies like The Honest Company and Cheesecake Factory reported resilient earnings, with Cheesecake Factory expanding net income significantly through tight expense controls. However, broader retail spending faces scrutiny as Black Friday approaches, with shifting consumer habits and macroeconomic headwinds impacting forward guidance. High inflation and elevated interest rates continue to constrain discretionary spending power. Maintaining organic revenue growth near 9.2% remains key for smaller growth plays to withstand broader valuation compression, while failure to manage operating expenses will leave consumer stocks vulnerable to additional pullbacks.",
+   "bullets": [
+    "E.l.f. Beauty outpaces Estée Lauder",
+    "Celsius shows revenue stabilization",
+    "Cheesecake Factory expands net income",
+    "Retail spending tested on Black Friday"
+   ],
+   "ticker": "ELF",
+   "sentiment": "neutral",
+   "sources": [
+    "Jeremy Lefebvre Clips"
+   ]
+  },
+  {
+   "id": "s9",
+   "kind": "ahead",
+   "heading": "Catalysts to Watch Next",
+   "narration": "Looking ahead to next week, market attention shifts toward key economic events and corporate milestones. On Monday, November 24 at 10:00 AM Eastern Time, fresh consumer sentiment data will provide crucial insights into holiday spending expectations. On Wednesday, November 26 at 8:30 AM Eastern Time, revised GDP figures and jobless claims will test economic growth assumptions. Markets will observe a shortened holiday schedule for Thanksgiving on Thursday, November 27. Retail spending metrics from Black Friday on November 28 will serve as a vital barometer for consumer health. Additionally, Amazon hosts its re:Invent conference starting November 30, while upcoming export rule deadlines in January could further impact semiconductor trade dynamics.",
+   "bullets": [
+    "Nov 24: Consumer Sentiment at 10:00 AM ET",
+    "Nov 26: Revised GDP at 8:30 AM ET",
+    "Nov 27: Thanksgiving holiday market pause",
+    "Nov 28: Black Friday consumer metrics"
+   ],
+   "ticker": null,
+   "sentiment": "neutral",
+   "sources": [
+    "Yahoo Finance",
+    "Investing.com"
+   ]
+  },
+  {
+   "id": "s10",
+   "kind": "curious",
+   "heading": "Tech App Blocks AI Agents",
+   "narration": "In a notable shift for digital privacy, messaging platform Signal has begun restricting screenshot capabilities across its mobile applications to prevent artificial intelligence agents from scraping private conversations. As AI models become increasingly automated and capable of reading device displays, privacy-focused developers are taking aggressive steps to shield user data. This move highlights growing tension between consumer privacy protections and the expansion of autonomous AI agents across personal devices.",
+   "bullets": [
+    "Signal restricts mobile screenshot feature",
+    "Blocks AI agents from scraping text",
+    "Highlights privacy vs AI agent tension"
+   ],
+   "ticker": null,
+   "sentiment": "neutral",
+   "sources": [
+    "Investing.com"
+   ]
+  },
+  {
+   "id": "s11",
+   "kind": "outro",
+   "heading": "Weekly Recap Wrap-Up",
+   "narration": "This content is for informational purposes only and does not constitute financial advice. Follow for tomorrow's update and stay informed as global markets navigate this correction.",
+   "bullets": [
+    "Not financial advice",
+    "Follow for tomorrow's update"
+   ],
+   "ticker": null,
+   "sentiment": "neutral",
+   "sources": [
+    "Coin Ticker 360"
+   ]
+  }
+ ],
+ "words": 1197,
+ "model": "gemini-3.6-flash",
+ "n_notes": 17,
+ "n_news": 1079
+}
