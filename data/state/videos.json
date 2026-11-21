@@ -261,13 +261,13 @@
   "done_at": "2026-11-21T17:48:28.904562+00:00"
  },
  "h1gtqoUp0ZU": {
-  "status": "pending",
+  "status": "done",
   "attempts": 0,
   "channel": "Jeremy Lefebvre Clips",
   "title": "AMD Shareholders! Here's What Comes NEXT",
   "first_seen": "2026-11-20T14:34:43.272523+00:00",
-  "tries": 2,
-  "last_error": "Gemini non riesce ad aprire questo video adesso (live appena finita, video riservato o rimosso)"
+  "tries": 3,
+  "done_at": "2026-11-21T22:27:10.865653+00:00"
  },
  "xYTe7rnhGyU": {
   "status": "done",
@@ -293,7 +293,7 @@
   "channel": "Jeremy Lefebvre Clips",
   "title": "Inflation? Recession? Investors Need to See This!",
   "first_seen": "2026-11-20T21:57:23.817561+00:00",
-  "tries": 2,
+  "tries": 3,
   "last_error": "Gemini non riesce ad aprire questo video adesso (live appena finita, video riservato o rimosso)"
  },
  "W5jh2qIBwu4": {
@@ -311,7 +311,7 @@
   "channel": "Jeremy Lefebvre Clips",
   "title": "BIG OPPORTUNITIES AHEAD! The Stocks I'm Buying NEXT",
   "first_seen": "2026-11-20T21:57:37.975758+00:00",
-  "tries": 2,
+  "tries": 3,
   "last_error": "Gemini non riesce ad aprire questo video adesso (live appena finita, video riservato o rimosso)"
  },
  "4ECLohg8aio": {
@@ -340,5 +340,14 @@
   "first_seen": "2026-11-21T02:58:57.931182+00:00",
   "tries": 2,
   "last_error": "Gemini non riesce ad aprire questo video adesso (live appena finita, video riservato o rimosso)"
+ },
+ "Izwc5thInJk": {
+  "status": "done",
+  "attempts": 0,
+  "channel": "Jason Pizzino",
+  "title": "Market Panic Ending The Cycle... History Shows A Recession Is Next",
+  "first_seen": "2026-11-21T22:26:31.858941+00:00",
+  "tries": 1,
+  "done_at": "2026-11-21T22:26:57.721367+00:00"
  }
 }

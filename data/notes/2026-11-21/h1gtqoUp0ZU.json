@@ -1,0 +1,105 @@
+{
+ "market_relevance": 10,
+ "scope": "global",
+ "kind": "stock pick",
+ "summary": "Jeremy Lefebvre analyzes AMD's long-term growth potential, revenue projections, and valuation metrics for 2030. He contrasts AMD's fundamental stability with Nvidia's management shifts and highlights institutional trading dynamics. Lefebvre argues that retail investors holding for the long term should ignore short-term volatility. He concludes that AMD offers a cleaner, more reliable growth narrative than its peers.",
+ "digest_it": "Jeremy analizza le proiezioni a lungo termine di AMD per il 2030, evidenziando la solidità fondamentale rispetto a Nvidia. Sostiene che gli investitori retail dovrebbero ignorare la volatilità a breve termine e concentrarsi sui fondamentali della crescita.",
+ "author_tone": "bullish",
+ "tone_evidence": "He expresses absolute confidence in AMD reaching $1,000 to $2,000 per share based on robust semiconductor growth and strong institutional backing.",
+ "key_points": [
+  {
+   "point": "AMD 2030 revenue projections range between $160 billion and $195 billion.",
+   "timestamp": "00:23"
+  },
+  {
+   "point": "Net income projections for AMD by 2030 are estimated between $70 billion and $95 billion.",
+   "timestamp": "00:43"
+  },
+  {
+   "point": "AMD stock price projections span from $1,000 to $2,000 per share over coming years.",
+   "timestamp": "01:13"
+  },
+  {
+   "point": "AMD stock experienced a drop from $650 to $400 before recovering to $530 recently.",
+   "timestamp": "03:57"
+  },
+  {
+   "point": "Nvidia represents 17.08% of the SMH semiconductor ETF holdings.",
+   "timestamp": "12:43"
+  },
+  {
+   "point": "AMD comprises 6.55% of the SMH semiconductor ETF holdings.",
+   "timestamp": "13:26"
+  }
+ ],
+ "moments": [
+  {
+   "timestamp": "00:04",
+   "topic": "AMD financial projections for 2030",
+   "claim": "AMD revenue is projected to reach $160 to $195 billion by 2030 under base and bull scenarios.",
+   "details": "Net income is expected to hit $70 to $95 billion with a P/E ratio between 20 and 35. This implies the stock could trade between $1,000 and $2,000 per share.",
+   "surprise": "Projected revenue targets approach nearly $200 billion within the decade."
+  },
+  {
+   "timestamp": "03:30",
+   "topic": "AMD recent price volatility",
+   "claim": "AMD stock dropped significantly from $650 down to $400 within a month before recovering to $530.",
+   "details": "High institutional and algorithmic volume accounts for 70 to 80 percent of trading activity, driving massive percentage moves in short timeframes.",
+   "surprise": "A drop of $250 per share happened in just about thirty days."
+  },
+  {
+   "timestamp": "07:19",
+   "topic": "Nvidia stock performance and Jensen Huang",
+   "claim": "Nvidia stock fell 28 percent over the past month amid concerns over capital spending and CEO Jensen Huang leaving.",
+   "details": "The departure of a key executive represents a fundamental shift for the company, causing institutional investors to reduce exposure and traders to lose interest.",
+   "surprise": "Nvidia dropped nearly 30 percent in a single month following executive changes."
+  },
+  {
+   "timestamp": "11:55",
+   "topic": "Semiconductor ETF holdings analysis",
+   "claim": "Nvidia and AMD make up 17.08 percent and 6.55 percent of the SMH semiconductor ETF respectively.",
+   "details": "Nvidia stability directly impacts AMD stock price because any broader semiconductor sell-off puts downward pressure on AMD despite its solid fundamentals.",
+   "surprise": "Nvidia accounts for over 17 percent of the entire SMH semiconductor fund."
+  },
+  {
+   "timestamp": "18:31",
+   "topic": "Key person risk in corporate leadership",
+   "claim": "Key person risk dictates that the sudden departure of a vital CEO can devalue a company by 10 to 30 percent.",
+   "details": "Companies with highly identifiable leaders like Tesla or Nvidia carry higher risk if founders depart compared to well-diversified businesses like Meta.",
+   "surprise": "A single CEO departure can instantly erase significant market capitalization."
+  },
+  {
+   "timestamp": "23:29",
+   "topic": "AMD long-term investment outlook",
+   "claim": "AMD revenue growth is expected to outpace Nvidia's percentage growth by 2027.",
+   "details": "AMD now has a clean narrative with accelerating growth metrics and expanding margins, making it a stronger long-term investment than Nvidia.",
+   "surprise": "AMD revenue growth is projected to surpass Nvidia's by 2027."
+  }
+ ],
+ "tickers": [
+  "AMD",
+  "NVDA",
+  "INTC",
+  "QCOM"
+ ],
+ "predictions": [
+  "AMD stock to reach between $1,000 and $2,000 per share over the next few years",
+  "AMD revenue growth rate to overtake Nvidia by 2027"
+ ],
+ "catalysts": [],
+ "rumors": [],
+ "curiosities": [
+  "The speaker mentions holding 2,555 shares of AMD with an average cost of $111.61."
+ ],
+ "promo": false,
+ "language": "en",
+ "video_id": "h1gtqoUp0ZU",
+ "title": "AMD Shareholders! Here's What Comes NEXT",
+ "author": "Jeremy Lefebvre Clips",
+ "url": "https://www.youtube.com/watch?v=h1gtqoUp0ZU",
+ "published": "2026-11-21T19:00:09+00:00",
+ "duration_min": 27,
+ "partial": false,
+ "analysed_at": "2026-11-21T22:27:10.865422+00:00",
+ "model": "gemini-3.5-flash-lite"
+}
