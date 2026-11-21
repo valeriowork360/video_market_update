@@ -1,0 +1,730 @@
+{
+ "it": [
+  {
+   "title": "Bitcoin crolla a 55.000 dollari",
+   "hook": "2 MILIARDI LIQUIDATI",
+   "beats": [
+    {
+     "say": "Due miliardi di dollari in liquidazioni hanno travolto Bitcoin in sole ventiquattr'ore.",
+     "show": "2 MILIARDI LIQUIDATI",
+     "figure": "2 miliardi $"
+    },
+    {
+     "say": "Il prezzo è precipitato direttamente a 55.000 dollari rompendo supporti chiave.",
+     "show": "CRASH A 55.000",
+     "figure": "55.000 $"
+    },
+    {
+     "say": "Nonostante la paura estrema, non si registrano ancora i segnali di vera capitolazione.",
+     "show": "NESSUNA CAPITOLAZIONE",
+     "figure": ""
+    },
+    {
+     "say": "La fascia tra 50.000 e 60.000 dollari sarà il terreno di una lunga fase laterale.",
+     "show": "SUPPORTO A 50.000",
+     "figure": "50.000 $"
+    },
+    {
+     "say": "I rimbalzi immediati rischiano di scontrarsi con forti vendite. Segui per l'aggiornamento.",
+     "show": "RISCHIO FALSO RIMBALZO",
+     "figure": ""
+    }
+   ],
+   "origin": "Jason Pizzino",
+   "source_video": "Market Panic Ending The Cycle... History Shows A Recession Is Next",
+   "narration": "Due miliardi di dollari in liquidazioni hanno travolto Bitcoin in sole ventiquattr'ore. Il prezzo è precipitato direttamente a 55.000 dollari rompendo supporti chiave. Nonostante la paura estrema, non si registrano ancora i segnali di vera capitolazione. La fascia tra 50.000 e 60.000 dollari sarà il terreno di una lunga fase laterale. I rimbalzi immediati rischiano di scontrarsi con forti vendite. Segui per l'aggiornamento.",
+   "ticker": "BTC-USD",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Bitcoin tocca i 55.000 dollari dopo oltre 2 miliardi di dollari di liquidazioni. La fase laterale tra 50.000 e 60.000 dollari sembra inevitabile.",
+   "hashtags": [
+    "#Bitcoin",
+    "#BTC",
+    "#Criptovalute",
+    "#Liquidazioni",
+    "#Mercati"
+   ]
+  },
+  {
+   "title": "Nvidia registra sette settimane consecutive di ribassi",
+   "hook": "Nvidia 7 SETTIMANE",
+   "beats": [
+    {
+     "say": "Nvidia ha stampato sette candele settimanali rosse consecutive sul grafico principale.",
+     "show": "Nvidia 7 SETTIMANE",
+     "figure": "-7"
+    },
+    {
+     "say": "Gli acquisti a 170 e 150 dollari sono stati rapidamente sopraffatti dai venditori.",
+     "show": "PRESSIONE SUI 150",
+     "figure": "150 $"
+    },
+    {
+     "say": "I massimi decrescenti mostrano una chiara fase di distribuzione istituzionale in corso.",
+     "show": "DISTRIBUZIONE IN CORSO",
+     "figure": ""
+    },
+    {
+     "say": "Senza una base solida, il settore semiconduttori affronta mesi di difficile consolidamento.",
+     "show": "MESI DI ATTESA",
+     "figure": ""
+    },
+    {
+     "say": "Comprare ogni minimo adesso comporta rischi elevati. Segui per l'aggiornamento.",
+     "show": "NON AFFRETTARE ACQUISTI",
+     "figure": ""
+    }
+   ],
+   "origin": "Jason Pizzino",
+   "source_video": "Market Panic Ending The Cycle... History Shows A Recession Is Next",
+   "narration": "Nvidia ha stampato sette candele settimanali rosse consecutive sul grafico principale. Gli acquisti a 170 e 150 dollari sono stati rapidamente sopraffatti dai venditori. I massimi decrescenti mostrano una chiara fase di distribuzione istituzionale in corso. Senza una base solida, il settore semiconduttori affronta mesi di difficile consolidamento. Comprare ogni minimo adesso comporta rischi elevati. Segui per l'aggiornamento.",
+   "ticker": "NVDA",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Sette settimane consecutive di chiusure negative per Nvidia segnalano una fase di distribuzione istituzionale.",
+   "hashtags": [
+    "#Nvidia",
+    "#NVDA",
+    "#Azioni",
+    "#Semiconduttori",
+    "#WallStreet"
+   ]
+  },
+  {
+   "title": "Micron perde il 53% dai massimi",
+   "hook": "MICRON -53%",
+   "beats": [
+    {
+     "say": "Micron è crollata del 53% dal proprio massimo in poche settimane.",
+     "show": "MICRON -53%",
+     "figure": "-53%"
+    },
+    {
+     "say": "Il grafico settimanale ha attivato un segnale di inversione a tre barre.",
+     "show": "SEGNALE DI INVERSIONE",
+     "figure": ""
+    },
+    {
+     "say": "Nei cicli storici passati le correzioni hanno toccato perdite fino al 98%.",
+     "show": "PRECEDENTI STORICI",
+     "figure": "-98%"
+    },
+    {
+     "say": "Una caduta del 50% non basta per decretare il fondo del ciclo.",
+     "show": "FONDO NON CONFERMATO",
+     "figure": "-50%"
+    },
+    {
+     "say": "Serve una lunga fase di accumulazione prima della ripartenza. Segui per l'aggiornamento.",
+     "show": "ATTENDERE L'ACCUMULAZIONE",
+     "figure": ""
+    }
+   ],
+   "origin": "Jason Pizzino",
+   "source_video": "Market Panic Ending The Cycle... History Shows A Recession Is Next",
+   "narration": "Micron è crollata del 53% dal proprio massimo in poche settimane. Il grafico settimanale ha attivato un segnale di inversione a tre barre. Nei cicli storici passati le correzioni hanno toccato perdite fino al 98%. Una caduta del 50% non basta per decretare il fondo del ciclo. Serve una lunga fase di accumulazione prima della ripartenza. Segui per l'aggiornamento.",
+   "ticker": "MU",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Micron lascia sul terreno il 53% dal picco. Nei precedenti ribassi ciclici il titolo ha sperimentato correzioni molto più profonde.",
+   "hashtags": [
+    "#Micron",
+    "#MU",
+    "#Semiconduttori",
+    "#Borsa",
+    "#Azioni"
+   ]
+  },
+  {
+   "title": "S&P 500 punta ai supporti a 6.300",
+   "hook": "S&P 500 A 6.300",
+   "beats": [
+    {
+     "say": "L'indice S&P 500 rischia di testare i supporti tra 6.300 e 6.500.",
+     "show": "S&P 500 A 6.300",
+     "figure": "6.300"
+    },
+    {
+     "say": "Le chiusure mensili sotto i massimi storici confermano una correzione a doppia cifra.",
+     "show": "CORREZIONE A DOPPIA CIFRA",
+     "figure": ""
+    },
+    {
+     "say": "I mercati globali si allineano alla chiusura del ciclo economico di 18 anni.",
+     "show": "CICLO DI 18 ANNI",
+     "figure": "18 anni"
+    },
+    {
+     "say": "La violazione dei supporti aprirebbe la strada a una fase di recessione.",
+     "show": "RISCHIO RECESSIONE",
+     "figure": ""
+    },
+    {
+     "say": "La cautela resta prioritaria durante questa fase distributiva. Segui per l'aggiornamento.",
+     "show": "MASSIMA CAUTELA",
+     "figure": ""
+    }
+   ],
+   "origin": "Jason Pizzino",
+   "source_video": "Market Panic Ending The Cycle... History Shows A Recession Is Next",
+   "narration": "L'indice S&P 500 rischia di testare i supporti tra 6.300 e 6.500. Le chiusure mensili sotto i massimi storici confermano una correzione a doppia cifra. I mercati globali si allineano alla chiusura del ciclo economico di 18 anni. La violazione dei supporti aprirebbe la strada a una fase di recessione. La cautela resta prioritaria durante questa fase distributiva. Segui per l'aggiornamento.",
+   "ticker": "^GSPC",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "L'indice S&P 500 affronta chiusure mensili deboli e punta ai supporti di 6.300 e 6.500 nel pieno della svolta macroeconomica.",
+   "hashtags": [
+    "#SP500",
+    "#BorsaUSA",
+    "#Macroeconomia",
+    "#Mercati",
+    "#Indici"
+   ]
+  },
+  {
+   "title": "L'oro rompe i supporti a 3.900 dollari",
+   "hook": "ORO SOTTO 3.900",
+   "beats": [
+    {
+     "say": "L'oro ha ceduto sotto la fascia chiave compresa tra 3.900 e 4.000 dollari.",
+     "show": "ORO SOTTO 3.900",
+     "figure": "3.900 $"
+    },
+    {
+     "say": "La pressione ribassista ha travolto anche l'argento con violente liquidazioni.",
+     "show": "METALLI IN CADUTA",
+     "figure": ""
+    },
+    {
+     "say": "La convinzione comune di un rialzo continuo sull'inflazione si è bruscamente infranta.",
+     "show": "NARRATIVA INFRANTA",
+     "figure": ""
+    },
+    {
+     "say": "I cicli storici dell'oro richiedono fino a 18 mesi di consolidamento.",
+     "show": "18 MESI DI PAUSA",
+     "figure": "18 mesi"
+    },
+    {
+     "say": "I punti di ingresso sicuri richiederanno tempo e conferme. Segui per l'aggiornamento.",
+     "show": "SERVE PAZIENZA",
+     "figure": ""
+    }
+   ],
+   "origin": "Jason Pizzino",
+   "source_video": "Market Panic Ending The Cycle... History Shows A Recession Is Next",
+   "narration": "L'oro ha ceduto sotto la fascia chiave compresa tra 3.900 e 4.000 dollari. La pressione ribassista ha travolto anche l'argento con violente liquidazioni. La convinzione comune di un rialzo continuo sull'inflazione si è bruscamente infranta. I cicli storici dell'oro richiedono fino a 18 mesi di consolidamento. I punti di ingresso sicuri richiederanno tempo e conferme. Segui per l'aggiornamento.",
+   "ticker": "GC=F",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Rottura ribassista per l'oro sotto 3.900 dollari. I cicli macro indicano che i metalli preziosi potrebbero richiedere fino a 18 mesi di consolidamento.",
+   "hashtags": [
+    "#Oro",
+    "#Argento",
+    "#MateriePrime",
+    "#MetalliPreziosi",
+    "#Trading"
+   ]
+  },
+  {
+   "title": "Ethereum difende il supporto a 1.500 dollari",
+   "hook": "ETH DIFENDE 1.500",
+   "beats": [
+    {
+     "say": "Ethereum difende con forza l'area di supporto attorno a 1.500 dollari.",
+     "show": "ETH DIFENDE 1.500",
+     "figure": "1.500 $"
+    },
+    {
+     "say": "Nonostante il panico generale il livello di aprile 2025 ha retto l'urto.",
+     "show": "SUPPORTO APRILE 2025",
+     "figure": ""
+    },
+    {
+     "say": "Sul grafico emergono divergenze che indicano una possibile spinta al rialzo.",
+     "show": "DIVERGENZA RIALZISTA",
+     "figure": ""
+    },
+    {
+     "say": "La tenuta di 1.500 dollari apre la strada a un recupero verso 1.700.",
+     "show": "OBIETTIVO 1.700",
+     "figure": "1.700 $"
+    },
+    {
+     "say": "Questo rimbalzo tecnico non sancisce ancora il fondo definitivo. Segui per l'aggiornamento.",
+     "show": "RIMBALZO NON FONDO",
+     "figure": ""
+    }
+   ],
+   "origin": "Jason Pizzino",
+   "source_video": "Market Panic Ending The Cycle... History Shows A Recession Is Next",
+   "narration": "Ethereum difende con forza l'area di supporto attorno a 1.500 dollari. Nonostante il panico generale il livello di aprile 2025 ha retto l'urto. Sul grafico emergono divergenze che indicano una possibile spinta al rialzo. La tenuta di 1.500 dollari apre la strada a un recupero verso 1.700. Questo rimbalzo tecnico non sancisce ancora il fondo definitivo. Segui per l'aggiornamento.",
+   "ticker": "ETH-USD",
+   "sentiment": "neutral",
+   "sources": [],
+   "caption": "Ethereum resiste sopra il supporto chiave di 1.500 dollari con segnali di divergenza. Atteso un possibile rimbalzo verso 1.700 dollari.",
+   "hashtags": [
+    "#Ethereum",
+    "#ETH",
+    "#Criptovalute",
+    "#AnalisiTecnica",
+    "#Trading"
+   ]
+  },
+  {
+   "title": "Solana regge il supporto mentre XRP cede",
+   "hook": "SOLANA TIENE A 65",
+   "beats": [
+    {
+     "say": "Solana preserva il livello tra 65 e 70 dollari senza cedere.",
+     "show": "SOLANA TIENE A 65",
+     "figure": "65 $"
+    },
+    {
+     "say": "Al contrario XRP ha rotto al ribasso i minimi toccati a giugno.",
+     "show": "XRP SOTTO I MINIMI",
+     "figure": ""
+    },
+    {
+     "say": "Solana mostra una forza relativa superiore persino a quella di Bitcoin.",
+     "show": "FORZA RELATIVA SOL",
+     "figure": ""
+    },
+    {
+     "say": "Sotto quota 65 dollari salterebbe l'intera struttura tecnica rialzista di medio periodo.",
+     "show": "SUPPORTO A 65",
+     "figure": "65 $"
+    },
+    {
+     "say": "La selezione degli asset fa la differenza in questo mercato. Segui per l'aggiornamento.",
+     "show": "DIVERGENZA CRIPTO",
+     "figure": ""
+    }
+   ],
+   "origin": "Jason Pizzino",
+   "source_video": "Market Panic Ending The Cycle... History Shows A Recession Is Next",
+   "narration": "Solana preserva il livello tra 65 e 70 dollari senza cedere. Al contrario XRP ha rotto al ribasso i minimi toccati a giugno. Solana mostra una forza relativa superiore persino a quella di Bitcoin. Sotto quota 65 dollari salterebbe l'intera struttura tecnica rialzista di medio periodo. La selezione degli asset fa la differenza in questo mercato. Segui per l'aggiornamento.",
+   "ticker": "SOL-USD",
+   "sentiment": "neutral",
+   "sources": [],
+   "caption": "Divergenza netta tra le altcoin: Solana difende il supporto a 65 dollari mentre XRP scivola sotto i minimi di giugno.",
+   "hashtags": [
+    "#Solana",
+    "#XRP",
+    "#Altcoin",
+    "#Criptovalute",
+    "#Trading"
+   ]
+  }
+ ],
+ "en": [
+  {
+   "title": "Bitcoin drops to $55,000 in massive liquidation",
+   "hook": "$2B WIPED OUT",
+   "beats": [
+    {
+     "say": "Two billion dollars in liquidations hammered Bitcoin in just 24 hours.",
+     "show": "$2B WIPED OUT",
+     "figure": "$2 billion"
+    },
+    {
+     "say": "The price fell straight to $55,000, breaking through multiple key levels.",
+     "show": "CRASH TO $55,000",
+     "figure": "$55,000"
+    },
+    {
+     "say": "Extreme fear has taken over, but true capitulation volume is still missing.",
+     "show": "NO CAPITULATION YET",
+     "figure": ""
+    },
+    {
+     "say": "Prolonged consolidation between $50,000 and $60,000 is now the primary path.",
+     "show": "KEY RANGE AHEAD",
+     "figure": "$50,000"
+    },
+    {
+     "say": "Sharp relief rallies will likely face heavy selling. Follow for updates.",
+     "show": "WATCH THE BOUNCE",
+     "figure": ""
+    }
+   ],
+   "origin": "Jason Pizzino",
+   "source_video": "Market Panic Ending The Cycle... History Shows A Recession Is Next",
+   "narration": "Two billion dollars in liquidations hammered Bitcoin in just 24 hours. The price fell straight to $55,000, breaking through multiple key levels. Extreme fear has taken over, but true capitulation volume is still missing. Prolonged consolidation between $50,000 and $60,000 is now the primary path. Sharp relief rallies will likely face heavy selling. Follow for updates.",
+   "ticker": "BTC-USD",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Bitcoin plunges to $55,000 following $2 billion in liquidations. Expect choppy consolidation between $50,000 and $60,000 before a true bottom forms.",
+   "hashtags": [
+    "#Bitcoin",
+    "#BTC",
+    "#CryptoNews",
+    "#Liquidations",
+    "#Trading"
+   ]
+  },
+  {
+   "title": "Nvidia prints seven straight red weeks",
+   "hook": "7 RED WEEKS",
+   "beats": [
+    {
+     "say": "Nvidia printed seven consecutive red weekly candles on its macro chart.",
+     "show": "7 RED WEEKS",
+     "figure": "-7"
+    },
+    {
+     "say": "Buyers stepping in at $170 and $150 were instantly overwhelmed by sellers.",
+     "show": "SUPPORT FAILS FAST",
+     "figure": "$150"
+    },
+    {
+     "say": "Repeated lower highs reveal active institutional distribution rather than a routine pullback.",
+     "show": "HEAVY DISTRIBUTION",
+     "figure": ""
+    },
+    {
+     "say": "The semiconductor sector now faces a multi-month consolidation before any sustainable base.",
+     "show": "MONTHS OF CHOP",
+     "figure": ""
+    },
+    {
+     "say": "Aggressive dip-buying remains dangerous until selling pressure fades. Follow for updates.",
+     "show": "PATIENCE IS KEY",
+     "figure": ""
+    }
+   ],
+   "origin": "Jason Pizzino",
+   "source_video": "Market Panic Ending The Cycle... History Shows A Recession Is Next",
+   "narration": "Nvidia printed seven consecutive red weekly candles on its macro chart. Buyers stepping in at $170 and $150 were instantly overwhelmed by sellers. Repeated lower highs reveal active institutional distribution rather than a routine pullback. The semiconductor sector now faces a multi-month consolidation before any sustainable base. Aggressive dip-buying remains dangerous until selling pressure fades. Follow for updates.",
+   "ticker": "NVDA",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Nvidia posts seven consecutive red weekly candles as institutional sellers take profit. Expect prolonged consolidation across semiconductors.",
+   "hashtags": [
+    "#Nvidia",
+    "#NVDA",
+    "#Stocks",
+    "#Semiconductors",
+    "#Trading"
+   ]
+  },
+  {
+   "title": "Micron plunges 53% from peak",
+   "hook": "MICRON DROPS 53%",
+   "beats": [
+    {
+     "say": "Micron dropped 53% from its recent all-time peak in rapid fashion.",
+     "show": "MICRON DROPS 53%",
+     "figure": "-53%"
+    },
+    {
+     "say": "The weekly chart triggered a classic three-bar top reversal signal.",
+     "show": "REVERSAL TRIGGERED",
+     "figure": ""
+    },
+    {
+     "say": "Historical cyclical downturns in this stock have reached crashes of up to 98%.",
+     "show": "HISTORIC DEEP CRASHES",
+     "figure": "-98%"
+    },
+    {
+     "say": "A 50% drawdown does not guarantee that the bottom is already in.",
+     "show": "BOTTOM NOT IN",
+     "figure": "-50%"
+    },
+    {
+     "say": "Rebuilding a true base will demand patience. Follow for updates.",
+     "show": "WAIT FOR ACCUMULATION",
+     "figure": ""
+    }
+   ],
+   "origin": "Jason Pizzino",
+   "source_video": "Market Panic Ending The Cycle... History Shows A Recession Is Next",
+   "narration": "Micron dropped 53% from its recent all-time peak in rapid fashion. The weekly chart triggered a classic three-bar top reversal signal. Historical cyclical downturns in this stock have reached crashes of up to 98%. A 50% drawdown does not guarantee that the bottom is already in. Rebuilding a true base will demand patience. Follow for updates.",
+   "ticker": "MU",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Micron plunges 53% after a weekly reversal signal. Historical cycles warn that tech drawdowns can extend well beyond initial declines.",
+   "hashtags": [
+    "#Micron",
+    "#MU",
+    "#Semiconductors",
+    "#StockMarket",
+    "#Investing"
+   ]
+  },
+  {
+   "title": "S&P 500 tests lower support at 6,300",
+   "hook": "S&P 500 TO 6,300",
+   "beats": [
+    {
+     "say": "The S&P 500 is heading to test support around 6,300 to 6,500.",
+     "show": "S&P 500 TO 6,300",
+     "figure": "6,300"
+    },
+    {
+     "say": "Monthly closes below previous record highs have confirmed a broad equity drawdown.",
+     "show": "DOUBLE DIGIT DROP",
+     "figure": ""
+    },
+    {
+     "say": "Global asset classes are now synchronizing with an 18-year macro cycle peak.",
+     "show": "18 YEAR CYCLE PEAK",
+     "figure": "18 years"
+    },
+    {
+     "say": "Breaking below these levels would signal a transition toward outright economic contraction.",
+     "show": "RECESSION RISK LOOMS",
+     "figure": ""
+    },
+    {
+     "say": "Preserving capital is essential while distribution plays out. Follow for updates.",
+     "show": "PROTECT CAPITAL NOW",
+     "figure": ""
+    }
+   ],
+   "origin": "Jason Pizzino",
+   "source_video": "Market Panic Ending The Cycle... History Shows A Recession Is Next",
+   "narration": "The S&P 500 is heading to test support around 6,300 to 6,500. Monthly closes below previous record highs have confirmed a broad equity drawdown. Global asset classes are now synchronizing with an 18-year macro cycle peak. Breaking below these levels would signal a transition toward outright economic contraction. Preserving capital is essential while distribution plays out. Follow for updates.",
+   "ticker": "^GSPC",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "The S&P 500 targets key supports between 6,300 and 6,500 as the 18-year economic cycle points to rising recession risks.",
+   "hashtags": [
+    "#SP500",
+    "#StockMarket",
+    "#Macro",
+    "#Recession",
+    "#Trading"
+   ]
+  },
+  {
+   "title": "Gold breaks below key 3,900 support",
+   "hook": "GOLD BREAKS $3,900",
+   "beats": [
+    {
+     "say": "Gold broke down below the critical 3,900 to 4,000 dollar support zone.",
+     "show": "GOLD BREAKS $3,900",
+     "figure": "$3,900"
+    },
+    {
+     "say": "Silver has mirrored the breakdown with aggressive selling across all precious metals.",
+     "show": "METALS SELL-OFF",
+     "figure": ""
+    },
+    {
+     "say": "The belief in an uninterrupted inflation rally is now officially broken.",
+     "show": "BULL RUN OVER",
+     "figure": ""
+    },
+    {
+     "say": "Historically gold requires up to 18 months of consolidation before stabilizing.",
+     "show": "18-MONTH RESET",
+     "figure": "18 months"
+    },
+    {
+     "say": "Chasing early bounces in metals remains risky. Follow for updates.",
+     "show": "WAIT FOR BASE",
+     "figure": ""
+    }
+   ],
+   "origin": "Jason Pizzino",
+   "source_video": "Market Panic Ending The Cycle... History Shows A Recession Is Next",
+   "narration": "Gold broke down below the critical 3,900 to 4,000 dollar support zone. Silver has mirrored the breakdown with aggressive selling across all precious metals. The belief in an uninterrupted inflation rally is now officially broken. Historically gold requires up to 18 months of consolidation before stabilizing. Chasing early bounces in metals remains risky. Follow for updates.",
+   "ticker": "GC=F",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Gold breaks below $3,900 alongside silver. Historical precious metal cycles point toward an extended consolidation period.",
+   "hashtags": [
+    "#Gold",
+    "#Silver",
+    "#PreciousMetals",
+    "#Commodities",
+    "#Macro"
+   ]
+  },
+  {
+   "title": "Ethereum holds critical 1,500 support",
+   "hook": "ETH HOLDS 1,500",
+   "beats": [
+    {
+     "say": "Ethereum is holding firmly right above key support at 1,500 dollars.",
+     "show": "ETH HOLDS 1,500",
+     "figure": "1,500"
+    },
+    {
+     "say": "The critical price floor from April 2025 has absorbed severe market liquidations.",
+     "show": "KEY FLOOR HOLDS",
+     "figure": ""
+    },
+    {
+     "say": "Developing bullish divergences suggest momentum is shifting for an imminent relief bounce.",
+     "show": "BULLISH DIVERGENCE",
+     "figure": ""
+    },
+    {
+     "say": "Maintaining 1,500 keeps a potential recovery toward the 1,700 mark on track.",
+     "show": "TARGET 1,700",
+     "figure": "1,700"
+    },
+    {
+     "say": "A short-term bounce must not be confused with a macro bottom. Follow for updates.",
+     "show": "WATCH THE REBOUND",
+     "figure": ""
+    }
+   ],
+   "origin": "Jason Pizzino",
+   "source_video": "Market Panic Ending The Cycle... History Shows A Recession Is Next",
+   "narration": "Ethereum is holding firmly right above key support at 1,500 dollars. The critical price floor from April 2025 has absorbed severe market liquidations. Developing bullish divergences suggest momentum is shifting for an imminent relief bounce. Maintaining 1,500 keeps a potential recovery toward the 1,700 mark on track. A short-term bounce must not be confused with a macro bottom. Follow for updates.",
+   "ticker": "ETH-USD",
+   "sentiment": "neutral",
+   "sources": [],
+   "caption": "Ethereum holds strong above 1,500 with bullish divergence on the chart, opening the door for a relief test of 1,700.",
+   "hashtags": [
+    "#Ethereum",
+    "#ETH",
+    "#Crypto",
+    "#TechnicalAnalysis",
+    "#Trading"
+   ]
+  },
+  {
+   "title": "Solana holds strong while XRP breaks down",
+   "hook": "SOLANA HOLDS $65",
+   "beats": [
+    {
+     "say": "Solana is holding firmly above support between 65 and 70 dollars.",
+     "show": "SOLANA HOLDS $65",
+     "figure": "$65"
+    },
+    {
+     "say": "In sharp contrast XRP broke below its critical June low price structure.",
+     "show": "XRP CRACKS SUPPORT",
+     "figure": ""
+    },
+    {
+     "say": "Solana is displaying far stronger relative technical resilience than even Bitcoin.",
+     "show": "SOL OUTPERFORMS",
+     "figure": ""
+    },
+    {
+     "say": "A clean breakdown below 65 dollars would invalidate this defensive market structure.",
+     "show": "WATCH 65 SUPPORT",
+     "figure": "$65"
+    },
+    {
+     "say": "Asset divergence is critical while the broader market corrects. Follow for updates.",
+     "show": "CHOOSE WISELY",
+     "figure": ""
+    }
+   ],
+   "origin": "Jason Pizzino",
+   "source_video": "Market Panic Ending The Cycle... History Shows A Recession Is Next",
+   "narration": "Solana is holding firmly above support between 65 and 70 dollars. In sharp contrast XRP broke below its critical June low price structure. Solana is displaying far stronger relative technical resilience than even Bitcoin. A clean breakdown below 65 dollars would invalidate this defensive market structure. Asset divergence is critical while the broader market corrects. Follow for updates.",
+   "ticker": "SOL-USD",
+   "sentiment": "neutral",
+   "sources": [],
+   "caption": "Solana holds the 65 to 70 range showing relative strength, while XRP violates its June lows under broad market pressure.",
+   "hashtags": [
+    "#Solana",
+    "#SOL",
+    "#XRP",
+    "#Crypto",
+    "#Altcoins"
+   ]
+  }
+ ],
+ "carousels": {
+  "it": {
+   "topic": "Fine ciclo macro e mercati",
+   "caption": "I mercati globali affrontano una correzione sincronizzata tra azioni, metalli e criptovalute. La chiusura del ciclo economico di 18 anni impone prudenza prima di cercare nuovi minimi. Segui per l'aggiornamento di domani.",
+   "sentiment": "bearish",
+   "ticker": null,
+   "slides": [
+    {
+     "title": "Fine del ciclo: mercati sotto pressione",
+     "body": "Azioni, criptovalute e metalli confermano una correzione globale sincronizzata."
+    },
+    {
+     "title": "S&P 500 verso 6.300",
+     "body": "Le chiusure mensili sotto i record storici proiettano l'indice S&P 500 verso i supporti chiave tra 6.300 e 6.500."
+    },
+    {
+     "title": "Nvidia e la distribuzione",
+     "body": "Sette candele settimanali rosse consecutive confermano vendite istituzionali pesanti. Gli acquisti a 170 e 150 dollari sono stati respinti."
+    },
+    {
+     "title": "Bitcoin tocca 55.000 dollari",
+     "body": "Liquidazioni per oltre due miliardi di dollari in ventiquattr'ore hanno spinto Bitcoin a 55.000, aprendo una lunga fase laterale."
+    },
+    {
+     "title": "Oro e metalli in rottura",
+     "body": "L'oro scende sotto i 3.900 dollari rompendo supporti storici. I cicli passati indicano fino a 18 mesi di consolidamento."
+    },
+    {
+     "title": "Divergenza tra altcoin",
+     "body": "Ethereum difende quota 1.500 dollari e Solana regge sopra 65, mentre XRP segna nuovi minimi sotto i livelli di giugno."
+    },
+    {
+     "title": "Pazienza prima del fondo",
+     "body": "Le fasi distributive richiedono tempo e basi solide prima di ripartire. Segui per l'aggiornamento di domani."
+    }
+   ],
+   "hashtags": [
+    "#Bitcoin",
+    "#Nvidia",
+    "#SP500",
+    "#Mercati",
+    "#Trading",
+    "#Criptovalute",
+    "#Oro",
+    "#Macroeconomia"
+   ]
+  },
+  "en": {
+   "topic": "Macro Cycle Peak And Markets",
+   "caption": "Global markets are undergoing a synchronized sell-off across equities, crypto, and precious metals. The late-stage 18-year macro cycle signals patience before calling a true bottom. Follow for tomorrow's update.",
+   "sentiment": "bearish",
+   "ticker": null,
+   "slides": [
+    {
+     "title": "Macro cycle peak hits global markets",
+     "body": "Equities, crypto, and metals face synchronized liquidation across key support levels."
+    },
+    {
+     "title": "S&P 500 targets 6,300",
+     "body": "Monthly closes below record highs place downside focus on major S&P 500 supports between 6,300 and 6,500."
+    },
+    {
+     "title": "Nvidia distribution confirmed",
+     "body": "Seven consecutive red weekly candles signal persistent institutional selling, repeatedly rejecting dip-buyers at $170 and $150."
+    },
+    {
+     "title": "Bitcoin drops to $55,000",
+     "body": "Liquidations topping $2 billion in 24 hours pushed Bitcoin to $55,000, signaling extended range-bound action ahead."
+    },
+    {
+     "title": "Precious metals breakdown",
+     "body": "Gold cracked below the $3,900 mark alongside silver. Historical macro cycles suggest up to 18 months of consolidation."
+    },
+    {
+     "title": "Altcoin divergence emerges",
+     "body": "Ethereum defends 1,500 support and Solana holds $65, whereas XRP broke below its previous June low structure."
+    },
+    {
+     "title": "Capital preservation comes first",
+     "body": "Late-cycle distribution requires patience until durable market accumulation bases form. Follow for tomorrow's update."
+    }
+   ],
+   "hashtags": [
+    "#Bitcoin",
+    "#Nvidia",
+    "#SP500",
+    "#StockMarket",
+    "#Crypto",
+    "#Gold",
+    "#MacroEconomy",
+    "#Investing"
+   ]
+  }
+ }
+}

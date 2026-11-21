@@ -1,0 +1,640 @@
+{
+ "it": [
+  {
+   "title": "Perché vendere azioni Cheesecake Factory a 120 dollari",
+   "hook": "INCASSO RECORD 144.000$",
+   "beats": [
+    {
+     "say": "144.000 dollari incassati liquidando Cheesecake Factory a quota 120.",
+     "show": "INCASSO RECORD 144.000$",
+     "figure": "144.000 $"
+    },
+    {
+     "say": "Il titolo è esploso dai minimi di 30 dollari toccati negli scorsi mesi.",
+     "show": "CORSA DA 30$",
+     "figure": "30 $"
+    },
+    {
+     "say": "Rialzi così violenti rubano rendimenti agli anni futuri, comprimendo i margini di crescita attesi.",
+     "show": "RENDIMENTI FUTURI CONSUMATI",
+     "figure": ""
+    },
+    {
+     "say": "Con un tasso annuo atteso sotto il 20%, il capitale cerca profitti altrove.",
+     "show": "SOTTO IL 20%",
+     "figure": "20%"
+    },
+    {
+     "say": "Prendere profitto sui massimi protegge il portafoglio prima della correzione. Segui per l'aggiornamento.",
+     "show": "PRENDERE PROFITTO ORA",
+     "figure": ""
+    }
+   ],
+   "origin": "Jeremy Lefebvre",
+   "source_video": "I'm SELLING This Stock! Here's Why...",
+   "narration": "144.000 dollari incassati liquidando Cheesecake Factory a quota 120. Il titolo è esploso dai minimi di 30 dollari toccati negli scorsi mesi. Rialzi così violenti rubano rendimenti agli anni futuri, comprimendo i margini di crescita attesi. Con un tasso annuo atteso sotto il 20%, il capitale cerca profitti altrove. Prendere profitto sui massimi protegge il portafoglio prima della correzione. Segui per l'aggiornamento.",
+   "ticker": "CAKE",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Cheesecake Factory tocca 120 dollari dopo una salita verticale da quota 30. Quando la crescita futura si comprime, monetizzare è la mossa più razionale.",
+   "hashtags": [
+    "#CheesecakeFactory",
+    "#BorsaUSA",
+    "#Azioni",
+    "#Investimenti",
+    "#Finanza"
+   ]
+  },
+  {
+   "title": "Nvidia: margini del 60% insostenibili nel lungo termine?",
+   "hook": "Nvidia MARGINI 60%",
+   "beats": [
+    {
+     "say": "Nvidia registra margini netti vicini a un incredibile 60%.",
+     "show": "Nvidia MARGINI 60%",
+     "figure": "60%"
+    },
+    {
+     "say": "Il gruppo produce 65 miliardi di utile su 115 di fatturato.",
+     "show": "65 MILIARDI UTILI",
+     "figure": "65 miliardi $"
+    },
+    {
+     "say": "AMD viaggia su margini stabili al 17%, evidenziando un'anomalia storica temporanea.",
+     "show": "AMD FERMA AL 17%",
+     "figure": "17%"
+    },
+    {
+     "say": "L'arrivo di nuova concorrenza e il calo degli investimenti comprimeranno questa redditività.",
+     "show": "COMPRESSIONE IN ARRIVO",
+     "figure": ""
+    },
+    {
+     "say": "Valutazioni così estreme non perdonano alcun rallentamento della domanda. Segui per l'aggiornamento.",
+     "show": "RISCHIO CORREZIONE MARGINI",
+     "figure": ""
+    }
+   ],
+   "origin": "Jeremy Lefebvre",
+   "source_video": "I'm SELLING This Stock! Here's Why...",
+   "narration": "Nvidia registra margini netti vicini a un incredibile 60%. Il gruppo produce 65 miliardi di utile su 115 di fatturato. AMD viaggia su margini stabili al 17%, evidenziando un'anomalia storica temporanea. L'arrivo di nuova concorrenza e il calo degli investimenti comprimeranno questa redditività. Valutazioni così estreme non perdonano alcun rallentamento della domanda. Segui per l'aggiornamento.",
+   "ticker": "NVDA",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Nvidia viaggia su margini netti del 60%, incassando 65 miliardi di profitto su 115 di ricavi. La concorrenza di AMD e i vincoli infrastrutturali mettono a rischio queste cifre.",
+   "hashtags": [
+    "#Nvidia",
+    "#AMD",
+    "#IntelligenzaArtificiale",
+    "#AzioniTech",
+    "#WallStreet"
+   ]
+  },
+  {
+   "title": "Wynn Resorts punta tutto sul mega resort da 5,7 miliardi",
+   "hook": "WYNN POLO 5,7 MILIARDI",
+   "beats": [
+    {
+     "say": "Wynn Resorts prepara il lancio di un polo da 5,7 miliardi.",
+     "show": "WYNN POLO 5,7 MILIARDI",
+     "figure": "5,7 miliardi $"
+    },
+    {
+     "say": "Il progetto sorge sull'isola di Al Marjan negli Emirati Arabi Uniti.",
+     "show": "EMIRATI ARABI UNITI",
+     "figure": ""
+    },
+    {
+     "say": "Wynn detiene il 40% di questo asset destinato ad azzerare il debito societario.",
+     "show": "QUOTA DEL 40%",
+     "figure": "40%"
+    },
+    {
+     "say": "L'apertura fissata per settembre 2027 innescherà una forte rivalutazione del titolo.",
+     "show": "APERTURA SETTEMBRE 2027",
+     "figure": "2027"
+    },
+    {
+     "say": "Posizionarsi sui livelli attuali vicino a 80 dollari anticipa questo catalizzatore. Segui per l'aggiornamento.",
+     "show": "CATALIZZATORE DA 80$",
+     "figure": "80 $"
+    }
+   ],
+   "origin": "Jeremy Lefebvre",
+   "source_video": "I'm SELLING This Stock! Here's Why...",
+   "narration": "Wynn Resorts prepara il lancio di un polo da 5,7 miliardi. Il progetto sorge sull'isola di Al Marjan negli Emirati Arabi Uniti. Wynn detiene il 40% di questo asset destinato ad azzerare il debito societario. L'apertura fissata per settembre 2027 innescherà una forte rivalutazione del titolo. Posizionarsi sui livelli attuali vicino a 80 dollari anticipa questo catalizzatore. Segui per l'aggiornamento.",
+   "ticker": "WYNN",
+   "sentiment": "bullish",
+   "sources": [],
+   "caption": "Wynn Resorts detiene il 40% del nuovo mega resort da 5,7 miliardi di dollari negli Emirati. L'apertura prevista per settembre 2027 promette di trasformare i fondamentali.",
+   "hashtags": [
+    "#WynnResorts",
+    "#EmiratiArabi",
+    "#BorsaUSA",
+    "#Catalizzatori",
+    "#Azioni"
+   ]
+  },
+  {
+   "title": "Netflix verso 78 miliardi di ricavi entro il 2030?",
+   "hook": "NETFLIX A 78 MILIARDI",
+   "beats": [
+    {
+     "say": "Netflix punta a 78 miliardi di ricavi entro il 2030.",
+     "show": "NETFLIX A 78 MILIARDI",
+     "figure": "78 miliardi $"
+    },
+    {
+     "say": "I modelli di crescita stimano 27,5 miliardi di utili netti futuri.",
+     "show": "27,5 MILIARDI UTILI",
+     "figure": "27,5 miliardi "
+    },
+    {
+     "say": "Anche applicando un multiplo conservativo tra 25 e 30 volte gli utili.",
+     "show": "MULTIPLO 25-30 PE",
+     "figure": "25-30"
+    },
+    {
+     "say": "Il rendimento annuo composto stimato supera stabilmente il 21% per il decennio.",
+     "show": "CRESCITA ANNUALE 21%",
+     "figure": "21%"
+    },
+    {
+     "say": "Il modello di abbonamento globale continua a generare cassa inarrestabile. Segui per l'aggiornamento.",
+     "show": "MACCHINA DA UTILI",
+     "figure": ""
+    }
+   ],
+   "origin": "Jeremy Lefebvre",
+   "source_video": "I'm SELLING This Stock! Here's Why...",
+   "narration": "Netflix punta a 78 miliardi di ricavi entro il 2030. I modelli di crescita stimano 27,5 miliardi di utili netti futuri. Anche applicando un multiplo conservativo tra 25 e 30 volte gli utili. Il rendimento annuo composto stimato supera stabilmente il 21% per il decennio. Il modello di abbonamento globale continua a generare cassa inarrestabile. Segui per l'aggiornamento.",
+   "ticker": "NFLX",
+   "sentiment": "bullish",
+   "sources": [],
+   "caption": "Proiezioni al 2030 per Netflix: 78 miliardi di dollari di fatturato e 27,5 miliardi di utile netto. Anche con valutazioni conservative, il rendimento annuo atteso tocca il 21%.",
+   "hashtags": [
+    "#Netflix",
+    "#AzioniUSA",
+    "#Streaming",
+    "#Investire",
+    "#Borsa"
+   ]
+  },
+  {
+   "title": "Celsius: 4,8 miliardi di ricavi con stime ultra prudenti",
+   "hook": "CELSIUS A 4,8 MILIARDI",
+   "beats": [
+    {
+     "say": "Celsius punta a 4,8 miliardi di fatturato entro il 2030.",
+     "show": "CELSIUS A 4,8 MILIARDI",
+     "figure": "4,8 miliardi $"
+    },
+    {
+     "say": "La proiezione si basa su una crescita delle vendite di appena il 10%.",
+     "show": "CRESCITA RICAVI 10%",
+     "figure": "10%"
+    },
+    {
+     "say": "L'espansione dei margini spingerà l'utile netto a salire del 20% annuo.",
+     "show": "UTILI AL +20%",
+     "figure": "20%"
+    },
+    {
+     "say": "Ai prezzi attuali sotto quota 35 dollari, il rendimento atteso supera il 25%.",
+     "show": "PREZZI SOTTO 35$",
+     "figure": "35 $"
+    },
+    {
+     "say": "I presupposti minimi bastano per offrire un eccellente profilo di rischio. Segui per l'aggiornamento.",
+     "show": "PROFILO ASIMMETRICO",
+     "figure": ""
+    }
+   ],
+   "origin": "Jeremy Lefebvre",
+   "source_video": "I'm SELLING This Stock! Here's Why...",
+   "narration": "Celsius punta a 4,8 miliardi di fatturato entro il 2030. La proiezione si basa su una crescita delle vendite di appena il 10%. L'espansione dei margini spingerà l'utile netto a salire del 20% annuo. Ai prezzi attuali sotto quota 35 dollari, il rendimento atteso supera il 25%. I presupposti minimi bastano per offrire un eccellente profilo di rischio. Segui per l'aggiornamento.",
+   "ticker": "CELH",
+   "sentiment": "bullish",
+   "sources": [],
+   "caption": "Celsius scambia nella fascia dei 30 dollari mentre i modelli al 2030 indicano ricavi verso 4,8 miliardi. Anche con stime prudenti, la crescita degli utili rimane solida.",
+   "hashtags": [
+    "#Celsius",
+    "#AzioniGrowth",
+    "#Investimenti",
+    "#WallStreet",
+    "#Borsa"
+   ]
+  },
+  {
+   "title": "I giganti tech rischiano la trappola del debito per l'AI?",
+   "hook": "TRAPPOLA DEBITO TECH",
+   "beats": [
+    {
+     "say": "I colossi dell'intelligenza artificiale rischiano di trasformarsi in aziende iper indebitate.",
+     "show": "TRAPPOLA DEBITO TECH",
+     "figure": ""
+    },
+    {
+     "say": "Meta, Google e Amazon bruciano decine di miliardi in centri dati.",
+     "show": "CENTRI DATI RECORD",
+     "figure": ""
+    },
+    {
+     "say": "I vincoli comunali sulle reti elettriche possono rallentare i cantieri fino al 30%.",
+     "show": "STOP RETI ELETTRICHE",
+     "figure": "30%"
+    },
+    {
+     "say": "Senza ritorno sul capitale immediato, l'emissione di debito peserà sui bilanci futuri.",
+     "show": "DEBITO IN CRESCITA",
+     "figure": ""
+    },
+    {
+     "say": "Il modello leggero del software lascia spazio a investimenti pesantissimi. Segui per l'aggiornamento.",
+     "show": "CAPITAL INTENSIVE RISK",
+     "figure": ""
+    }
+   ],
+   "origin": "Jeremy Lefebvre",
+   "source_video": "I'm SELLING This Stock! Here's Why...",
+   "narration": "I colossi dell'intelligenza artificiale rischiano di trasformarsi in aziende iper indebitate. Meta, Google e Amazon bruciano decine di miliardi in centri dati. I vincoli comunali sulle reti elettriche possono rallentare i cantieri fino al 30%. Senza ritorno sul capitale immediato, l'emissione di debito peserà sui bilanci futuri. Il modello leggero del software lascia spazio a investimenti pesantissimi. Segui per l'aggiornamento.",
+   "ticker": null,
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Meta, Amazon e Alphabet affrontano costi colossali per sostenere la corsa all'intelligenza artificiale. I vincoli sulle infrastrutture e l'aumento del debito minacciano la redditività.",
+   "hashtags": [
+    "#BigTech",
+    "#IntelligenzaArtificiale",
+    "#DataCenter",
+    "#Debito",
+    "#BorsaUSA"
+   ]
+  }
+ ],
+ "en": [
+  {
+   "title": "Why Cashing Out Cheesecake Factory at $120 Makes Sense",
+   "hook": "CASHING OUT $144,000",
+   "beats": [
+    {
+     "say": "144,000 dollars cashed in after Cheesecake Factory surged to 120.",
+     "show": "CASHING OUT $144,000",
+     "figure": "$144,000"
+    },
+    {
+     "say": "The stock soared from its prior purchase prices in the 30s.",
+     "show": "RALLY FROM 30S",
+     "figure": "$30"
+    },
+    {
+     "say": "Aggressive surges steal returns from future years and compress potential upside.",
+     "show": "STEALING FUTURE RETURNS",
+     "figure": ""
+    },
+    {
+     "say": "Projected annual returns have slipped below 20% under baseline projections.",
+     "show": "CAGR UNDER 20%",
+     "figure": "20%"
+    },
+    {
+     "say": "Reallocating capital before momentum fades protects multi-year gains. Follow for tomorrow.",
+     "show": "REALLOCATING CAPITAL NOW",
+     "figure": ""
+    }
+   ],
+   "origin": "Jeremy Lefebvre",
+   "source_video": "I'm SELLING This Stock! Here's Why...",
+   "narration": "144,000 dollars cashed in after Cheesecake Factory surged to 120. The stock soared from its prior purchase prices in the 30s. Aggressive surges steal returns from future years and compress potential upside. Projected annual returns have slipped below 20% under baseline projections. Reallocating capital before momentum fades protects multi-year gains. Follow for tomorrow.",
+   "ticker": "CAKE",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Cheesecake Factory surged to 120 dollars, prompting a massive profit-taking exit. When multi-year returns get pulled forward, redeploying capital is essential.",
+   "hashtags": [
+    "#CheesecakeFactory",
+    "#StockMarket",
+    "#Investing",
+    "#WallStreet",
+    "#Stocks"
+   ]
+  },
+  {
+   "title": "Nvidia Net Margins at 60%: Are They Sustainable?",
+   "hook": "Nvidia 60% MARGINS",
+   "beats": [
+    {
+     "say": "Nvidia is generating unprecedented net profit margins close to 60%.",
+     "show": "Nvidia 60% MARGINS",
+     "figure": "60%"
+    },
+    {
+     "say": "The chipmaker booked 65 billion dollars in net income on 115 billion revenue.",
+     "show": "$65B NET INCOME",
+     "figure": "$65B"
+    },
+    {
+     "say": "Meanwhile AMD operates at a realistic and defensible 17% margin.",
+     "show": "AMD AT 17%",
+     "figure": "17%"
+    },
+    {
+     "say": "As capital expenditures tighten, margin compression becomes an unavoidable statistical reality.",
+     "show": "MARGIN COMPRESSION AHEAD",
+     "figure": ""
+    },
+    {
+     "say": "Peak profitability leaves zero safety margin if infrastructure spending slows. Follow for tomorrow.",
+     "show": "VULNERABLE PEAK VALUATION",
+     "figure": ""
+    }
+   ],
+   "origin": "Jeremy Lefebvre",
+   "source_video": "I'm SELLING This Stock! Here's Why...",
+   "narration": "Nvidia is generating unprecedented net profit margins close to 60%. The chipmaker booked 65 billion dollars in net income on 115 billion revenue. Meanwhile AMD operates at a realistic and defensible 17% margin. As capital expenditures tighten, margin compression becomes an unavoidable statistical reality. Peak profitability leaves zero safety margin if infrastructure spending slows. Follow for tomorrow.",
+   "ticker": "NVDA",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Nvidia converted 115 billion dollars of revenue into 65 billion in net profit. Historically, 60% net margins attract fierce competition and eventual compression.",
+   "hashtags": [
+    "#Nvidia",
+    "#Semiconductors",
+    "#TechStocks",
+    "#Investing",
+    "#AI"
+   ]
+  },
+  {
+   "title": "Wynn Resorts 5.7 Billion Dollar Middle East Bet",
+   "hook": "WYNN $5.7B PROJECT",
+   "beats": [
+    {
+     "say": "Wynn Resorts is building a 5.7 billion dollar resort catalyst.",
+     "show": "WYNN $5.7B PROJECT",
+     "figure": "$5.7B"
+    },
+    {
+     "say": "The luxury destination is expanding rapidly on Al Marjan Island.",
+     "show": "AL MARJAN ISLAND",
+     "figure": ""
+    },
+    {
+     "say": "Wynn retains a 40% equity stake designed to rapidly deleverage debt.",
+     "show": "40% EQUITY STAKE",
+     "figure": "40%"
+    },
+    {
+     "say": "The scheduled opening in September 2027 sets up an aggressive re-rating cycle.",
+     "show": "SEPTEMBER 2027 LAUNCH",
+     "figure": "2027"
+    },
+    {
+     "say": "Accumulating in the low 80s positions investors ahead of the expansion. Follow for tomorrow.",
+     "show": "BUYING LOW 80S",
+     "figure": "$80"
+    }
+   ],
+   "origin": "Jeremy Lefebvre",
+   "source_video": "I'm SELLING This Stock! Here's Why...",
+   "narration": "Wynn Resorts is building a 5.7 billion dollar resort catalyst. The luxury destination is expanding rapidly on Al Marjan Island. Wynn retains a 40% equity stake designed to rapidly deleverage debt. The scheduled opening in September 2027 sets up an aggressive re-rating cycle. Accumulating in the low 80s positions investors ahead of the expansion. Follow for tomorrow.",
+   "ticker": "WYNN",
+   "sentiment": "bullish",
+   "sources": [],
+   "caption": "Wynn Resorts holds 40% of a 5.7 billion dollar resort in the UAE opening September 2027. Early accumulation captures the hype cycle before valuation expands.",
+   "hashtags": [
+    "#WynnResorts",
+    "#StocksToWatch",
+    "#UAE",
+    "#WallStreet",
+    "#Investing"
+   ]
+  },
+  {
+   "title": "Netflix Targets $78 Billion Revenue by 2030",
+   "hook": "NETFLIX $78B TARGET",
+   "beats": [
+    {
+     "say": "Netflix is projected to generate 78 billion dollars by 2030.",
+     "show": "NETFLIX $78B TARGET",
+     "figure": "$78B"
+    },
+    {
+     "say": "Forecast models point toward 27.5 billion dollars in annual net income.",
+     "show": "$27.5B NET PROFIT",
+     "figure": "$27.5B"
+    },
+    {
+     "say": "Even applying a conservative price-to-earnings multiple between 25 and 30.",
+     "show": "25 TO 30 PE",
+     "figure": "25-30"
+    },
+    {
+     "say": "The estimated compound annual growth rate holds firm at 21%.",
+     "show": "21% ANNUAL COMPOUNDING",
+     "figure": "21%"
+    },
+    {
+     "say": "Cash flow dominance makes pullbacks prime opportunities for long-term compounding. Follow for tomorrow.",
+     "show": "LONG TERM WINNER",
+     "figure": ""
+    }
+   ],
+   "origin": "Jeremy Lefebvre",
+   "source_video": "I'm SELLING This Stock! Here's Why...",
+   "narration": "Netflix is projected to generate 78 billion dollars by 2030. Forecast models point toward 27.5 billion dollars in annual net income. Even applying a conservative price-to-earnings multiple between 25 and 30. The estimated compound annual growth rate holds firm at 21%. Cash flow dominance makes pullbacks prime opportunities for long-term compounding. Follow for tomorrow.",
+   "ticker": "NFLX",
+   "sentiment": "bullish",
+   "sources": [],
+   "caption": "Netflix multi-year models point to 78 billion dollars in revenue and 27.5 billion in net income by 2030. That supports a 21% annual return under baseline metrics.",
+   "hashtags": [
+    "#Netflix",
+    "#Stocks",
+    "#CompoundInterest",
+    "#Investing",
+    "#Tech"
+   ]
+  },
+  {
+   "title": "Celsius Valuation: $4.8 Billion Revenue by 2030",
+   "hook": "CELSIUS $4.8B TARGET",
+   "beats": [
+    {
+     "say": "Celsius targets nearly 4.8 billion dollars in revenue by 2030.",
+     "show": "CELSIUS $4.8B TARGET",
+     "figure": "$4.8B"
+    },
+    {
+     "say": "This model assumes an extremely conservative 10% annual sales growth.",
+     "show": "CONSERVATIVE 10% SALES",
+     "figure": "10%"
+    },
+    {
+     "say": "Operating leverage allows net income to expand at 20% annually.",
+     "show": "20% PROFIT GROWTH",
+     "figure": "20%"
+    },
+    {
+     "say": "With shares trading in the low 30s, compound returns reach mid-20s.",
+     "show": "BUYING LOW 30S",
+     "figure": "$30"
+    },
+    {
+     "say": "Discounted expectations make this valuation resilient against macroeconomic bumps. Follow for tomorrow.",
+     "show": "STRONG UPSIDE PROFILE",
+     "figure": ""
+    }
+   ],
+   "origin": "Jeremy Lefebvre",
+   "source_video": "I'm SELLING This Stock! Here's Why...",
+   "narration": "Celsius targets nearly 4.8 billion dollars in revenue by 2030. This model assumes an extremely conservative 10% annual sales growth. Operating leverage allows net income to expand at 20% annually. With shares trading in the low 30s, compound returns reach mid-20s. Discounted expectations make this valuation resilient against macroeconomic bumps. Follow for tomorrow.",
+   "ticker": "CELH",
+   "sentiment": "bullish",
+   "sources": [],
+   "caption": "Celsius models target 4.8 billion dollars in revenue by 2030 with conservative 10% top-line expansion. Trading in the low 30s, the stock offers mid-20s compounding.",
+   "hashtags": [
+    "#Celsius",
+    "#GrowthStocks",
+    "#Investing",
+    "#StockMarket",
+    "#Finance"
+   ]
+  },
+  {
+   "title": "Big Tech AI Capex: The Heavy Debt Trap",
+   "hook": "AI DEBT TRAP",
+   "beats": [
+    {
+     "say": "Tech hyperscalers are transforming into capital-intensive, debt-reliant infrastructure businesses.",
+     "show": "AI DEBT TRAP",
+     "figure": ""
+    },
+    {
+     "say": "Amazon, Meta, and Alphabet are pouring hundreds of billions into data facilities.",
+     "show": "MASSIVE INFRASTRUCTURE SPEND",
+     "figure": ""
+    },
+    {
+     "say": "Utility roadblocks could force a 10 to 30% construction slowdown.",
+     "show": "POWER GRID DELAYS",
+     "figure": "30%"
+    },
+    {
+     "say": "Diluting equity and issuing corporate debt threatens future shareholder return profiles.",
+     "show": "SHRINKING EQUITY RETURNS",
+     "figure": ""
+    },
+    {
+     "say": "Asset-light software margins are officially shifting toward heavy industrial liabilities. Follow for tomorrow.",
+     "show": "HIGH RISK TRANSFORMATION",
+     "figure": ""
+    }
+   ],
+   "origin": "Jeremy Lefebvre",
+   "source_video": "I'm SELLING This Stock! Here's Why...",
+   "narration": "Tech hyperscalers are transforming into capital-intensive, debt-reliant infrastructure businesses. Amazon, Meta, and Alphabet are pouring hundreds of billions into data facilities. Utility roadblocks could force a 10 to 30% construction slowdown. Diluting equity and issuing corporate debt threatens future shareholder return profiles. Asset-light software margins are officially shifting toward heavy industrial liabilities. Follow for tomorrow.",
+   "ticker": null,
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Big Tech is taking on debt and massive commitments to fund data center capacity. As municipal and energy limits emerge, return on invested capital faces real pressure.",
+   "hashtags": [
+    "#BigTech",
+    "#AIInfrastructure",
+    "#TechStocks",
+    "#WallStreet",
+    "#Capex"
+   ]
+  }
+ ],
+ "carousels": {
+  "it": {
+   "topic": "Rotazione di portafoglio e rischi AI",
+   "caption": "Ribilanciamento strategico del portafoglio: realizzi su Cheesecake Factory e nuovi acquisti su Celsius, Wynn e Netflix, mentre i margini Nvidia sollevano dubbi. Segui per l'aggiornamento.",
+   "sentiment": "neutral",
+   "ticker": null,
+   "slides": [
+    {
+     "title": "Rotazione portafoglio: realizzi e nuovi acquisti",
+     "body": "Ecco come redistribuire il capitale tagliando titoli surriscaldati e puntando sui trend pluriennali a sconto."
+    },
+    {
+     "title": "Incasso su Cheesecake Factory",
+     "body": "Liquidate 1.222 azioni a 120 dollari dopo la salita da 30. Quando i rialzi anticipano troppa crescita, monetizzare protegge il capitale."
+    },
+    {
+     "title": "Le scommesse su Celsius e Netflix",
+     "body": "Target 2030: Celsius punta a 4,8 miliardi di ricavi e Netflix a 78 miliardi, offrendo rendimenti composti superiori al 20% annuo."
+    },
+    {
+     "title": "Wynn e il polo negli Emirati",
+     "body": "Wynn Resorts detiene il 40% del mega resort da 5,7 miliardi ad Al Marjan in apertura a settembre 2027 per abbattere il debito."
+    },
+    {
+     "title": "L'anomalia dei margini Nvidia",
+     "body": "Nvidia incassa 65 miliardi di utile su 115 di fatturato: margini al 60% contro il 17% di AMD sono destinati a contrarsi."
+    },
+    {
+     "title": "La trappola del debito tech",
+     "body": "I colossi dell'intelligenza artificiale affrontano colli di bottiglia energetici e ingenti debiti per finanziare centri dati senza ritorni garantiti."
+    },
+    {
+     "title": "La sintesi operativa",
+     "body": "Prendere profitto sui picchi e reinvestire su catalizzatori concreti protegge il rendimento di lungo termine. Segui per l'aggiornamento."
+    }
+   ],
+   "hashtags": [
+    "#Investimenti",
+    "#BorsaUSA",
+    "#Azioni",
+    "#Portafoglio",
+    "#Nvidia",
+    "#WallStreet",
+    "#FinanzaPersonale",
+    "#MercatiFinanziari"
+   ]
+  },
+  "en": {
+   "topic": "Portfolio Rebalancing and AI Capex Risks",
+   "caption": "Strategic portfolio moves: locking in Cheesecake Factory gains, buying high-conviction plays like Celsius and Wynn, and watching Nvidia margin risks. Follow for tomorrow.",
+   "sentiment": "neutral",
+   "ticker": null,
+   "slides": [
+    {
+     "title": "Portfolio Rebalancing: Selling High, Buying Value",
+     "body": "Discover why taking profits on extended runners and rotating into asymmetric catalysts drives long-term returns."
+    },
+    {
+     "title": "Cashing Out Cheesecake Factory",
+     "body": "1,222 shares sold near 120 dollars after buying in the 30s. Rapid rallies steal future returns and demand disciplined profit-taking."
+    },
+    {
+     "title": "Compounding with Celsius and Netflix",
+     "body": "2030 targets point to 4.8 billion dollars for Celsius and 78 billion for Netflix, delivering projected annual returns above 20%."
+    },
+    {
+     "title": "Wynn Resorts UAE Catalyst",
+     "body": "Wynn holds 40% of a 5.7 billion dollar resort in the UAE opening September 2027 to rapidly deleverage balance sheet debt."
+    },
+    {
+     "title": "Nvidia Margin Sustainability Risk",
+     "body": "Nvidia converted 115 billion in revenue into 65 billion net income. Operating at 60% margins invites severe long-term compression."
+    },
+    {
+     "title": "Big Tech Capex Debt Trap",
+     "body": "Hyperscalers are morphing into capital-heavy debt issuers as utility bottlenecks and rising data center costs squeeze return on investment."
+    },
+    {
+     "title": "The Strategic Takeaway",
+     "body": "Pruning overextended winners to fund mispriced growth compounders remains the key to lasting outperformance. Follow for tomorrow."
+    }
+   ],
+   "hashtags": [
+    "#Investing",
+    "#StockMarket",
+    "#PortfolioManagement",
+    "#TechStocks",
+    "#Nvidia",
+    "#Celsius",
+    "#WallStreet",
+    "#Stocks"
+   ]
+  }
+ }
+}

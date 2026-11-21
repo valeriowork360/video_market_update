@@ -1,0 +1,652 @@
+{
+ "it": [
+  {
+   "title": "AMD verso 2.000 dollari entro il 2030?",
+   "hook": "AMD A 2.000$",
+   "beats": [
+    {
+     "say": "AMD punta a 195 miliardi di dollari di fatturato entro il 2030.",
+     "show": "AMD A 2.000$",
+     "figure": "195 miliardi $"
+    },
+    {
+     "say": "I ricavi e gli utili societari stimati indicano una crescita senza precedenti nei prossimi anni.",
+     "show": "CRESCITA RECORD",
+     "figure": ""
+    },
+    {
+     "say": "L'utile netto potrebbe raggiungere 95 miliardi con multipli di mercato compresi tra 20 e 35.",
+     "show": "UTILI A 95M",
+     "figure": "95 miliardi $"
+    },
+    {
+     "say": "Questi fondamentali posizionano il valore potenziale dell'azione tra 1.000 e 2.000 dollari.",
+     "show": "TARGET 2.000$",
+     "figure": "2.000 $"
+    },
+    {
+     "say": "L'espansione dei margini deciderà la corsa del titolo. Segui per aggiornamenti.",
+     "show": "MARGINI CHIAVE",
+     "figure": ""
+    }
+   ],
+   "origin": "Jeremy Lefebvre",
+   "source_video": "AMD Shareholders! Here's What Comes NEXT",
+   "narration": "AMD punta a 195 miliardi di dollari di fatturato entro il 2030. I ricavi e gli utili societari stimati indicano una crescita senza precedenti nei prossimi anni. L'utile netto potrebbe raggiungere 95 miliardi con multipli di mercato compresi tra 20 e 35. Questi fondamentali posizionano il valore potenziale dell'azione tra 1.000 e 2.000 dollari. L'espansione dei margini deciderà la corsa del titolo. Segui per aggiornamenti.",
+   "ticker": "AMD",
+   "sentiment": "bullish",
+   "sources": [],
+   "caption": "Le proiezioni per AMD mostrano una crescita massiccia dei ricavi verso il 2030. Segui per l'aggiornamento di domani.",
+   "hashtags": [
+    "#AMD",
+    "#azioni",
+    "#semiconduttori",
+    "#investimenti",
+    "#tecnologia",
+    "#borsa"
+   ]
+  },
+  {
+   "title": "AMD crolla di 250 dollari in un mese",
+   "hook": "CROLLO AMD -250$",
+   "beats": [
+    {
+     "say": "AMD è crollata da 650 a 400 dollari in soli trenta giorni.",
+     "show": "CROLLO AMD -250$",
+     "figure": "400 $"
+    },
+    {
+     "say": "Il titolo ha subito una volatilità brutale prima di rimbalzare a 530 dollari.",
+     "show": "RIMBALZO A 530$",
+     "figure": "530 $"
+    },
+    {
+     "say": "Gli algoritmi istituzionali generano fino all'80% dei volumi di scambio complessivi.",
+     "show": "80% ALGORITMI",
+     "figure": "80%"
+    },
+    {
+     "say": "Questi flussi automatici amplificano oscillazioni violente del prezzo slegate dai fondamentali operativi.",
+     "show": "VOLATILITÀ RECORD",
+     "figure": ""
+    },
+    {
+     "say": "La tenuta di quota 500 dollari definirà la struttura tecnica. Segui per aggiornamenti.",
+     "show": "LIVELLO 500$",
+     "figure": "500 $"
+    }
+   ],
+   "origin": "Jeremy Lefebvre",
+   "source_video": "AMD Shareholders! Here's What Comes NEXT",
+   "narration": "AMD è crollata da 650 a 400 dollari in soli trenta giorni. Il titolo ha subito una volatilità brutale prima di rimbalzare a 530 dollari. Gli algoritmi istituzionali generano fino all'80% dei volumi di scambio complessivi. Questi flussi automatici amplificano oscillazioni violente del prezzo slegate dai fondamentali operativi. La tenuta di quota 500 dollari definirà la struttura tecnica. Segui per aggiornamenti.",
+   "ticker": "AMD",
+   "sentiment": "neutral",
+   "sources": [],
+   "caption": "La massiccia presenza di trading algoritmico amplifica le violente oscillazioni su AMD. Segui per l'aggiornamento di domani.",
+   "hashtags": [
+    "#AMD",
+    "#trading",
+    "#volatilità",
+    "#finanza",
+    "#borse",
+    "#azioni"
+   ]
+  },
+  {
+   "title": "Nvidia perde il 28%: scossa ai vertici?",
+   "hook": "Nvidia -28%",
+   "beats": [
+    {
+     "say": "Nvidia ha perso il 28% nell'ultimo mese di contrattazioni.",
+     "show": "Nvidia -28%",
+     "figure": "-28%"
+    },
+    {
+     "say": "Il ribasso riflette timori crescenti sui costi operativi e investimenti di capitale.",
+     "show": "TIMORI SPESE",
+     "figure": ""
+    },
+    {
+     "say": "A pesare sono anche indiscrezioni non confermate sull'uscita del fondatore Jensen Huang.",
+     "show": "VOCI SUL CEO",
+     "figure": ""
+    },
+    {
+     "say": "Il ritiro del capitale istituzionale sta comprimendo la liquidità attorno ai supporti.",
+     "show": "FUTURO Nvidia",
+     "figure": ""
+    },
+    {
+     "say": "La reazione al ritracciamento segnerà l'intero comparto chip. Segui per aggiornamenti.",
+     "show": "SETTORE CHIP",
+     "figure": ""
+    }
+   ],
+   "origin": "Jeremy Lefebvre",
+   "source_video": "AMD Shareholders! Here's What Comes NEXT",
+   "narration": "Nvidia ha perso il 28% nell'ultimo mese di contrattazioni. Il ribasso riflette timori crescenti sui costi operativi e investimenti di capitale. A pesare sono anche indiscrezioni non confermate sull'uscita del fondatore Jensen Huang. Il ritiro del capitale istituzionale sta comprimendo la liquidità attorno ai supporti. La reazione al ritracciamento segnerà l'intero comparto chip. Segui per aggiornamenti.",
+   "ticker": "NVDA",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Forte contrazione per Nvidia tra revisione dei costi e rumor di vertice. Segui per l'aggiornamento di domani.",
+   "hashtags": [
+    "#Nvidia",
+    "#NVDA",
+    "#tech",
+    "#intelligenzaartificiale",
+    "#investire",
+    "#mercati"
+   ]
+  },
+  {
+   "title": "L'ETF SMH lega a doppio filo AMD e Nvidia",
+   "hook": "RISCHIO CONTAGIO ETF",
+   "beats": [
+    {
+     "say": "Nvidia e AMD rappresentano quasi il 24% dell'ETF SMH.",
+     "show": "RISCHIO CONTAGIO ETF",
+     "figure": "24%"
+    },
+    {
+     "say": "Nvidia pesa per il 17,1% mentre AMD costituisce il 6,6% dell'indice.",
+     "show": "PESO 17% E 6,6%",
+     "figure": "17,1%"
+    },
+    {
+     "say": "I riscatti generalizzati sull'ETF colpiscono entrambi i titoli a prescindere dai bilanci individuali.",
+     "show": "VENDITE AUTOMATICHE",
+     "figure": ""
+    },
+    {
+     "say": "Una correzione prolungata su Nvidia trascina meccanicamente al ribasso la quotazione di AMD.",
+     "show": "AMD SOTTO PRESSIONE",
+     "figure": ""
+    },
+    {
+     "say": "Monitorare la concentrazione del fondo è essenziale. Segui per aggiornamenti.",
+     "show": "OCCHIO ALL'ETF",
+     "figure": ""
+    }
+   ],
+   "origin": "Jeremy Lefebvre",
+   "source_video": "AMD Shareholders! Here's What Comes NEXT",
+   "narration": "Nvidia e AMD rappresentano quasi il 24% dell'ETF SMH. Nvidia pesa per il 17,1% mentre AMD costituisce il 6,6% dell'indice. I riscatti generalizzati sull'ETF colpiscono entrambi i titoli a prescindere dai bilanci individuali. Una correzione prolungata su Nvidia trascina meccanicamente al ribasso la quotazione di AMD. Monitorare la concentrazione del fondo è essenziale. Segui per aggiornamenti.",
+   "ticker": "SMH",
+   "sentiment": "neutral",
+   "sources": [],
+   "caption": "La concentrazione dell'ETF SMH crea un canale di contagio diretto tra Nvidia e AMD. Segui per l'aggiornamento di domani.",
+   "hashtags": [
+    "#ETF",
+    "#SMH",
+    "#AMD",
+    "#Nvidia",
+    "#finanza",
+    "#investimenti"
+   ]
+  },
+  {
+   "title": "Rischio CEO: fino a -30% di valore",
+   "hook": "RISCHIO CEO -30%",
+   "beats": [
+    {
+     "say": "L'addio di un CEO influente può distruggere il 30% del valore societario.",
+     "show": "RISCHIO CEO -30%",
+     "figure": "-30%"
+    },
+    {
+     "say": "Il rischio legato a figure chiave colpisce in particolare le aziende ad altissima concentrazione manageriale.",
+     "show": "IMPATTO VERTICI",
+     "figure": ""
+    },
+    {
+     "say": "Aziende come Tesla o Nvidia soffrono l'uscita dei fondatori molto più di realtà diversificate.",
+     "show": "TESLA E Nvidia",
+     "figure": "10-30%"
+    },
+    {
+     "say": "La perdita di fiducia del mercato porta a una rapida compressione dei multipli azionari.",
+     "show": "MULTIPLI A RISCHIO",
+     "figure": ""
+    },
+    {
+     "say": "La dipendenza da una sola figura rimane critica. Segui per aggiornamenti.",
+     "show": "VALUTA IL RISCHIO",
+     "figure": ""
+    }
+   ],
+   "origin": "Jeremy Lefebvre",
+   "source_video": "AMD Shareholders! Here's What Comes NEXT",
+   "narration": "L'addio di un CEO influente può distruggere il 30% del valore societario. Il rischio legato a figure chiave colpisce in particolare le aziende ad altissima concentrazione manageriale. Aziende come Tesla o Nvidia soffrono l'uscita dei fondatori molto più di realtà diversificate. La perdita di fiducia del mercato porta a una rapida compressione dei multipli azionari. La dipendenza da una sola figura rimane critica. Segui per aggiornamenti.",
+   "ticker": null,
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "La dipendenza da un singolo leader espone le aziende tecnologiche a perdite tra il 10% e il 30%. Segui per l'aggiornamento di domani.",
+   "hashtags": [
+    "#leadership",
+    "#CEO",
+    "#azioni",
+    "#finanza",
+    "#investimenti",
+    "#mercati"
+   ]
+  },
+  {
+   "title": "AMD supererà la crescita di Nvidia nel 2027?",
+   "hook": "AMD BATTE Nvidia?",
+   "beats": [
+    {
+     "say": "AMD potrebbe superare il tasso di crescita di Nvidia entro il 2027.",
+     "show": "AMD BATTE Nvidia?",
+     "figure": "2027"
+    },
+    {
+     "say": "La traiettoria industriale indica una convergenza favorevole nel fatturato dei microprocessori avanzati.",
+     "show": "CONVERGENZA RICAVI",
+     "figure": ""
+    },
+    {
+     "say": "L'espansione costante della quota di mercato offre una narrativa fondamentale più pulita e lineare.",
+     "show": "QUOTE DI MERCATO",
+     "figure": ""
+    },
+    {
+     "say": "La diversificazione dell'offerta protegge la marginalità operativa nel prossimo ciclo pluriennale.",
+     "show": "MARGINI SOLIDI",
+     "figure": ""
+    },
+    {
+     "say": "Il sorpasso percentuale cambierà le gerarchie dell'industria. Segui per aggiornamenti.",
+     "show": "NUOVE GERARCHIE",
+     "figure": ""
+    }
+   ],
+   "origin": "Jeremy Lefebvre",
+   "source_video": "AMD Shareholders! Here's What Comes NEXT",
+   "narration": "AMD potrebbe superare il tasso di crescita di Nvidia entro il 2027. La traiettoria industriale indica una convergenza favorevole nel fatturato dei microprocessori avanzati. L'espansione costante della quota di mercato offre una narrativa fondamentale più pulita e lineare. La diversificazione dell'offerta protegge la marginalità operativa nel prossimo ciclo pluriennale. Il sorpasso percentuale cambierà le gerarchie dell'industria. Segui per aggiornamenti.",
+   "ticker": "AMD",
+   "sentiment": "bullish",
+   "sources": [],
+   "caption": "AMD si prepara ad accelerare il passo rispetto ai concorrenti entro il 2027. Segui per l'aggiornamento di domani.",
+   "hashtags": [
+    "#AMD",
+    "#Nvidia",
+    "#chip",
+    "#crescita",
+    "#investire",
+    "#tecnologia"
+   ]
+  }
+ ],
+ "en": [
+  {
+   "title": "AMD targeting $2,000 by 2030?",
+   "hook": "AMD TO $2,000",
+   "beats": [
+    {
+     "say": "AMD targets up to $195 billion in annual revenue by 2030.",
+     "show": "AMD TO $2,000",
+     "figure": "$195B"
+    },
+    {
+     "say": "Projected earnings expansion points to historic fundamental growth over the current decade.",
+     "show": "RECORD EXPANSION",
+     "figure": ""
+    },
+    {
+     "say": "Net income could reach $95 billion with price to earnings multiples sustaining between 20 and 35.",
+     "show": "EARNINGS BOOM",
+     "figure": "$95B"
+    },
+    {
+     "say": "That scenario places fair valuation between $1,000 and $2,000 per share.",
+     "show": "$2,000 TARGET",
+     "figure": "$2,000"
+    },
+    {
+     "say": "Long term execution will settle the valuation range. Follow for updates.",
+     "show": "WATCH EXECUTION",
+     "figure": ""
+    }
+   ],
+   "origin": "Jeremy Lefebvre",
+   "source_video": "AMD Shareholders! Here's What Comes NEXT",
+   "narration": "AMD targets up to $195 billion in annual revenue by 2030. Projected earnings expansion points to historic fundamental growth over the current decade. Net income could reach $95 billion with price to earnings multiples sustaining between 20 and 35. That scenario places fair valuation between $1,000 and $2,000 per share. Long term execution will settle the valuation range. Follow for updates.",
+   "ticker": "AMD",
+   "sentiment": "bullish",
+   "sources": [],
+   "caption": "Long-term projections indicate AMD could scale toward historic revenue levels by 2030. Follow for tomorrow's update.",
+   "hashtags": [
+    "#AMD",
+    "#stocks",
+    "#semiconductors",
+    "#investing",
+    "#techstocks",
+    "#nasdaq"
+   ]
+  },
+  {
+   "title": "AMD drops $250 in thirty days",
+   "hook": "AMD CRASH -$250",
+   "beats": [
+    {
+     "say": "AMD plunged from $650 down to $400 within a single month.",
+     "show": "AMD CRASH -$250",
+     "figure": "$400"
+    },
+    {
+     "say": "Shares experienced severe whipsawing before recovering ground toward $530.",
+     "show": "REBOUND TO $530",
+     "figure": "$530"
+    },
+    {
+     "say": "Institutional algorithmic trading accounts for 70 to 80% of daily volume.",
+     "show": "80% ALGO TRADING",
+     "figure": "80%"
+    },
+    {
+     "say": "These automated programmatic flows trigger violent swings detached from basic corporate fundamentals.",
+     "show": "ARTIFICIAL SWINGS",
+     "figure": ""
+    },
+    {
+     "say": "Holding support at $500 determines the trend. Follow for updates.",
+     "show": "KEY SUPPORT $500",
+     "figure": "$500"
+    }
+   ],
+   "origin": "Jeremy Lefebvre",
+   "source_video": "AMD Shareholders! Here's What Comes NEXT",
+   "narration": "AMD plunged from $650 down to $400 within a single month. Shares experienced severe whipsawing before recovering ground toward $530. Institutional algorithmic trading accounts for 70 to 80% of daily volume. These automated programmatic flows trigger violent swings detached from basic corporate fundamentals. Holding support at $500 determines the trend. Follow for updates.",
+   "ticker": "AMD",
+   "sentiment": "neutral",
+   "sources": [],
+   "caption": "Institutional algorithms driving massive intraday swings explain AMD's volatility. Follow for tomorrow's update.",
+   "hashtags": [
+    "#AMD",
+    "#stockmarket",
+    "#trading",
+    "#volatility",
+    "#nasdaq",
+    "#investing"
+   ]
+  },
+  {
+   "title": "Nvidia plunges 28% amid leadership rumors",
+   "hook": "Nvidia PLUNGES -28%",
+   "beats": [
+    {
+     "say": "Nvidia shares plunged 28% over the past thirty days.",
+     "show": "Nvidia PLUNGES -28%",
+     "figure": "-28%"
+    },
+    {
+     "say": "Intense downward pressure followed mounting concerns regarding heavy ongoing capital expenditures.",
+     "show": "CAPEX WORRIES",
+     "figure": ""
+    },
+    {
+     "say": "Unconfirmed reports pointing to CEO Jensen Huang potentially departing amplified the selloff.",
+     "show": "LEADERSHIP RUMORS",
+     "figure": ""
+    },
+    {
+     "say": "Institutional players reduced exposure while short term speculative interest rapidly dried up.",
+     "show": "INSTITUTIONS EXIT",
+     "figure": ""
+    },
+    {
+     "say": "Stabilization here is vital for chip market sentiment. Follow for updates.",
+     "show": "WATCH SENTIMENT",
+     "figure": ""
+    }
+   ],
+   "origin": "Jeremy Lefebvre",
+   "source_video": "AMD Shareholders! Here's What Comes NEXT",
+   "narration": "Nvidia shares plunged 28% over the past thirty days. Intense downward pressure followed mounting concerns regarding heavy ongoing capital expenditures. Unconfirmed reports pointing to CEO Jensen Huang potentially departing amplified the selloff. Institutional players reduced exposure while short term speculative interest rapidly dried up. Stabilization here is vital for chip market sentiment. Follow for updates.",
+   "ticker": "NVDA",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Nvidia drops 28% as capex concerns and unconfirmed executive rumors rattle investors. Follow for tomorrow's update.",
+   "hashtags": [
+    "#Nvidia",
+    "#NVDA",
+    "#stocks",
+    "#semiconductors",
+    "#marketcrash",
+    "#tech"
+   ]
+  },
+  {
+   "title": "SMH ETF links AMD directly to Nvidia selloffs",
+   "hook": "SMH ETF RISK",
+   "beats": [
+    {
+     "say": "Nvidia and AMD make up nearly 24% of ETF SMH.",
+     "show": "SMH ETF RISK",
+     "figure": "24%"
+    },
+    {
+     "say": "Nvidia commands 17.1% weighting while AMD accounts for 6.6%.",
+     "show": "HEAVY WEIGHTING",
+     "figure": "17.1%"
+    },
+    {
+     "say": "Mass fund redemptions trigger forced indiscriminate selling across all underlying holdings simultaneously.",
+     "show": "FORCED SELLING",
+     "figure": ""
+    },
+    {
+     "say": "Any extended correction in Nvidia directly creates mechanical selling pressure on AMD.",
+     "show": "AMD DRAGGED DOWN",
+     "figure": ""
+    },
+    {
+     "say": "Fund composition dictates price action during panics. Follow for updates.",
+     "show": "MONITOR EXPOSURE",
+     "figure": ""
+    }
+   ],
+   "origin": "Jeremy Lefebvre",
+   "source_video": "AMD Shareholders! Here's What Comes NEXT",
+   "narration": "Nvidia and AMD make up nearly 24% of ETF SMH. Nvidia commands 17.1% weighting while AMD accounts for 6.6%. Mass fund redemptions trigger forced indiscriminate selling across all underlying holdings simultaneously. Any extended correction in Nvidia directly creates mechanical selling pressure on AMD. Fund composition dictates price action during panics. Follow for updates.",
+   "ticker": "SMH",
+   "sentiment": "neutral",
+   "sources": [],
+   "caption": "High concentration in the SMH semiconductor ETF creates severe contagion risk. Follow for tomorrow's update.",
+   "hashtags": [
+    "#SMH",
+    "#ETF",
+    "#Nvidia",
+    "#AMD",
+    "#investing",
+    "#stockmarket"
+   ]
+  },
+  {
+   "title": "Key person risk can wipe out 30% of valuation",
+   "hook": "KEY PERSON RISK",
+   "beats": [
+    {
+     "say": "Key executive departures can erase up to 30% of market valuation.",
+     "show": "KEY PERSON RISK",
+     "figure": "30%"
+    },
+    {
+     "say": "Key person risk severely threatens corporations built entirely around charismatic founder leadership.",
+     "show": "FOUNDER DEPENDENCY",
+     "figure": ""
+    },
+    {
+     "say": "Firms like Tesla and Nvidia carry far higher valuation vulnerability than diversified conglomerates.",
+     "show": "VALUATION THREAT",
+     "figure": "10-30%"
+    },
+    {
+     "say": "Losing an iconic leader triggers immediate multiple compression across global institutional portfolios.",
+     "show": "MULTIPLE COLLAPSE",
+     "figure": ""
+    },
+    {
+     "say": "Corporate succession structures determine long term safety. Follow for updates.",
+     "show": "CHECK SUCCESSION",
+     "figure": ""
+    }
+   ],
+   "origin": "Jeremy Lefebvre",
+   "source_video": "AMD Shareholders! Here's What Comes NEXT",
+   "narration": "Key executive departures can erase up to 30% of market valuation. Key person risk severely threatens corporations built entirely around charismatic founder leadership. Firms like Tesla and Nvidia carry far higher valuation vulnerability than diversified conglomerates. Losing an iconic leader triggers immediate multiple compression across global institutional portfolios. Corporate succession structures determine long term safety. Follow for updates.",
+   "ticker": null,
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Sudden executive departures can cause 10 to 30% drops in market capitalization. Follow for tomorrow's update.",
+   "hashtags": [
+    "#stocks",
+    "#leadership",
+    "#investing",
+    "#riskmanagement",
+    "#markets",
+    "#finance"
+   ]
+  },
+  {
+   "title": "Will AMD growth outpace Nvidia by 2027?",
+   "hook": "AMD BEATS Nvidia",
+   "beats": [
+    {
+     "say": "AMD revenue growth is on track to outpace Nvidia by 2027.",
+     "show": "AMD BEATS Nvidia",
+     "figure": "2027"
+    },
+    {
+     "say": "Market share gains across enterprise computing point toward sustained operational acceleration.",
+     "show": "GROWTH OVERTAKE",
+     "figure": ""
+    },
+    {
+     "say": "AMD presents expanding profit margins without the severe leadership headwinds facing competitors.",
+     "show": "CLEAN NARRATIVE",
+     "figure": ""
+    },
+    {
+     "say": "The multiyear timeline favors predictable compound growth over short term momentum spikes.",
+     "show": "LONG TERM ADVANTAGE",
+     "figure": ""
+    },
+    {
+     "say": "Growth divergence will reshape semiconductor leadership. Follow for updates.",
+     "show": "WATCH 2027",
+     "figure": ""
+    }
+   ],
+   "origin": "Jeremy Lefebvre",
+   "source_video": "AMD Shareholders! Here's What Comes NEXT",
+   "narration": "AMD revenue growth is on track to outpace Nvidia by 2027. Market share gains across enterprise computing point toward sustained operational acceleration. AMD presents expanding profit margins without the severe leadership headwinds facing competitors. The multiyear timeline favors predictable compound growth over short term momentum spikes. Growth divergence will reshape semiconductor leadership. Follow for updates.",
+   "ticker": "AMD",
+   "sentiment": "bullish",
+   "sources": [],
+   "caption": "Projections indicate AMD percentage revenue growth could surpass Nvidia by 2027. Follow for tomorrow's update.",
+   "hashtags": [
+    "#AMD",
+    "#Nvidia",
+    "#semiconductors",
+    "#growthstocks",
+    "#techstocks",
+    "#investing"
+   ]
+  }
+ ],
+ "carousels": {
+  "it": {
+   "topic": "AMD vs Nvidia verso il 2030",
+   "caption": "Dalle proiezioni di fatturato a 195 miliardi ai rischi sistemici dell'ETF SMH: ecco i numeri chiave su AMD e Nvidia. Segui per l'aggiornamento di domani.",
+   "sentiment": "bullish",
+   "ticker": "AMD",
+   "slides": [
+    {
+     "title": "AMD verso 2.000 dollari entro 2030",
+     "body": "Ecco l'analisi completa su target di bilancio, volatilità e confronto strategico con Nvidia."
+    },
+    {
+     "title": "Target 195 miliardi",
+     "body": "Il fatturato di AMD punta a 195 miliardi entro il 2030, con utili stimati a 95 miliardi e target azionario fino a 2.000 dollari."
+    },
+    {
+     "title": "Impatto algoritmico",
+     "body": "Il recente crollo da 650 a 400 dollari riflette flussi algoritmici che rappresentano l'80% degli scambi giornalieri sul titolo."
+    },
+    {
+     "title": "Scossa su Nvidia",
+     "body": "Nvidia ha perso il 28% in un mese tra timori su investimenti di capitale e voci non confermate sul vertice aziendale."
+    },
+    {
+     "title": "Contagio ETF SMH",
+     "body": "Nvidia pesa per il 17,1% e AMD per il 6,6% nell'ETF SMH, trasmettendo automaticamente le vendite su tutto il comparto."
+    },
+    {
+     "title": "Sorpasso nel 2027",
+     "body": "La percentuale di crescita del fatturato di AMD è proiettata a superare quella di Nvidia entro il 2027 con margini in espansione."
+    },
+    {
+     "title": "La visione di lungo termine",
+     "body": "I fondamentali di AMD mostrano forza strutturale oltre le fluttuazioni di breve termine. Segui per aggiornamenti."
+    }
+   ],
+   "hashtags": [
+    "#AMD",
+    "#Nvidia",
+    "#investimenti",
+    "#semiconduttori",
+    "#borsa",
+    "#azioni",
+    "#ETF",
+    "#finanza"
+   ]
+  },
+  "en": {
+   "topic": "AMD long term outlook vs Nvidia",
+   "caption": "From $195 billion revenue projections to ETF contagion and growth metrics: the full structural breakdown between AMD and Nvidia. Follow for tomorrow's update.",
+   "sentiment": "bullish",
+   "ticker": "AMD",
+   "slides": [
+    {
+     "title": "AMD targeting $2,000 by 2030",
+     "body": "Here is the structural breakdown of revenue models, volatility catalysts, and the rivalry with Nvidia."
+    },
+    {
+     "title": "Revenue toward $195B",
+     "body": "Projections place AMD revenue near $195 billion by 2030, driving net income to $95 billion and shares up to $2,000."
+    },
+    {
+     "title": "Algorithmic swings",
+     "body": "The sharp drop from $650 to $400 was magnified by institutional algorithms representing 80% of daily market volume."
+    },
+    {
+     "title": "Nvidia pulls back 28%",
+     "body": "Nvidia declined 28% over one month amid soaring capital expenditures and unconfirmed executive departure speculation."
+    },
+    {
+     "title": "SMH ETF exposure",
+     "body": "Nvidia at 17.1% and AMD at 6.6% in ETF SMH create mechanical selling pressure during index redemptions."
+    },
+    {
+     "title": "2027 growth flip",
+     "body": "AMD percentage revenue growth is projected to surpass Nvidia by 2027 backed by expanding margins."
+    },
+    {
+     "title": "The long term roadmap",
+     "body": "AMD fundamentals point to compound expansion through short term volatility. Follow for updates."
+    }
+   ],
+   "hashtags": [
+    "#AMD",
+    "#Nvidia",
+    "#stocks",
+    "#semiconductors",
+    "#investing",
+    "#nasdaq",
+    "#finance",
+    "#tech"
+   ]
+  }
+ }
+}
