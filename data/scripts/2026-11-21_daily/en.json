@@ -1,0 +1,166 @@
+{
+ "title": "S&P 500 Enters Correction as Bitcoin Drops Below $57K",
+ "description": "Wall Street enters correction territory following a $2.3 trillion tech wipeout.\nBitcoin breaks below $57,000 while commodities and equities face heavy selling.\nCybersecurity M&A stirs as Signal blocks AI agent screenshot access.\nAnalysis inspired by Jeremy Lefebvre Clips, Jason Pizzino, Michael Pizzino, and Marco Casario EXTRA.",
+ "tags": [
+  "S&P 500",
+  "Nasdaq",
+  "Bitcoin",
+  "Nvidia",
+  "Stock Market",
+  "Market Correction",
+  "Crypto",
+  "Ethereum",
+  "Gold",
+  "Cybersecurity",
+  "Finance News",
+  "Daily Briefing"
+ ],
+ "thumbnail_text": "MARKET CORRECTION $57K BTC",
+ "mood": "urgent",
+ "segments": [
+  {
+   "id": "s1",
+   "kind": "hook",
+   "heading": "Global Markets Collapse",
+   "narration": "Wall Street suffered its worst weekly losses since 2020 as the S&P 500 slipped into official correction territory during a historic technology selloff. Bitcoin tanked below $57,000 while commodities unwound rapidly. Meanwhile, major cybersecurity consolidation stirs amid growing private AI agent concerns.",
+   "bullets": [
+    "S&P 500 enters correction",
+    "Bitcoin drops below $57,000",
+    "Tech wipeout erases 2026 gains"
+   ],
+   "ticker": "^GSPC",
+   "sentiment": "bearish",
+   "sources": [
+    "Jeremy Lefebvre Clips",
+    "Jason Pizzino",
+    "Michael Pizzino"
+   ]
+  },
+  {
+   "id": "s2",
+   "kind": "market",
+   "heading": "Deep Market Correction",
+   "narration": "Global financial markets faced severe liquidations across all major asset classes. The S&P 500 plunged 3.7% in a single session, ending down 8.6% for the week at 6,910. The Nasdaq Composite tumbled 5.3% to 22,618, erasing its gains for the entire year. The Dow Jones fell 1.9% to 48,147, placing all major US stock benchmarks into official correction territory. In European markets, the FTSE MIB declined 2.5% to 48,704, and the Euro Stoxx 50 lost 2.8% to 5,942. Wall Street's fear gauge, the VIX, surged 26% in a single day to reach 36. Benchmark US 10-year Treasury yields slipped to 4.9%, while crude oil hovered near $83 per barrel.",
+   "bullets": [
+    "S&P 500 drops 3.7%",
+    "Nasdaq plummets 5.3%",
+    "VIX spikes 26% to 36",
+    "Dow Jones down 1.9%"
+   ],
+   "ticker": "^GSPC",
+   "sentiment": "bearish",
+   "sources": [
+    "MarketWatch",
+    "Yahoo Finance",
+    "Marco Casario EXTRA"
+   ]
+  },
+  {
+   "id": "s3",
+   "kind": "topic",
+   "heading": "Tech Megacaps Plummet",
+   "narration": "Technology equities suffered a staggering $2.3 trillion weekly wipeout, triggering widespread de-rating across AI-linked hardware and software names. Nvidia plunged 14% on Friday, completing its longest weekly losing stretch since the 2008 financial crisis. The abrupt leadership transition following former CEO Jensen Huang's departure continues to create long-term cultural and strategic uncertainty, despite strong underlying revenue growth exceeding 100% and gross profit surging 107%. Valuation metrics across the tech sector are compressing significantly. High-growth semiconductor giants now trade at discounted earnings multiples compared to traditional consumer staples like Procter & Gamble. Newly listed Anthropic also felt the pressure, falling 8.5% to near its IPO price as initial trading enthusiasm cooled. Should technical weakness persist, institutional buyers will monitor key technical support zones near 7,120 on the S&P 500 and lower levels across the Nasdaq.",
+   "bullets": [
+    "Chip stocks lose $2.3 trillion",
+    "Nvidia plunges 14% this week",
+    "Anthropic drops 8.5% post-IPO"
+   ],
+   "ticker": "NVDA",
+   "sentiment": "bearish",
+   "sources": [
+    "Jeremy Lefebvre Clips",
+    "Michael Pizzino",
+    "MarketWatch",
+    "CNBC"
+   ]
+  },
+  {
+   "id": "s4",
+   "kind": "topic",
+   "heading": "Bitcoin Breaks Support",
+   "narration": "Cryptocurrency markets encountered aggressive liquidation as Bitcoin breached critical technical support levels. Bitcoin dropped 9.6% in 24 hours to trade at $55,982, marking a 14% weekly fall and extending its prolonged correction from earlier record highs near $86,000. Ethereum plummeted 11.4% to $1,554, reflecting deep risk-off positioning across altcoin markets. Macro distribution structures suggest sustained selling pressure following historic institutional ETF inflows in earlier months, bringing the broader bear market duration past 400 days. If Bitcoin fails to build a floor above current levels, lower structural support between $53,000 and $57,000 remains vulnerable to retests. However, extreme volume spikes and capitulation selling could prompt a temporary short-squeeze relief rally toward $67,000 before a lasting market bottom can form.",
+   "bullets": [
+    "Bitcoin down 9.6% to $55,982",
+    "Ethereum falls 11.4% to $1,554",
+    "Crypto bear market deepens"
+   ],
+   "ticker": "BTC-USD",
+   "sentiment": "bearish",
+   "sources": [
+    "Jason Pizzino",
+    "Michael Pizzino",
+    "CoinDesk"
+   ]
+  },
+  {
+   "id": "s5",
+   "kind": "topic",
+   "heading": "Commodities Unwind Rapidly",
+   "narration": "Commodity markets experienced major drawdowns alongside global risk assets. Gold slipped 4.0% to $3,539 per ounce, breaking below intermediate support near $3,900, while silver fell below $40 per ounce. Industrial metals like copper also saw severe breakdown patterns, signaling broader capital unwinding across physical markets. Crude oil closed at $83 per barrel, down 20% over the past month despite a modest 0.2% intraday uptick. Long-term inflation expectations remain relatively calm, with the US 5-year breakeven rate sitting at 2.22%, even as consumer inflation figures in Europe stay elevated, with Italian inflation reaching 5.5% in October. Investors are actively adjusting exposure by rebalancing out of high-volatility technology shares and allocating toward defensive sectors like utilities and cash.",
+   "bullets": [
+    "Gold drops 4.0% to $3,539",
+    "Crude oil holding near $83",
+    "Italian inflation reaches 5.5%"
+   ],
+   "ticker": "GC=F",
+   "sentiment": "bearish",
+   "sources": [
+    "Jason Pizzino",
+    "Marco Casario EXTRA",
+    "Michael Pizzino"
+   ]
+  },
+  {
+   "id": "s6",
+   "kind": "topic",
+   "heading": "Consolidation and AI Safeguards",
+   "narration": "Amid broader equity weakness, cybersecurity infrastructure remains a top focus for enterprise dealmakers. Unconfirmed reports indicate CrowdStrike is in active talks to acquire Zscaler, driving Zscaler shares up 18% despite heavy market-wide losses. Consolidation in cybersecurity reflects urgent corporate demand for unified platforms capable of monitoring autonomous software networks. Simultaneously, consumer applications are taking direct operational measures to address AI agent risks. Encrypted messaging service Signal introduced strict screenshot restrictions designed specifically to prevent autonomous AI agents from accessing private user message logs without explicit user consent. These corporate strategic moves and software updates illustrate how technology platforms are taking swift action to secure sensitive data and reinforce network architecture during shifting security conditions.",
+   "bullets": [
+    "Zscaler jumps 18% on buy talks",
+    "CrowdStrike eyes expansion",
+    "Signal restricts AI screenshot access"
+   ],
+   "ticker": "CRWD",
+   "sentiment": "bullish",
+   "sources": [
+    "Investing.com",
+    "CNBC"
+   ]
+  },
+  {
+   "id": "s7",
+   "kind": "ahead",
+   "heading": "Key Events Next Week",
+   "narration": "Looking ahead to the coming weeks, several key market catalysts and economic milestones will take center stage for investors. Amazon begins its major re:Invent cloud conference on November 30, where enterprise cloud software developments and artificial intelligence deployments will be closely evaluated. In early December, semiconductor capital allocation will be in focus, with Micron expected to announce updates regarding potential share buybacks. Consumer spending health will be measured through Black Friday sales data, supported by Thanksgiving gas prices that are down 75 cents from their peak levels this year. Investors will keep a close watch on bond market yields and central bank policy indications as equity indices test long-term correction levels.",
+   "bullets": [
+    "Amazon re:Invent starts Nov 30",
+    "Micron buyback updates expected",
+    "Black Friday retail data ahead"
+   ],
+   "ticker": "AMZN",
+   "sentiment": "neutral",
+   "sources": [
+    "Jeremy Lefebvre Clips",
+    "Yahoo Finance",
+    "Investing.com"
+   ]
+  },
+  {
+   "id": "s8",
+   "kind": "outro",
+   "heading": "Daily Briefing Summary",
+   "narration": "This video is for informational purposes only and does not constitute financial advice. Follow for tomorrow's update to stay fully informed on global market movements.",
+   "bullets": [
+    "Not financial advice",
+    "Follow for tomorrow's briefing"
+   ],
+   "ticker": null,
+   "sentiment": "neutral",
+   "sources": []
+  }
+ ],
+ "words": 769,
+ "model": "gemini-3.6-flash",
+ "n_notes": 4,
+ "n_news": 222
+}

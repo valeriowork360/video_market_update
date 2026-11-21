@@ -1,0 +1,172 @@
+{
+ "title": "Crollo di Wall Street: Nasdaq -5%, Bitcoin affonda e VIX a 36",
+ "description": "I mercati globali precipitano in correzione con un'ondata di vendite sul settore tech guidata da Nvidia e Anthropic.\nBitcoin perde i 56.000 dollari mentre l'indice VIX schizza a quota 36 punti.\nAnalisi dei livelli tecnici su S&P 500, materie prime e rotazione settoriale.\nFonti: Jeremy Lefebvre Clips, Jason Pizzino, Michael Pizzino, Marco Casario EXTRA.",
+ "tags": [
+  "Wall Street",
+  "S&P 500",
+  "Nasdaq",
+  "Bitcoin",
+  "Nvidia",
+  "Mercati Finanziari",
+  "VIX",
+  "Oro",
+  "Borsa Oggi",
+  "Criptovalute"
+ ],
+ "thumbnail_text": "Wall Street CROLLA",
+ "mood": "urgent",
+ "segments": [
+  {
+   "id": "s1",
+   "kind": "hook",
+   "heading": "Wall Street entra in correzione",
+   "narration": "Il crollo tecnologico trascina Wall Street nella peggiore settimana dal duemilaventi. L'indice S&P 500 scivola ufficialmente in correzione, mentre il Nasdaq perde oltre il cinque percento in una sola seduta. Al tempo stesso Bitcoin affonda sotto cinquantaseimila dollari e l'indice VIX sale fino a trentasei punti.",
+   "bullets": [
+    "Nasdaq in caduta del 5,3%",
+    "S&P 500 in correzione tecnica",
+    "Bitcoin sotto 56.000 dollari"
+   ],
+   "ticker": "^IXIC",
+   "sentiment": "bearish",
+   "sources": [
+    "Jeremy Lefebvre Clips",
+    "Jason Pizzino",
+    "Michael Pizzino"
+   ]
+  },
+  {
+   "id": "s2",
+   "kind": "market",
+   "heading": "I numeri del sell-off",
+   "narration": "I listini americani registrano un'ondata violenta di vendite. L'indice S&P 500 chiude a 6.910 punti con un calo del 3,7%, portando la flessione a cinque giorni all'8,6%. Il Nasdaq Composite crolla del 5,3% a quota 22.618, cancellando l'intero rialzo del duemilaventisei. Il Dow Jones cede l'1,9% a 48.147 punti. In Europa il FTSE MIB arretra del 2,5% a 48.704 punti, mentre l'Euro Stoxx 50 flette del 2,8% a 5.942. L'indice della volatilità VIX vola del 26,2% a quota 36 punti, mentre il rendimento del decennale americano scende al 4,91% per effetto della fuga verso i titoli governativi.",
+   "bullets": [
+    "S&P 500 a 6.910 (-3,7%)",
+    "Nasdaq a 22.618 (-5,3%)",
+    "VIX schizza a 35,9 punti",
+    "US 10Y scende a 4,91%"
+   ],
+   "ticker": "^GSPC",
+   "sentiment": "bearish",
+   "sources": [
+    "Michael Pizzino",
+    "Jason Pizzino"
+   ]
+  },
+  {
+   "id": "s3",
+   "kind": "topic",
+   "heading": "Il tracollo del settore tech",
+   "narration": "Il comparto dei semiconduttori brucia oltre duemila miliardi di dollari in cinque giorni. Nvidia accusa un calo del 14% e registra la striscia ribassista settimanale più lunga dalla crisi del duemilaotto. Nonostante ricavi trimestrali ancora in raddoppio, la transizione manageriale e l'uscita del fondatore aprono una fase di riprezzamento dei multipli. Il rischio concreto è una compressione strutturale delle valutazioni, simile a quanto accaduto storicamente ad altre grandi aziende tecnologiche private della guida originale. Anche il recente debutto di Anthropic fallisce nel rianimare il comparto: il titolo cede l'8,5% riavvicinando il prezzo di collocamento. In controtendenza spicca Zscaler, che guadagna il 18% dopo indiscrezioni su trattative di acquisizione da parte di CrowdStrike.",
+   "bullets": [
+    "Nvidia perde il 14%",
+    "Anthropic scivola verso prezzo IPO",
+    "Zscaler sale su rumor CrowdStrike"
+   ],
+   "ticker": "NVDA",
+   "sentiment": "bearish",
+   "sources": [
+    "Jeremy Lefebvre Clips",
+    "Michael Pizzino"
+   ]
+  },
+  {
+   "id": "s4",
+   "kind": "topic",
+   "heading": "S&P 500 e supporti tecnici",
+   "narration": "La rottura del ritracciamento del cinquanta percento a 7.870 punti sui contratti futures ha accelerato la liquidazione delle posizioni su Wall Street. La caduta dell'indice S&P 500 evidenzia una tipica fase correttiva dopo un ciclo espansivo prolungato. I volumi insolitamente elevati registrati sul finale di seduta segnalano una prima ondata di capitolazione, ma non una fine del ribasso. Senza una stabilizzazione sostenuta e la riconquista di 7.120 punti, il percorso tecnico rimane vulnerabile a nuovi affondi verso l'area dei 6.800 punti o verso quota 6.700, livello coincidente con una correzione complessiva del quindici percento.",
+   "bullets": [
+    "Rotto il supporto a 7.870 punti",
+    "Primi segnali di capitolazione tecnica",
+    "Rischio discesa verso 6.700 punti"
+   ],
+   "ticker": "^GSPC",
+   "sentiment": "bearish",
+   "sources": [
+    "Michael Pizzino",
+    "Jason Pizzino",
+    "Jeremy Lefebvre Clips"
+   ]
+  },
+  {
+   "id": "s5",
+   "kind": "topic",
+   "heading": "Cripto sotto pressione continua",
+   "narration": "Il comparto delle criptovalute amplia le perdite e rompe i supporti di medio termine. Bitcoin cede il 9,6% scivolando a 55.982 dollari, con una flessione del 14,3% nell'arco di cinque giorni. La perdita del livello chiave a 63.000 dollari ha innescato liquidazioni automatiche diffuse. Il movimento ribassista in corso ha portato la fase correttiva a superare i quattrocento giorni di durata complessiva. Finché il prezzo rimane al di sotto di 60.000 dollari, la struttura tecnica punta al test della fascia tra 53.000 e 50.000 dollari. Anche Ethereum affonda violentemente, segnando un ribasso dell'11,4% a 1.554 dollari.",
+   "bullets": [
+    "Bitcoin a 55.982 dollari (-9,6%)",
+    "Ethereum flette a 1.554 dollari",
+    "Fascia critica tra 53.000 e 50.000"
+   ],
+   "ticker": "BTC-USD",
+   "sentiment": "bearish",
+   "sources": [
+    "Jason Pizzino",
+    "Michael Pizzino"
+   ]
+  },
+  {
+   "id": "s6",
+   "kind": "topic",
+   "heading": "Oro, petrolio e macroeconomia",
+   "narration": "La correzione non risparmia i metalli preziosi. L'oro scende del 4% fermandosi a 3.539 dollari l'oncia, estendendo la rottura del supporto a 3.900 dollari e aprendo a possibili estensioni ribassiste verso l'area di 3.300 dollari. Sul fronte macroeconomico, l'inflazione italiana al 5,5% evidenzia pressioni ancora rigide, mentre il tasso di inflazione breakeven a cinque anni scende al 2,22%, disegnando un'inversione della curva delle aspettative. Il petrolio WTI rimane a 83,41 dollari al barile ma sconta una contrazione del venti percento nell'ultimo mese. Questo quadro macro favorisce un ribilanciamento da titoli a multipli elevati verso settori difensivi come le utility.",
+   "bullets": [
+    "Oro a 3.539 dollari (-4,0%)",
+    "Inflazione italiana al 5,5%",
+    "Petrolio WTI stabile a 83,41$"
+   ],
+   "ticker": "GC=F",
+   "sentiment": "bearish",
+   "sources": [
+    "Marco Casario EXTRA",
+    "Jason Pizzino"
+   ]
+  },
+  {
+   "id": "s7",
+   "kind": "ahead",
+   "heading": "I catalizzatori dei prossimi giorni",
+   "narration": "Nelle prossime giornate il calendario riserva test cruciali per misurare la tenuta dei mercati. Il trenta novembre prenderà il via la conferenza annuale Amazon re:Invent, evento chiave per verificare le prospettive della divisione cloud e dell'infrastruttura di calcolo. A inizio dicembre si attende la comunicazione di Micron riguardo all'avvio del piano di riacquisto di azioni proprie, considerato un possibile indicatore per l'intero comparto delle memorie. Infine, i dati sulle vendite del fine settimana del Black Friday forniranno il primo riscontro effettivo sullo stato dei consumi privati.",
+   "bullets": [
+    "30 novembre: Amazon re:Invent",
+    "Inizio dicembre: buyback Micron",
+    "Focus sulle vendite del Black Friday"
+   ],
+   "ticker": null,
+   "sentiment": "neutral",
+   "sources": [
+    "Jeremy Lefebvre Clips"
+   ]
+  },
+  {
+   "id": "s8",
+   "kind": "curious",
+   "heading": "Signal blocca gli screenshot anti-AI",
+   "narration": "L'applicazione di messaggistica Signal ha introdotto una limitazione mirata agli screenshot per impedire agli agenti di intelligenza artificiale integrati nei sistemi operativi di leggere le conversazioni. La misura risponde alle crescenti funzionalità dei nuovi smartphone capaci di scansionare continuamente le schermate aperte per estrarre informazioni e abitudini personali.",
+   "bullets": [
+    "Signal blocca gli screenshot",
+    "Protezione contro agenti AI attivi",
+    "Focus sulla privacy dello schermo"
+   ],
+   "ticker": null,
+   "sentiment": "neutral",
+   "sources": []
+  },
+  {
+   "id": "s9",
+   "kind": "outro",
+   "heading": "Coin Ticker 360",
+   "narration": "I contenuti di questo canale hanno finalità puramente informativa e non costituiscono consulenza finanziaria. Segui per l'aggiornamento di domani.",
+   "bullets": [
+    "Informazione finanziaria quotidiana",
+    "Segui per l'aggiornamento di domani"
+   ],
+   "ticker": null,
+   "sentiment": "neutral",
+   "sources": []
+  }
+ ],
+ "words": 697,
+ "model": "gemini-3.7-flash",
+ "n_notes": 4,
+ "n_news": 284
+}
