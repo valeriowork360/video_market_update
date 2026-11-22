@@ -306,7 +306,7 @@
   "done_at": "2026-11-21T17:48:11.025682+00:00"
  },
  "18zA_5MTU-A": {
-  "status": "pending",
+  "status": "expired",
   "attempts": 0,
   "channel": "Jeremy Lefebvre Clips",
   "title": "BIG OPPORTUNITIES AHEAD! The Stocks I'm Buying NEXT",
@@ -324,7 +324,7 @@
   "done_at": "2026-11-21T02:58:57.764856+00:00"
  },
  "X7cuXlwbwWI": {
-  "status": "pending",
+  "status": "expired",
   "attempts": 0,
   "channel": "Jeremy Lefebvre Clips",
   "title": "NVIDIA Stock! Wall Street May Be WRONG About This...",
@@ -333,7 +333,7 @@
   "last_error": "Gemini non riesce ad aprire questo video adesso (live appena finita, video riservato o rimosso)"
  },
  "pjM7nM2QW4g": {
-  "status": "pending",
+  "status": "expired",
   "attempts": 0,
   "channel": "Jeremy Lefebvre Clips",
   "title": "The Market Chaos EXPLAINED! Here's What's REALLY Happening",
