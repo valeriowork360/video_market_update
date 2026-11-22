@@ -354,11 +354,13 @@
    "en:s5",
    "en:s6",
    "en:s7",
-   "en:c"
+   "en:c",
+   "it:cv",
+   "en:cv"
   ],
-  "tries": 0,
+  "tries": 1,
   "title": "Market Panic Ending The Cycle... History Shows A Recession Is Next",
-  "done": false
+  "done": true
  },
  "W5jh2qIBwu4": {
   "sent": [
