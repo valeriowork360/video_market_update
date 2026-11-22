@@ -15,6 +15,17 @@ TONES = ["very bearish", "bearish", "cautious", "neutral", "optimistic", "bullis
 PROMPT = """You are a sceptical financial research assistant. Watch this video by "{author}".
 Published title (may be clickbait - judge the content, not the title): "{title}".
 {hint}{part}
+WHAT OUR AUDIENCE VALUES MOST (capture these in full, they are the reason we watch):
+1. CHART SETUPS: when the author draws or points at levels on a chart (support, resistance,
+   ranges, highs/lows, trend lines, W / M shapes, retests, Fibonacci levels), record the asset,
+   the timeframe, EVERY level with its number, the path he draws ("drop to 6.450, retest 7.000
+   from below, then up to 7.500"), the condition ("if it loses 7.000...") and the conclusion he
+   reaches, even when the conclusion comes minutes later.
+2. HISTORICAL CASES: when he compares today with a past period (2000, 2008, 2011, 2022...),
+   record the asset, the dates, what the chart did step by step (top, range, failed retest,
+   depth of the fall in %, how long it took, how it ended) and the parallel he draws with today.
+These two are worth more than general commentary: never summarise them away.
+
 Report what the author ACTUALLY says. Strip hype, self-promotion, sponsors, course/Discord/
 newsletter pitches and referral links: none of that belongs in the notes.
 
@@ -37,7 +48,17 @@ Return ONE JSON object with exactly these keys:
    {{"timestamp": "mm:ss", "topic": "what this part is about, max 8 words",
      "claim": "the point the author makes, one sentence",
      "details": "2-3 sentences with ALL the numbers, levels, dates and the reasoning given",
-     "surprise": "the most striking fact or number of this part"}}],
+     "surprise": "the most striking fact or number of this part",
+     "kind": "setup" | "history" | "news" | "opinion",
+     "ticker": "Yahoo Finance symbol of the chart discussed (^GSPC, ES=F, BTC-USD, NVDA) or null",
+     "levels": [{{"value": 7000, "label": "support|resistance|target|low|high|range"}}],   // setups only
+     "scenario": "setups: the path he draws, step by step, with the levels and the condition",
+     "history": {{"symbol": "^GSPC", "start": "YYYY-MM", "end": "YYYY-MM",
+                  "story": "what happened step by step, with % and duration",
+                  "parallel": "how he links it to today"}} or null,
+     "conclusion": "where he lands on this point, also if said later in the video"}}],
+   // Cover the whole portion: no gap of more than 3 minutes between two moments unless that
+   // stretch is only greetings or ads. Every chart setup and every historical case is its own moment.
  "tickers": ["NVDA", "BTC"],          // only assets actually discussed
  "predictions": ["explicit calls: direction, price levels, dates"],
  "catalysts": ["upcoming events the author flags, with date if said"],
@@ -108,10 +129,27 @@ def _norm(n):
         elif isinstance(p, str) and clean(p):
             kp.append({"point": clean(p), "timestamp": ""})
     n["key_points"] = kp
-    n["moments"] = [{k: clean(m.get(k) or "") for k in ("timestamp", "topic", "claim", "details", "surprise")}
-                    for m in (n.get("moments") or []) if isinstance(m, dict) and clean(m.get("claim"))][:30]
+    n["moments"] = [_moment(m) for m in (n.get("moments") or []) if isinstance(m, dict) and clean(m.get("claim"))][:30]
     n["promo"] = bool(n.get("promo"))
     return n
+
+
+def _moment(m):
+    out = {k: clean(m.get(k) or "") for k in ("timestamp", "topic", "claim", "details", "surprise",
+                                              "kind", "ticker", "scenario", "conclusion")}
+    lv = []
+    for x in (m.get("levels") or [])[:8]:
+        try:
+            v = float(str(x.get("value") if isinstance(x, dict) else x).replace(",", ""))
+            lv.append({"value": v, "label": clean((x.get("label") if isinstance(x, dict) else "") or "")})
+        except Exception:
+            pass
+    if lv:
+        out["levels"] = lv
+    h = m.get("history")
+    if isinstance(h, dict) and clean(h.get("story")):
+        out["history"] = {k: clean(h.get(k) or "") for k in ("symbol", "start", "end", "story", "parallel")}
+    return {k: v for k, v in out.items() if v}
 
 
 def _merge_local(parts):

@@ -103,7 +103,8 @@ HEADLINES (reliable outlets):
 """
 
 SHORT_RULES = """HOW A SHORT IS BUILT - follow exactly:
-- Exactly 5 beats, 55-80 words in total:
+- 5 beats, 55-80 words in total (6-7 beats and up to 110 words for a chart setup or a
+  historical case, so the explanation is complete):
   1 HOOK     max 12 words. The most striking fact of this part as a punch, starting with the
              number or the name. No greeting, no "today we talk about", no yes/no question.
   2 CONTEXT  what is happening, one sentence.
@@ -122,6 +123,15 @@ each about a different point. The number follows the content: a long, dense vide
 {n} shorts, a short or thin one only 2 or 3. NEVER pad: no short without a real point, no two
 shorts on the same point. Skip greetings, promotions and repetition. Strongest first.
 
+THE MOST VALUABLE PARTS are the ones marked kind "setup" (levels drawn on a chart) and
+"history" (a past period compared with today): every one of them gets its own short, placed
+first, and keeps ALL its substance:
+- setup: the asset, each level with its number, the path drawn step by step with its
+  condition ("if it loses 7.000..."), and the conclusion. Do not round the levels away.
+- history: the period with its years, what happened step by step with % and duration, and
+  the parallel with today.
+The carousel must also walk through the main setup and the main historical case, if any.
+
 Write each short in these languages: {langs}. Each version is written natively for that
 language, not translated word by word.
 For Italian use Italian number format ("7.590", "0,4%", "68.700 dollari").
@@ -136,6 +146,8 @@ Return ONE JSON object:
 {{"shorts": [
   {{"ticker": "one Yahoo Finance symbol if this part is about one asset (NVDA, ^GSPC, BTC-USD), else null",
     "sentiment": "bullish|bearish|neutral",
+    "levels": [7000, 6450],          // setup shorts: the levels of the notes (numbers only), else []
+    "history": {{"symbol": "^GSPC", "start": "YYYY-MM", "end": "YYYY-MM"}} or null,   // history shorts
     {lang_fields}
   }}
  ],
@@ -471,7 +483,7 @@ def _short_ok(sh, lang):
 
 def _one_short(raw, common, origin, source):
     beats = [{"say": _t(x.get("say")), "show": _t(x.get("show"), 44), "figure": _t(x.get("figure"), 14)}
-             for x in (raw.get("beats") or []) if isinstance(x, dict) and clean(x.get("say"))][:6]
+             for x in (raw.get("beats") or []) if isinstance(x, dict) and clean(x.get("say"))][:7]
     if len(beats) < 3:
         return None
     for b in beats:
@@ -479,7 +491,17 @@ def _one_short(raw, common, origin, source):
     nar = " ".join(b["say"] for b in beats)
     if len(nar.split()) < 30:
         return None
-    return {"title": _t(raw.get("title"), 90), "hook": beats[0]["show"], "beats": beats, "origin": origin,
+    levels = []
+    for v in (common.get("levels") or [])[:6]:
+        try:
+            levels.append(float(str(v.get("value") if isinstance(v, dict) else v).replace(",", "")))
+        except Exception:
+            pass
+    hist = common.get("history") if isinstance(common.get("history"), dict) else None
+    if hist and not (re.match(r"^\d{4}-\d{2}$", str(hist.get("start", ""))) and re.match(r"^\d{4}-\d{2}$", str(hist.get("end", "")))):
+        hist = None
+    return {"levels": levels, "history": {k: str(hist.get(k) or "") for k in ("symbol", "start", "end")} if hist else None,
+            "title": _t(raw.get("title"), 90), "hook": beats[0]["show"], "beats": beats, "origin": origin,
             "source_video": source, "narration": nar, "ticker": _ticker(common.get("ticker")),
             "sentiment": _sent(common.get("sentiment")), "sources": [], "caption": _t(raw.get("caption")),
             "hashtags": [h if h.startswith("#") else "#" + h
@@ -569,7 +591,7 @@ def _check_deriv(d, script, kind):
     creators = [c["name"] for c in CFG["channels"]]
     for s in (d.get("shorts") or []) if kind == "daily" else []:
         beats = [{"say": _t(x.get("say")), "show": _t(x.get("show"), 44), "figure": _t(x.get("figure"), 14)}
-                 for x in (s.get("beats") or []) if isinstance(x, dict) and clean(x.get("say"))][:6]
+                 for x in (s.get("beats") or []) if isinstance(x, dict) and clean(x.get("say"))][:7]
         if len(beats) < 3:      # older format: build the beats from the sentences
             parts = [p.strip() for p in re.split(r"(?<=[.!?])\s+", _t(s.get("narration"))) if p.strip()]
             if len(parts) < 3:

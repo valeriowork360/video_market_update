@@ -118,8 +118,14 @@ def short_video(short, idx, lang, folder, date_label, mood):
     dur = tts.wav_seconds(wav)
     words = speech.timings(short["narration"], said, heard, dur)
     dst = folder / f"short_{idx:02d}_{lang}_{slug(short['title'] or short['hook'], 40)}.mp4"
-    motion.render(short, lang, motion.origin_color(short.get("origin")), words, dur, wav, dst,
-                  prices_for(short["ticker"]))
+    h = short.get("history")
+    sym = (h or {}).get("symbol") or short.get("ticker")
+    prices = news.history_range(sym, h["start"], h["end"]) if h and sym else None
+    if not prices:
+        h = None
+        prices = prices_for(short["ticker"])
+    motion.render(dict(short, history=h), lang, motion.origin_color(short.get("origin")), words, dur, wav, dst,
+                  prices)
     shutil.rmtree(tmp, ignore_errors=True)
     return dst, dur
 

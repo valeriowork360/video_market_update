@@ -178,6 +178,9 @@ class Short:
             up = prices[-1] >= prices[0]
             self.ccol = SENT["bullish"] if up else SENT["bearish"]
             self.chart = chart(prices, W - 2 * M - 80, 170, self.ccol)
+            self.levels = [] if short.get("history") else _usable_levels(prices, short.get("levels") or [])
+            if self.levels:     # levels drawn by the author, on a range that includes them
+                self.chart = _chart_with_levels(prices, self.levels, W - 2 * M - 80, 170, self.ccol, color)
 
     def _beat_layers(self, i):
         if i in self.cache:
@@ -200,7 +203,8 @@ class Short:
         name = NAMES.get(self.s["ticker"], str(self.s["ticker"]).replace("^", "").replace("-USD", ""))
         d.text((M + 36, y0 + 44 + off), name, font=font("s", 34), fill=MUTED, anchor="lm")
         chg = (self.prices[-1] / self.prices[0] - 1) * 100
-        lab = f"{chg:+.1f}%  {L[self.lang]['months']}"
+        h = self.s.get("history")
+        lab = f"{chg:+.1f}%  " + (f"{h['start'][:4]}-{h['end'][:4]}" if h else L[self.lang]['months'])
         d.text((W - M - 36, y0 + 44 + off), lab.replace(".", ",") if self.lang == "it" else lab,
                font=font("x", 34), fill=self.ccol, anchor="rm")
         reveal = ease((tb - 0.15) / 1.3)
@@ -287,6 +291,38 @@ class Short:
             p = tb / 0.24
             d.rectangle((0, H * p - 40, W, H * p + 340 * (1 - p)), fill=col if i > 1 else DARK)
         return im
+
+
+def _usable_levels(prices, levels):
+    """Keep the levels close enough to the price range to make sense on the chart."""
+    lo, hi = min(prices), max(prices)
+    span = hi - lo or 1
+    return sorted({float(v) for v in levels if lo - span * 0.8 <= float(v) <= hi + span * 0.8})[:5]
+
+
+def _chart_with_levels(prices, levels, w, h, color, accent):
+    """The price line plus dashed horizontal lines for the levels, each with its number."""
+    lo, hi = min(prices + levels), max(prices + levels)
+    span = (hi - lo) or 1.0
+    S = 2
+    im = Image.new("RGBA", (w * S, h * S), (0, 0, 0, 0))
+    d = ImageDraw.Draw(im)
+    pad, right = 14 * S, 150 * S
+    def yv(v):
+        return pad + (h * S - 2 * pad) * (1 - (v - lo) / span)
+    pts = [(pad + i * (w * S - 2 * pad - right) / (len(prices) - 1), yv(p)) for i, p in enumerate(prices)]
+    f = font("x", 22 * S)
+    d.polygon(pts + [(pts[-1][0], h * S), (pts[0][0], h * S)], fill=color + (38,))
+    for v in levels:
+        y = yv(v)
+        for x in range(pad, w * S - right - 10, 34):
+            d.line((x, y, x + 18, y), fill=accent + (230,), width=3 * S)
+        txt = f"{v:,.0f}" if v >= 100 else f"{v:,.2f}"
+        d.text((w * S - right + 14, y), txt, font=f, fill=accent + (255,), anchor="lm")
+    d.line(pts, fill=color + (255,), width=4 * S, joint="curve")
+    x, y = pts[-1]
+    d.ellipse((x - 8 * S, y - 8 * S, x + 8 * S, y + 8 * S), fill=color + (255,))
+    return im.resize((w, h), Image.LANCZOS)
 
 
 def render(short, lang, color, words, dur, audio, dst, prices=None):

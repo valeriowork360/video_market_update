@@ -111,6 +111,20 @@ def history(symbol, period="3mo"):
         return None
 
 
+def history_range(symbol, start, end):
+    """Weekly closes of a past period ("2000-01" to "2002-12"), or None."""
+    if os.environ.get("MP_FAKE_PRICES"):
+        return history(symbol + start)
+    try:
+        import yfinance as yf
+        y, m = map(int, end.split("-"))
+        stop = f"{y + (m == 12)}-{m % 12 + 1:02d}-01"
+        h = yf.Ticker(symbol).history(start=start + "-01", end=stop, interval="1wk")["Close"].dropna()
+        return [float(x) for x in h.tolist()] if len(h) >= 10 else None
+    except Exception:
+        return None
+
+
 def calendar_events():
     """High/medium-impact economic events from now to the end of the week."""
     url = N.get("calendar_url")
