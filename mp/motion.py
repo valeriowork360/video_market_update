@@ -132,7 +132,7 @@ def _chunks(words):
     return out
 
 
-def _captions(d, chunk, t, col):
+def _captions(d, chunk, t, col, y=1400):
     if not chunk:
         return
     size = 76
@@ -144,7 +144,7 @@ def _captions(d, chunk, t, col):
         if total <= W - 150 or size <= 48:
             break
         size -= 6
-    x, y = (W - total) / 2, 1400
+    x = (W - total) / 2
     pad = 26
     d.rounded_rectangle((x - pad - 6, y - 22, x + total + pad + 6, y + size + 34), 30, fill=DARK)
     active = max((i for i, w in enumerate(chunk) if w["t"] <= t + 1e-3), default=0)
@@ -306,3 +306,102 @@ def render(short, lang, color, words, dur, audio, dst, prices=None):
     if p.wait() != 0:
         raise RuntimeError("ffmpeg: " + err[-300:])
     log(f"    short animato: {dur:.0f}s, {int(dur * FPS)} fotogrammi")
+
+
+# ---------------------------------------------------------------- carousel -> vertical video
+
+class CarouselClip:
+    """The carousel slides as a narrated 9:16 video: story bars on top, each slide pushes in
+    from the right like a swipe, drifts slowly, and the narration runs as word captions."""
+    CW, CY = 960, 250
+
+    def __init__(self, car, lang, color, slides, segs):
+        self.car, self.lang, self.col, self.segs = car, lang, color, segs
+        self.bg = _background(color)
+        self.cards = []
+        for p in slides:
+            im = Image.open(p).convert("RGB")
+            ch = round(im.height * self.CW / im.width)
+            im = im.resize((self.CW, ch), Image.LANCZOS)
+            mask = Image.new("L", im.size, 0)
+            ImageDraw.Draw(mask).rounded_rectangle((0, 0, im.width - 1, im.height - 1), 36, fill=255)
+            card = im.convert("RGBA")
+            card.putalpha(mask)
+            big = card.resize((round(card.width * 1.035), round(card.height * 1.035)), Image.LANCZOS)
+            self.cards.append((card, big))
+        self.CH = self.cards[0][0].height
+        sh = Image.new("RGBA", (self.CW + 120, self.CH + 120), (0, 0, 0, 0))
+        ImageDraw.Draw(sh).rounded_rectangle((60, 70, self.CW + 60, self.CH + 70), 40, fill=(0, 0, 0, 170))
+        self.shadow = sh.filter(ImageFilter.GaussianBlur(28))
+        self.chunks = [_chunks(w) for _, _, w in segs]
+
+    def _card_at(self, i, tb, dur):
+        """Card image for slide i, tb seconds into it: a slow zoom from 1.0 to 1.035."""
+        card, big = self.cards[i]
+        z = min(1.0, max(0.0, tb / max(dur, 0.1)))
+        if z < 0.02:
+            return card
+        w = round(self.CW * (1 + 0.035 * ease(z)))
+        return big.resize((w, round(self.CH * w / self.CW)), Image.BILINEAR) if w < big.width else big
+
+    def frame(self, t):
+        n = len(self.segs)
+        i = max(k for k, s in enumerate(self.segs) if s[0] <= t + 1e-6)
+        start, dur, _ = self.segs[i]
+        tb = t - start
+        col = self.col
+        dx = 140 * (t / max(self.segs[-1][0] + self.segs[-1][1], 1))
+        im = self.bg.crop((int(140 + dx), int(200 + dx * 1.4), int(140 + dx) + W, int(200 + dx * 1.4) + H)).copy()
+        d = ImageDraw.Draw(im)
+        # story bars
+        gap, x0 = 12, M
+        bw = (W - 2 * M - gap * (n - 1)) / n
+        for k in range(n):
+            x = x0 + k * (bw + gap)
+            d.rounded_rectangle((x, 64, x + bw, 74), 5, fill=mix(DARK, TEXT, 0.25))
+            frac = 1.0 if k < i else (min(1.0, tb / max(dur, 0.1)) if k == i else 0.0)
+            if frac > 0:
+                d.rounded_rectangle((x, 64, x + max(10, bw * frac), 74), 5, fill=col)
+        d.text((M, 140), B["name"].upper(), font=font("x", 40), fill=TEXT, anchor="lm")
+        d.text((W - M, 140), f"{i + 1}/{n}", font=font("s", 36), fill=col, anchor="rm")
+        # cards: the previous one leaves to the left while the new one pushes in from the right
+        p = back(tb / 0.5) if i > 0 else ease(tb / 0.45)
+        cx = (W - self.CW) / 2
+        if i > 0 and tb < 0.5:
+            old = self._card_at(i - 1, self.segs[i - 1][1], self.segs[i - 1][1])
+            ox = cx - (W * 0.85) * ease(tb / 0.5)
+            _put(im, self.shadow, ox - 60 - (old.width - self.CW) / 2, self.CY - 60)
+            _put(im, old, ox - (old.width - self.CW) / 2, self.CY - (old.height - self.CH) / 2,
+                 1 - 0.6 * ease(tb / 0.5))
+        card = self._card_at(i, tb, dur)
+        x = cx + (1 - p) * (W * 0.9 if i > 0 else 0)
+        y = self.CY + ((1 - p) * 120 if i == 0 else 0)
+        a = 1.0 if i > 0 else min(1.0, tb / 0.3)
+        _put(im, self.shadow, x - 60 - (card.width - self.CW) / 2, y - 60, a)
+        _put(im, card, x - (card.width - self.CW) / 2, y - (card.height - self.CH) / 2, a)
+        # narration captions under the card
+        chunks = self.chunks[i]
+        chunk = next((c for c in reversed(chunks) if c[0]["t"] <= tb + 1e-3), chunks[0] if chunks else None)
+        _captions(d, chunk, tb, col, y=self.CY + self.CH + 70)
+        d.text((W / 2, H - 70), L[self.lang]["disclaimer"], font=font("m", 26), fill=MUTED, anchor="mm")
+        return im
+
+
+def render_carousel(car, lang, color, slides, segs, audio, dst):
+    clip = CarouselClip(car, lang, color, slides, segs)
+    dur = segs[-1][0] + segs[-1][1]
+    cmd = ["ffmpeg", "-y", "-loglevel", "error", "-nostats", "-f", "rawvideo", "-pix_fmt", "rgb24", "-s", f"{W}x{H}",
+           "-r", str(FPS), "-i", "-", "-i", str(audio), "-c:v", "libx264", "-preset", "veryfast", "-crf", "23",
+           "-pix_fmt", "yuv420p", "-c:a", "aac", "-b:a", "128k", "-t", f"{dur:.3f}", "-movflags", "+faststart", str(dst)]
+    p = subprocess.Popen(cmd, stdin=subprocess.PIPE, stdout=subprocess.DEVNULL, stderr=subprocess.PIPE)
+    try:
+        for n in range(int(dur * FPS)):
+            p.stdin.write(clip.frame(n / FPS).tobytes())
+        p.stdin.close()
+    except BrokenPipeError:
+        pass
+    err = p.stderr.read().decode(errors="ignore")
+    if p.wait() != 0:
+        raise RuntimeError("ffmpeg: " + err[-300:])
+    log(f"    video carosello: {dur:.0f}s, {len(segs)} slide")
+    return dur

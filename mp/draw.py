@@ -331,7 +331,7 @@ def _dots(d, m, y, n, i, col):
         d.ellipse((x, y - 7, x + 14, y + 7), fill=col if k == i else mix(BG, MUTED, 0.45))
 
 
-def _cover(car, lang, date_label, prices, W, H, m, col):
+def _cover(car, lang, date_label, prices, W, H, m, col, swipe=True):
     """Slide 1: stop the scroll (big hook, key figures in colour, price line behind)
     and preview what the next slides contain."""
     slides, n = car["slides"], len(car["slides"])
@@ -382,11 +382,12 @@ def _cover(car, lang, date_label, prices, W, H, m, col):
         d.text((m + 106, yy + row / 2 - 6), tl[0], font=ft, fill=TEXT, anchor="lm")
         yy += row
     _dots(d, m, H - 108, n, 0, col)
-    _swipe(d, W, H, m, lang, col)
+    if swipe:
+        _swipe(d, W, H, m, lang, col)
     return im
 
 
-def carousel(car, lang, folder, date_label="", prices=None):
+def carousel(car, lang, folder, date_label="", prices=None, swipe=True, name="slide"):
     """Write the slides as PNG and return their paths."""
     W, H, m = 1080, 1350, 84
     folder.mkdir(parents=True, exist_ok=True)
@@ -396,7 +397,7 @@ def carousel(car, lang, folder, date_label="", prices=None):
     for i, s in enumerate(slides):
         last = i == n - 1
         if i == 0:
-            im = _cover(car, lang, date_label, prices, W, H, m, col)
+            im = _cover(car, lang, date_label, prices, W, H, m, col, swipe)
         else:
             im = backdrop(W, H, col).copy()
             d = ImageDraw.Draw(im)
@@ -425,9 +426,9 @@ def carousel(car, lang, folder, date_label="", prices=None):
                 d.rounded_rectangle((W - m - tw, H - 150, W - m, H - 66), 42, fill=col)
                 d.text((W - m - tw / 2, H - 108), l3[0], font=f3, fill=BG, anchor="mm")
                 d.text((m, H - 196), L[lang]["disclaimer"], font=font("m", 26), fill=MUTED, anchor="lm")
-            else:
+            elif swipe:
                 _swipe(d, W, H, m, lang, col)
-        p = folder / f"slide_{i + 1:02d}.png"
+        p = folder / f"{name}_{i + 1:02d}.png"
         im.save(p, optimize=True)
         paths.append(p)
     return paths

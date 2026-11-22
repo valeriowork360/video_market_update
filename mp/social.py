@@ -40,7 +40,7 @@ def one_video(note, st, offline):
         folder = OUT / "social" / vid / lang
         todo = [i for i in range(1, len(shorts) + 1) if f"{lang}:s{i}" not in sent]
         car = data.get("carousels", {}).get(lang)
-        if todo or (car and f"{lang}:c" not in sent):
+        if todo or (car and f"{lang}:c" not in sent):  # the carousel video follows the carousel
             telegram.message(f"{produce.FLAG[lang]} <b>{telegram.esc(origin)}</b> · nuovo video\n"
                              f"{telegram.esc(note['title'])}\n{len(shorts)} short"
                              + (" e 1 carosello" if car else ""), html_mode=True)
@@ -68,6 +68,17 @@ def one_video(note, st, offline):
             except Exception as e:
                 problems.append(f"carosello {lang}: {str(e)[:90]}")
                 log(f"    carosello {lang} saltato: {str(e)[:160]}")
+        if car and CFG.get("carousel_video", True) and f"{lang}:c" in sent and f"{lang}:cv" not in sent:
+            try:
+                mp4, secs = video.carousel_video(car, lang, folder / "carousel", label, mood,
+                                                 video.prices_for(car.get("ticker")), origin)
+                cap = f"{car['topic']}\n\n{car['caption']}\n\n{' '.join(car['hashtags'])}"
+                mp4.with_suffix(".txt").write_text(cap, encoding="utf-8")
+                telegram.video(mp4, f"🎞 Video del carosello · {origin}\n\n{cap}", 1080, 1920, secs)
+                sent.append(f"{lang}:cv")
+            except Exception as e:
+                problems.append(f"video carosello {lang}: {str(e)[:90]}")
+                log(f"    video carosello {lang} saltato: {str(e)[:160]}")
         online = publish.report(f"{day}_social", lang)
         if online and (todo or car):
             log("  " + online.replace("\n", " | "))

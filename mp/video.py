@@ -122,3 +122,41 @@ def short_video(short, idx, lang, folder, date_label, mood):
                   prices_for(short["ticker"]))
     shutil.rmtree(tmp, ignore_errors=True)
     return dst, dur
+
+
+def carousel_video(car, lang, folder, date_label, mood, prices=None, origin=None):
+    """The carousel as a narrated vertical video: every slide is read (title, then text)."""
+    from . import motion
+    tmp = folder / "_tmp_carvideo"
+    shutil.rmtree(tmp, ignore_errors=True)
+    tmp.mkdir(parents=True)
+    slides = draw.carousel(car, lang, tmp, date_label, prices, swipe=False)
+    wavs, segs, t = [], [], 0.0
+    for i, s in enumerate(car["slides"]):
+        text = s["title"].strip().rstrip(".:!?") + ". " + s.get("body", "").strip()
+        said = speech.speakable(text, lang)
+        wav = tmp / f"v{i}.wav"
+        heard = tts.speak(said, lang, mood, wav)
+        dur = tts.wav_seconds(wav) + (0.35 if i == 0 else 0.0)
+        if i == 0:                              # a short beat of silence before the first word
+            _pad_front(wav, 0.35)
+        words = speech.timings(text, said, heard, dur)
+        if i == 0:
+            words = [dict(w, t=w["t"] + 0.35) for w in words]
+        wavs.append(wav)
+        segs.append((t, dur, words))
+        t += dur
+    audio = tmp / "voice.wav"
+    _concat_wavs(wavs, audio)
+    dst = folder / f"carousel_{lang}_{slug(car['topic'], 40)}.mp4"
+    total = motion.render_carousel(car, lang, motion.origin_color(origin), slides, segs, audio, dst)
+    shutil.rmtree(tmp, ignore_errors=True)
+    return dst, total
+
+
+def _pad_front(wav, secs):
+    with wave.open(str(wav), "rb") as w:
+        params, data = w.getparams(), w.readframes(w.getnframes())
+    with wave.open(str(wav), "wb") as out:
+        out.setparams(params)
+        out.writeframes(b"\x00" * int(secs * params.framerate) * params.nchannels * params.sampwidth + data)
