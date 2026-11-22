@@ -1,0 +1,666 @@
+{
+ "it": [
+  {
+   "levels": [
+    7871.0,
+    7000.0,
+    6200.0
+   ],
+   "history": null,
+   "title": "S&P 500: livelli chiave e rischio ribasso",
+   "hook": "Resistenza S&P a 7.000",
+   "beats": [
+    {
+     "say": "S&P 500 a rischio: la resistenza chiave è a 7.000.",
+     "show": "Resistenza S&P a 7.000",
+     "figure": "7.000"
+    },
+    {
+     "say": "I mercati mostrano debolezza strutturale dopo aver fallito i massimi storici.",
+     "show": "Debolezza dei mercati",
+     "figure": ""
+    },
+    {
+     "say": "Se il prezzo perde 6.200, la pressione di vendita aumenterà drasticamente.",
+     "show": "Supporto a 6.200",
+     "figure": "6.200"
+    },
+    {
+     "say": "I rimbalzi attuali saranno vulnerabili e destinati a incontrare forti vendite.",
+     "show": "Rimbalzi vulnerabili",
+     "figure": ""
+    },
+    {
+     "say": "Il ciclo sta passando sotto il controllo ribassista.",
+     "show": "Controllo ribassista",
+     "figure": ""
+    },
+    {
+     "say": "Segui per l'aggiornamento di domani.",
+     "show": "Segui il canale",
+     "figure": ""
+    }
+   ],
+   "origin": "Jason Pizzino",
+   "source_video": "Market Panic Ending The Cycle... History Shows A Recession Is Next",
+   "narration": "S&P 500 a rischio: la resistenza chiave è a 7.000. I mercati mostrano debolezza strutturale dopo aver fallito i massimi storici. Se il prezzo perde 6.200, la pressione di vendita aumenterà drasticamente. I rimbalzi attuali saranno vulnerabili e destinati a incontrare forti vendite. Il ciclo sta passando sotto il controllo ribassista. Segui per l'aggiornamento di domani.",
+   "ticker": "ES=F",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Analisi dei livelli critici per S&P 500 e dei rischi legati al cambio di ciclo. Segui per l'aggiornamento di domani.",
+   "hashtags": [
+    "#SP500",
+    "#Trading",
+    "#Borsa",
+    "#Analisi",
+    "#Finanza"
+   ]
+  },
+  {
+   "levels": [],
+   "history": {
+    "symbol": "^GSPC",
+    "start": "2007-07",
+    "end": "2009-03"
+   },
+   "title": "Il parallelo storico con la crisi del 2007",
+   "hook": "Crisi 2007 e 2009",
+   "beats": [
+    {
+     "say": "Tra il 2007 e il 2009 i mercati hanno subito ripetuti rimbalzi falliti.",
+     "show": "Crisi 2007 e 2009",
+     "figure": "2007"
+    },
+    {
+     "say": "Gli investitori al dettaglio hanno continuato a comprare ogni calo in anticipo.",
+     "show": "Acquisti al dettaglio",
+     "figure": ""
+    },
+    {
+     "say": "Ogni tentativo di recupero si è infranto contro le resistenze dei minimi precedenti.",
+     "show": "Rimbalzi respinti",
+     "figure": ""
+    },
+    {
+     "say": "Sono serviti molti mesi di transizione prima del crollo catastrofico finale.",
+     "show": "Crollo inevitabile",
+     "figure": ""
+    },
+    {
+     "say": "L'attuale comportamento dei prezzi ricalca perfettamente quelle prime fasi.",
+     "show": "Stesso scenario",
+     "figure": ""
+    },
+    {
+     "say": "Segui per l'aggiornamento di domani.",
+     "show": "Segui il canale",
+     "figure": ""
+    }
+   ],
+   "origin": "Jason Pizzino",
+   "source_video": "Market Panic Ending The Cycle... History Shows A Recession Is Next",
+   "narration": "Tra il 2007 e il 2009 i mercati hanno subito ripetuti rimbalzi falliti. Gli investitori al dettaglio hanno continuato a comprare ogni calo in anticipo. Ogni tentativo di recupero si è infranto contro le resistenze dei minimi precedenti. Sono serviti molti mesi di transizione prima del crollo catastrofico finale. L'attuale comportamento dei prezzi ricalca perfettamente quelle prime fasi. Segui per l'aggiornamento di domani.",
+   "ticker": "^GSPC",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Come la crisi del 2007 anticipa i movimenti attuali dei mercati. Segui per l'aggiornamento di domani.",
+   "hashtags": [
+    "#Borsa",
+    "#Storia",
+    "#Mercati",
+    "#Trading",
+    "#Analisi"
+   ]
+  },
+  {
+   "levels": [
+    170.0,
+    150.0
+   ],
+   "history": null,
+   "title": "Nvidia: crollo e trappola per i compratori",
+   "hook": "Acquisti su Nvidia",
+   "beats": [
+    {
+     "say": "Nvidia ha visto enormi acquisti al dettaglio tra 150 e 170 dollari.",
+     "show": "Acquisti su Nvidia",
+     "figure": "150$"
+    },
+    {
+     "say": "Il titolo ha registrato una massiccia ondata di retail che compravano il ribasso.",
+     "show": "Corsa al ribasso",
+     "figure": ""
+    },
+    {
+     "say": "Subito dopo, le vendite hanno fatto precipitare il prezzo verso nuovi minimi.",
+     "show": "Crollo dei prezzi",
+     "figure": ""
+    },
+    {
+     "say": "Il grafico settimanale mostra una correzione profonda e prolungata nel tempo.",
+     "show": "Correzione profonda",
+     "figure": ""
+    },
+    {
+     "say": "Evita di anticipare i minimi senza conferme di inversione.",
+     "show": "Pazienza sui minimi",
+     "figure": ""
+    },
+    {
+     "say": "Segui per l'aggiornamento di domani.",
+     "show": "Segui il canale",
+     "figure": ""
+    }
+   ],
+   "origin": "Jason Pizzino",
+   "source_video": "Market Panic Ending The Cycle... History Shows A Recession Is Next",
+   "narration": "Nvidia ha visto enormi acquisti al dettaglio tra 150 e 170 dollari. Il titolo ha registrato una massiccia ondata di retail che compravano il ribasso. Subito dopo, le vendite hanno fatto precipitare il prezzo verso nuovi minimi. Il grafico settimanale mostra una correzione profonda e prolungata nel tempo. Evita di anticipare i minimi senza conferme di inversione. Segui per l'aggiornamento di domani.",
+   "ticker": "NVDA",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Analisi dell'andamento di Nvidia e dei rischi legati agli acquisti impulsivi. Segui per l'aggiornamento di domani.",
+   "hashtags": [
+    "#Nvidia",
+    "#Azioni",
+    "#Trading",
+    "#Borsa",
+    "#Tech"
+   ]
+  },
+  {
+   "levels": [
+    63000.0,
+    55000.0,
+    58000.0
+   ],
+   "history": null,
+   "title": "Bitcoin rompe i supporti: nuovo minimo a 55.000",
+   "hook": "Bitcoin a 55.000",
+   "beats": [
+    {
+     "say": "Bitcoin ha stampato un nuovo minimo a 55.000 dollari con volumi elevati.",
+     "show": "Bitcoin a 55.000",
+     "figure": "55.000$"
+    },
+    {
+     "say": "La rottura della media mobile e del supporto a 63.000 ha scatenato il panico.",
+     "show": "Rottura del supporto",
+     "figure": "63.000$"
+    },
+    {
+     "say": "La paura domina il mercato mentre il momentum ribassista continua.",
+     "show": "Paura nel mercato",
+     "figure": ""
+    },
+    {
+     "say": "Un possibile rimbalzo potrebbe testare area 58.000 prima di ulteriori cali.",
+     "show": "Test a 58.000",
+     "figure": "58.000$"
+    },
+    {
+     "say": "Mancano segnali di accumulazione per una vera ripresa.",
+     "show": "Mancano conferme",
+     "figure": ""
+    },
+    {
+     "say": "Segui per l'aggiornamento di domani.",
+     "show": "Segui il canale",
+     "figure": ""
+    }
+   ],
+   "origin": "Jason Pizzino",
+   "source_video": "Market Panic Ending The Cycle... History Shows A Recession Is Next",
+   "narration": "Bitcoin ha stampato un nuovo minimo a 55.000 dollari con volumi elevati. La rottura della media mobile e del supporto a 63.000 ha scatenato il panico. La paura domina il mercato mentre il momentum ribassista continua. Un possibile rimbalzo potrebbe testare area 58.000 prima di ulteriori cali. Mancano segnali di accumulazione per una vera ripresa. Segui per l'aggiornamento di domani.",
+   "ticker": "BTC-USD",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Analisi della rottura dei supporti di Bitcoin e delle prospettive a breve. Segui per l'aggiornamento di domani.",
+   "hashtags": [
+    "#Bitcoin",
+    "#Crypto",
+    "#BTC",
+    "#Trading",
+    "#Mercati"
+   ]
+  },
+  {
+   "levels": [
+    38900.0,
+    3500.0,
+    3000.0
+   ],
+   "history": {
+    "symbol": "GC=F",
+    "start": "2024-07",
+    "end": "2026-11"
+   },
+   "title": "Oro: crollo e attesa per la stabilizzazione",
+   "hook": "Rottura dell'oro",
+   "beats": [
+    {
+     "say": "I futures dell'oro hanno rotto il supporto chiave a seguito di un massimo storico.",
+     "show": "Rottura dell'oro",
+     "figure": "38.900"
+    },
+    {
+     "say": "I dati storici mostrano che simili correzioni richiedono fino a 18 mesi.",
+     "show": "Ciclo di 18 mesi",
+     "figure": "18 mesi"
+    },
+    {
+     "say": "Il mercato punta verso zone di supporto inferiori tra 3.000 e 3.500 dollari.",
+     "show": "Target a 3.000",
+     "figure": "3.000$"
+    },
+    {
+     "say": "La fase di consolidamento richiede tempo prima di offrire nuove opportunità.",
+     "show": "Tempo al mercato",
+     "figure": ""
+    },
+    {
+     "say": "L'oro non è ancora pronto per una nuova fase di accumulazione.",
+     "show": "Non ancora pronto",
+     "figure": ""
+    },
+    {
+     "say": "Segui per l'aggiornamento di domani.",
+     "show": "Segui il canale",
+     "figure": ""
+    }
+   ],
+   "origin": "Jason Pizzino",
+   "source_video": "Market Panic Ending The Cycle... History Shows A Recession Is Next",
+   "narration": "I futures dell'oro hanno rotto il supporto chiave a seguito di un massimo storico. I dati storici mostrano che simili correzioni richiedono fino a 18 mesi. Il mercato punta verso zone di supporto inferiori tra 3.000 e 3.500 dollari. La fase di consolidamento richiede tempo prima di offrire nuove opportunità. L'oro non è ancora pronto per una nuova fase di accumulazione. Segui per l'aggiornamento di domani.",
+   "ticker": "GC=F",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Analisi dei futures dell'oro e dei tempi di consolidamento previsti. Segui per l'aggiornamento di domani.",
+   "hashtags": [
+    "#Oro",
+    "#Gold",
+    "#Commodities",
+    "#Trading",
+    "#Finanza"
+   ]
+  }
+ ],
+ "en": [
+  {
+   "levels": [
+    7871.0,
+    7000.0,
+    6200.0
+   ],
+   "history": null,
+   "title": "S&P 500 Key Levels And Downside Risk",
+   "hook": "Resistance at 7,000",
+   "beats": [
+    {
+     "say": "S&P 500 faces major resistance at 7,000.",
+     "show": "Resistance at 7,000",
+     "figure": "7,000"
+    },
+    {
+     "say": "The market shows structural weakness after failing to hold prior all-time highs.",
+     "show": "Structural weakness",
+     "figure": ""
+    },
+    {
+     "say": "If the price loses 6,200, selling pressure will accelerate across timeframes.",
+     "show": "Support at 6,200",
+     "figure": "6,200"
+    },
+    {
+     "say": "Bounces are expected to remain weak and vulnerable to heavy selling.",
+     "show": "Weak bounces",
+     "figure": ""
+    },
+    {
+     "say": "The macroeconomic cycle is shifting firmly into bearish control.",
+     "show": "Bearish control",
+     "figure": ""
+    },
+    {
+     "say": "Follow for tomorrow's update.",
+     "show": "Follow for more",
+     "figure": ""
+    }
+   ],
+   "origin": "Jason Pizzino",
+   "source_video": "Market Panic Ending The Cycle... History Shows A Recession Is Next",
+   "narration": "S&P 500 faces major resistance at 7,000. The market shows structural weakness after failing to hold prior all-time highs. If the price loses 6,200, selling pressure will accelerate across timeframes. Bounces are expected to remain weak and vulnerable to heavy selling. The macroeconomic cycle is shifting firmly into bearish control. Follow for tomorrow's update.",
+   "ticker": "ES=F",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Breaking down key S&P 500 support zones and broader market trends. Follow for tomorrow's update.",
+   "hashtags": [
+    "#SP500",
+    "#Markets",
+    "#Trading",
+    "#Stocks",
+    "#Finance"
+   ]
+  },
+  {
+   "levels": [],
+   "history": {
+    "symbol": "^GSPC",
+    "start": "2007-07",
+    "end": "2009-03"
+   },
+   "title": "The Historical Parallel With The 2007 Crash",
+   "hook": "2007 to 2009 crash",
+   "beats": [
+    {
+     "say": "Between 2007 and 2009 the S&P 500 formed repeated failed recovery attempts.",
+     "show": "2007 to 2009 crash",
+     "figure": "2007"
+    },
+    {
+     "say": "Retail buyers rushed to buy every single dip before resistance held firm.",
+     "show": "Retail buyers trapped",
+     "figure": ""
+    },
+    {
+     "say": "Each bounce got systematically rejected under prior support turned resistance.",
+     "show": "Systematic rejection",
+     "figure": ""
+    },
+    {
+     "say": "It took many months of false hope before the ultimate market collapse.",
+     "show": "Months of decline",
+     "figure": ""
+    },
+    {
+     "say": "Current price action closely mirrors the early topping stage of that era.",
+     "show": "Mirroring history",
+     "figure": ""
+    },
+    {
+     "say": "Follow for tomorrow's update.",
+     "show": "Follow for more",
+     "figure": ""
+    }
+   ],
+   "origin": "Jason Pizzino",
+   "source_video": "Market Panic Ending The Cycle... History Shows A Recession Is Next",
+   "narration": "Between 2007 and 2009 the S&P 500 formed repeated failed recovery attempts. Retail buyers rushed to buy every single dip before resistance held firm. Each bounce got systematically rejected under prior support turned resistance. It took many months of false hope before the ultimate market collapse. Current price action closely mirrors the early topping stage of that era. Follow for tomorrow's update.",
+   "ticker": "^GSPC",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Comparing today's market behavior with historical financial crises. Follow for tomorrow's update.",
+   "hashtags": [
+    "#Stocks",
+    "#History",
+    "#Markets",
+    "#Trading",
+    "#Finance"
+   ]
+  },
+  {
+   "levels": [
+    170.0,
+    150.0
+   ],
+   "history": null,
+   "title": "Nvidia Sell-Off And Retail Buying Trap",
+   "hook": "Nvidia retail buying",
+   "beats": [
+    {
+     "say": "Nvidia saw heavy retail dip-buying in the 150 to 170 dollar range.",
+     "show": "Nvidia retail buying",
+     "figure": "150$"
+    },
+    {
+     "say": "Traders rushed in to catch falling knives as support levels were tested.",
+     "show": "Catching falling knives",
+     "figure": ""
+    },
+    {
+     "say": "A sharp sell-off quickly slammed the stock through those previous lows.",
+     "show": "Sharp sell-off",
+     "figure": ""
+    },
+    {
+     "say": "The weekly chart indicates the true market bottom remains distant.",
+     "show": "Bottom is distant",
+     "figure": ""
+    },
+    {
+     "say": "Wait for confirmed reversal signals instead of buying early dips.",
+     "show": "Wait for confirmation",
+     "figure": ""
+    },
+    {
+     "say": "Follow for tomorrow's update.",
+     "show": "Follow for more",
+     "figure": ""
+    }
+   ],
+   "origin": "Jason Pizzino",
+   "source_video": "Market Panic Ending The Cycle... History Shows A Recession Is Next",
+   "narration": "Nvidia saw heavy retail dip-buying in the 150 to 170 dollar range. Traders rushed in to catch falling knives as support levels were tested. A sharp sell-off quickly slammed the stock through those previous lows. The weekly chart indicates the true market bottom remains distant. Wait for confirmed reversal signals instead of buying early dips. Follow for tomorrow's update.",
+   "ticker": "NVDA",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Examining Nvidia price action and the dangers of early dip buying. Follow for tomorrow's update.",
+   "hashtags": [
+    "#Nvidia",
+    "#NVDA",
+    "#Stocks",
+    "#Trading",
+    "#Tech"
+   ]
+  },
+  {
+   "levels": [
+    63000.0,
+    55000.0,
+    58000.0
+   ],
+   "history": null,
+   "title": "Bitcoin Breaks Key Support And Hits New Low",
+   "hook": "Bitcoin hits 55k",
+   "beats": [
+    {
+     "say": "Bitcoin printed a new cycle low at 55,000 dollars on heavy volume.",
+     "show": "Bitcoin hits 55k",
+     "figure": "$55,000"
+    },
+    {
+     "say": "Breaking below the 63,000 support level shattered short-term bullish momentum.",
+     "show": "Support broken",
+     "figure": "$63,000"
+    },
+    {
+     "say": "Extreme fear dominates the sentiment as downside pressure persists.",
+     "show": "Extreme fear",
+     "figure": ""
+    },
+    {
+     "say": "Price could bounce to retest 58,000 from below before heading lower.",
+     "show": "Re-testing 58k",
+     "figure": "$58,000"
+    },
+    {
+     "say": "The asset still lacks genuine accumulation signals for a macro run.",
+     "show": "No accumulation yet",
+     "figure": ""
+    },
+    {
+     "say": "Follow for tomorrow's update.",
+     "show": "Follow for more",
+     "figure": ""
+    }
+   ],
+   "origin": "Jason Pizzino",
+   "source_video": "Market Panic Ending The Cycle... History Shows A Recession Is Next",
+   "narration": "Bitcoin printed a new cycle low at 55,000 dollars on heavy volume. Breaking below the 63,000 support level shattered short-term bullish momentum. Extreme fear dominates the sentiment as downside pressure persists. Price could bounce to retest 58,000 from below before heading lower. The asset still lacks genuine accumulation signals for a macro run. Follow for tomorrow's update.",
+   "ticker": "BTC-USD",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Breaking down Bitcoin recent price action and support failures. Follow for tomorrow's update.",
+   "hashtags": [
+    "#Bitcoin",
+    "#Crypto",
+    "#BTC",
+    "#Trading",
+    "#Markets"
+   ]
+  },
+  {
+   "levels": [
+    38900.0,
+    3500.0,
+    3000.0
+   ],
+   "history": {
+    "symbol": "GC=F",
+    "start": "2024-07",
+    "end": "2026-11"
+   },
+   "title": "Gold Futures Break Support After Blow-Off Top",
+   "hook": "Gold breaks support",
+   "beats": [
+    {
+     "say": "Gold futures broke key support following a major blow-off top.",
+     "show": "Gold breaks support",
+     "figure": "38,900"
+    },
+    {
+     "say": "Historical analogs suggest these corrections span up to 18 months.",
+     "show": "18 month correction",
+     "figure": "18 months"
+    },
+    {
+     "say": "Price action points toward lower support zones between 3,000 and 3,500.",
+     "show": "Targeting 3,000",
+     "figure": "$3,000"
+    },
+    {
+     "say": "Extended consolidation is required before any durable base can form.",
+     "show": "Extended base",
+     "figure": ""
+    },
+    {
+     "say": "Precious metals need much more time before a fresh accumulation phase.",
+     "show": "Need more time",
+     "figure": ""
+    },
+    {
+     "say": "Follow for tomorrow's update.",
+     "show": "Follow for more",
+     "figure": ""
+    }
+   ],
+   "origin": "Jason Pizzino",
+   "source_video": "Market Panic Ending The Cycle... History Shows A Recession Is Next",
+   "narration": "Gold futures broke key support following a major blow-off top. Historical analogs suggest these corrections span up to 18 months. Price action points toward lower support zones between 3,000 and 3,500. Extended consolidation is required before any durable base can form. Precious metals need much more time before a fresh accumulation phase. Follow for tomorrow's update.",
+   "ticker": "GC=F",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Analyzing gold futures correction timelines and historical analogs. Follow for tomorrow's update.",
+   "hashtags": [
+    "#Gold",
+    "#Commodities",
+    "#Trading",
+    "#Markets",
+    "#Finance"
+   ]
+  }
+ ],
+ "carousels": {
+  "it": {
+   "topic": "La fine del ciclo economico",
+   "caption": "Analisi completa dei mercati globali e dei parallelismi con le crisi storiche. Segui per l'aggiornamento di domani.",
+   "sentiment": "bearish",
+   "ticker": "ES=F",
+   "slides": [
+    {
+     "title": "La fine del ciclo economico",
+     "body": "Scopri cosa rivelano i grafici storici sui prossimi mesi."
+    },
+    {
+     "title": "S&P 500 sotto pressione",
+     "body": "Il supporto chiave a 6.200 dollari è fondamentale per evitare ulteriori ribassi e confermare la debolezza."
+    },
+    {
+     "title": "Il parallelo con il 2007",
+     "body": "I rimbalzi falliti del passato ricordano la situazione attuale dei mercati azionari."
+    },
+    {
+     "title": "Nvidia e i titoli tecnologici",
+     "body": "Gli acquisti dei retail sui minimi anticipano correzioni più ampie e strutturali."
+    },
+    {
+     "title": "Bitcoin e i nuovi minimi",
+     "body": "La rottura dei supporti a 63.000 dollari porta Bitcoin a testare quota 55.000 tra forti timori."
+    },
+    {
+     "title": "Materie prime in correzione",
+     "body": "Oro e argento affrontano fasi di consolidamento prolungato prima di nuovi cicli."
+    },
+    {
+     "title": "Prepararsi al futuro",
+     "body": "La pazienza è essenziale in attesa di veri segnali di fondo. Segui per l'aggiornamento di domani."
+    }
+   ],
+   "hashtags": [
+    "#Mercati",
+    "#Trading",
+    "#Economia",
+    "#Borsa",
+    "#Crypto",
+    "#Analisi",
+    "#Trend",
+    "#Finanza"
+   ]
+  },
+  "en": {
+   "topic": "Market Panic Ending The Cycle",
+   "caption": "Detailed breakdown of global market corrections and historical economic parallels. Follow for tomorrow's update.",
+   "sentiment": "bearish",
+   "ticker": "ES=F",
+   "slides": [
+    {
+     "title": "Market Panic Ending The Cycle",
+     "body": "Learn what historical cycles reveal about upcoming economic shifts."
+    },
+    {
+     "title": "S&P 500 Key Support",
+     "body": "Holding support around 6,200 is critical to prevent cascading selling pressure."
+    },
+    {
+     "title": "The 2007 Parallel",
+     "body": "Past failed recovery attempts mirror current retail dip-buying behavior."
+    },
+    {
+     "title": "Nvidia Retail Trap",
+     "body": "Heavy dip-buying around tech supports preceded sharp declines."
+    },
+    {
+     "title": "Bitcoin Hits New Lows",
+     "body": "Breaking 63,000 support drove Bitcoin down to 55,000 amid mounting fear."
+    },
+    {
+     "title": "Commodities Consolidating",
+     "body": "Precious metals and energy face extended consolidation ranges."
+    },
+    {
+     "title": "Patience Over Action",
+     "body": "Wait for confirmed accumulation zones before entering. Follow for tomorrow's update."
+    }
+   ],
+   "hashtags": [
+    "#Markets",
+    "#Trading",
+    "#Economy",
+    "#Stocks",
+    "#Crypto",
+    "#Analysis",
+    "#Trends",
+    "#Finance"
+   ]
+  }
+ }
+}

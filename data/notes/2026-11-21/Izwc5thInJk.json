@@ -1,0 +1,464 @@
+{
+ "summary": "Jason Pizzino analyzes the recent sharp corrections across global stock markets, commodities, and cryptocurrencies, comparing current price action to historical economic cycles. He highlights that major indices like the S&P 500, Nasdaq, and ASX 200 are showing structural weakness after failing to hold previous highs, pointing toward a transition into a deeper recessionary phase. Assets such as gold, silver, crude oil, and Bitcoin are experiencing extended pullbacks, testing key retracement levels and historical multi-month consolidation patterns. Although retail investors continue to buy dips, the analyst advises caution and patience, arguing that proper accumulation zones and a durable market bottom have not yet been reached.",
+ "key_points": [
+  {
+   "point": "The S&P 500 futures and Nasdaq experienced significant pullbacks after reaching new cycle highs in October.",
+   "timestamp": ""
+  },
+  {
+   "point": "Bitcoin hit a cycle low around $55,000 while gold and silver also saw pullbacks from highs.",
+   "timestamp": ""
+  },
+  {
+   "point": "Based on the 18-year real estate and economic cycle, house prices peak first, followed by the stock market.",
+   "timestamp": ""
+  },
+  {
+   "point": "The S&P 500 is currently down about 12 percent from its highs, testing crucial monthly close levels.",
+   "timestamp": ""
+  },
+  {
+   "point": "Historical crashes like 2007-2009 showed multiple failed bounce attempts below prior resistance before the major sell-off.",
+   "timestamp": ""
+  },
+  {
+   "point": "Micron historical data shows a three-bar signal from all-time highs resulting in a 50% to 98% crash.",
+   "timestamp": ""
+  },
+  {
+   "point": "Gold futures broke key support near 38,900, with a 16-month trading range pointing towards mid-next year for a potential bottom.",
+   "timestamp": ""
+  },
+  {
+   "point": "Bitcoin trades around 60k, with potential risk-reward accumulation zones identified between 30k and 50k.",
+   "timestamp": ""
+  }
+ ],
+ "moments": [
+  {
+   "timestamp": "01:14",
+   "topic": "18-Year Economic Cycle Peak",
+   "claim": "Real estate and stock markets are reaching their cycle peak according to the 18-year economic cycle model.",
+   "details": "The speaker reviews the multi-year economic cycle chart, indicating we are currently at the peak phase. He notes that real estate tops out first, followed by the stock market peak in October 2025 for Bitcoin and October 2026 for S&P 500.",
+   "surprise": "Bitcoin topped out in October 2025, exactly twelve months ahead of the S&P 500 top.",
+   "kind": "setup",
+   "ticker": "ES=F",
+   "scenario": "Markets peaked around October 2025 and 2026, and subsequent bounces will face resistance before entering a deeper correction.",
+   "conclusion": "The cycle is shifting from bullish control to bearish control as monthly closes drop below prior all-time highs.",
+   "levels": [
+    {
+     "value": 7871.0,
+     "label": "high"
+    }
+   ]
+  },
+  {
+   "timestamp": "03:22",
+   "topic": "S&P 500 Support and Resistance Levels",
+   "claim": "S&P 500 futures must hold key support zones; otherwise, weakness will multiply across timeframes.",
+   "details": "He outlines S&P 500 support around 6200 to 6300 and the 50 percent retracement level. If the market closes below prior all-time highs on a monthly basis, it confirms underlying market weakness and increases the odds of a weaker bounce.",
+   "surprise": "A monthly close below prior highs signals multiple layers of market weakness.",
+   "kind": "setup",
+   "ticker": "ES=F",
+   "scenario": "Price drops to support zones, bounces weakly toward resistance, fails to hold new highs, and trends lower.",
+   "conclusion": "Bounces are expected to be weak and vulnerable to heavy selling pressure.",
+   "levels": [
+    {
+     "value": 7000.0,
+     "label": "resistance"
+    },
+    {
+     "value": 6200.0,
+     "label": "support"
+    },
+    {
+     "value": 7871.0,
+     "label": "high"
+    }
+   ]
+  },
+  {
+   "timestamp": "09:12",
+   "topic": "Historical Parallel with 2007-2009",
+   "claim": "The 2007-2009 financial crisis displayed repeated failed bounces below prior resistance before the major crash.",
+   "details": "Looking at the 2007-2009 period on the S&P 500 chart, he points out that after the initial top, the market made several recovery attempts that failed under prior lows turned resistance. Retail investors bought every dip prematurely before the ultimate market collapse during the recession.",
+   "surprise": "Markets took many months of failed retests before the catastrophic crash occurred.",
+   "kind": "history",
+   "ticker": "^GSPC",
+   "scenario": "Market drops from highs, attempts a recovery, gets rejected at prior resistance levels, and enters a prolonged downtrend.",
+   "conclusion": "It takes many months for a cycle transition to fully play out into a major crash.",
+   "history": {
+    "symbol": "^GSPC",
+    "start": "2007-07",
+    "end": "2009-03",
+    "story": "The S&P 500 formed a top in 2007, experienced large pullbacks, made temporary recoveries that failed below previous lows, and eventually crashed severely during the recession.",
+    "parallel": "Current market behavior mirrors the early stages of the 2007 top where retail buyers front-run the dip before resistance holds."
+   }
+  },
+  {
+   "timestamp": "11:41",
+   "topic": "Nvidia Price Action and Retail Buying",
+   "claim": "Nvidia experienced heavy retail buying at lows before suffering steep declines.",
+   "details": "Analyzing Nvidia on the daily chart, he notes that many retail investors tried buying the dip around 170 and 150 to 160. Following these attempts, the stock suffered a sharp sell-off that slammed into new lows.",
+   "surprise": "Retail buying activity surged heavily during the decline around the 150 to 170 price range.",
+   "kind": "setup",
+   "ticker": "NVDA",
+   "scenario": "Price drops to support, attracts retail dip-buyers, and subsequently breaks lower through key levels.",
+   "conclusion": "High-flying tech stocks like Nvidia are showing similar vulnerability to the broader market indices.",
+   "levels": [
+    {
+     "value": 170.0,
+     "label": "support"
+    },
+    {
+     "value": 150.0,
+     "label": "support"
+    }
+   ]
+  },
+  {
+   "timestamp": "13:30",
+   "topic": "Nvidia long term structural outlook",
+   "claim": "Nvidia is overbalanced in price and needs time to correct before any new bull market.",
+   "details": "The weekly chart of Nvidia exhibits a massive sell-off from previous highs. The speaker notes that while price has outpaced previous correction magnitudes, time has not yet caught up, signaling that a true market bottom is still distant.",
+   "surprise": "The steepness of the correction compared to prior market cycles.",
+   "kind": "setup",
+   "ticker": "NVDA",
+   "scenario": "Price drops further to test lower support levels before any sustained recovery occurs.",
+   "conclusion": "Wait for clear reversal confirmation rather than buying early dips.",
+   "levels": [
+    {
+     "value": 150.0,
+     "label": "resistance"
+    }
+   ]
+  },
+  {
+   "timestamp": "16:04",
+   "topic": "18-year economic cycle update",
+   "claim": "The macroeconomic cycle has shifted past the mid-cycle slowdown toward the peak and collapse phase.",
+   "details": "Using a real estate and economic cycle chart, the speaker explains that 2020 to 2022 marked the pullback before the final leg up. Current conditions indicate that the cycle is nearing a major recession period.",
+   "surprise": "The long duration of the multi-year cycle leading directly into a major correction.",
+   "kind": "opinion",
+   "scenario": "Markets transition from late-stage bullishness into a prolonged macroeconomic contraction.",
+   "conclusion": "Prepare for cash accumulation as opportunities arise deeper in the cycle."
+  },
+  {
+   "timestamp": "19:44",
+   "topic": "AMD weekly chart analysis",
+   "claim": "AMD is printing lower highs and approaching key Fibonacci support levels.",
+   "details": "The weekly chart of AMD shows a failed breakout move, with the 50% Fibonacci retracement level sitting near 367. The author notes that the market is in the process of forming a top before testing lower lows.",
+   "surprise": "The speed at which the stock established lower weekly closes after its breakout.",
+   "kind": "setup",
+   "ticker": "AMD",
+   "scenario": "Price tests the 367 support level, potentially bouncing before breaking down further.",
+   "conclusion": "Avoid long-term exposure until accumulation zones are reached.",
+   "levels": [
+    {
+     "value": 367.0,
+     "label": "support"
+    },
+    {
+     "value": 658.0,
+     "label": "high"
+    }
+   ]
+  },
+  {
+   "timestamp": "21:39",
+   "topic": "Micron historical crash pattern",
+   "claim": "Micron shares historically drop between 50% and 98% following a weekly three-bar signal from all-time highs.",
+   "details": "Reviewing Micron's chart from past decades, the speaker notes that when the three-bar signal triggers on weekly timeframes, massive crashes follow due to over-speculation and market greed.",
+   "surprise": "The historical drop magnitude reaching up to 98% in extreme past cycles.",
+   "kind": "history",
+   "ticker": "MU",
+   "scenario": "Overshot prices correct sharply downward toward validated valuation support.",
+   "conclusion": "Expect further downside before any healthy base is established.",
+   "levels": [
+    {
+     "value": 783.0,
+     "label": "resistance"
+    },
+    {
+     "value": 311.0,
+     "label": "support"
+    }
+   ],
+   "history": {
+    "symbol": "MU",
+    "start": "2024-01",
+    "end": "2026-11",
+    "story": "After surging to all-time highs, the stock printed a three-bar signal and fell by over 50% in subsequent months.",
+    "parallel": "Current over-speculation mirrors historical tops that preceded severe corrections."
+   }
+  },
+  {
+   "timestamp": "23:06",
+   "topic": "S&P 500 futures outlook",
+   "claim": "S&P 500 futures are testing long-term 50% retracement levels near previous spring lows.",
+   "details": "The daily and weekly charts for S&P 500 E-mini futures show the index pulling back below key moving averages and approaching the 50% retracement zones corresponding to earlier yearly lows.",
+   "surprise": "The precision with which current pullbacks align with historical Spring breakout zones.",
+   "kind": "setup",
+   "ticker": "ES=F",
+   "scenario": "Price tests the 6364 support level, offering a tradable bounce before continuing lower.",
+   "conclusion": "Expect temporary bounces without a complete return to structural bull market momentum.",
+   "levels": [
+    {
+     "value": 6364.0,
+     "label": "support"
+    },
+    {
+     "value": 7871.0,
+     "label": "high"
+    }
+   ]
+  },
+  {
+   "timestamp": "24:12",
+   "topic": "ASX 200 index analysis",
+   "claim": "The Australian index rejected the 50 percent extension and targets previous lows.",
+   "details": "The ASX 200 rejected the 50% extension of its recent advance near 9,278 and is expected to retest the low near 8,200 before reassessing further downside.",
+   "surprise": "Clean rejection at the 50% Fibonacci extension level.",
+   "kind": "setup",
+   "ticker": "^AXJO",
+   "scenario": "Rejecting 9,278, dropping to test support at 8,200, then assessing deeper downside.",
+   "conclusion": "Expect a retest of the 8,200 low.",
+   "levels": [
+    {
+     "value": 9278.0,
+     "label": "resistance"
+    },
+    {
+     "value": 8200.0,
+     "label": "target"
+    }
+   ]
+  },
+  {
+   "timestamp": "25:06",
+   "topic": "Gold futures and historical analog",
+   "claim": "Gold broke key support, matching an expected 16-month range extending into mid-next year.",
+   "details": "Gold futures broke the low at 38,900 after a blow-off top. Drawing on historical analogs, Pizzino notes that similar corrections take about 16 to 18 months, pointing to mid-next year for stabilization or a test of lower support zones around 3,000 to 3,500.",
+   "surprise": "The correction timeframe aligns closely with historical 18-month topping patterns.",
+   "kind": "setup",
+   "ticker": "GC=F",
+   "scenario": "Breaking 38,900, consolidating between 3,000 and 3,500 over 18 months, then either breaking down further or testing the 50% retracement.",
+   "conclusion": "Gold is not yet ready for accumulation and requires more time to consolidate.",
+   "levels": [
+    {
+     "value": 38900.0,
+     "label": "support"
+    },
+    {
+     "value": 3500.0,
+     "label": "target"
+    },
+    {
+     "value": 3000.0,
+     "label": "target"
+    }
+   ],
+   "history": {
+    "symbol": "GC=F",
+    "start": "2024-07",
+    "end": "2026-11",
+    "story": "A major blow-off top followed by a lengthy consolidation range spanning roughly 16 to 18 months before establishing a durable range.",
+    "parallel": "Current price action mirrors past multi-month topping structures requiring extended time to base."
+   }
+  },
+  {
+   "timestamp": "27:16",
+   "topic": "Silver futures long-term outlook",
+   "claim": "Silver will likely drop below $30, with historical Q3 patterns suggesting a low in 2027.",
+   "details": "Silver futures have shown consistent Q3 cyclical tops and subsequent corrections over decades. Pizzino expects the metal to eventually fall below $30, with a potential low and reversal setup arriving around Q3 2027 near $55 to $60 before further rejections.",
+   "surprise": "Decades of historical data point repeatedly to Q3 as the recurring reversal window for silver.",
+   "kind": "setup",
+   "ticker": "SI=F",
+   "scenario": "Dropping below $30, finding a bounce toward $55 in Q3 2027, followed by a rejection.",
+   "conclusion": "Silver remains in a long-term cyclical downtrend following its major blow-off.",
+   "levels": [
+    {
+     "value": 30.0,
+     "label": "support"
+    },
+    {
+     "value": 55.0,
+     "label": "target"
+    }
+   ]
+  },
+  {
+   "timestamp": "28:20",
+   "topic": "Crude oil price action",
+   "claim": "Crude oil is holding near its 50-week level but remains weak within its current range.",
+   "details": "Crude oil is holding above its 50-week moving average near support, but volume is relatively low. Pizzino wants to see consolidation above $87 and ideally $93 to confirm a bullish continuation.",
+   "surprise": "Volume remains low despite holding key moving averages.",
+   "kind": "setup",
+   "ticker": "CL=F",
+   "scenario": "Consolidating above $87, breaking past $93 to signal higher prices, otherwise remaining range-bound.",
+   "conclusion": "Oil needs to clear $87 to $93 before establishing a definitive bullish trend.",
+   "levels": [
+    {
+     "value": 73.0,
+     "label": "support"
+    },
+    {
+     "value": 87.0,
+     "label": "target"
+    },
+    {
+     "value": 93.0,
+     "label": "target"
+    }
+   ]
+  },
+  {
+   "timestamp": "32:12",
+   "topic": "Bitcoin cycle low and market weakness",
+   "claim": "Bitcoin printed a new cycle low at $55,000 as fear intensifies and momentum breaks down.",
+   "details": "Bitcoin broke below the 200-day moving average and its $63,000 support level, printing a new cycle low at $55,000 on high short-term volume. Fear and greed metrics show extreme fear, yet downside momentum persists without immediate accumulation signals.",
+   "surprise": "The breakdown below $63,000 occurred rapidly despite heavy retail bullishness earlier.",
+   "kind": "setup",
+   "ticker": "BTC-USD",
+   "scenario": "Holding near $55,000, potentially bouncing back to retest prior lows around $58,000 from below before further consolidation.",
+   "conclusion": "Bitcoin lacks bullish confirmation signals and requires deeper consolidation before a sustained macro bull run.",
+   "levels": [
+    {
+     "value": 63000.0,
+     "label": "resistance"
+    },
+    {
+     "value": 55000.0,
+     "label": "low"
+    },
+    {
+     "value": 58000.0,
+     "label": "target"
+    }
+   ]
+  },
+  {
+   "timestamp": "34:40",
+   "topic": "MicroStrategy stock breakdown",
+   "claim": "MicroStrategy broke below its summer consolidation range, signaling significant medium-term weakness.",
+   "details": "MicroStrategy (MSTR) has broken below the entire trading range established during the summer months of July and August. Pizzino expects further downside toward $50 or lower over many months before any proper base-building occurs.",
+   "surprise": "The decisive breakdown below the entire summer accumulation range.",
+   "kind": "setup",
+   "ticker": "MSTR",
+   "scenario": "Dropping below $50 and potentially $40, consolidating over several months, then attempting a recovery toward future cycle peaks.",
+   "conclusion": "MSTR is positioned for an extended corrective phase before future cyclical growth.",
+   "levels": [
+    {
+     "value": 50.0,
+     "label": "target"
+    },
+    {
+     "value": 40.0,
+     "label": "target"
+    }
+   ]
+  },
+  {
+   "timestamp": "36:00",
+   "topic": "Bitcoin daily chart Fibonacci levels",
+   "claim": "Bitcoin requires patience as lower target zones offer better risk-reward ratios.",
+   "details": "Pizzino evaluates the Bitcoin daily chart against Fibonacci retracement levels. He explains that 30k to 50k represents a much more appealing risk zone compared to current levels near 60k, where upside projections extend toward 90k, 120k, or beyond.",
+   "surprise": "Reaching higher historical targets requires working through resistance, making lower price entries vastly more lucrative.",
+   "kind": "setup",
+   "ticker": "BTC-USD",
+   "scenario": "If bitcoin dips into the 30k to 50k range, risk-reward improves drastically before moving towards higher targets.",
+   "conclusion": "Wait for confirmed consolidation before assuming an aggressive upward trend.",
+   "levels": [
+    {
+     "value": 60000.0,
+     "label": "resistance"
+    },
+    {
+     "value": 90000.0,
+     "label": "target"
+    },
+    {
+     "value": 30000.0,
+     "label": "low"
+    },
+    {
+     "value": 50000.0,
+     "label": "high"
+    }
+   ]
+  },
+  {
+   "timestamp": "37:26",
+   "topic": "Liquidation history and Google Trends",
+   "claim": "Liquidation spikes and fear-driven search interest signal a lack of genuine euphoria.",
+   "details": "The speaker reviews liquidation data showing billions lost across exchanges. He checks Google Trends for 'bitcoin', noting that search interest spikes are driven by fear of falling prices rather than new retail mania.",
+   "surprise": "Retail search interest only rises because prices drop and people get scared.",
+   "kind": "news",
+   "ticker": "BTC-USD",
+   "conclusion": "Current interest patterns align with fear and capitulation phases rather than a new speculative boom."
+  },
+  {
+   "timestamp": "39:03",
+   "topic": "USDT dominance daily chart analysis",
+   "claim": "USDT dominance is printing a macro lower high with reversal signs, hinting at potential market stabilization.",
+   "details": "Pizzino examines the USDT dominance chart on daily and multi-year timeframes. He compares the current rejection near 9% with previous tops from June and November 2022, suggesting stablecoin dominance may soon peak.",
+   "surprise": "USDT dominance is forming a macro lower high that mirrors past major market inflection points.",
+   "kind": "setup",
+   "ticker": "USDT.D",
+   "scenario": "If USDT dominance confirms a lower high, stablecoins will flow back into risk assets and trigger a market bounce.",
+   "conclusion": "Stablecoin dominance metrics suggest a temporary low is forming.",
+   "levels": [
+    {
+     "value": 9.0,
+     "label": "high"
+    },
+    {
+     "value": 8.0,
+     "label": "support"
+    }
+   ]
+  },
+  {
+   "timestamp": "40:24",
+   "topic": "Ethereum and altcoin support levels",
+   "claim": "Ethereum and other altcoins are testing major historical support zones without breaking lower.",
+   "details": "He analyzes Ethereum, Solana, and XRP charts. Ethereum holds above the 1,500-1,700 low area with support divergence, while Solana tests 65 dollars and XRP tests its June lows, showing relative resilience compared to earlier crashes.",
+   "surprise": "Ethereum holds above prior lows despite heavy market fear and recent liquidation events.",
+   "kind": "setup",
+   "ticker": "ETH-USD",
+   "scenario": "If altcoins maintain current support levels without breaking June lows, they can establish a solid base for a relief bounce.",
+   "conclusion": "Altcoin charts show early signs of potential stabilization.",
+   "levels": [
+    {
+     "value": 1500.0,
+     "label": "low"
+    },
+    {
+     "value": 1700.0,
+     "label": "support"
+    }
+   ]
+  }
+ ],
+ "digest_it": "Jason Pizzino analizza il recente crollo dei mercati azionari, delle materie prime e delle criptovalute, confrontando la situazione attuale con i cicli storici e le fasi di recessione. Evidenzia che i principali indici e titoli tecnologici mostrano una debolezza strutturale con massimi decrescenti, mentre oro, argento e Bitcoin affrontano correzioni prolungate e test di supporto chiave. Invita gli investitori alla pazienza e alla prudenza, sottolineando che i mercati non sono ancora pronti per una vera fase di accumulazione e che ulteriori ribassi o lateralità sono probabili prima di un'inversione duratura.",
+ "author_tone": "bearish",
+ "market_relevance": 5,
+ "scope": "global",
+ "tone_evidence": "",
+ "kind": "",
+ "tickers": [],
+ "predictions": [],
+ "catalysts": [],
+ "rumors": [],
+ "curiosities": [],
+ "promo": false,
+ "video_id": "Izwc5thInJk",
+ "title": "Market Panic Ending The Cycle... History Shows A Recession Is Next",
+ "author": "Jason Pizzino",
+ "url": "https://www.youtube.com/watch?v=Izwc5thInJk",
+ "published": "2026-11-21T18:06:44+00:00",
+ "duration_min": 42,
+ "partial": false,
+ "analysed_at": "2026-11-22T12:55:39.825084+00:00",
+ "model": "gemini-3.5-flash-lite"
+}

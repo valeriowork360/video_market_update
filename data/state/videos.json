@@ -340,5 +340,23 @@
   "first_seen": "2026-11-21T02:58:57.931182+00:00",
   "tries": 4,
   "last_error": "Gemini non riesce ad aprire questo video adesso (live appena finita, video riservato o rimosso)"
+ },
+ "Zfw13H0Tbgg": {
+  "status": "done",
+  "attempts": 0,
+  "channel": "MindTheChart",
+  "title": "Il Mercato Che Ci Ha Distrutto i Portafogli",
+  "first_seen": "2026-11-22T12:54:11.471343+00:00",
+  "tries": 1,
+  "done_at": "2026-11-22T12:54:22.053018+00:00"
+ },
+ "Izwc5thInJk": {
+  "status": "done",
+  "attempts": 0,
+  "channel": "Jason Pizzino",
+  "title": "Market Panic Ending The Cycle... History Shows A Recession Is Next",
+  "first_seen": "2026-11-22T12:54:22.054238+00:00",
+  "tries": 1,
+  "done_at": "2026-11-22T12:55:39.825959+00:00"
  }
 }

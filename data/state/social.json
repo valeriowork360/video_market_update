@@ -378,5 +378,64 @@
   "tries": 1,
   "title": "AMD Shareholders! Here's What Comes NEXT",
   "done": true
+ },
+ "Izwc5thInJk": {
+  "sent": [
+   "it:s1",
+   "it:s2",
+   "it:s3",
+   "it:s4",
+   "it:s5",
+   "it:c",
+   "it:cv",
+   "en:s1",
+   "en:s2",
+   "en:s3",
+   "en:s4",
+   "en:s5",
+   "en:c",
+   "en:cv"
+  ],
+  "tries": 1,
+  "title": "Market Panic Ending The Cycle... History Shows A Recession Is Next",
+  "done": true
+ },
+ "Zfw13H0Tbgg": {
+  "sent": [
+   "it:s1",
+   "it:s2",
+   "it:s3",
+   "it:c",
+   "it:cv",
+   "en:s1",
+   "en:s2",
+   "en:s3",
+   "en:c",
+   "en:cv"
+  ],
+  "tries": 1,
+  "title": "Il Mercato Che Ci Ha Distrutto i Portafogli",
+  "done": true
+ },
+ "wb7oB3NgpI8": {
+  "sent": [
+   "it:s1",
+   "it:s2",
+   "it:s3",
+   "it:s4",
+   "it:s5",
+   "it:c",
+   "it:cv",
+   "en:s1",
+   "en:s2",
+   "en:s3",
+   "en:s4",
+   "en:s5",
+   "en:c",
+   "en:cv"
+  ],
+  "tries": 1,
+  "title": "Inflation? Recession? Investors Need to See This!",
+  "done": true
  }
 }

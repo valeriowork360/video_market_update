@@ -1,0 +1,132 @@
+{
+ "market_relevance": 9,
+ "scope": "global",
+ "kind": "market update",
+ "summary": "The analyst examines the severe market downturn affecting major indices, cryptocurrencies, and individual stocks like Nvidia following heavy losses. He reviews weekly and monthly charts of Bitcoin and the S&P 500, noting that all major sectors sit below their 200 EMA. Anticipating potential relief bounces, he emphasizes that lower highs and deeper retracements remain the primary expectation across multi-year timeframes. The U.S. dollar emerges as one of the few safe havens while global equities face broad selling pressure.",
+ "digest_it": "L'autore analizza la forte correzione dei mercati e delle criptovalute, prevedendo possibili rimbalzi tecnici seguiti da ulteriori ribassi. Sottolinea che quasi tutti i settori si trovano sotto la media mobile a 200 periodi e che il dollaro resta l'unico vero rifugio sicuro.",
+ "author_tone": "bearish",
+ "tone_evidence": "He consistently refers to the current market condition as a massacre and expects lower highs on monthly charts.",
+ "key_points": [
+  {
+   "point": "Bitcoin touched 55,000 dollars before recovering towards 61,400 dollars.",
+   "timestamp": "00:18"
+  },
+  {
+   "point": "Nvidia experienced a fourteen percent drop during the sell-off.",
+   "timestamp": "00:14"
+  },
+  {
+   "point": "The U.S. dollar index climbed to 103.840 as a safe-haven asset.",
+   "timestamp": "05:50"
+  },
+  {
+   "point": "Bitcoin remains far below its 200 EMA located at 77,097 dollars.",
+   "timestamp": "01:45"
+  }
+ ],
+ "moments": [
+  {
+   "timestamp": "01:08",
+   "topic": "Bitcoin monthly and weekly chart analysis",
+   "claim": "Bitcoin has broken below previous lows and is trading far below its 200 EMA.",
+   "details": "The asset dropped to 55,000 dollars, breaking the previous low from July, before bouncing back above 60,000 dollars. The author expects a recovery towards 70,000 to 75,000 dollars to avoid a bearish weekly flag, but warns that lower highs on monthly timeframes are probable.",
+   "surprise": "Bitcoin remains far below its 200 EMA at 77,097 dollars.",
+   "kind": "setup",
+   "ticker": "BTC-USD",
+   "scenario": "Rebound to 70,000-75,000 dollars first, then determine if a larger bearish continuation occurs.",
+   "conclusion": "A recovery to at least 70,000 dollars is needed early next year to invalidate a larger weekly and monthly bear flag.",
+   "levels": [
+    {
+     "value": 55000.0,
+     "label": "low"
+    },
+    {
+     "value": 60000.0,
+     "label": "support"
+    },
+    {
+     "value": 71000.0,
+     "label": "target"
+    },
+    {
+     "value": 75000.0,
+     "label": "target"
+    },
+    {
+     "value": 77097.0,
+     "label": "resistance"
+    }
+   ]
+  },
+  {
+   "timestamp": "03:23",
+   "topic": "S&P 500 and Equal-Weight index review",
+   "claim": "The S&P 500 and its equal-weight counterpart show significant retracements from their highs.",
+   "details": "The equal-weight S&P 500 ETF (RSP) posted seven consecutive red weeks, a rare occurrence seen previously only in 2002 and 2022. The author highlights that many sectors remain weak despite minor relief bounces.",
+   "surprise": "RSP posted seven consecutive red weeks, matching historic bear market patterns.",
+   "kind": "setup",
+   "ticker": "^GSPC",
+   "scenario": "Retrace above Fibonacci 0.38 and 0.5 levels to confirm a local bottom before further range-bound action.",
+   "conclusion": "Broad market indices need to reclaim key Fibonacci retracement levels to avoid deeper downside movement.",
+   "levels": [
+    {
+     "value": 6954.0,
+     "label": "high"
+    },
+    {
+     "value": 207.0,
+     "label": "resistance"
+    }
+   ]
+  },
+  {
+   "timestamp": "04:31",
+   "topic": "Nasdaq 100 and market-wide sentiment",
+   "claim": "The Nasdaq 100 faces heavy retracement from its highs with limited safe havens available.",
+   "details": "The author examines the Nasdaq 100 chart, emphasizing that a return above the 0.38 and 0.5 Fibonacci levels is required to signal a meaningful recovery. With gold, equities, and cryptocurrencies all declining, the U.S. dollar index at 103.840 remains one of the few safe-haven assets.",
+   "surprise": "Almost all asset classes are down simultaneously, leaving cash as the primary safe haven.",
+   "kind": "setup",
+   "ticker": "QQQ",
+   "scenario": "Bounce to test resistance zones around 28,000 before establishing a lower high range.",
+   "conclusion": "Without a surprise tech sector reversal led by companies like Nvidia, broad market recovery will remain sluggish.",
+   "levels": [
+    {
+     "value": 25220.0,
+     "label": "low"
+    },
+    {
+     "value": 28000.0,
+     "label": "resistance"
+    }
+   ]
+  }
+ ],
+ "tickers": [
+  "BTC-USD",
+  "^GSPC",
+  "NVDA",
+  "QQQ"
+ ],
+ "predictions": [
+  "Bitcoin to recover towards 70,000 to 75,000 dollars between January and February",
+  "S&P 500 and Nasdaq to test Fibonacci retracement levels before forming lower highs"
+ ],
+ "catalysts": [
+  "Nvidia financial earnings report release"
+ ],
+ "rumors": [],
+ "curiosities": [
+  "The equal-weight S&P 500 recorded seven consecutive red weeks, a pattern seen only in 2002 and 2022."
+ ],
+ "promo": false,
+ "language": "it",
+ "video_id": "Zfw13H0Tbgg",
+ "title": "Il Mercato Che Ci Ha Distrutto i Portafogli",
+ "author": "MindTheChart",
+ "url": "https://www.youtube.com/watch?v=Zfw13H0Tbgg",
+ "published": "2026-11-22T12:31:49+00:00",
+ "duration_min": 6,
+ "partial": false,
+ "analysed_at": "2026-11-22T12:54:22.052702+00:00",
+ "model": "gemini-3.5-flash-lite"
+}

@@ -1,0 +1,404 @@
+{
+ "it": [
+  {
+   "levels": [
+    55000.0,
+    60000.0,
+    71000.0,
+    75000.0,
+    77097.0
+   ],
+   "history": null,
+   "title": "Bitcoin sotto la media mobile",
+   "hook": "77.097 dollari",
+   "beats": [
+    {
+     "say": "77.097 dollari è la resistenza chiave per Bitcoin sul grafico mensile.",
+     "show": "77.097 dollari",
+     "figure": "77.097 $"
+    },
+    {
+     "say": "Il prezzo è sceso fino a 55.000 dollari prima di recuperare quota 60.000.",
+     "show": "Minimo a 55.000",
+     "figure": "55.000 $"
+    },
+    {
+     "say": "La struttura tecnica mostra massimi decrescenti su tutti i principali timeframe.",
+     "show": "Massimi decrescenti",
+     "figure": ""
+    },
+    {
+     "say": "Il rimbalzo verso 71.000 e 75.000 dollari è necessario per evitare continuazioni ribassiste.",
+     "show": "Target a 75.000",
+     "figure": "75.000 $"
+    },
+    {
+     "say": "Senza questo recupero il quadro resta debole. Segui per l'aggiornamento di domani.",
+     "show": "Segui per aggiornamenti",
+     "figure": ""
+    }
+   ],
+   "origin": "MindTheChart",
+   "source_video": "Il Mercato Che Ci Ha Distrutto i Portafogli",
+   "narration": "77.097 dollari è la resistenza chiave per Bitcoin sul grafico mensile. Il prezzo è sceso fino a 55.000 dollari prima di recuperare quota 60.000. La struttura tecnica mostra massimi decrescenti su tutti i principali timeframe. Il rimbalzo verso 71.000 e 75.000 dollari è necessario per evitare continuazioni ribassiste. Senza questo recupero il quadro resta debole. Segui per l'aggiornamento di domani.",
+   "ticker": "BTC-USD",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Analisi dei livelli chiave di Bitcoin tra supporti e resistenze mensili.",
+   "hashtags": [
+    "#bitcoin",
+    "#crypto",
+    "#trading",
+    "#analisi",
+    "#mercati"
+   ]
+  },
+  {
+   "levels": [
+    6954.0,
+    207.0
+   ],
+   "history": null,
+   "title": "S&P 500: sette settimane rosse",
+   "hook": "Sette settimane rosse",
+   "beats": [
+    {
+     "say": "Sette settimane consecutive di ribasso per l'indice equal-weight S&P 500.",
+     "show": "Sette settimane rosse",
+     "figure": "7"
+    },
+    {
+     "say": "Questo raro schema si era visto in precedenza soltanto negli anni 2002 e 2022.",
+     "show": "Precedenti storici",
+     "figure": ""
+    },
+    {
+     "say": "Molti settori continuano a mostrare debolezza nonostante i modesti rimbalzi tecnici.",
+     "show": "Settori in debolezza",
+     "figure": ""
+    },
+    {
+     "say": "L'indice deve riconquistare i livelli di Fibonacci per evitare ulteriori discese.",
+     "show": "Riconquistare Fibonacci",
+     "figure": ""
+    },
+    {
+     "say": "La pressione di vendita resta dominante sui listini. Segui per l'aggiornamento di domani.",
+     "show": "Segui per aggiornamenti",
+     "figure": ""
+    }
+   ],
+   "origin": "MindTheChart",
+   "source_video": "Il Mercato Che Ci Ha Distrutto i Portafogli",
+   "narration": "Sette settimane consecutive di ribasso per l'indice equal-weight S&P 500. Questo raro schema si era visto in precedenza soltanto negli anni 2002 e 2022. Molti settori continuano a mostrare debolezza nonostante i modesti rimbalzi tecnici. L'indice deve riconquistare i livelli di Fibonacci per evitare ulteriori discese. La pressione di vendita resta dominante sui listini. Segui per l'aggiornamento di domani.",
+   "ticker": "^GSPC",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Analisi dei mercati azionari e dei pattern storici dell'indice S&P 500.",
+   "hashtags": [
+    "#sp500",
+    "#borsa",
+    "#mercati",
+    "#trading",
+    "#finanza"
+   ]
+  },
+  {
+   "levels": [
+    25220.0,
+    28000.0
+   ],
+   "history": null,
+   "title": "Nasdaq 100 e rifugi sicuri",
+   "hook": "Nasdaq in ritracciamento",
+   "beats": [
+    {
+     "say": "Il Nasdaq 100 affronta pesanti ritracciamenti dai massimi registrati in precedenza.",
+     "show": "Nasdaq in ritracciamento",
+     "figure": ""
+    },
+    {
+     "say": "Azioni, materie prime e criptovalute registrano cali simultanei su tutti i fronti.",
+     "show": "Ribassi simultanei",
+     "figure": ""
+    },
+    {
+     "say": "Il dollaro americano a quota 103 resta uno dei pochi beni rifugio disponibili.",
+     "show": "Dollaro rifugio",
+     "figure": "103"
+    },
+    {
+     "say": "I prezzi puntano a testare la resistenza a 28.000 dollari prima di stabilizzarsi.",
+     "show": "Resistenza a 28.000",
+     "figure": "28.000 $"
+    },
+    {
+     "say": "Senza una svolta tecnologica la ripresa sarà lenta. Segui per l'aggiornamento di domani.",
+     "show": "Segui per aggiornamenti",
+     "figure": ""
+    }
+   ],
+   "origin": "MindTheChart",
+   "source_video": "Il Mercato Che Ci Ha Distrutto i Portafogli",
+   "narration": "Il Nasdaq 100 affronta pesanti ritracciamenti dai massimi registrati in precedenza. Azioni, materie prime e criptovalute registrano cali simultanei su tutti i fronti. Il dollaro americano a quota 103 resta uno dei pochi beni rifugio disponibili. I prezzi puntano a testare la resistenza a 28.000 dollari prima di stabilizzarsi. Senza una svolta tecnologica la ripresa sarà lenta. Segui per l'aggiornamento di domani.",
+   "ticker": "QQQ",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Analisi del Nasdaq 100 e del ruolo del dollaro come bene rifugio.",
+   "hashtags": [
+    "#nasdaq",
+    "#tech",
+    "#dollaro",
+    "#trading",
+    "#mercati"
+   ]
+  }
+ ],
+ "en": [
+  {
+   "levels": [
+    55000.0,
+    60000.0,
+    71000.0,
+    75000.0,
+    77097.0
+   ],
+   "history": null,
+   "title": "Bitcoin Below Major Moving Average",
+   "hook": "77,097 dollars resistance",
+   "beats": [
+    {
+     "say": "77,097 dollars is the major resistance level for Bitcoin on the monthly chart.",
+     "show": "77,097 dollars resistance",
+     "figure": "$77,097"
+    },
+    {
+     "say": "The asset dropped to 55,000 dollars before bouncing back above 60,000.",
+     "show": "Drop to 55,000",
+     "figure": "$55,000"
+    },
+    {
+     "say": "The overall market structure continues printing lower highs across wider timeframes.",
+     "show": "Lower highs forming",
+     "figure": ""
+    },
+    {
+     "say": "A recovery towards 71,000 and 75,000 dollars is required early next year.",
+     "show": "Target 75,000 dollars",
+     "figure": "$75,000"
+    },
+    {
+     "say": "Without this push the bearish flag remains active. Follow for tomorrow's update.",
+     "show": "Follow for update",
+     "figure": ""
+    }
+   ],
+   "origin": "MindTheChart",
+   "source_video": "Il Mercato Che Ci Ha Distrutto i Portafogli",
+   "narration": "77,097 dollars is the major resistance level for Bitcoin on the monthly chart. The asset dropped to 55,000 dollars before bouncing back above 60,000. The overall market structure continues printing lower highs across wider timeframes. A recovery towards 71,000 and 75,000 dollars is required early next year. Without this push the bearish flag remains active. Follow for tomorrow's update.",
+   "ticker": "BTC-USD",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Breaking down Bitcoin key chart levels and medium-term price targets.",
+   "hashtags": [
+    "#bitcoin",
+    "#crypto",
+    "#markets",
+    "#trading",
+    "#analysis"
+   ]
+  },
+  {
+   "levels": [
+    6954.0,
+    207.0
+   ],
+   "history": null,
+   "title": "S&P 500 Seven Consecutive Red Weeks",
+   "hook": "Seven red weeks",
+   "beats": [
+    {
+     "say": "Seven consecutive red weeks hit the equal-weight S&P 500 index.",
+     "show": "Seven red weeks",
+     "figure": "7"
+    },
+    {
+     "say": "This rare market sequence previously occurred only in the years 2002 and 2022.",
+     "show": "Rare market pattern",
+     "figure": ""
+    },
+    {
+     "say": "Broader sectors remain weak despite occasional relief bounces across major boards.",
+     "show": "Persistent weakness",
+     "figure": ""
+    },
+    {
+     "say": "The index needs to reclaim key Fibonacci levels to avoid deeper downside movement.",
+     "show": "Reclaim Fibonacci",
+     "figure": ""
+    },
+    {
+     "say": "Selling pressure dominates the broader equity landscape. Follow for tomorrow's update.",
+     "show": "Follow for update",
+     "figure": ""
+    }
+   ],
+   "origin": "MindTheChart",
+   "source_video": "Il Mercato Che Ci Ha Distrutto i Portafogli",
+   "narration": "Seven consecutive red weeks hit the equal-weight S&P 500 index. This rare market sequence previously occurred only in the years 2002 and 2022. Broader sectors remain weak despite occasional relief bounces across major boards. The index needs to reclaim key Fibonacci levels to avoid deeper downside movement. Selling pressure dominates the broader equity landscape. Follow for tomorrow's update.",
+   "ticker": "^GSPC",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Examining historical bear market patterns on the S&P 500 equal-weight index.",
+   "hashtags": [
+    "#sp500",
+    "#stocks",
+    "#markets",
+    "#trading",
+    "#finance"
+   ]
+  },
+  {
+   "levels": [
+    25220.0,
+    28000.0
+   ],
+   "history": null,
+   "title": "Nasdaq 100 And Safe Havens",
+   "hook": "Nasdaq retracement",
+   "beats": [
+    {
+     "say": "The Nasdaq 100 faces heavy retracements from its previous all-time highs.",
+     "show": "Nasdaq retracement",
+     "figure": ""
+    },
+    {
+     "say": "Equities, commodities, and digital assets are all declining simultaneously.",
+     "show": "Declining assets",
+     "figure": ""
+    },
+    {
+     "say": "The US dollar index at 103 stands out as a primary safe-haven asset.",
+     "show": "Dollar safe haven",
+     "figure": "103"
+    },
+    {
+     "say": "Prices need to test resistance zones near 28,000 before establishing ranges.",
+     "show": "Resistance at 28,000",
+     "figure": "28,000"
+    },
+    {
+     "say": "Broad recovery remains limited without tech sector leadership. Follow for tomorrow's update.",
+     "show": "Follow for update",
+     "figure": ""
+    }
+   ],
+   "origin": "MindTheChart",
+   "source_video": "Il Mercato Che Ci Ha Distrutto i Portafogli",
+   "narration": "The Nasdaq 100 faces heavy retracements from its previous all-time highs. Equities, commodities, and digital assets are all declining simultaneously. The US dollar index at 103 stands out as a primary safe-haven asset. Prices need to test resistance zones near 28,000 before establishing ranges. Broad recovery remains limited without tech sector leadership. Follow for tomorrow's update.",
+   "ticker": "QQQ",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Reviewing Nasdaq 100 price action and safe-haven dynamics in current markets.",
+   "hashtags": [
+    "#nasdaq",
+    "#techstocks",
+    "#markets",
+    "#trading",
+    "#finance"
+   ]
+  }
+ ],
+ "carousels": {
+  "it": {
+   "topic": "La crisi dei mercati finanziari",
+   "caption": "Analisi approfondita della fase ribassista su indici azionari e criptovalute. Segui per l'aggiornamento di domani.",
+   "sentiment": "bearish",
+   "ticker": "BTC-USD",
+   "slides": [
+    {
+     "title": "Il Mercato Che Distrugge i Portafogli",
+     "body": "Analizziamo i crolli recenti su Bitcoin, S&P 500 e sui principali indici globali."
+    },
+    {
+     "title": "Bitcoin Sotto la Media",
+     "body": "Il prezzo di Bitcoin è sceso a 55.000 dollari prima di recuperare 60.000 dollari. La resistenza chiave resta a 77.097 dollari."
+    },
+    {
+     "title": "S&P 500 in Rosso",
+     "body": "L'indice equal-weight ha registrato sette settimane consecutive di ribasso, un evento storico visto nel 2002 e nel 2022."
+    },
+    {
+     "title": "Nasdaq e Rifugi",
+     "body": "Quasi tutte le asset class registrano vendite simultanee. Il dollaro americano a quota 103 rimane uno dei pochi beni rifugio."
+    },
+    {
+     "title": "Prossimi Livelli",
+     "body": "I listini azionari e le criptovalute devono riconquistare i livelli chiave di Fibonacci per evitare ulteriori cali."
+    },
+    {
+     "title": "Quadro Tecnico",
+     "body": "La ripresa richiederà una spinta dai settori chiave e dai risultati finanziari delle grandi aziende tecnologiche."
+    },
+    {
+     "title": "Aggiornamento Giornaliero",
+     "body": "Monitoriamo costantemente l'evoluzione dei mercati finanziari. Segui per non perdere i prossimi report."
+    }
+   ],
+   "hashtags": [
+    "#mercati",
+    "#bitcoin",
+    "#sp500",
+    "#nasdaq",
+    "#trading",
+    "#finanza",
+    "#analisi"
+   ]
+  },
+  "en": {
+   "topic": "The Current Market Downturn",
+   "caption": "Detailed breakdown of the severe market correction across stocks and crypto assets. Follow for tomorrow's update.",
+   "sentiment": "bearish",
+   "ticker": "BTC-USD",
+   "slides": [
+    {
+     "title": "Markets Facing Severe Pressure",
+     "body": "Examining the heavy downturn affecting major equity indices, cryptocurrencies, and tech stocks."
+    },
+    {
+     "title": "Bitcoin Key Levels",
+     "body": "Bitcoin dropped to 55,000 dollars before bouncing to 60,000 while staying far below the 77,097 dollar resistance."
+    },
+    {
+     "title": "Historical Bear Pattern",
+     "body": "The equal-weight S&P 500 posted seven consecutive red weeks, matching historical patterns from 2002 and 2022."
+    },
+    {
+     "title": "Safe Havens Scarce",
+     "body": "With equities and crypto declining together, the US dollar index at 103 serves as a primary safe haven."
+    },
+    {
+     "title": "Technical Retracements",
+     "body": "Major indices must reclaim key Fibonacci retracement zones to avoid deeper downside movement ahead."
+    },
+    {
+     "title": "Sector Leadership Needed",
+     "body": "Broad market recovery remains dependent on upcoming tech earnings and sector-wide reversals."
+    },
+    {
+     "title": "Daily Market Insights",
+     "body": "We track key market shifts every single day. Follow for tomorrow's market update."
+    }
+   ],
+   "hashtags": [
+    "#markets",
+    "#bitcoin",
+    "#sp500",
+    "#nasdaq",
+    "#trading",
+    "#finance",
+    "#analysis"
+   ]
+  }
+ }
+}
