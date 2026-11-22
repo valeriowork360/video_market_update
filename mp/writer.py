@@ -129,7 +129,8 @@ first, and keeps ALL its substance:
 - setup: the asset, each level with its number, the path drawn step by step with its
   condition ("if it loses 7.000..."), and the conclusion. Do not round the levels away.
 - history: the period with its years, what happened step by step with % and duration, and
-  the parallel with today.
+  the parallel with today. When "market_data" is given, use those exact figures (top, low,
+  fall in %, months): they are real market data.
 The carousel must also walk through the main setup and the main historical case, if any.
 
 Write each short in these languages: {langs}. Each version is written natively for that
@@ -508,15 +509,43 @@ def _one_short(raw, common, origin, source):
                          for h in (clean(x).replace(" ", "") for x in (raw.get("hashtags") or [])) if h][:10]}
 
 
+def _history_facts(h):
+    """Real numbers for a historical case (top, bottom, fall in %, months), from market data,
+    so a history short can say exactly what happened instead of a vague retelling."""
+    from . import news
+    try:
+        import yfinance as yf
+        y, m = map(int, h["end"].split("-"))
+        stop = f"{y + (m == 12)}-{m % 12 + 1:02d}-01"
+        c = yf.Ticker(h.get("symbol") or "^GSPC").history(start=h["start"] + "-01", end=stop, interval="1wk")["Close"].dropna()
+        if len(c) < 10:
+            return None
+        top_i = c.idxmax()
+        after = c[c.index >= top_i]
+        low_i = after.idxmin()
+        fall = (after.min() / c.max() - 1) * 100
+        months = round((low_i - top_i).days / 30.4)
+        return (f"top {c.max():,.0f} in {top_i:%b %Y}; low {after.min():,.0f} in {low_i:%b %Y}; "
+                f"fall {fall:.0f}% in {months} months; start of period {c.iloc[0]:,.0f}, end {c.iloc[-1]:,.0f}")
+    except Exception:
+        return None
+
+
 def video_shorts(note, langs):
     """Several shorts from ONE creator video: one per salient part. Returns {lang: [short, ...]}."""
     parts_n = len(note.get("moments") or note.get("key_points") or []) or 3
     n = max(2, min(CFG["daily"].get("shorts_per_video", 15), parts_n))
     ch = next((c for c in CFG["channels"] if c["name"] == note["author"]), {})
     origin = ch.get("group") or note["author"]
+    parts = [dict(m) for m in (note.get("moments") or [])]
+    for m in parts:
+        if m.get("history"):
+            facts = _history_facts(m["history"])
+            if facts:
+                m["history"]["market_data"] = facts
     view = {"title": note["title"][:120], "tone": note.get("author_tone"), "summary": note.get("summary"),
-            "parts": note.get("moments") or [{"claim": k["point"], "timestamp": k.get("timestamp")}
-                                              for k in note.get("key_points", [])],
+            "parts": parts or [{"claim": k["point"], "timestamp": k.get("timestamp")}
+                               for k in note.get("key_points", [])],
             "predictions": note.get("predictions", [])[:6], "catalysts": note.get("catalysts", [])[:5],
             "rumors": note.get("rumors", [])[:3], "tickers": note.get("tickers", [])[:8]}
     body = V_PROMPT.format(brand=CFG["brand"]["name"], n=n, langs=", ".join(LANG[l] for l in langs),
