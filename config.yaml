@@ -100,8 +100,8 @@ collect:
   telegram_digest: true         # ti manda il riassunto di ogni video nuovo
 
 video:
-  fps: 0.2                      # fotogrammi al secondo letti dall'AI (basso = consuma meno quota)
-  chunk_minutes: 40             # i video lunghi vengono analizzati a pezzi
+  fps: 0.5                      # fotogrammi al secondo letti dall'AI: 1 ogni 2 secondi, per vedere i disegni sui grafici
+  chunk_minutes: 12             # pezzi corti = analisi piu' dettagliata (minuto per minuto)
   max_minutes: 120              # delle live piu' lunghe analizza solo la prima parte
   daily_hours_cap: 7            # Gemini gratis: massimo 8 ore di YouTube al giorno
 
