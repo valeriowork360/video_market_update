@@ -145,6 +145,7 @@ def test_watch():
     state = {"real": 0}
     watch.llm.ask = fake_ask
     ch = {"name": "A"}
+    watch.V["chunk_minutes"] = 40           # the test is written for 40-minute chunks
     # known length, 100 minutes -> 40 + 40 + 20, then one merge
     v = {"id": "x", "title": "t", "url": "u", "duration": 6000, "published": None}
     n = watch.analyse(v, ch)
