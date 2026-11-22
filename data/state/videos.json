@@ -340,14 +340,5 @@
   "first_seen": "2026-11-21T02:58:57.931182+00:00",
   "tries": 4,
   "last_error": "Gemini non riesce ad aprire questo video adesso (live appena finita, video riservato o rimosso)"
- },
- "Izwc5thInJk": {
-  "status": "done",
-  "attempts": 0,
-  "channel": "Jason Pizzino",
-  "title": "Market Panic Ending The Cycle... History Shows A Recession Is Next",
-  "first_seen": "2026-11-22T11:57:10.112254+00:00",
-  "tries": 1,
-  "done_at": "2026-11-22T11:58:05.730288+00:00"
  }
 }
