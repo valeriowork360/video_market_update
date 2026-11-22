@@ -1,0 +1,159 @@
+{
+ "title": "Wall Street in Correzione: Nasdaq -5,3%, Bitcoin e Tech in Scossa",
+ "description": "Wall Street chiude una settimana di forti vendite con il Nasdaq che cede il 5,3% e il VIX a quota 36.\nMentre Anthropic debutta al Nasdaq, Bitcoin tenta la tenuta sopra i 59.000 dollari dopo massicce liquidazioni.\nAnalisi di borse, criptovalute e dinamiche aziendali nel briefing di oggi.\n\nFonti e analisi: 0xTalks, Jeremy Lefebvre Clips, Jason Pizzino.",
+ "tags": [
+  "S&P 500",
+  "Nasdaq",
+  "Bitcoin",
+  "Nvidia",
+  "Anthropic",
+  "AMD",
+  "VIX",
+  "Ethereum",
+  "Borsa",
+  "Criptovalute"
+ ],
+ "thumbnail_text": "Wall Street CROLLA: VIX 36",
+ "mood": "urgent",
+ "segments": [
+  {
+   "id": "s1",
+   "kind": "hook",
+   "heading": "Wall Street in picchiata",
+   "narration": "Wall Street chiude la settimana peggiore dal 2020. Il settore tecnologico accumula perdite pesanti e spinge l'indice di volatilità VIX a quota 36. Contemporaneamente, il debutto di Anthropic si scontra con il crollo dei chip, mentre Bitcoin cerca di stabilizzarsi sopra 59.000 dollari dopo un'ondata di liquidazioni.",
+   "bullets": [
+    "Nasdaq in calo del 5,3%",
+    "VIX sale fino a 36 punti",
+    "Bitcoin difende quota 59.000$"
+   ],
+   "ticker": null,
+   "sentiment": "bearish",
+   "sources": [
+    "0xTalks",
+    "CNBC"
+   ]
+  },
+  {
+   "id": "s2",
+   "kind": "market",
+   "heading": "Panico sui listini",
+   "narration": "I mercati azionari affrontano una fase di profonda correzione. Il Nasdaq Composite perde il 5,3% in una sola seduta e scende a 22.618 punti, accumulando un calo del 10% in cinque giorni. L'S&P 500 cede il 3,7% a 6.910 punti, rompendo al ribasso i livelli chiave di supporto. Anche il Dow Jones arretra dell'1,9% a 48.147 punti. In Europa il FTSE MIB chiude a 48.704 punti con un calo del 2,5%. L'indice della paura VIX balza del 26,2% fino a 36 punti, segnalando una marcata avversione al rischio. Sui mercati delle materie prime, l'oro cede il 4,6% a 3.515 dollari l'oncia, mentre il petrolio WTI sale a 84 dollari.",
+   "bullets": [
+    "Nasdaq: 22.618 (-5,3%)",
+    "S&P 500: 6.910 (-3,7%)",
+    "FTSE MIB: 48.704 (-2,5%)",
+    "VIX a 36 (+26,2%)"
+   ],
+   "ticker": "^IXIC",
+   "sentiment": "bearish",
+   "sources": [
+    "Yahoo Finance"
+   ]
+  },
+  {
+   "id": "s3",
+   "kind": "topic",
+   "heading": "Pressione sui semiconduttori",
+   "narration": "Il crollo dei giganti tecnologici incide in modo diretto sulla tenuta dei principali indici azionari. Nvidia arretra del 48% rispetto ai massimi storici, soffrendo l'incertezza sui margini operativi, attualmente vicini al 60%, e il rallentamento della spesa per le infrastrutture dei data center. La crescente concorrenza nel settore dell'intelligenza artificiale comprime la redditività nel lungo periodo. Al contrario, la struttura patrimoniale di AMD mostra una minore concentrazione negli ETF di settore, dove copre il 6,5% del fondo SMH rispetto al 17,1% di Nvidia. Le proiezioni sui ricavi per AMD indicano un potenziale di crescita solido entro il 2030. In questo contesto, le valutazioni dell'S&P 500 indicano un rapporto prezzo-utili atteso di 18,3, un livello storicamente equo che riduce i rischi di una bolla speculativa.",
+   "bullets": [
+    "Nvidia giù del 48% dal picco",
+    "Margini chip sotto pressione",
+    "AMD verso target di lungo termine",
+    "S&P 500 P/E atteso a 18,3"
+   ],
+   "ticker": "NVDA",
+   "sentiment": "neutral",
+   "sources": [
+    "Jeremy Lefebvre Clips",
+    "Jason Pizzino"
+   ]
+  },
+  {
+   "id": "s4",
+   "kind": "topic",
+   "heading": "Cripto tra supporti e recupero",
+   "narration": "Il mercato delle criptovalute attraversa una forte fase di volatilità a seguito di una maxi liquidazione da 1,8 miliardi di dollari nei contratti derivati. Bitcoin tocca minimi a 55.000 dollari prima di stabilizzarsi a 59.224 dollari, con un modesto rialzo dello 0,7% nelle ultime ventiquattro ore. Sotto la soglia di 60.000 dollari la struttura di prezzo resta fragile, delineando una probabile fase di consolidamento laterale tra 50.000 e 60.000 dollari. Ethereum evidenzia invece una divergenza rialzista rispetto al quadro generale, mantenendosi al di sopra del supporto di 1.500 dollari e scambiando a 1.661 dollari, in crescita del 2,6%. I dati sulle ricerche online confermano un interesse retail ancora contenuto, elemento tipico delle fasi di accumulazione.",
+   "bullets": [
+    "Liquidazioni per 1,8 miliardi$",
+    "Bitcoin a 59.224$ (+0,7%)",
+    "Ethereum tiene quota 1.661$",
+    "Consolidamento in corso"
+   ],
+   "ticker": "BTC-USD",
+   "sentiment": "neutral",
+   "sources": [
+    "0xTalks",
+    "Jason Pizzino",
+    "CoinDesk"
+   ]
+  },
+  {
+   "id": "s5",
+   "kind": "topic",
+   "heading": "Debutto Anthropic e flussi SaaS",
+   "narration": "Il collocamento di Anthropic al Nasdaq al prezzo di 83 dollari per azione si incrocia con la peggiore settimana per il comparto tech dal 2020. I drenaggi di liquidità sui grandi titoli appesantiscono la fiducia, con il sentiment degli investitori individuali che registra un livello di pessimismo del 51,4%, ovvero venti punti sopra la media storica. Durante le fasi di forte correzione si intensificano le rotazioni di capitale dai software azionari esposti a rotture tecniche sotto i 90 dollari verso società con crescite stabili come Salesforce e Palantir, o verso beni di consumo e intrattenimento. Mantenere riserve di liquidità strategica permette di affrontare i cali prolungati senza inseguire le fasi di euforia.",
+   "bullets": [
+    "Anthropic debutta a 83$",
+    "Pessimismo retail al 51,4%",
+    "Rotazione su titoli SaaS stabili",
+    "Liquidità pronta sui ribassi"
+   ],
+   "ticker": "CRM",
+   "sentiment": "neutral",
+   "sources": [
+    "Jeremy Lefebvre Clips",
+    "CNBC"
+   ]
+  },
+  {
+   "id": "s6",
+   "kind": "ahead",
+   "heading": "I prossimi appuntamenti",
+   "narration": "Le prossime settimane riservano appuntamenti chiave per i mercati finanziari. I riflettori sono puntati sulle riunioni della Federal Reserve per definire la traiettoria dei tassi di interesse nel 2027. Tra due settimane è in palinsesto la presentazione dei risultati trimestrali di Salesforce, un test fondamentale per il settore software. Sul fronte cripto si apre una settimana di analisi con il Crypto Recap. Nel lungo termine, gli scadenziari aziendali vedono l'inaugurazione del primo resort nei Paesi Arabi per Wynn Resorts prevista per settembre 2027.",
+   "bullets": [
+    "Attesa per le decisioni Fed",
+    "Trimestrale Salesforce in arrivo",
+    "Crypto Recap la prossima settimana"
+   ],
+   "ticker": null,
+   "sentiment": "neutral",
+   "sources": [
+    "0xTalks",
+    "Jeremy Lefebvre Clips"
+   ]
+  },
+  {
+   "id": "s7",
+   "kind": "curious",
+   "heading": "Pre-IPO su mercati DEX",
+   "narration": "Il debutto di Anthropic al Nasdaq ad un prezzo di 83 dollari ha visto la sua prima fase di formazione del prezzo su piattaforme decentralizzate. I contratti perpetui scambiati su DEX come Hyperliquid hanno creato uno storico dei prezzi prima dell'inizio delle contrattazioni ufficiali a Wall Street. Si tratta di uno dei primi casi in cui la liquidità cripto anticipa la quotazione di un gigante tecnologico tradizionale.",
+   "bullets": [
+    "Pre-IPO su DEX Hyperliquid",
+    "Prezzi scoperti prima del Nasdaq",
+    "Cripto anticipa la finanza tradizionale"
+   ],
+   "ticker": null,
+   "sentiment": "neutral",
+   "sources": [
+    "0xTalks"
+   ]
+  },
+  {
+   "id": "s8",
+   "kind": "outro",
+   "heading": "Segui Coin Ticker 360",
+   "narration": "Questo contenuto ha scopo puramente informativo e non costituisce una consulenza finanziaria. Segui per l'aggiornamento di domani.",
+   "bullets": [
+    "Nessun consiglio finanziario",
+    "Segui per il prossimo video"
+   ],
+   "ticker": null,
+   "sentiment": "neutral",
+   "sources": []
+  }
+ ],
+ "words": 674,
+ "model": "gemini-3.6-flash",
+ "n_notes": 5,
+ "n_news": 145
+}
