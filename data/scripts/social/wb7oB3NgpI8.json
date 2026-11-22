@@ -1,0 +1,580 @@
+{
+ "it": [
+  {
+   "levels": [],
+   "history": null,
+   "title": "Bitcoin crolla del 23% in un solo mese",
+   "hook": "Bitcoin -23%",
+   "beats": [
+    {
+     "say": "Bitcoin crolla del 23% in un solo mese.",
+     "show": "Bitcoin -23%",
+     "figure": "-23%"
+    },
+    {
+     "say": "Ethereum perde il 27% mentre anche oro e argento ritracciano.",
+     "show": "Ethereum -27%",
+     "figure": "-27%"
+    },
+    {
+     "say": "I forti ritracciamenti dopo grandi rialzi sono la norma nei mercati.",
+     "show": "Storno fisiologico",
+     "figure": ""
+    },
+    {
+     "say": "Monitorare l'esposizione complessiva del portafoglio prima di comprare sul ribasso.",
+     "show": "Gestione rischio",
+     "figure": ""
+    },
+    {
+     "say": "La volatilità spazza via le mani deboli. Segui per l'aggiornamento di domani.",
+     "show": "Mani deboli",
+     "figure": ""
+    }
+   ],
+   "origin": "Jeremy Lefebvre",
+   "source_video": "Inflation? Recession? Investors Need to See This!",
+   "narration": "Bitcoin crolla del 23% in un solo mese. Ethereum perde il 27% mentre anche oro e argento ritracciano. I forti ritracciamenti dopo grandi rialzi sono la norma nei mercati. Monitorare l'esposizione complessiva del portafoglio prima di comprare sul ribasso. La volatilità spazza via le mani deboli. Segui per l'aggiornamento di domani.",
+   "ticker": "BTC-USD",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Forte ritracciamento su Bitcoin ed Ethereum dopo i massimi recenti. I cali di portafoglio restano la norma dopo prolungati rally di mercato.",
+   "hashtags": [
+    "#Bitcoin",
+    "#Ethereum",
+    "#Criptovalute",
+    "#Crypto",
+    "#Trading",
+    "#Mercati"
+   ]
+  },
+  {
+   "levels": [],
+   "history": null,
+   "title": "Il rame crolla del 14%: segnale di recessione?",
+   "hook": "Rame -14%",
+   "beats": [
+    {
+     "say": "Il rame crolla del 14% in un solo mese.",
+     "show": "Rame -14%",
+     "figure": "-14%"
+    },
+    {
+     "say": "I metalli industriali segnalano un possibile rallentamento economico globale.",
+     "show": "Segnale recessione",
+     "figure": ""
+    },
+    {
+     "say": "Progetti industriali rinviati e cambi di domanda amplificano i ribassi.",
+     "show": "Domanda in calo",
+     "figure": ""
+    },
+    {
+     "say": "Monitorare la domanda industriale per decifrare la rotta dei mercati.",
+     "show": "Dati industriali",
+     "figure": ""
+    },
+    {
+     "say": "Il rame avvisa prima del mercato azionario. Segui per l'aggiornamento di domani.",
+     "show": "Campanello d'allarme",
+     "figure": ""
+    }
+   ],
+   "origin": "Jeremy Lefebvre",
+   "source_video": "Inflation? Recession? Investors Need to See This!",
+   "narration": "Il rame crolla del 14% in un solo mese. I metalli industriali segnalano un possibile rallentamento economico globale. Progetti industriali rinviati e cambi di domanda amplificano i ribassi. Monitorare la domanda industriale per decifrare la rotta dei mercati. Il rame avvisa prima del mercato azionario. Segui per l'aggiornamento di domani.",
+   "ticker": "HG=F",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Forte flessione dei futures sul rame nell'ultimo mese. I metalli ad uso industriale spesso anticipano le fasi di contrazione economica.",
+   "hashtags": [
+    "#Rame",
+    "#MateriePrime",
+    "#Recessione",
+    "#Economia",
+    "#Mercati",
+    "#Trading"
+   ]
+  },
+  {
+   "levels": [],
+   "history": null,
+   "title": "Il petrolio greggio crolla del 21%",
+   "hook": "Petrolio -21%",
+   "beats": [
+    {
+     "say": "Il petrolio greggio crolla del 21% in poche settimane.",
+     "show": "Petrolio -21%",
+     "figure": "-21%"
+    },
+    {
+     "say": "Il settore energetico inverte la rotta nonostante i timori sull'inflazione.",
+     "show": "Inversione trend",
+     "figure": ""
+    },
+    {
+     "say": "Le tendenze sulle materie prime possono azzerarsi senza preavviso.",
+     "show": "Alta volatilità",
+     "figure": ""
+    },
+    {
+     "say": "La volatilità del greggio impatta direttamente sui dati dell'inflazione.",
+     "show": "Impatto inflazione",
+     "figure": ""
+    },
+    {
+     "say": "Le inversioni rapide mettono alla prova la disciplina. Segui per l'aggiornamento di domani.",
+     "show": "Disciplina trading",
+     "figure": ""
+    }
+   ],
+   "origin": "Jeremy Lefebvre",
+   "source_video": "Inflation? Recession? Investors Need to See This!",
+   "narration": "Il petrolio greggio crolla del 21% in poche settimane. Il settore energetico inverte la rotta nonostante i timori sull'inflazione. Le tendenze sulle materie prime possono azzerarsi senza preavviso. La volatilità del greggio impatta direttamente sui dati dell'inflazione. Le inversioni rapide mettono alla prova la disciplina. Segui per l'aggiornamento di domani.",
+   "ticker": "CL=F",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Il petrolio greggio registra una forte contrazione mensile. Le inversioni repentine nel comparto energetico influenzano le prospettive inflazionistiche.",
+   "hashtags": [
+    "#Petrolio",
+    "#Greggio",
+    "#Inflazione",
+    "#MateriePrime",
+    "#Mercati",
+    "#Trading"
+   ]
+  },
+  {
+   "levels": [],
+   "history": null,
+   "title": "La leva finanziaria trasforma un -40% in -70%",
+   "hook": "Margine killer",
+   "beats": [
+    {
+     "say": "Il margine trasforma un ribasso del 40% in una perdita del 70%.",
+     "show": "Margine killer",
+     "figure": "70%"
+    },
+    {
+     "say": "La leva finanziaria accelera le perdite di portafoglio durante i ribassi.",
+     "show": "Perdite amplificate",
+     "figure": ""
+    },
+    {
+     "say": "Le liquidation margin call svendono i titoli ai prezzi peggiori.",
+     "show": "Margin Call",
+     "figure": ""
+    },
+    {
+     "say": "La gestione del rischio conta più dei guadagni amplificati.",
+     "show": "Gestione rischio",
+     "figure": ""
+    },
+    {
+     "say": "L'indebitamento eccessivo distrugge il capitale nei ribassi. Segui per l'aggiornamento di domani.",
+     "show": "Capitale azzerato",
+     "figure": ""
+    }
+   ],
+   "origin": "Jeremy Lefebvre",
+   "source_video": "Inflation? Recession? Investors Need to See This!",
+   "narration": "Il margine trasforma un ribasso del 40% in una perdita del 70%. La leva finanziaria accelera le perdite di portafoglio durante i ribassi. Le liquidation margin call svendono i titoli ai prezzi peggiori. La gestione del rischio conta più dei guadagni amplificati. L'indebitamento eccessivo distrugge il capitale nei ribassi. Segui per l'aggiornamento di domani.",
+   "ticker": null,
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "L'uso eccessivo del margine aumenta drasticamente i rischi di drawdown durante le correzioni. La gestione della leva è fondamentale per sopravvivere sui mercati.",
+   "hashtags": [
+    "#Trading",
+    "#Margine",
+    "#LevaFinanziaria",
+    "#GestioneRischio",
+    "#Investimenti",
+    "#Mercati"
+   ]
+  },
+  {
+   "levels": [],
+   "history": null,
+   "title": "Il rischio nascosto delle opzioni call",
+   "hook": "Call a zero",
+   "beats": [
+    {
+     "say": "Le opzioni call si azzerano durante le correzioni di mercato.",
+     "show": "Call a zero",
+     "figure": "0%"
+    },
+    {
+     "say": "Chi compra opzioni a breve termine sui titoli lanciati rischia perdite totali.",
+     "show": "Scadenza breve",
+     "figure": ""
+    },
+    {
+     "say": "Il calo della volatilità implicita distrugge il valore dei contratti.",
+     "show": "Crollo volatilità",
+     "figure": ""
+    },
+    {
+     "say": "Controllare rigorosamente il rischio derivati nelle fasi di correzione.",
+     "show": "Controllo rischio",
+     "figure": ""
+    },
+    {
+     "say": "Le strategie in derivati senza controllo azzerano i conti. Segui per l'aggiornamento di domani.",
+     "show": "Azzeramento conti",
+     "figure": ""
+    }
+   ],
+   "origin": "Jeremy Lefebvre",
+   "source_video": "Inflation? Recession? Investors Need to See This!",
+   "narration": "Le opzioni call si azzerano durante le correzioni di mercato. Chi compra opzioni a breve termine sui titoli lanciati rischia perdite totali. Il calo della volatilità implicita distrugge il valore dei contratti. Controllare rigorosamente il rischio derivati nelle fasi di correzione. Le strategie in derivati senza controllo azzerano i conti. Segui per l'aggiornamento di domani.",
+   "ticker": null,
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Acquistare opzioni call durante l'inversione di un trend causa perdite rapide ed elevate. Il decadimento temporale e della volatilità penalizza i contratti a breve termine.",
+   "hashtags": [
+    "#Opzioni",
+    "#Trading",
+    "#Derivati",
+    "#GestioneRischio",
+    "#Investimenti",
+    "#Mercati"
+   ]
+  }
+ ],
+ "en": [
+  {
+   "levels": [],
+   "history": null,
+   "title": "Bitcoin Drops 23% in One Single Month",
+   "hook": "Bitcoin -23%",
+   "beats": [
+    {
+     "say": "Bitcoin drops 23% in one single month.",
+     "show": "Bitcoin -23%",
+     "figure": "-23%"
+    },
+    {
+     "say": "Ethereum loses 27% while gold and silver pull back as well.",
+     "show": "Ethereum -27%",
+     "figure": "-27%"
+    },
+    {
+     "say": "Deep pullbacks after massive rallies are normal market behavior.",
+     "show": "Normal Pullback",
+     "figure": ""
+    },
+    {
+     "say": "Track overall portfolio exposure before buying any dip.",
+     "show": "Risk Control",
+     "figure": ""
+    },
+    {
+     "say": "Volatility returns to wipe out weak hands. Follow for tomorrow's update.",
+     "show": "Volatility Spikes",
+     "figure": ""
+    }
+   ],
+   "origin": "Jeremy Lefebvre",
+   "source_video": "Inflation? Recession? Investors Need to See This!",
+   "narration": "Bitcoin drops 23% in one single month. Ethereum loses 27% while gold and silver pull back as well. Deep pullbacks after massive rallies are normal market behavior. Track overall portfolio exposure before buying any dip. Volatility returns to wipe out weak hands. Follow for tomorrow's update.",
+   "ticker": "BTC-USD",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Major cryptocurrencies face steep monthly drawdowns alongside precious metals. Healthy market pullbacks frequently follow extended upside runs.",
+   "hashtags": [
+    "#Bitcoin",
+    "#Ethereum",
+    "#Crypto",
+    "#CryptoNews",
+    "#Trading",
+    "#Markets"
+   ]
+  },
+  {
+   "levels": [],
+   "history": null,
+   "title": "Copper Drops 14%: Recession Signal Ahead?",
+   "hook": "Copper -14%",
+   "beats": [
+    {
+     "say": "Copper futures slump 14% in just one month.",
+     "show": "Copper -14%",
+     "figure": "-14%"
+    },
+    {
+     "say": "Industrial metals signal potential economic slowing across sectors.",
+     "show": "Recession Warning",
+     "figure": ""
+    },
+    {
+     "say": "Shifted data center projects and demand changes amplify price drops.",
+     "show": "Demand Shift",
+     "figure": ""
+    },
+    {
+     "say": "Watch industrial demand data closely for economic trends.",
+     "show": "Industrial Data",
+     "figure": ""
+    },
+    {
+     "say": "The red metal warns before broad equities react. Follow for tomorrow's update.",
+     "show": "Early Warning",
+     "figure": ""
+    }
+   ],
+   "origin": "Jeremy Lefebvre",
+   "source_video": "Inflation? Recession? Investors Need to See This!",
+   "narration": "Copper futures slump 14% in just one month. Industrial metals signal potential economic slowing across sectors. Shifted data center projects and demand changes amplify price drops. Watch industrial demand data closely for economic trends. The red metal warns before broad equities react. Follow for tomorrow's update.",
+   "ticker": "HG=F",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Copper price declines indicate potential headwinds for broader economic growth. Industrial commodity trends warrant close monitoring.",
+   "hashtags": [
+    "#Copper",
+    "#Commodities",
+    "#Recession",
+    "#Economy",
+    "#Markets",
+    "#Trading"
+   ]
+  },
+  {
+   "levels": [],
+   "history": null,
+   "title": "Crude Oil Drops 21% in Rapid Shift",
+   "hook": "Crude Oil -21%",
+   "beats": [
+    {
+     "say": "Crude oil collapses 21% in a sudden drop.",
+     "show": "Crude Oil -21%",
+     "figure": "-21%"
+    },
+    {
+     "say": "Energy markets reverse despite previous inflation fears.",
+     "show": "Energy Reversal",
+     "figure": ""
+    },
+    {
+     "say": "Short-term commodity trends can unwind rapidly without warning.",
+     "show": "Rapid Shift",
+     "figure": ""
+    },
+    {
+     "say": "Energy price volatility affects broader consumer inflation metrics.",
+     "show": "Inflation Impact",
+     "figure": ""
+    },
+    {
+     "say": "Rapid trend reversals test investor discipline. Follow for tomorrow's update.",
+     "show": "Test of Discipline",
+     "figure": ""
+    }
+   ],
+   "origin": "Jeremy Lefebvre",
+   "source_video": "Inflation? Recession? Investors Need to See This!",
+   "narration": "Crude oil collapses 21% in a sudden drop. Energy markets reverse despite previous inflation fears. Short-term commodity trends can unwind rapidly without warning. Energy price volatility affects broader consumer inflation metrics. Rapid trend reversals test investor discipline. Follow for tomorrow's update.",
+   "ticker": "CL=F",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "WTI crude oil unwinds recent gains with a 21% monthly correction. Energy price shifts remain a key factor for medium-term inflation outlooks.",
+   "hashtags": [
+    "#CrudeOil",
+    "#Energy",
+    "#Inflation",
+    "#Commodities",
+    "#Markets",
+    "#Trading"
+   ]
+  },
+  {
+   "levels": [],
+   "history": null,
+   "title": "Margin Danger: Turn a 40% Drop into 70% Loss",
+   "hook": "Margin Danger",
+   "beats": [
+    {
+     "say": "Margin turns a 40% drop into a 70% loss.",
+     "show": "Margin Danger",
+     "figure": "70%"
+    },
+    {
+     "say": "Leverage accelerates portfolio drawdowns rapidly during market dips.",
+     "show": "Accelerated Losses",
+     "figure": ""
+    },
+    {
+     "say": "Forced margin calls liquidate positions at the worst possible prices.",
+     "show": "Forced Liquidation",
+     "figure": ""
+    },
+    {
+     "say": "Risk management matters more than chasing amplified upside.",
+     "show": "Risk First",
+     "figure": ""
+    },
+    {
+     "say": "Excessive debt destroys capital when market direction shifts. Follow for tomorrow's update.",
+     "show": "Protect Capital",
+     "figure": ""
+    }
+   ],
+   "origin": "Jeremy Lefebvre",
+   "source_video": "Inflation? Recession? Investors Need to See This!",
+   "narration": "Margin turns a 40% drop into a 70% loss. Leverage accelerates portfolio drawdowns rapidly during market dips. Forced margin calls liquidate positions at the worst possible prices. Risk management matters more than chasing amplified upside. Excessive debt destroys capital when market direction shifts. Follow for tomorrow's update.",
+   "ticker": null,
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Using excessive margin amplifies drawdowns during market corrections. Managing portfolio leverage remains critical to preventing capital destruction.",
+   "hashtags": [
+    "#Trading",
+    "#MarginTrading",
+    "#RiskManagement",
+    "#Investing",
+    "#Markets",
+    "#Finance"
+   ]
+  },
+  {
+   "levels": [],
+   "history": null,
+   "title": "The Hidden Trap of Buying Call Options",
+   "hook": "Options Trap",
+   "beats": [
+    {
+     "say": "Call options expire worthless during sharp market corrections.",
+     "show": "Options Trap",
+     "figure": "0%"
+    },
+    {
+     "say": "Traders buying short-dated options on high momentum stocks face rapid decay.",
+     "show": "Rapid Decay",
+     "figure": ""
+    },
+    {
+     "say": "Implied volatility drops crush contract values alongside underlying asset falls.",
+     "show": "Volatility Crush",
+     "figure": ""
+    },
+    {
+     "say": "Manage derivative risk strictly during changing market regimes.",
+     "show": "Strict Controls",
+     "figure": ""
+    },
+    {
+     "say": "Unmanaged options strategies eliminate trading accounts fast. Follow for tomorrow's update.",
+     "show": "Account Destruction",
+     "figure": ""
+    }
+   ],
+   "origin": "Jeremy Lefebvre",
+   "source_video": "Inflation? Recession? Investors Need to See This!",
+   "narration": "Call options expire worthless during sharp market corrections. Traders buying short-dated options on high momentum stocks face rapid decay. Implied volatility drops crush contract values alongside underlying asset falls. Manage derivative risk strictly during changing market regimes. Unmanaged options strategies eliminate trading accounts fast. Follow for tomorrow's update.",
+   "ticker": null,
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Holding out-of-the-money call options during market pullbacks often leads to complete capital loss due to time decay and volatility crushing.",
+   "hashtags": [
+    "#Options",
+    "#Trading",
+    "#Derivatives",
+    "#RiskManagement",
+    "#Investing",
+    "#Markets"
+   ]
+  }
+ ],
+ "carousels": {
+  "it": {
+   "topic": "Crolli di Mercato e Gestione Rischio",
+   "caption": "Le correzioni diffuse su criptovalute, rame e petrolio mettono alla prova i portafogli. Evitare errori sulla leva e sui derivati è essenziale nelle fasi di ribasso. Segui per l'aggiornamento di domani.",
+   "sentiment": "bearish",
+   "ticker": null,
+   "slides": [
+    {
+     "title": "Mercati in rosso: cali fino al 27%",
+     "body": "Criptovalute e materie prime registrano forti ritracciamenti mensili. Ecco i numeri chiave e gli errori da evitare."
+    },
+    {
+     "title": "Crypto in contrazione",
+     "body": "Bitcoin crolla del 23% ed Ethereum perde il 27% in un mese. I ritracciamenti dopo grandi rally sono fisiologici."
+    },
+    {
+     "title": "Rame e allarme recessione",
+     "body": "I futures sul rame scendono del 14% in un mese. Il calo della domanda industriale anticipa potenziali rallentamenti economici."
+    },
+    {
+     "title": "Greggio in forte calo",
+     "body": "Il petrolio crolla del 21% nel mese. Le inversioni rapide sulle materie prime impattano sulle prospettive d'inflazione."
+    },
+    {
+     "title": "Trappola della leva",
+     "body": "Il margine trasforma un calo del 40% in una perdita del 70%. Le margin call forzate liquidano le posizioni ai minimi."
+    },
+    {
+     "title": "Pericolo sulle opzioni call",
+     "body": "Comprare opzioni a breve termine durante le correzioni causa la perdita totale del capitale per il crollo della volatilità."
+    },
+    {
+     "title": "Proteggere il capitale prima di tutto",
+     "body": "La disciplina e il controllo del rischio contano più dei rendimenti di breve termine. Segui per l'aggiornamento di domani."
+    }
+   ],
+   "hashtags": [
+    "#Mercati",
+    "#Trading",
+    "#Criptovalute",
+    "#Petrolio",
+    "#Rame",
+    "#GestioneRischio",
+    "#Investimenti",
+    "#Finanza"
+   ]
+  },
+  "en": {
+   "topic": "Market Pullbacks and Risk Control",
+   "caption": "Broad drawdowns across crypto, copper, and crude oil test investor portfolios. Managing leverage and derivative exposure is critical during pullbacks. Follow for tomorrow's update.",
+   "sentiment": "bearish",
+   "ticker": null,
+   "slides": [
+    {
+     "title": "Market Correction: Assets Drop Up to 27%",
+     "body": "Cryptocurrencies and key commodities face steep monthly pullbacks. Here are the facts and risks to manage now."
+    },
+    {
+     "title": "Crypto Markets Pull Back",
+     "body": "Bitcoin falls 23% and Ethereum loses 27% in a single month. Pullbacks after extended rallies remain normal market behavior."
+    },
+    {
+     "title": "Copper Recession Warning",
+     "body": "Copper futures drop 14% over thirty days. Industrial metal declines frequently precede broader economic slowing."
+    },
+    {
+     "title": "Crude Oil Sharp Drop",
+     "body": "WTI crude oil declines 21% month to date. Rapid commodity reversals impact medium-term inflation expectations."
+    },
+    {
+     "title": "The Danger of Margin",
+     "body": "Leverage turns a 40% market pullback into a 70% portfolio loss. Forced margin calls crush capital at market lows."
+    },
+    {
+     "title": "Options Decay Risk",
+     "body": "Holding short-dated call options during market pullbacks leads to rapid capital destruction through volatility crushing."
+    },
+    {
+     "title": "Risk Control Comes First",
+     "body": "Capital preservation and strict leverage management are essential during corrections. Follow for tomorrow's update."
+    }
+   ],
+   "hashtags": [
+    "#Markets",
+    "#Trading",
+    "#Crypto",
+    "#CrudeOil",
+    "#Copper",
+    "#RiskManagement",
+    "#Investing",
+    "#Finance"
+   ]
+  }
+ }
+}
