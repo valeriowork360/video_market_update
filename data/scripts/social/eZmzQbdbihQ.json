@@ -1,0 +1,944 @@
+{
+ "it": [
+  {
+   "levels": [
+    32265.0,
+    67000.0,
+    52000.0
+   ],
+   "history": {
+    "symbol": "BTC-USD",
+    "start": "2024-04",
+    "end": "2025-11"
+   },
+   "title": "Bitcoin rompe la scia negativa: segnale di minimo?",
+   "hook": "Bitcoin stop alle vendite",
+   "beats": [
+    {
+     "say": "Bitcoin interrompe 17 giorni di calo consecutivo con un minimo a 32.265 dollari.",
+     "show": "Bitcoin stop alle vendite",
+     "figure": "32.265 $"
+    },
+    {
+     "say": "La fase ribassista dura esattamente da 411 giorni.",
+     "show": "411 giorni di calo",
+     "figure": "411 giorni"
+    },
+    {
+     "say": "Questa durata coincide al giorno preciso con i minimi storici dei cicli passati.",
+     "show": "Stessa durata dei cicli",
+     "figure": "100%"
+    },
+    {
+     "say": "I dati storici mostrano un picco a 123.513 dollari seguito da un calo del 30%.",
+     "show": "Calo del 30%",
+     "figure": "-30%"
+    },
+    {
+     "say": "Senza un recupero netto di 67.000 dollari il rischio resta verso 52.000.",
+     "show": "Resistenza a 67.000",
+     "figure": "67.000 $"
+    },
+    {
+     "say": "La prudenza prima di confermare il minimo del ciclo finale è d'obbligo. Segui per l'aggiornamento di domani.",
+     "show": "Segui per domani",
+     "figure": ""
+    }
+   ],
+   "origin": "Michael Pizzino",
+   "source_video": "Everyone Is Panic Selling... This Is Where It Gets Interesting",
+   "narration": "Bitcoin interrompe 17 giorni di calo consecutivo con un minimo a 32.265 dollari. La fase ribassista dura esattamente da 411 giorni. Questa durata coincide al giorno preciso con i minimi storici dei cicli passati. I dati storici mostrano un picco a 123.513 dollari seguito da un calo del 30%. Senza un recupero netto di 67.000 dollari il rischio resta verso 52.000. La prudenza prima di confermare il minimo del ciclo finale è d'obbligo. Segui per l'aggiornamento di domani.",
+   "ticker": "BTC-USD",
+   "sentiment": "neutral",
+   "sources": [],
+   "caption": "Bitcoin interrompe la serie negativa dopo 411 giorni. Analisi dei livelli chiave di prezzo.",
+   "hashtags": [
+    "#Bitcoin",
+    "#BTC",
+    "#Criptovalute",
+    "#Crypto",
+    "#Trading",
+    "#Mercati"
+   ]
+  },
+  {
+   "levels": [
+    7125.0,
+    7250.0,
+    7350.0
+   ],
+   "history": null,
+   "title": "S&P 500 in cerca di ripresa tra livelli chiave",
+   "hook": "S&P 500 gap rialzista",
+   "beats": [
+    {
+     "say": "S&P 500 apre in gap rialzista ma la struttura resta fragile.",
+     "show": "S&P 500 gap rialzista",
+     "figure": "S&P 500"
+    },
+    {
+     "say": "I contratti futures scambiano sopra il punto medio di 7.125 punti.",
+     "show": "Supporto a 7.125",
+     "figure": "7.125"
+    },
+    {
+     "say": "I volumi attuali non indicano ancora un'inversione solida di tendenza.",
+     "show": "Volumi ancora bassi",
+     "figure": ""
+    },
+    {
+     "say": "La vera fascia di resistenza da superare si trova tra 7.250 e 7.350 punti.",
+     "show": "Resistenza 7.250-7.350",
+     "figure": "7.250-7.350"
+    },
+    {
+     "say": "Senza un breakout deciso la spinta corre il rischio di esaurirsi. Segui per l'aggiornamento di domani.",
+     "show": "Segui per domani",
+     "figure": ""
+    }
+   ],
+   "origin": "Michael Pizzino",
+   "source_video": "Everyone Is Panic Selling... This Is Where It Gets Interesting",
+   "narration": "S&P 500 apre in gap rialzista ma la struttura resta fragile. I contratti futures scambiano sopra il punto medio di 7.125 punti. I volumi attuali non indicano ancora un'inversione solida di tendenza. La vera fascia di resistenza da superare si trova tra 7.250 e 7.350 punti. Senza un breakout deciso la spinta corre il rischio di esaurirsi. Segui per l'aggiornamento di domani.",
+   "ticker": "ES=F",
+   "sentiment": "neutral",
+   "sources": [],
+   "caption": "L'indice S&P 500 tenta il recupero. Ecco le zone di prezzo decisive.",
+   "hashtags": [
+    "#SP500",
+    "#Borsa",
+    "#Trading",
+    "#Finanza",
+    "#Mercati",
+    "#Investimenti"
+   ]
+  },
+  {
+   "levels": [
+    28000.0
+   ],
+   "history": null,
+   "title": "Nasdaq fermo al punto di partenza annuale",
+   "hook": "Nasdaq quota zero",
+   "beats": [
+    {
+     "say": "Nasdaq si trova esattamente sui livelli di inizio anno.",
+     "show": "Nasdaq quota zero",
+     "figure": "0%"
+    },
+    {
+     "say": "Il settore tecnologico tenta di reagire dai minimi di capitolazione.",
+     "show": "Rimbalzo dai minimi",
+     "figure": "Nasdaq"
+    },
+    {
+     "say": "La quotazione resta molto distante dai massimi registrati a ottobre.",
+     "show": "Lontano dai massimi",
+     "figure": ""
+    },
+    {
+     "say": "Il livello chiave da riconquistare a tutti i costi è 28.000 punti.",
+     "show": "Resistenza 28.000",
+     "figure": "28.000"
+    },
+    {
+     "say": "Sotto questa soglia la pressione di vendita resta dominante. Segui per l'aggiornamento di domani.",
+     "show": "Segui per domani",
+     "figure": ""
+    }
+   ],
+   "origin": "Michael Pizzino",
+   "source_video": "Everyone Is Panic Selling... This Is Where It Gets Interesting",
+   "narration": "Nasdaq si trova esattamente sui livelli di inizio anno. Il settore tecnologico tenta di reagire dai minimi di capitolazione. La quotazione resta molto distante dai massimi registrati a ottobre. Il livello chiave da riconquistare a tutti i costi è 28.000 punti. Sotto questa soglia la pressione di vendita resta dominante. Segui per l'aggiornamento di domani.",
+   "ticker": "^IXIC",
+   "sentiment": "neutral",
+   "sources": [],
+   "caption": "Nasdaq azzera i guadagni dell'anno. Analisi della resistenza tecnica a 28.000 punti.",
+   "hashtags": [
+    "#Nasdaq",
+    "#Tech",
+    "#Borsa",
+    "#Trading",
+    "#Finanza",
+    "#Mercati"
+   ]
+  },
+  {
+   "levels": [
+    3622.0,
+    3900.0,
+    3000.0
+   ],
+   "history": null,
+   "title": "Oro sotto pressione: volumi da capitolazione?",
+   "hook": "Oro sotto 3.622 $",
+   "beats": [
+    {
+     "say": "L'Oro scambia al di sotto della soglia tecnica di 3.622 dollari.",
+     "show": "Oro sotto 3.622 $",
+     "figure": "3.622 $"
+    },
+    {
+     "say": "L'aumento improvviso dei volumi sui minimi indica forte nervosismo.",
+     "show": "Volumi anomali",
+     "figure": "Volumi"
+    },
+    {
+     "say": "La spinta rialzista delle ultime ore appare priva di forza reale.",
+     "show": "Rimbalzo debole",
+     "figure": ""
+    },
+    {
+     "say": "Solo un superamento di 3.900 dollari eviterà discese verso 3.000.",
+     "show": "Resistenza 3.900 $",
+     "figure": "3.900 $"
+    },
+    {
+     "say": "In assenza di rottura il trend discendente continua. Segui per l'aggiornamento di domani.",
+     "show": "Segui per domani",
+     "figure": ""
+    }
+   ],
+   "origin": "Michael Pizzino",
+   "source_video": "Everyone Is Panic Selling... This Is Where It Gets Interesting",
+   "narration": "L'Oro scambia al di sotto della soglia tecnica di 3.622 dollari. L'aumento improvviso dei volumi sui minimi indica forte nervosismo. La spinta rialzista delle ultime ore appare priva di forza reale. Solo un superamento di 3.900 dollari eviterà discese verso 3.000. In assenza di rottura il trend discendente continua. Segui per l'aggiornamento di domani.",
+   "ticker": "GC=F",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "L'Oro fatica a superare le resistenze tecniche. I livelli chiave da monitorare.",
+   "hashtags": [
+    "#Oro",
+    "#Gold",
+    "#MateriePrime",
+    "#Trading",
+    "#Borsa",
+    "#Mercati"
+   ]
+  },
+  {
+   "levels": [
+    102.7,
+    73.5
+   ],
+   "history": null,
+   "title": "Dollaro e Petrolio guidano i mercati globali",
+   "hook": "Dollaro USA forte",
+   "beats": [
+    {
+     "say": "Il Dollaro USA resta forte sopra il livello di 102,7 punti.",
+     "show": "Dollaro USA forte",
+     "figure": "102,7"
+    },
+    {
+     "say": "La forza della valuta pesa sulle materie prime e gli asset di rischio.",
+     "show": "Pressione sui mercati",
+     "figure": ""
+    },
+    {
+     "say": "Il Petrolio greggio oscilla in una fascia laterale dal picco di marzo.",
+     "show": "Petrolio in range",
+     "figure": "Crude Oil"
+    },
+    {
+     "say": "Il supporto chiave sul Petrolio si trova a quota 73,50 dollari.",
+     "show": "Supporto a 73,50 $",
+     "figure": "73,50 $"
+    },
+    {
+     "say": "Una flessione del Dollaro sotto 102,7 darà ossigeno ai listini. Segui per l'aggiornamento di domani.",
+     "show": "Segui per domani",
+     "figure": ""
+    }
+   ],
+   "origin": "Michael Pizzino",
+   "source_video": "Everyone Is Panic Selling... This Is Where It Gets Interesting",
+   "narration": "Il Dollaro USA resta forte sopra il livello di 102,7 punti. La forza della valuta pesa sulle materie prime e gli asset di rischio. Il Petrolio greggio oscilla in una fascia laterale dal picco di marzo. Il supporto chiave sul Petrolio si trova a quota 73,50 dollari. Una flessione del Dollaro sotto 102,7 darà ossigeno ai listini. Segui per l'aggiornamento di domani.",
+   "ticker": "CL=F",
+   "sentiment": "neutral",
+   "sources": [],
+   "caption": "Il Dollaro USA forte blocca i listini. Analisi delle correlazioni con il Petrolio.",
+   "hashtags": [
+    "#Dollaro",
+    "#Petrolio",
+    "#Forex",
+    "#Trading",
+    "#Finanza",
+    "#Mercati"
+   ]
+  },
+  {
+   "levels": [
+    7000.0,
+    28000.0
+   ],
+   "history": null,
+   "title": "S&P 500 e Nasdaq alla prova del consolidamento",
+   "hook": "S&P 500 a 7.000",
+   "beats": [
+    {
+     "say": "S&P 500 deve consolidare sopra 7.000 punti per confermare il minimo.",
+     "show": "S&P 500 a 7.000",
+     "figure": "7.000"
+    },
+    {
+     "say": "Il movimento attuale richiede conferme prima di valutare nuovi massimi.",
+     "show": "Minimi da difendere",
+     "figure": ""
+    },
+    {
+     "say": "Nasdaq mostra una struttura tecnica più fragile rispetto al listino principale.",
+     "show": "Nasdaq più debole",
+     "figure": "Nasdaq"
+    },
+    {
+     "say": "La soglia di 28.000 punti decide il destino dell'indice tecnologico.",
+     "show": "Soglia a 28.000",
+     "figure": "28.000"
+    },
+    {
+     "say": "La stabilità dei prezzi deve precedere qualsiasi rally duraturo. Segui per l'aggiornamento di domani.",
+     "show": "Segui per domani",
+     "figure": ""
+    }
+   ],
+   "origin": "Michael Pizzino",
+   "source_video": "Everyone Is Panic Selling... This Is Where It Gets Interesting",
+   "narration": "S&P 500 deve consolidare sopra 7.000 punti per confermare il minimo. Il movimento attuale richiede conferme prima di valutare nuovi massimi. Nasdaq mostra una struttura tecnica più fragile rispetto al listino principale. La soglia di 28.000 punti decide il destino dell'indice tecnologico. La stabilità dei prezzi deve precedere qualsiasi rally duraturo. Segui per l'aggiornamento di domani.",
+   "ticker": "^GSPC",
+   "sentiment": "neutral",
+   "sources": [],
+   "caption": "I principali indici americani cercano la stabilità sui minimi recenti.",
+   "hashtags": [
+    "#SP500",
+    "#Nasdaq",
+    "#Borsa",
+    "#Trading",
+    "#Finanza",
+    "#Mercati"
+   ]
+  },
+  {
+   "levels": [
+    3620.0,
+    102.7,
+    73.0
+   ],
+   "history": null,
+   "title": "Oro e Materie Prima schiacciate dal Dollaro",
+   "hook": "Oro a 3.620 $",
+   "beats": [
+    {
+     "say": "L'Oro difende con fatica il supporto a 3.620 dollari.",
+     "show": "Oro a 3.620 $",
+     "figure": "3.620 $"
+    },
+    {
+     "say": "Il Dollaro USA saldo a 102,7 limita l'appetito per il rischio.",
+     "show": "Dollaro a 102,7",
+     "figure": "102,7"
+    },
+    {
+     "say": "Il Petrolio non mostra segnali di rottura al di sotto di 73 dollari.",
+     "show": "Petrolio a 73 $",
+     "figure": "73 $"
+    },
+    {
+     "say": "Senza acquisti sostenuti l'Oro rischia ulteriori estensioni ribassiste.",
+     "show": "Trend debole",
+     "figure": ""
+    },
+    {
+     "say": "La valuta americana mantiene il pieno controllo delle quotazioni. Segui per l'aggiornamento di domani.",
+     "show": "Segui per domani",
+     "figure": ""
+    }
+   ],
+   "origin": "Michael Pizzino",
+   "source_video": "Everyone Is Panic Selling... This Is Where It Gets Interesting",
+   "narration": "L'Oro difende con fatica il supporto a 3.620 dollari. Il Dollaro USA saldo a 102,7 limita l'appetito per il rischio. Il Petrolio non mostra segnali di rottura al di sotto di 73 dollari. Senza acquisti sostenuti l'Oro rischia ulteriori estensioni ribassiste. La valuta americana mantiene il pieno controllo delle quotazioni. Segui per l'aggiornamento di domani.",
+   "ticker": "GC=F",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Analisi tecnica di Oro, Petrolio e Dollaro USA sui livelli chiave.",
+   "hashtags": [
+    "#Oro",
+    "#Dollaro",
+    "#Petrolio",
+    "#Trading",
+    "#Borsa",
+    "#Mercati"
+   ]
+  },
+  {
+   "levels": [
+    67000.0,
+    52000.0,
+    49000.0
+   ],
+   "history": null,
+   "title": "Bitcoin a rischio: 67.000 dollari è la svolta",
+   "hook": "Bitcoin 67.000 $",
+   "beats": [
+    {
+     "say": "Bitcoin deve riconquistare 67.000 dollari per annullare la debolezza.",
+     "show": "Bitcoin 67.000 $",
+     "figure": "67.000 $"
+    },
+    {
+     "say": "La serie negativa di 17 giorni mostra la fragilità del movimento.",
+     "show": "17 giorni negativi",
+     "figure": "17"
+    },
+    {
+     "say": "I volumi scarsi sui supporti segnalano la presenza di venditori.",
+     "show": "Volumi scarsi",
+     "figure": ""
+    },
+    {
+     "say": "In caso di rifiuto a 67.000 i supporti successivi sono 52.000 e 49.000.",
+     "show": "Target 52.000 e 49.000",
+     "figure": "49.000 $"
+    },
+    {
+     "say": "Serve pazienza prima di confermare la stabilità del prezzo. Segui per l'aggiornamento di domani.",
+     "show": "Segui per domani",
+     "figure": ""
+    }
+   ],
+   "origin": "Michael Pizzino",
+   "source_video": "Everyone Is Panic Selling... This Is Where It Gets Interesting",
+   "narration": "Bitcoin deve riconquistare 67.000 dollari per annullare la debolezza. La serie negativa di 17 giorni mostra la fragilità del movimento. I volumi scarsi sui supporti segnalano la presenza di venditori. In caso di rifiuto a 67.000 i supporti successivi sono 52.000 e 49.000. Serve pazienza prima di confermare la stabilità del prezzo. Segui per l'aggiornamento di domani.",
+   "ticker": "BTC-USD",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Bitcoin alla prova dei 67.000 dollari. I target al ribasso da monitorare.",
+   "hashtags": [
+    "#Bitcoin",
+    "#BTC",
+    "#Crypto",
+    "#Criptovalute",
+    "#Trading",
+    "#Mercati"
+   ]
+  }
+ ],
+ "en": [
+  {
+   "levels": [
+    32265.0,
+    67000.0,
+    52000.0
+   ],
+   "history": {
+    "symbol": "BTC-USD",
+    "start": "2024-04",
+    "end": "2025-11"
+   },
+   "title": "Bitcoin Breaks Losing Streak: Is the Bottom In?",
+   "hook": "Bitcoin streak broken",
+   "beats": [
+    {
+     "say": "Bitcoin broke its 17 day losing streak after reaching a low of $32,265.",
+     "show": "Bitcoin streak broken",
+     "figure": "$32,265"
+    },
+    {
+     "say": "This bear market cycle has now lasted precisely 411 days.",
+     "show": "411 day bear market",
+     "figure": "411 days"
+    },
+    {
+     "say": "That timeframe matches historical cycle bottoms down to the exact day.",
+     "show": "Matches past bottoms",
+     "figure": "100%"
+    },
+    {
+     "say": "Historical data showed a top at $123,513 before a 30% drop in 2 months.",
+     "show": "30% drop",
+     "figure": "-30%"
+    },
+    {
+     "say": "Without reclaiming $67,000, lower support at $52,000 remains active.",
+     "show": "Resistance at 67k",
+     "figure": "$67,000"
+    },
+    {
+     "say": "Price stability is required to confirm a durable bottom. Follow for tomorrow's update.",
+     "show": "Follow for update",
+     "figure": ""
+    }
+   ],
+   "origin": "Michael Pizzino",
+   "source_video": "Everyone Is Panic Selling... This Is Where It Gets Interesting",
+   "narration": "Bitcoin broke its 17 day losing streak after reaching a low of $32,265. This bear market cycle has now lasted precisely 411 days. That timeframe matches historical cycle bottoms down to the exact day. Historical data showed a top at $123,513 before a 30% drop in 2 months. Without reclaiming $67,000, lower support at $52,000 remains active. Price stability is required to confirm a durable bottom. Follow for tomorrow's update.",
+   "ticker": "BTC-USD",
+   "sentiment": "neutral",
+   "sources": [],
+   "caption": "Bitcoin halts its 17-day decline right on a key historical cycle timeline. Key levels to watch next.",
+   "hashtags": [
+    "#Bitcoin",
+    "#BTC",
+    "#Crypto",
+    "#CryptoNews",
+    "#Trading",
+    "#Markets"
+   ]
+  },
+  {
+   "levels": [
+    7125.0,
+    7250.0,
+    7350.0
+   ],
+   "history": null,
+   "title": "S&P 500 Gaps Up but Faces Major Overhead Walls",
+   "hook": "S&P 500 gap up",
+   "beats": [
+    {
+     "say": "S&P 500 futures opened with a gap up following recent lows.",
+     "show": "S&P 500 gap up",
+     "figure": "S&P 500"
+    },
+    {
+     "say": "Prices sit above the intermediate support level of 7,125 points.",
+     "show": "Support at 7,125",
+     "figure": "7,125"
+    },
+    {
+     "say": "Weak buying volume suggests this bounce could be temporary.",
+     "show": "Low buying volume",
+     "figure": ""
+    },
+    {
+     "say": "A breakout above 7,250 to 7,350 points is required for real strength.",
+     "show": "Resistance 7,250-7,350",
+     "figure": "7,250-7,350"
+    },
+    {
+     "say": "Without higher momentum the market remains vulnerable to selling. Follow for tomorrow's update.",
+     "show": "Follow for update",
+     "figure": ""
+    }
+   ],
+   "origin": "Michael Pizzino",
+   "source_video": "Everyone Is Panic Selling... This Is Where It Gets Interesting",
+   "narration": "S&P 500 futures opened with a gap up following recent lows. Prices sit above the intermediate support level of 7,125 points. Weak buying volume suggests this bounce could be temporary. A breakout above 7,250 to 7,350 points is required for real strength. Without higher momentum the market remains vulnerable to selling. Follow for tomorrow's update.",
+   "ticker": "ES=F",
+   "sentiment": "neutral",
+   "sources": [],
+   "caption": "S&P 500 futures bounce, but clear overhead resistance levels dictate the next major trend move.",
+   "hashtags": [
+    "#SP500",
+    "#Stocks",
+    "#Trading",
+    "#Finance",
+    "#StockMarket",
+    "#Investing"
+   ]
+  },
+  {
+   "levels": [
+    28000.0
+   ],
+   "history": null,
+   "title": "Nasdaq Resets to Year-Start Levels Near 28k",
+   "hook": "Nasdaq back to zero",
+   "beats": [
+    {
+     "say": "Nasdaq is trading right back where it started the calendar year.",
+     "show": "Nasdaq back to zero",
+     "figure": "0%"
+    },
+    {
+     "say": "Tech stocks are bouncing off recent panic capitulation lows.",
+     "show": "Bouncing from lows",
+     "figure": "Nasdaq"
+    },
+    {
+     "say": "The index remains significantly below its record peak from October.",
+     "show": "Below October high",
+     "figure": ""
+    },
+    {
+     "say": "Reclaiming 28,000 points is essential to restore upward momentum.",
+     "show": "Resistance at 28,000",
+     "figure": "28,000"
+    },
+    {
+     "say": "Failing at 28,000 leaves the broader down leg intact. Follow for tomorrow's update.",
+     "show": "Follow for update",
+     "figure": ""
+    }
+   ],
+   "origin": "Michael Pizzino",
+   "source_video": "Everyone Is Panic Selling... This Is Where It Gets Interesting",
+   "narration": "Nasdaq is trading right back where it started the calendar year. Tech stocks are bouncing off recent panic capitulation lows. The index remains significantly below its record peak from October. Reclaiming 28,000 points is essential to restore upward momentum. Failing at 28,000 leaves the broader down leg intact. Follow for tomorrow's update.",
+   "ticker": "^IXIC",
+   "sentiment": "neutral",
+   "sources": [],
+   "caption": "Nasdaq erases yearly gains and tests crucial technical resistance levels.",
+   "hashtags": [
+    "#Nasdaq",
+    "#TechStocks",
+    "#StockMarket",
+    "#Trading",
+    "#Finance",
+    "#Investing"
+   ]
+  },
+  {
+   "levels": [
+    3622.0,
+    3900.0,
+    3000.0
+   ],
+   "history": null,
+   "title": "Gold Trades Weakly Below Major Retracement Levels",
+   "hook": "Gold below $3,622",
+   "beats": [
+    {
+     "say": "Gold is stuck below the key retracement level of $3,622.",
+     "show": "Gold below $3,622",
+     "figure": "$3,622"
+    },
+    {
+     "say": "High volume at current lows signals potential panic capitulation.",
+     "show": "High low-volume",
+     "figure": "Volume"
+    },
+    {
+     "say": "Morning gap-ups lack momentum to break key resistance overhead.",
+     "show": "Weak buying power",
+     "figure": ""
+    },
+    {
+     "say": "A move above $3,900 is needed to avoid a drop toward $3,000 support.",
+     "show": "Resistance at $3,900",
+     "figure": "$3,900"
+    },
+    {
+     "say": "Unless $3,900 breaks the broader downtrend remains active. Follow for tomorrow's update.",
+     "show": "Follow for update",
+     "figure": ""
+    }
+   ],
+   "origin": "Michael Pizzino",
+   "source_video": "Everyone Is Panic Selling... This Is Where It Gets Interesting",
+   "narration": "Gold is stuck below the key retracement level of $3,622. High volume at current lows signals potential panic capitulation. Morning gap-ups lack momentum to break key resistance overhead. A move above $3,900 is needed to avoid a drop toward $3,000 support. Unless $3,900 breaks the broader downtrend remains active. Follow for tomorrow's update.",
+   "ticker": "GC=F",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Gold futures face heavy overhead resistance as volume signals high volatility.",
+   "hashtags": [
+    "#Gold",
+    "#GoldPrice",
+    "#Commodities",
+    "#Trading",
+    "#Finance",
+    "#Markets"
+   ]
+  },
+  {
+   "levels": [
+    102.7,
+    73.5
+   ],
+   "history": null,
+   "title": "Strong US Dollar Keeps Pressure on Commodities",
+   "hook": "US Dollar strong",
+   "beats": [
+    {
+     "say": "The US Dollar index remains elevated above the 102.7 level.",
+     "show": "US Dollar strong",
+     "figure": "102.7"
+    },
+    {
+     "say": "Dollar strength continues to cap upside for commodities and stocks.",
+     "show": "Pressure on risk assets",
+     "figure": ""
+    },
+    {
+     "say": "Crude oil has contracted inside a range since its March high.",
+     "show": "Crude oil rangebound",
+     "figure": "Oil"
+    },
+    {
+     "say": "Key downside support for crude oil sits near $73.50.",
+     "show": "Oil support $73.50",
+     "figure": "$73.50"
+    },
+    {
+     "say": "A dollar drop below 102.7 would release market pressure. Follow for tomorrow's update.",
+     "show": "Follow for update",
+     "figure": ""
+    }
+   ],
+   "origin": "Michael Pizzino",
+   "source_video": "Everyone Is Panic Selling... This Is Where It Gets Interesting",
+   "narration": "The US Dollar index remains elevated above the 102.7 level. Dollar strength continues to cap upside for commodities and stocks. Crude oil has contracted inside a range since its March high. Key downside support for crude oil sits near $73.50. A dollar drop below 102.7 would release market pressure. Follow for tomorrow's update.",
+   "ticker": "CL=F",
+   "sentiment": "neutral",
+   "sources": [],
+   "caption": "US Dollar strength creates macro headwinds for commodities and equities.",
+   "hashtags": [
+    "#USDollar",
+    "#CrudeOil",
+    "#Forex",
+    "#Trading",
+    "#Commodities",
+    "#Markets"
+   ]
+  },
+  {
+   "levels": [
+    7000.0,
+    28000.0
+   ],
+   "history": null,
+   "title": "S&P 500 and Nasdaq Need Consolidation Above Lows",
+   "hook": "S&P 500 holds 7,000",
+   "beats": [
+    {
+     "say": "S&P 500 must hold above 7,000 points to establish a floor.",
+     "show": "S&P 500 holds 7,000",
+     "figure": "7,000"
+    },
+    {
+     "say": "Consolidation above previous lows is required for major market recovery.",
+     "show": "Consolidation needed",
+     "figure": ""
+    },
+    {
+     "say": "Nasdaq faces a longer path to recovery than the broad index.",
+     "show": "Nasdaq faces headwinds",
+     "figure": "Nasdaq"
+    },
+    {
+     "say": "Failure at 28,000 points signals further technical downside risk.",
+     "show": "Key hurdle 28,000",
+     "figure": "28,000"
+    },
+    {
+     "say": "Wait for confirmed stability before assuming a bottom is set. Follow for tomorrow's update.",
+     "show": "Follow for update",
+     "figure": ""
+    }
+   ],
+   "origin": "Michael Pizzino",
+   "source_video": "Everyone Is Panic Selling... This Is Where It Gets Interesting",
+   "narration": "S&P 500 must hold above 7,000 points to establish a floor. Consolidation above previous lows is required for major market recovery. Nasdaq faces a longer path to recovery than the broad index. Failure at 28,000 points signals further technical downside risk. Wait for confirmed stability before assuming a bottom is set. Follow for tomorrow's update.",
+   "ticker": "^GSPC",
+   "sentiment": "neutral",
+   "sources": [],
+   "caption": "US stock benchmarks work to consolidate above key support zones.",
+   "hashtags": [
+    "#SP500",
+    "#Nasdaq",
+    "#Stocks",
+    "#StockMarket",
+    "#Trading",
+    "#Investing"
+   ]
+  },
+  {
+   "levels": [
+    3620.0,
+    102.7,
+    73.0
+   ],
+   "history": null,
+   "title": "Gold and Oil Remain Capped by US Dollar Strength",
+   "hook": "Gold holds $3,620",
+   "beats": [
+    {
+     "say": "Gold is holding fragile support around $3,620 per ounce.",
+     "show": "Gold holds $3,620",
+     "figure": "$3,620"
+    },
+    {
+     "say": "The US Dollar index holds 102.7, restricting commodity momentum.",
+     "show": "Dollar holds 102.7",
+     "figure": "102.7"
+    },
+    {
+     "say": "Crude oil lacks a downside breakdown trigger below $73.",
+     "show": "Oil holds $73",
+     "figure": "$73"
+    },
+    {
+     "say": "Persistent buying power is required to shift gold's trajectory.",
+     "show": "Need sustained volume",
+     "figure": ""
+    },
+    {
+     "say": "The US Dollar maintains firm dominance over broad asset pricing. Follow for tomorrow's update.",
+     "show": "Follow for update",
+     "figure": ""
+    }
+   ],
+   "origin": "Michael Pizzino",
+   "source_video": "Everyone Is Panic Selling... This Is Where It Gets Interesting",
+   "narration": "Gold is holding fragile support around $3,620 per ounce. The US Dollar index holds 102.7, restricting commodity momentum. Crude oil lacks a downside breakdown trigger below $73. Persistent buying power is required to shift gold's trajectory. The US Dollar maintains firm dominance over broad asset pricing. Follow for tomorrow's update.",
+   "ticker": "GC=F",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Commodity prices remain locked in ranges due to persistent US Dollar strength.",
+   "hashtags": [
+    "#Gold",
+    "#CrudeOil",
+    "#USDollar",
+    "#Commodities",
+    "#Trading",
+    "#Markets"
+   ]
+  },
+  {
+   "levels": [
+    67000.0,
+    52000.0,
+    49000.0
+   ],
+   "history": null,
+   "title": "Bitcoin Must Reclaim $67k to Avoid Lower Support",
+   "hook": "Bitcoin needs $67k",
+   "beats": [
+    {
+     "say": "Bitcoin requires price stability above $67,000 to flip structure.",
+     "show": "Bitcoin needs $67k",
+     "figure": "$67,000"
+    },
+    {
+     "say": "The 17-day drop highlights significant weakness in overall demand.",
+     "show": "17-day drop",
+     "figure": "17"
+    },
+    {
+     "say": "Low volume near current levels signals continuation risks.",
+     "show": "Low volume warning",
+     "figure": ""
+    },
+    {
+     "say": "Failing to hold opens downside targets at $52,000 and $49,000.",
+     "show": "Targets $52k and $49k",
+     "figure": "$49,000"
+    },
+    {
+     "say": "Patience is essential until clear stability emerges above 67k. Follow for tomorrow's update.",
+     "show": "Follow for update",
+     "figure": ""
+    }
+   ],
+   "origin": "Michael Pizzino",
+   "source_video": "Everyone Is Panic Selling... This Is Where It Gets Interesting",
+   "narration": "Bitcoin requires price stability above $67,000 to flip structure. The 17-day drop highlights significant weakness in overall demand. Low volume near current levels signals continuation risks. Failing to hold opens downside targets at $52,000 and $49,000. Patience is essential until clear stability emerges above 67k. Follow for tomorrow's update.",
+   "ticker": "BTC-USD",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Bitcoin technical levels highlight critical resistance at $67,000 and downside risk zones.",
+   "hashtags": [
+    "#Bitcoin",
+    "#BTC",
+    "#Crypto",
+    "#CryptoTrading",
+    "#Trading",
+    "#Finance"
+   ]
+  }
+ ],
+ "carousels": {
+  "it": {
+   "topic": "Panoramica Mercati e Bitcoin",
+   "caption": "I mercati finanziari cercano stabilità dopo forti vendite. Ecco l'analisi dei livelli tecnici decisivi su azionario, commodities e Bitcoin. Segui per l'aggiornamento di domani.",
+   "sentiment": "neutral",
+   "ticker": null,
+   "slides": [
+    {
+     "title": "Tutti vendono in panico: cosa succede?",
+     "body": "Gli indici cercano la stabilità sui minimi mentre il Dollaro resta forte sui mercati."
+    },
+    {
+     "title": "S&P 500: Livelli di Resistenza",
+     "body": "S&P 500 deve superare la fascia tra 7.250 e 7.350 punti per confermare un recupero solido."
+    },
+    {
+     "title": "Nasdaq: Muro a 28.000",
+     "body": "Nasdaq si trova sui livelli di inizio anno e necessita di superare 28.000 punti."
+    },
+    {
+     "title": "Oro: Soglia 3.900 dollari",
+     "body": "L'Oro scambia sotto 3.622 dollari e rischia discese verso 3.000 senza il breakout di 3.900."
+    },
+    {
+     "title": "Bitcoin: Durata Storica del Ciclo",
+     "body": "Bitcoin interrompe 17 giorni di calo a 411 giorni dal picco, allineandosi ai cicli passati."
+    },
+    {
+     "title": "Bitcoin: Livelli 67.000 e 49.000",
+     "body": "Senza stabilità sopra 67.000 dollari il rischio è un retest dei supporti a 52.000 e 49.000."
+    },
+    {
+     "title": "Pazienza sui Mercati",
+     "body": "Attendere conferme dai volumi prima di posizionarsi. Segui per l'aggiornamento di domani."
+    }
+   ],
+   "hashtags": [
+    "#Mercati",
+    "#Borsa",
+    "#Trading",
+    "#Finanza",
+    "#Bitcoin",
+    "#SP500",
+    "#Nasdaq",
+    "#Oro",
+    "#Investimenti"
+   ]
+  },
+  "en": {
+   "topic": "Market Panic and Key Technicals",
+   "caption": "Financial markets search for stability following capitulation selling. Here is the technical breakdown for equities, gold, and Bitcoin. Follow for tomorrow's update.",
+   "sentiment": "neutral",
+   "ticker": null,
+   "slides": [
+    {
+     "title": "Panic Selling Hits Markets: What Next?",
+     "body": "Major indices attempt to bounce off capitulation lows while key resistance levels lie ahead."
+    },
+    {
+     "title": "S&P 500: Key Breakout Zone",
+     "body": "S&P 500 futures must clear resistance between 7,250 and 7,350 points on strong volume."
+    },
+    {
+     "title": "Nasdaq: Test at 28,000",
+     "body": "Nasdaq has erased its yearly gains and must reclaim 28,000 points to regain momentum."
+    },
+    {
+     "title": "Gold: Critical $3,900 Level",
+     "body": "Gold trades below $3,622 and risks dropping toward $3,000 support unless $3,900 breaks."
+    },
+    {
+     "title": "Bitcoin: 411-Day Cycle Match",
+     "body": "Bitcoin ended a 17-day losing streak at 411 days, matching historical bear market durations."
+    },
+    {
+     "title": "Bitcoin: $67k vs $49k Support",
+     "body": "Reclaiming $67,000 is required to prevent a deeper slide toward $52,000 and $49,000."
+    },
+    {
+     "title": "Wait for Confirmation",
+     "body": "Look for confirmed volume stability before declaring bottoms. Follow for tomorrow's update."
+    }
+   ],
+   "hashtags": [
+    "#Markets",
+    "#StockMarket",
+    "#Trading",
+    "#Finance",
+    "#Bitcoin",
+    "#SP500",
+    "#Nasdaq",
+    "#Gold",
+    "#Investing"
+   ]
+  }
+ }
+}
