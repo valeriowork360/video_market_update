@@ -367,5 +367,14 @@
   "first_seen": "2026-11-23T03:43:50.765206+00:00",
   "tries": 1,
   "done_at": "2026-11-23T03:44:16.840257+00:00"
+ },
+ "XyswxFiX8qY": {
+  "status": "pending",
+  "attempts": 1,
+  "channel": "Marco Casario",
+  "title": "I Mercati crollano: non è la BOLLA che deve preoccuparti",
+  "first_seen": "2026-11-23T13:41:23.234321+00:00",
+  "tries": 1,
+  "last_error": "gemini-3.7-flash: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again "
  }
 }
