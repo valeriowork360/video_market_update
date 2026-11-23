@@ -1,0 +1,160 @@
+{
+ "title": "Wall Street in correzione, crollo materie prime e livelli su Bitcoin",
+ "description": "Il quadro sui mercati finanziari tra la spinta del dollaro, la correzione del comparto tecnologico e il calo generalizzato delle materie prime.\nAnalisi dei livelli tecnici su S&P 500, Nasdaq e Bitcoin in vista dei dati macroeconomici USA sulla spesa PCE e sul PIL.\nFonti: Jeremy Lefebvre Clips, Michael Pizzino, MindTheChart, Yahoo Finance, Investing.com.",
+ "tags": [
+  "S&P 500",
+  "Nasdaq",
+  "Bitcoin",
+  "Wall Street",
+  "Oro",
+  "Petrolio",
+  "Nvidia",
+  "Borsa oggi",
+  "Mercati finanziari",
+  "Macroeconomia"
+ ],
+ "thumbnail_text": "S&P 500 -3,7%: LIVELLI CHIAVE",
+ "mood": "urgent",
+ "segments": [
+  {
+   "id": "s1",
+   "kind": "hook",
+   "heading": "Futuri in ripresa dopo crollo",
+   "narration": "I futuri di Wall Street tentano il recupero dopo la settimana peggiore degli ultimi diciannove mesi. Sotto la lente la forte correzione che colpisce le materie prime dal petrolio all'oro, mentre Bitcoin e l'indice S&P 500 testano livelli tecnici decisivi per fermare le vendite.",
+   "bullets": [
+    "Futuri Wall Street in ripresa",
+    "Crollo diffuso sulle materie prime",
+    "Livelli tecnici chiave su S&P 500"
+   ],
+   "ticker": "^GSPC",
+   "sentiment": "neutral",
+   "sources": [
+    "Jeremy Lefebvre Clips",
+    "Michael Pizzino",
+    "MindTheChart"
+   ]
+  },
+  {
+   "id": "s2",
+   "kind": "market",
+   "heading": "Quadro generale dei mercati",
+   "narration": "Il quadro di mercato resta dominato da un'elevata volatilità. L'indice S&P 500 si attesta a 6.910 punti con un calo del 3,7%, mentre il Nasdaq porta la flessione al 5,3% a quota 22.618 punti. Il Dow Jones limita le perdite a 48.147 punti, in calo dell'1,9%. La forte tensione si riflette sul VIX, schizzato a 36 punti con un balzo superiore al 26%. In Europa il FTSE MIB cede il 2,5% a 48.704 punti. Sul fronte valutario il dollaro mostra solidità, mantenendo il cambio con l'euro a 1,09 e agendo da bene rifugio mentre le vendite colpiscono l'azionario globale.",
+   "bullets": [
+    "S&P 500 a 6.910 punti (-3,7%)",
+    "Nasdaq cede il 5,3% a 22.618",
+    "VIX schizza a 36 punti (+26%)",
+    "FTSE MIB chiude a 48.704 punti"
+   ],
+   "ticker": null,
+   "sentiment": "bearish",
+   "sources": [
+    "Yahoo Finance"
+   ]
+  },
+  {
+   "id": "s3",
+   "kind": "topic",
+   "heading": "La flessione delle materie prime",
+   "narration": "La pressione di vendita riguarda sia i metalli preziosi sia le materie prime industriali. Nell'ultimo mese l'oro subisce una flessione del 10%, assestandosi a 3.608 dollari l'oncia, mentre l'argento cede oltre il 21%. Flessione evidente anche per il rame, che perde il 14%, riflettendo il ridimensionamento delle aspettative sulla domanda industriale e sui settori tecnologici legati all'intelligenza artificiale. Nel comparto energetico il petrolio WTI perde il 21% da inizio mese, arrivando a 83 dollari al barile. Il calo sincronizzato di petrolio, rame e metalli contribuisce a ridurre le pressioni inflazionistiche nel medio periodo, ma conferma un marcato drenaggio di liquidità dai mercati. I portafogli registrano contrazioni diffuse e la gestione del rischio impone di evitare un uso eccessivo della leva finanziaria in un contesto ancora instabile.",
+   "bullets": [
+    "Oro a 3.608$ (-10% in un mese)",
+    "Argento in calo del 21%",
+    "Rame cede il 14% sulla domanda tech",
+    "Petrolio WTI giù del 21% a 83$"
+   ],
+   "ticker": "GC=F",
+   "sentiment": "bearish",
+   "sources": [
+    "Jeremy Lefebvre Clips",
+    "Michael Pizzino"
+   ]
+  },
+  {
+   "id": "s4",
+   "kind": "topic",
+   "heading": "Livelli tecnici per l'S&P 500",
+   "narration": "L'indice S&P 500 equamente ponderato registra sette settimane consecutive di ribasso, una serie storica rara che trova precedenti solamente nelle fasi correttive del 2002 e del 2022. I grafici mostrano la rottura delle medie mobili a 200 periodi in molti comparti azionari. Per ricostruire una struttura rialzista di medio termine, l'S&P 500 deve recuperare la fascia compresa tra 7.250 e 7.350 punti. Il Nasdaq si trova invece in prossimità dei livelli di inizio anno a 22.618 punti, con la necessità di superare la resistenza a 28.000 punti per evitare la formazione di massimi decrescenti. Le misure straordinarie di sostegno annunciate dalle autorità finanziarie in Asia cercano di stabilizzare i listini prima delle riaperture orientali, ma la conferma di un minimo di mercato richiede consolidamento sopra i livelli attuali.",
+   "bullets": [
+    "S&P 500 equal-weight: 7 settimane rosse",
+    "Resistenza chiave S&P 500 a 7.250-7.350",
+    "Nasdaq ai livelli di inizio anno",
+    "Interventi di sostegno sui listini asiatici"
+   ],
+   "ticker": "^GSPC",
+   "sentiment": "neutral",
+   "sources": [
+    "Michael Pizzino",
+    "MindTheChart",
+    "Yahoo Finance"
+   ]
+  },
+  {
+   "id": "s5",
+   "kind": "topic",
+   "heading": "Bitcoin rompe la scia negativa",
+   "narration": "Bitcoin interrompe una serie di diciassette giornate di ribasso consecutivo, stabilizzandosi a 61.034 dollari dopo aver toccato un minimo a 55.000 dollari. Ethereum segue il movimento e si porta a 1.722 dollari con un rialzo del 2,4%. Nonostante il sollievo di breve periodo, il quadro generale rimane al di sotto della media mobile a 200 giorni situata a 77.097 dollari. L'attuale fase correttiva dura da quattrocentoundici giorni, pareggiando la durata temporale dei precedenti cicli ribassisti di lungo corso. Il primo livello di resistenza da monitorare si colloca a 67.000 dollari. Il mancato superamento di questa quota mantiene aperto il rischio di nuove estensioni al ribasso prima che possa strutturarsi una ripresa stabile nei primi mesi del prossimo anno.",
+   "bullets": [
+    "Bitcoin quota 61.034$ (+1,6%)",
+    "Striscia negativa interrotta a 17 giorni",
+    "Media mobile 200 giorni a 77.097$",
+    "Resistenza principale a 67.000$"
+   ],
+   "ticker": "BTC-USD",
+   "sentiment": "bullish",
+   "sources": [
+    "Michael Pizzino",
+    "MindTheChart"
+   ]
+  },
+  {
+   "id": "s6",
+   "kind": "ahead",
+   "heading": "I dati macro in arrivo",
+   "narration": "La settimana del Ringraziamento propone scadenze macroeconomiche centrali per comprendere la rotta delle banche centrali. Lunedì 23 novembre alle 15:45 ora italiana vengono pubblicati gli indici PMI manifatturiero e dei servizi negli Stati Uniti. Martedì 24 novembre alle 16:00 ora italiana segue l'indice sulla fiducia dei consumatori. Mercoledì 25 novembre alle 14:30 ora italiana l'attenzione si sposta sull'indice dei prezzi Core PCE, previsto al 0,3% su base mensile, affiancato dai dati sulla crescita del PIL del terzo trimestre, atteso al 3,5%, e dalle nuove richieste di sussidio di disoccupazione.",
+   "bullets": [
+    "Lunedì 15:45: PMI USA Manifatturiero e Servizi",
+    "Martedì 16:00: Fiducia consumatori CB",
+    "Mercoledì 14:30: Inflazione Core PCE (+0,3%)",
+    "Mercoledì 14:30: PIL USA Q3 stimato al 3,5%"
+   ],
+   "ticker": null,
+   "sentiment": "neutral",
+   "sources": [
+    "Forex Factory"
+   ]
+  },
+  {
+   "id": "s7",
+   "kind": "curious",
+   "heading": "Retroscena su Nvidia",
+   "narration": "Un'indiscrezione pubblicata dalla stampa statunitense riporta che Alice Huang ha mantenuto contatti con i servizi segreti cinesi durante la sua relazione con l'amministratore delegato di Nvidia. La notizia emerge in una fase di forte attenzione da parte delle autorità di regolamentazione americane, impegnate a esaminare le vendite e il trasferimento di microchip avanzati verso la Cina.",
+   "bullets": [
+    "Indiscrezioni stampa su Alice Huang",
+    "Contatti segnalati con servizi cinesi",
+    "Focus USA sulle vendite di chip avanzati"
+   ],
+   "ticker": "NVDA",
+   "sentiment": "neutral",
+   "sources": [
+    "Investing.com"
+   ]
+  },
+  {
+   "id": "s8",
+   "kind": "outro",
+   "heading": "Aggiornamenti quotidiani",
+   "narration": "Le informazioni contenute in questo video hanno scopo esclusivamente informativo e non costituiscono consigli di investimento. Segui per l'aggiornamento di domani.",
+   "bullets": [
+    "Contenuto puramente informativo",
+    "Segui per l'aggiornamento di domani"
+   ],
+   "ticker": null,
+   "sentiment": "neutral",
+   "sources": []
+  }
+ ],
+ "words": 681,
+ "model": "gemini-3.6-flash",
+ "n_notes": 3,
+ "n_news": 112
+}
