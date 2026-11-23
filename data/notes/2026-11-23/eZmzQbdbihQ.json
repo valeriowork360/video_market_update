@@ -1,0 +1,261 @@
+{
+ "market_relevance": 10,
+ "scope": "global",
+ "kind": "market update",
+ "summary": "The analyst reviews major market indices including S&P 500, Nasdaq, Gold, US Dollar, Crude Oil, and Bitcoin following recent gap-ups and panic selling. Most asset classes exhibit weak trends, ongoing correction risks, and capitulation signals that require confirmation above key technical levels. S&P 500 and Nasdaq show minor gaps up from Friday lows but remain below previous cycle highs and resistance zones. Bitcoin has broken a 17-day losing streak, mirroring historical bear market timelines while requiring further price stability. The US Dollar remains strong, placing downward pressure on risk assets and commodities like oil and gold.",
+ "digest_it": "L'autore analizza i mercati globali evidenziando segnali di capitolazione e rimbalzi iniziali su S&P 500, Nasdaq, oro, petrolio, dollaro e Bitcoin. Sottolinea che la tendenza generale resta ribassista e che serviranno superamenti di resistenze chiave e stabilità dei prezzi per confermare un'inversione di tendenza duratura.",
+ "author_tone": "cautious",
+ "tone_evidence": "He repeatedly stresses that it is early days and warns against calling bottoms too soon without confirmed technical breakouts or price consolidation.",
+ "key_points": [
+  {
+   "point": "S&P 500 gapped up from Friday lows, with key resistance and breakdown zones around 7,250 to 7,350 points, and needs consolidation above old lows to signal a major bottom.",
+   "timestamp": "01:05"
+  },
+  {
+   "point": "Nasdaq sits near its yearly start level around 28,000 points, facing a risk of failure or needing reclamation of resistance to turn stronger.",
+   "timestamp": "03:22"
+  },
+  {
+   "point": "Gold trades below the major 50% level at $3,622 per ounce, with critical support and resistance watching $3,900.",
+   "timestamp": "04:47"
+  },
+  {
+   "point": "US Dollar remains elevated above 102.7, creating headwinds for risk-on assets and commodities.",
+   "timestamp": "07:39"
+  },
+  {
+   "point": "Crude Oil remains range-bound between support near 73.50 and upper resistance levels, lacking a major breakdown signal.",
+   "timestamp": "08:35"
+  },
+  {
+   "point": "Bitcoin broke its 17-day losing streak with a low near $32,265, matching historical bear market durations and watching $67k alongside lower supports.",
+   "timestamp": "09:08"
+  }
+ ],
+ "moments": [
+  {
+   "timestamp": "01:02",
+   "topic": "S&P 500 future chart setup",
+   "claim": "S&P 500 futures show opening gap-ups after Friday lows, but must reclaim key resistance before confirming trend reversal.",
+   "details": "The index trades above the January previous high level, with the midpoint from the last run-up at 7,125 points. A safer bullish positioning requires price to break above the breakdown zone of 7,250 to 7,350 points on healthy volume.",
+   "surprise": "Despite gap-ups, mechanical indicators remain predominantly red across multiple timeframes.",
+   "kind": "setup",
+   "ticker": "ES=F",
+   "scenario": "Price rallies from current lows into the 7,250-7,350 resistance zone, with a high risk of failure if volume is weak, or a potential breakout and stabilization above that zone indicating higher prices.",
+   "conclusion": "Stock markets are seeing capitulation signs, but need sustained momentum north to avoid being a dead cat bounce.",
+   "levels": [
+    {
+     "value": 7125.0,
+     "label": "support"
+    },
+    {
+     "value": 7250.0,
+     "label": "resistance"
+    },
+    {
+     "value": 7350.0,
+     "label": "resistance"
+    }
+   ]
+  },
+  {
+   "timestamp": "03:02",
+   "topic": "Nasdaq index evaluation",
+   "claim": "Nasdaq is attempting to bounce from capitulation lows but requires reclaiming 28,000 points to regain strength.",
+   "details": "The index is trading significantly below the October all-time high, hovering near yearly starting levels. Reclaiming 28,000 points is necessary to clear multiple areas of potential resistance and establish a stronger trend.",
+   "surprise": "Nasdaq is sitting precisely where it started for the entire calendar year.",
+   "kind": "setup",
+   "ticker": "^IXIC",
+   "scenario": "Price bounces away from potential capitulation lows toward the 28,000 resistance level to test market strength.",
+   "conclusion": "Substantial work remains for tech indices to overcome broader market fear and economic pressures.",
+   "levels": [
+    {
+     "value": 28000.0,
+     "label": "resistance"
+    }
+   ]
+  },
+  {
+   "timestamp": "04:39",
+   "topic": "Gold futures chart analysis",
+   "claim": "Gold is trading in no-man's land below major 50% retracement levels while showing excessive volume.",
+   "details": "Gold sits under the major 50% level at $3,622 per ounce and below the $3,900 resistance zone. Excessive volume at current lows might signal capitulation, but breaking past $3,900 is required for a sustained bullish trend.",
+   "surprise": "Despite morning gap-ups, buying momentum in gold remains largely uninspired.",
+   "kind": "setup",
+   "ticker": "GC=F",
+   "scenario": "Gold tests intermediate resistance zones around $3,620 before attempting to reach the critical $3,900 threshold, or otherwise slides towards $3,000 support.",
+   "conclusion": "Unless gold overcomes key overhead resistance, the pre-existing downtrend will likely continue.",
+   "levels": [
+    {
+     "value": 3622.0,
+     "label": "resistance"
+    },
+    {
+     "value": 3900.0,
+     "label": "resistance"
+    },
+    {
+     "value": 3000.0,
+     "label": "support"
+    }
+   ]
+  },
+  {
+   "timestamp": "06:52",
+   "topic": "US Dollar and Crude Oil correlation",
+   "claim": "A strong US Dollar combined with range-bound crude oil creates headwinds for risk-on assets.",
+   "details": "The US Dollar remains elevated, threatening false rallies across risk assets, while watching for a trend change beneath 102.7. Crude oil trades inside a wide range with overhead resistance and downside support near 73.50.",
+   "surprise": "Oil prices have contracted consistently since hitting their March peak.",
+   "kind": "setup",
+   "ticker": "CL=F",
+   "scenario": "If the US dollar drops below 102.7 and crude oil breaks beneath 73.50 support, risk assets may receive necessary tailwinds.",
+   "conclusion": "Both the dollar and oil remain in neutral-to-weak broader structures requiring further confirmation.",
+   "levels": [
+    {
+     "value": 102.7,
+     "label": "resistance"
+    },
+    {
+     "value": 73.5,
+     "label": "support"
+    }
+   ]
+  },
+  {
+   "timestamp": "08:58",
+   "topic": "Bitcoin price action and bear market comparison",
+   "claim": "Bitcoin has broken its 17-day losing streak, putting in a low matching historical bear market durations.",
+   "details": "Bitcoin printed a low near $32,265 after 411 days of bear market activity, aligning precisely with the duration of previous bear market cycles. Current high volume and panic selling mirror historical capitulation phases.",
+   "surprise": "The current bear market duration of 411 days matches past cycles down to the exact number of days.",
+   "kind": "history",
+   "ticker": "BTC-USD",
+   "scenario": "Price consolidates after panic selling, attempts to retest resistance at 67,000, and if rejected, tests lower support zones at 52,000 or 49,000.",
+   "conclusion": "Patience is required to let the dust settle following panic selling before confirming cycle lows.",
+   "levels": [
+    {
+     "value": 32265.0,
+     "label": "low"
+    },
+    {
+     "value": 67000.0,
+     "label": "resistance"
+    },
+    {
+     "value": 52000.0,
+     "label": "support"
+    }
+   ],
+   "history": {
+    "symbol": "BTC-USD",
+    "start": "2024-04",
+    "end": "2025-11",
+    "story": "Previous bear markets lasted roughly 411 days with heavy panic selling phases before establishing multi-year cycle bottoms.",
+    "parallel": "Current cycle duration and percentage drawdowns align directly with historical bear market templates."
+   }
+  },
+  {
+   "timestamp": "12:00",
+   "topic": "S&P 500 and Nasdaq levels",
+   "claim": "S&P 500 and Nasdaq require consolidation above previous lows to confirm a major bottom.",
+   "details": "The S&P 500 needs consolidation above old lows for a major bottom. Nasdaq faces risk around 28,000 points, which is the key threshold for potential failure or future recovery.",
+   "surprise": "Nasdaq has significantly more work to do compared to the S&P 500.",
+   "kind": "setup",
+   "ticker": "^GSPC",
+   "scenario": "If S&P 500 consolidates above old lows, higher prices can follow; if Nasdaq breaks 28,000 resistance, conditions improve.",
+   "conclusion": "Wait for clear price stability above old lows before calling a durable bottom.",
+   "levels": [
+    {
+     "value": 7000.0,
+     "label": "support"
+    },
+    {
+     "value": 28000.0,
+     "label": "resistance"
+    }
+   ]
+  },
+  {
+   "timestamp": "12:30",
+   "topic": "Gold, US Dollar, and Crude Oil",
+   "claim": "Gold stays weak, the US dollar suppresses risk-on assets, and crude oil lacks a major breakdown signal.",
+   "details": "Gold watches high lows above 3,620 dollars per ounce. The US Dollar stays strong around 102.7, limiting risk appetite. Crude oil remains in an intermediate range without a breakdown signal beneath 73 dollars.",
+   "surprise": "Crude oil shows slight relief in the market despite being stuck in mid-range.",
+   "kind": "setup",
+   "ticker": "GC=F",
+   "scenario": "Gold needs sustained buying pressure; oil needs a break below 73 dollars for a high-time-frame breakdown signal.",
+   "conclusion": "Commodities remain pressured while the US Dollar maintains market control.",
+   "levels": [
+    {
+     "value": 3620.0,
+     "label": "support"
+    },
+    {
+     "value": 102.7,
+     "label": "support"
+    },
+    {
+     "value": 73.0,
+     "label": "support"
+    }
+   ]
+  },
+  {
+   "timestamp": "13:08",
+   "topic": "Bitcoin price levels and support zones",
+   "claim": "Bitcoin needs price stability above 67k to break its losing streak, with lower support zones at 49k and 52k.",
+   "details": "Bitcoin broke its 17-day losing streak, but needs stability above 67,000 dollars. Low volume near support warns of lower prices continuing if it fades, targeting 49,000 and 52,000 dollars.",
+   "surprise": "Bitcoin's 17-day losing streak highlights extreme weakness in current price action.",
+   "kind": "setup",
+   "ticker": "BTC-USD",
+   "scenario": "If Bitcoin holds above 67k with volume, a stronger position forms; otherwise, it risks dropping to 52k and 49k.",
+   "conclusion": "Patience is required until Bitcoin demonstrates clear price stability above 67k.",
+   "levels": [
+    {
+     "value": 67000.0,
+     "label": "resistance"
+    },
+    {
+     "value": 52000.0,
+     "label": "support"
+    },
+    {
+     "value": 49000.0,
+     "label": "support"
+    }
+   ]
+  }
+ ],
+ "tickers": [
+  "ES=F",
+  "^IXIC",
+  "GC=F",
+  "CL=F",
+  "BTC-USD",
+  "^GSPC",
+  "DX-Y.NYB"
+ ],
+ "predictions": [
+  "S&P 500 needs to reclaim 7,250 to 7,350 to establish sustained upward momentum.",
+  "Nasdaq must break above 28,000 points to confirm market recovery.",
+  "Bitcoin could test 67,000 resistance before determining longer-term cycle direction.",
+  "S&P 500 could target new all-time highs if consolidation above old lows occurs.",
+  "Nasdaq could face failure around 28,000 points.",
+  "Bitcoin could test 49k and 52k support levels if low volume weakness continues."
+ ],
+ "catalysts": [],
+ "rumors": [],
+ "curiosities": [
+  "Bitcoin's current bear market duration of 411 days matches past market cycles down to the exact day."
+ ],
+ "promo": true,
+ "language": "en",
+ "video_id": "eZmzQbdbihQ",
+ "title": "Everyone Is Panic Selling... This Is Where It Gets Interesting",
+ "author": "Michael Pizzino",
+ "url": "https://www.youtube.com/watch?v=eZmzQbdbihQ",
+ "published": "2026-11-23T01:25:41+00:00",
+ "duration_min": 14,
+ "partial": false,
+ "analysed_at": "2026-11-23T03:44:16.839657+00:00",
+ "model": "gemini-3.5-flash-lite"
+}
