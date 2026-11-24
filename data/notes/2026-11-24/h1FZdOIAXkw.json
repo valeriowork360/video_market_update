@@ -1,0 +1,108 @@
+{
+ "market_relevance": 9,
+ "scope": "global",
+ "kind": "market update",
+ "summary": "The market is attempting to rebound following a sharp liquidation, but remains in a fragile state. Recent gains were driven by Nvidia's leadership, yet futures are now retreating, and the VIX remains elevated. Investors are concerned about high yields, the potential for further Federal Reserve rate hikes, and the performance of AI-related investments. The upcoming Thanksgiving holiday will shorten the trading week, likely leading to thinner volumes and increased volatility.",
+ "digest_it": "Il mercato cerca un rimbalzo dopo una forte liquidazione, ma la situazione resta fragile e incerta. L'autore teme che il rialzo sia solo temporaneo a causa dei tassi elevati e delle festività, prevedendo ancora volatilità.",
+ "author_tone": "cautious",
+ "tone_evidence": "The author repeatedly describes the market as 'fragile', 'delicate', and warns that the correction might not be over.",
+ "key_points": [
+  {
+   "point": "Nvidia's recent rebound was significant but is already showing signs of correction.",
+   "timestamp": "00:27"
+  },
+  {
+   "point": "Bitcoin is struggling to participate fully in the rebound, indicating weak risk appetite.",
+   "timestamp": "00:52"
+  },
+  {
+   "point": "The market is pricing in a potential Federal Reserve rate hike in December.",
+   "timestamp": "02:20"
+  },
+  {
+   "point": "The author expects a potential retest of the $190-$200 range for Nvidia.",
+   "timestamp": "08:15"
+  }
+ ],
+ "moments": [
+  {
+   "timestamp": "00:27",
+   "topic": "Nvidia technical analysis and correction",
+   "claim": "Nvidia's recent surge is correcting, signaling continued market fragility.",
+   "details": "The stock showed an impressive rebound, but it is already pulling back. The author believes the correction is not yet finished and the market remains in a delicate phase.",
+   "surprise": "Nvidia had a 33% pre-market rebound before retreating.",
+   "kind": "setup",
+   "ticker": "NVDA",
+   "scenario": "The author expects a potential retest of the 190-200 range before further movement.",
+   "conclusion": "The stock needs to hold above 200 to be considered stable.",
+   "levels": [
+    {
+     "value": 190.0,
+     "label": "target"
+    },
+    {
+     "value": 200.0,
+     "label": "resistance"
+    }
+   ]
+  },
+  {
+   "timestamp": "00:52",
+   "topic": "Bitcoin and crypto market fragility",
+   "claim": "Bitcoin's failure to fully recover shows persistent risk aversion.",
+   "details": "Bitcoin attempted a rebound over the weekend but failed to maintain momentum. The author notes that institutional demand remains a bottleneck, and crypto is being treated as a high-risk asset.",
+   "surprise": "Bitcoin spot ETFs saw $569 million in outflows on Monday.",
+   "kind": "opinion",
+   "ticker": "BTC-USD",
+   "conclusion": "The crypto market remains in a fragile state with a lack of strong institutional support."
+  },
+  {
+   "timestamp": "06:23",
+   "topic": "Nasdaq 100 historical comparison",
+   "claim": "The current Nasdaq setup mirrors the 2018 market structure.",
+   "details": "The author compares the current price action to 2018, noting similar patterns of lower highs and significant volatility. He warns that the market is currently expecting an 'AI bubble' that may not materialize as anticipated.",
+   "surprise": "The author sees a 70-80% probability of a long-term recovery but warns of a 20-30% bubble risk.",
+   "kind": "history",
+   "ticker": "NDX",
+   "conclusion": "Expect continued volatility with a potential for a medium-term recovery.",
+   "history": {
+    "symbol": "NDX",
+    "start": "2018-01",
+    "end": "2018-12",
+    "story": "The 2018 market featured sharp rallies followed by lower lows.",
+    "parallel": "The current chart shows similar volatility and price structure to the 2018 period."
+   }
+  }
+ ],
+ "tickers": [
+  "NVDA",
+  "BTC-USD",
+  "NDX",
+  "^GSPC"
+ ],
+ "predictions": [
+  "Nvidia likely to retest the 190-200 range.",
+  "Market volatility expected to persist due to upcoming holidays and Fed uncertainty."
+ ],
+ "catalysts": [
+  "US PCE inflation data (Wednesday, 14:30)",
+  "Fed Beige Book (Wednesday)",
+  "Thanksgiving holiday (Thursday, market closed)",
+  "Black Friday sales data"
+ ],
+ "rumors": [],
+ "curiosities": [
+  "The author uses an AI-powered terminal to analyze market sentiment and news."
+ ],
+ "promo": true,
+ "language": "it",
+ "video_id": "h1FZdOIAXkw",
+ "title": "LA FOLLIA DI QUESTI MERCATI ! IL RIMBALZO",
+ "author": "MindTheChart",
+ "url": "https://www.youtube.com/watch?v=h1FZdOIAXkw",
+ "published": "2026-11-24T12:20:23+00:00",
+ "duration_min": 9,
+ "partial": false,
+ "analysed_at": "2026-11-24T21:05:27.619060+00:00",
+ "model": "gemini-3.1-flash-lite"
+}

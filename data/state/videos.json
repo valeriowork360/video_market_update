@@ -414,12 +414,21 @@
   "done_at": "2026-11-24T04:33:11.573628+00:00"
  },
  "h1FZdOIAXkw": {
-  "status": "pending",
+  "status": "done",
   "attempts": 2,
   "channel": "MindTheChart",
   "title": "LA FOLLIA DI QUESTI MERCATI ! IL RIMBALZO",
   "first_seen": "2026-11-24T14:55:54.559773+00:00",
-  "tries": 2,
-  "last_error": "gemini-3.7-flash: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again "
+  "tries": 3,
+  "done_at": "2026-11-24T21:05:27.619341+00:00"
+ },
+ "0XBEfYdxW9s": {
+  "status": "done",
+  "attempts": 0,
+  "channel": "Marco Casario EXTRA",
+  "title": "Mercato in CRASH Come dormire tranquilli (gestendo il rischio del tuo portafoglio)",
+  "first_seen": "2026-11-24T20:59:43.187759+00:00",
+  "tries": 1,
+  "done_at": "2026-11-24T21:04:48.109902+00:00"
  }
 }

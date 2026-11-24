@@ -1,0 +1,323 @@
+{
+ "summary": "In this video, Marco Casario explores strategies for managing portfolio risk during periods of market volatility and potential crashes. He emphasizes that market shocks, often triggered by governance news or macroeconomic pressures, are unpredictable and require systematic hedging rather than passive reliance on market recovery. Through detailed analysis of historical crashes and backtested data, he demonstrates how options-based strategies like 'Airbag' and 'Total Shield' can significantly mitigate drawdowns. He also highlights the importance of maintaining an emergency fund and using data-driven, non-emotional approaches to trading. Ultimately, the author advocates for a structured, professional approach to risk management to ensure peace of mind regardless of market direction.",
+ "key_points": [
+  {
+   "point": "Nvidia shares experienced a 14% drop followed by a 31.5% rebound due to governance news.",
+   "timestamp": ""
+  },
+  {
+   "point": "Tech giants are projected to spend nearly 800 billion dollars in capital expenditures by 2026, creating long-term financial pressure.",
+   "timestamp": ""
+  },
+  {
+   "point": "Historical market crashes show that recovery times can be extremely long, with the 2000-2009 period taking 13.8 years.",
+   "timestamp": ""
+  },
+  {
+   "point": "A 56.5% drop requires a 130% gain to recover, highlighting the asymmetry of risk.",
+   "timestamp": ""
+  },
+  {
+   "point": "Emergency funds should cover 18 months of living expenses to avoid forced asset liquidation during downturns.",
+   "timestamp": ""
+  },
+  {
+   "point": "Hedging strategies are categorized by the depth of market decline they protect against (e.g., 3-8%, 10-25%, 30-40%).",
+   "timestamp": ""
+  },
+  {
+   "point": "An 'Airbag' options strategy on SPX can reduce a potential $12,000 loss to $1,395 during a 15% market drop.",
+   "timestamp": ""
+  },
+  {
+   "point": "VIX strategies are speculative and rely on mean reversion after volatility spikes.",
+   "timestamp": ""
+  }
+ ],
+ "moments": [
+  {
+   "timestamp": "02:03",
+   "topic": "Hedging Nvidia position",
+   "claim": "Hedging strategies can significantly reduce losses during market downturns.",
+   "details": "The author shows a trade where a put option on Nvidia recovered 72% of the losses incurred by the underlying stock drop. He explains that his position lost $6,270 but the hedge gained $4,492, resulting in a much smaller net loss.",
+   "surprise": "The hedge recovered 72% of the loss from the stock decline.",
+   "kind": "opinion",
+   "ticker": "NVDA",
+   "conclusion": "Effective hedging is crucial for managing portfolio risk during volatile periods."
+  },
+  {
+   "timestamp": "09:10",
+   "topic": "Nvidia price action analysis",
+   "claim": "Recent Nvidia price swings were driven by governance news rather than fundamentals.",
+   "details": "Nvidia dropped 14% on November 20th and surged 31.5% on November 23rd after the CEO was reinstated. Despite the rally, the stock remains roughly 31% below its all-time high of $239.24.",
+   "surprise": "The stock moved over 30% in a single day based on a management change.",
+   "kind": "news",
+   "ticker": "NVDA",
+   "conclusion": "Market reactions to governance news are often extreme and unpredictable.",
+   "levels": [
+    {
+     "value": 239.24,
+     "label": "high"
+    }
+   ]
+  },
+  {
+   "timestamp": "10:52",
+   "topic": "Broader market index reaction",
+   "claim": "Market indices are highly sensitive to corporate governance news.",
+   "details": "Following the news of the CEO's return, the Nasdaq-100 gained 6.86% and the S&P 500 gained 5.47%. This shows that the impact of the news was not limited to Nvidia but affected the entire market.",
+   "surprise": "The entire market rallied significantly based on a single company's management news.",
+   "kind": "news",
+   "ticker": "NDX",
+   "conclusion": "Governance events can trigger broad market movements, reinforcing the need for portfolio-wide protection."
+  },
+  {
+   "timestamp": "13:00",
+   "topic": "Disconnect between stocks and Treasury yields",
+   "claim": "A stock market rally does not resolve the fundamental tension caused by high interest rates.",
+   "details": "The author notes that while the Nasdaq-100 and S&P 500 rallied significantly, the 10-year Treasury yield remained high at 5.101%. He argues that this rally fails to narrow the gap between interest rates and valuation multiples.",
+   "surprise": "The Treasury yield remained unchanged despite the massive stock market rally.",
+   "kind": "opinion",
+   "ticker": "^NDX",
+   "conclusion": "Market rallies do not fix the underlying economic constraints."
+  },
+  {
+   "timestamp": "16:04",
+   "topic": "Massive capital expenditure by tech giants",
+   "claim": "Tech companies are drastically increasing their spending, creating long-term financial pressure.",
+   "details": "Meta, Alphabet, Microsoft, and Amazon are projected to spend 725 billion dollars on capital expenditures by 2026. This is nearly double the spending of the previous year, with Amazon alone increasing spending by 66.9%.",
+   "surprise": "The projected 2026 capital expenditure is nearly 800 billion dollars.",
+   "kind": "news",
+   "ticker": "AMZN",
+   "conclusion": "This level of spending is unsustainable and increases corporate debt risks."
+  },
+  {
+   "timestamp": "16:44",
+   "topic": "Negative free cash flow in tech",
+   "claim": "Big tech companies are spending more than their operations generate.",
+   "details": "Meta and Alphabet are showing negative free cash flow for the third quarter, with Meta at -2.12 billion and Alphabet at -9.07 billion. These companies are forced to use cash reserves or increase debt to fund their massive capital investments.",
+   "surprise": "Alphabet's free cash flow is negative 9 billion dollars.",
+   "kind": "opinion",
+   "ticker": "GOOGL",
+   "conclusion": "The reliance on debt to fund growth is dangerous in a high-interest-rate environment."
+  },
+  {
+   "timestamp": "21:20",
+   "topic": "Historical market crashes and recovery",
+   "claim": "Passive investors face extreme risks because recovery times from market crashes vary significantly.",
+   "details": "The author compares three crashes: 2000-2009 (down 56.5%, 13.8 years to recover), Covid 2020 (down 19.9%, less than 1 year to recover), and 2022 (down 13.5%, 2 years to recover). He emphasizes that a 100,000 euro portfolio could drop to 43,500 euros, making it impossible for most to maintain their investment plans.",
+   "surprise": "The 2000-2009 crash took 13.8 years to recover in euro terms.",
+   "kind": "history",
+   "conclusion": "Investors must actively manage risk rather than relying on passive strategies.",
+   "history": {
+    "symbol": "MSCI World",
+    "start": "2000-08",
+    "end": "2009-02",
+    "story": "The market dropped 56.5% and took 13.8 years to return to its previous peak.",
+    "parallel": "Investors must be prepared for long periods of negative returns."
+   }
+  },
+  {
+   "timestamp": "24:00",
+   "topic": "Asymmetry of losses and gains",
+   "claim": "Losses require disproportionately larger gains to recover, making deep drawdowns dangerous.",
+   "details": "A 56.5% market drop requires a 130% gain to return to previous highs. The deeper the loss, the steeper and faster the required recovery percentage becomes.",
+   "surprise": "A drop of 56.5% demands a massive 130% return just to get back to even.",
+   "kind": "opinion",
+   "conclusion": "Investors must understand that recovery is mathematically harder than losing money."
+  },
+  {
+   "timestamp": "24:20",
+   "topic": "Long-term stats on global equity",
+   "claim": "A 100% global equity portfolio over two decades delivers strong average returns but punishing drawdowns.",
+   "details": "From December 2004 to April 2026, a 100% global stock ETF portfolio returned an average of 9.0% per year. However, the maximum drawdown reached 49.0%, requiring an average of 5.8 years to return to parity.",
+   "surprise": "A 49% max drawdown takes nearly six years on average to recover.",
+   "kind": "history",
+   "conclusion": "Averages do not reflect the psychological suffering experienced during deep drawdowns.",
+   "history": {
+    "symbol": "ACWI",
+    "start": "2004-12",
+    "end": "2026-04",
+    "story": "The portfolio delivered 9.0% annualized return with a max drawdown of 49.0% taking 5.8 years to recover.",
+    "parallel": "Shows the long-term reality behind headline average returns."
+   }
+  },
+  {
+   "timestamp": "25:48",
+   "topic": "Performance of lazy portfolios",
+   "claim": "Diversified lazy portfolios protect capital much better than 100% equity during market corrections.",
+   "details": "Between October 7 and November 23, a 100% equity portfolio lost 4.75%, a 60/40 portfolio lost 1.98%, and the Golden Butterfly portfolio lost only 0.08%. Asset allocation acts as the first line of defense.",
+   "surprise": "The Golden Butterfly portfolio remained virtually flat during a market drop.",
+   "kind": "opinion",
+   "conclusion": "Good structure significantly cushions portfolio drawdowns."
+  },
+  {
+   "timestamp": "30:00",
+   "topic": "Historical crash simulation",
+   "claim": "Testing portfolios against past crises reveals real recovery times and dollar losses.",
+   "details": "Using a simulator for 200 responses, a well-constructed portfolio during the dot-com crash would have lost 36% from its peak and required 34 months to recover. During the 2008 financial crisis, the loss would have been 27.8% with a 14-month recovery.",
+   "surprise": "Even top-tier portfolios suffered over 35% losses during the dot-com crash.",
+   "conclusion": "Statistically, portfolios recover within 10 years with high probability, but holding through multi-year losses is mentally exhausting.",
+   "history": {
+    "symbol": "^GSPC",
+    "start": "2000-03",
+    "end": "2003-03",
+    "story": "The portfolio lost 36% from peak and took 34 months to recover during the dot-com era.",
+    "parallel": "Demonstrates what investors must be psychologically prepared to endure."
+   }
+  },
+  {
+   "timestamp": "36:24",
+   "topic": "Asymmetry of market losses",
+   "claim": "Recovering from large percentage losses requires exponentially larger gains.",
+   "details": "A 50% loss requires a 100% gain to return to the original capital level. The author uses this to illustrate why minimizing drawdowns is critical for long-term performance.",
+   "surprise": "A 50% loss requires a 100% gain to break even.",
+   "kind": "opinion",
+   "conclusion": "Losses are not symmetric; avoiding large drawdowns is essential."
+  },
+  {
+   "timestamp": "36:30",
+   "topic": "Importance of emergency funds",
+   "claim": "An adequate emergency fund prevents the need to sell investments during market crashes.",
+   "details": "The author recommends holding 18 months of living expenses in cash. This liquidity acts as a buffer, ensuring that market volatility does not force the liquidation of long-term investments.",
+   "surprise": "Holding 18 months of expenses in cash.",
+   "kind": "opinion",
+   "conclusion": "Liquidity is the first line of defense for a portfolio."
+  },
+  {
+   "timestamp": "41:50",
+   "topic": "Hedging strategies by market depth",
+   "claim": "Different hedging strategies are effective for different magnitudes of market decline.",
+   "details": "The author maps strategies like 'Bilancia' for 3-8% drops, 'Scudo Totale' for 10-25% drops, and 'Scudo Globale' for 30-40% drops. He emphasizes that these are tools to be used based on the specific risk profile of the investor.",
+   "surprise": "Strategies are tailored to specific percentage decline ranges.",
+   "kind": "setup",
+   "scenario": "The author outlines a tiered approach to protection based on the severity of the market drop.",
+   "conclusion": "Investors must choose the right tool for the expected level of market stress.",
+   "levels": [
+    {
+     "value": 8.0,
+     "label": "resistance"
+    }
+   ]
+  },
+  {
+   "timestamp": "42:28",
+   "topic": "Hedging semiconductor exposure",
+   "claim": "Using a bear put spread provides targeted protection against sector-specific declines.",
+   "details": "The author demonstrates a hedge on the SOXX ETF, protecting a $280,000 position. The strategy involves buying and selling put options to hedge against a 7% decline, costing $6,600.",
+   "surprise": "The hedge protects a $280,000 position for a $6,600 cost.",
+   "kind": "setup",
+   "ticker": "SOXX",
+   "scenario": "The author shows the profit/loss profile of the bear put spread on SOXX.",
+   "conclusion": "Targeted hedging allows for protection without liquidating core holdings."
+  },
+  {
+   "timestamp": "46:45",
+   "topic": "Hedging against volatility spikes",
+   "claim": "The 'Airbag' strategy is designed for extreme volatility events.",
+   "details": "The author shows the VIX chart, highlighting the April 2025 spike to 60. He explains that the 'Airbag' strategy is only deployed when market signals indicate a high probability of a panic-driven crash.",
+   "surprise": "VIX reached 60 in April 2025.",
+   "kind": "setup",
+   "ticker": "^VIX",
+   "scenario": "The author points to the VIX spike as the trigger for deploying the Airbag strategy.",
+   "conclusion": "Use extreme protection only during confirmed volatility regimes.",
+   "levels": [
+    {
+     "value": 60.0,
+     "label": "high"
+    }
+   ],
+   "history": {
+    "symbol": "^VIX",
+    "start": "2025-04",
+    "end": "2025-04",
+    "story": "VIX spiked to 60 during a market panic.",
+    "parallel": "This event serves as the benchmark for when to use the Airbag strategy."
+   }
+  },
+  {
+   "timestamp": "48:00",
+   "topic": "Airbag strategy performance",
+   "claim": "Hedging with options significantly reduces losses during a 15% market decline.",
+   "details": "Using an 'Airbag' strategy on the S&P 500, a theoretical 15% drop on an $80,000 portfolio results in a $1,395 loss instead of $12,000. If volatility increases by 50% during the same drop, the strategy generates a $3,242 profit.",
+   "surprise": "The strategy can generate a profit during a market crash if volatility spikes sufficiently.",
+   "kind": "opinion",
+   "ticker": "SPX"
+  },
+  {
+   "timestamp": "52:02",
+   "topic": "Total Shield strategy on Nvidia",
+   "claim": "The Total Shield strategy effectively protects individual stock positions from sharp declines.",
+   "details": "The author applied this strategy to 520 shares of Nvidia. When the stock dropped 7%, the strategy recovered 72% of the loss, resulting in a net loss of only $2,200 instead of over $6,000.",
+   "surprise": "The strategy recovered 72% of the losses from a 7% stock decline.",
+   "kind": "opinion",
+   "ticker": "NVDA"
+  },
+  {
+   "timestamp": "57:40",
+   "topic": "Currency hedging with Risk Reversal",
+   "claim": "A risk reversal strategy on EUR/USD provides protection against extreme currency fluctuations.",
+   "details": "The strategy is designed to activate only when the exchange rate reaches extreme highs or lows. The author notes that the cost is near zero because it involves selling potential gains in one direction to fund protection in the other.",
+   "surprise": "The strategy has near-zero cost because it trades off potential gains for protection.",
+   "kind": "opinion",
+   "ticker": "EURUSD=X"
+  },
+  {
+   "timestamp": "60:07",
+   "topic": "VIX as a speculative tool",
+   "claim": "The VIX is a mean-reverting instrument, making it suitable for speculative strategies.",
+   "details": "The author points out that the VIX frequently spikes and then quickly absorbs these moves. He argues that strategies targeting this mean reversion are speculative rather than protective.",
+   "surprise": "The VIX is the only instrument that is truly mean-reverting.",
+   "kind": "opinion",
+   "ticker": "VIX",
+   "conclusion": "VIX strategies should be treated as speculative, not as hedges."
+  },
+  {
+   "timestamp": "61:42",
+   "topic": "Asymmetric long put butterfly strategy",
+   "claim": "An asymmetric long put butterfly can profit from market stability or specific price movements.",
+   "details": "The author shows an SPX strategy with a breakeven at 7447.30. It is designed to profit if the index stays stable or rises to that level, with a maximum profit potential of $4,730.",
+   "surprise": "The maximum loss is capped at $1,270.",
+   "kind": "setup",
+   "ticker": "SPX",
+   "scenario": "If the price stays flat, drops, or rises to 7447.30, the strategy remains in profit.",
+   "conclusion": "This strategy is a calculated risk that is managed systematically.",
+   "levels": [
+    {
+     "value": 7447.3,
+     "label": "target"
+    }
+   ]
+  },
+  {
+   "timestamp": "66:52",
+   "topic": "Backtesting and data-driven strategy",
+   "claim": "All trading strategies are based on backtested data rather than intuition.",
+   "details": "The author clarifies that his strategies are not based on personal experience or market sentiment. Instead, they are the result of rigorous backtesting and simulation to identify the most performant setups.",
+   "surprise": "Strategies are developed by studying historical data, not by predicting market moves.",
+   "kind": "opinion",
+   "conclusion": "Systematic, data-driven approaches are essential for consistent risk management."
+  }
+ ],
+ "author_tone": "cautious",
+ "digest_it": "L'autore analizza la volatilità di mercato e l'importanza di proteggere il portafoglio attraverso strategie sistematiche di hedging, come opzioni put e strategie 'Airbag'. Sottolinea che i rally azionari non risolvono i problemi macroeconomici sottostanti, come i tassi elevati e l'eccessiva spesa in conto capitale delle big tech. Attraverso dati storici e simulazioni, dimostra come la gestione del rischio e la diversificazione siano essenziali per evitare perdite catastrofiche e mantenere la tranquillità psicologica durante i crolli di mercato.",
+ "market_relevance": 5,
+ "scope": "global",
+ "tone_evidence": "",
+ "kind": "",
+ "tickers": [],
+ "predictions": [],
+ "catalysts": [],
+ "rumors": [],
+ "curiosities": [],
+ "promo": false,
+ "video_id": "0XBEfYdxW9s",
+ "title": "Mercato in CRASH Come dormire tranquilli (gestendo il rischio del tuo portafoglio)",
+ "author": "Marco Casario EXTRA",
+ "url": "https://www.youtube.com/watch?v=0XBEfYdxW9s",
+ "published": "2026-11-24T19:15:32+00:00",
+ "duration_min": 72,
+ "partial": true,
+ "analysed_at": "2026-11-24T21:04:48.109248+00:00",
+ "model": "gemini-3.1-flash-lite"
+}
