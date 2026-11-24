@@ -1,0 +1,442 @@
+{
+ "it": [
+  {
+   "levels": [
+    190.0,
+    200.0
+   ],
+   "history": null,
+   "title": "Nvidia sotto pressione: il livello 200 è decisivo",
+   "hook": "Nvidia frena",
+   "beats": [
+    {
+     "say": "Nvidia mostra segni di cedimento dopo il recente rally.",
+     "show": "Nvidia frena",
+     "figure": ""
+    },
+    {
+     "say": "Il titolo ha registrato un balzo del 33% nel pre-market prima di ritracciare.",
+     "show": "Rally del 33%",
+     "figure": "+33%"
+    },
+    {
+     "say": "La fase di correzione non si è ancora conclusa e il quadro resta fragile.",
+     "show": "Fase fragile",
+     "figure": ""
+    },
+    {
+     "say": "Se la pressione ribassista prosegue, l'azione punta al ri-test dell'area tra 190 e 200 dollari.",
+     "show": "Target 190-200",
+     "figure": "190 $"
+    },
+    {
+     "say": "Solo la tenuta sopra quota 200 dollari garantirà stabilità nel breve termine.",
+     "show": "Resistenza 200",
+     "figure": "200 $"
+    },
+    {
+     "say": "Finché 200 dollari resta una resistenza, la cautela domina il titolo.",
+     "show": "Cautela alta",
+     "figure": ""
+    },
+    {
+     "say": "Segui per l'aggiornamento di domani.",
+     "show": "Segui per aggiornamenti",
+     "figure": ""
+    }
+   ],
+   "origin": "MindTheChart",
+   "source_video": "LA FOLLIA DI QUESTI MERCATI ! IL RIMBALZO",
+   "narration": "Nvidia mostra segni di cedimento dopo il recente rally. Il titolo ha registrato un balzo del 33% nel pre-market prima di ritracciare. La fase di correzione non si è ancora conclusa e il quadro resta fragile. Se la pressione ribassista prosegue, l'azione punta al ri-test dell'area tra 190 e 200 dollari. Solo la tenuta sopra quota 200 dollari garantirà stabilità nel breve termine. Finché 200 dollari resta una resistenza, la cautela domina il titolo. Segui per l'aggiornamento di domani.",
+   "ticker": "NVDA",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Nvidia ritraccia dopo un rialzo del 33% nel pre-market. Livello chiave a 200 dollari.",
+   "hashtags": [
+    "#Nvidia",
+    "#NVDA",
+    "#Borsa",
+    "#Azioni",
+    "#Trading",
+    "#Tech"
+   ]
+  },
+  {
+   "levels": [],
+   "history": {
+    "symbol": "NDX",
+    "start": "2018-01",
+    "end": "2018-12"
+   },
+   "title": "Nasdaq 100: il grafico attuale specchia il 2018",
+   "hook": "Nasdaq come 2018",
+   "beats": [
+    {
+     "say": "Il Nasdaq 100 replica esattamente la struttura di mercato del 2018.",
+     "show": "Nasdaq come 2018",
+     "figure": "2018"
+    },
+    {
+     "say": "Nel 2018 l'indice ha registrato forti rally seguiti da minimi decrescenti e altissima volatilità.",
+     "show": "Volatilità 2018",
+     "figure": ""
+    },
+    {
+     "say": "Oggi si osserva la stessa sequenza di massimi decrescenti e forti oscillazioni.",
+     "show": "Stesso Pattern",
+     "figure": ""
+    },
+    {
+     "say": "Esiste un rischio del 20% che la corsa sull'intelligenza artificiale si riveli una bolla spezzata.",
+     "show": "Rischio Bolla 20%",
+     "figure": "20%"
+    },
+    {
+     "say": "La probabilità di una ripresa di lungo termine resta solida all'80%.",
+     "show": "Ripresa all'80%",
+     "figure": "80%"
+    },
+    {
+     "say": "La volatilità rimarrà elevata prima di confermare la ripresa a medio termine.",
+     "show": "Volatilità Alta",
+     "figure": ""
+    },
+    {
+     "say": "Segui per l'aggiornamento di domani.",
+     "show": "Segui per aggiornamenti",
+     "figure": ""
+    }
+   ],
+   "origin": "MindTheChart",
+   "source_video": "LA FOLLIA DI QUESTI MERCATI ! IL RIMBALZO",
+   "narration": "Il Nasdaq 100 replica esattamente la struttura di mercato del 2018. Nel 2018 l'indice ha registrato forti rally seguiti da minimi decrescenti e altissima volatilità. Oggi si osserva la stessa sequenza di massimi decrescenti e forti oscillazioni. Esiste un rischio del 20% che la corsa sull'intelligenza artificiale si riveli una bolla spezzata. La probabilità di una ripresa di lungo termine resta solida all'80%. La volatilità rimarrà elevata prima di confermare la ripresa a medio termine. Segui per l'aggiornamento di domani.",
+   "ticker": "NDX",
+   "sentiment": "neutral",
+   "sources": [],
+   "caption": "Il Nasdaq 100 mostra una struttura identica al 2018. Volatilità in arrivo ma quadro di lungo termine solido.",
+   "hashtags": [
+    "#Nasdaq",
+    "#NDX",
+    "#Borsa",
+    "#Mercati",
+    "#Economia",
+    "#Trading"
+   ]
+  },
+  {
+   "levels": [],
+   "history": null,
+   "title": "Bitcoin in stallo: sfugge la spinta istituzionale",
+   "hook": "Bitcoin in Stallo",
+   "beats": [
+    {
+     "say": "Bitcoin fallisce il rimbalzo e conferma la forte avversione al rischio.",
+     "show": "Bitcoin in Stallo",
+     "figure": ""
+    },
+    {
+     "say": "Il tentativo di recupero del fine settimana non ha trovato continuazione nei volumi.",
+     "show": "Rimbalzo Fallito",
+     "figure": ""
+    },
+    {
+     "say": "Gli ETF spot su Bitcoin hanno registrato deflussi per 569 milioni di dollari lunedì.",
+     "show": "Deflussi ETF",
+     "figure": "569M $"
+    },
+    {
+     "say": "La domanda istituzionale resta il principale collo di bottiglia per la crescita.",
+     "show": "Freno Istituzionale",
+     "figure": ""
+    },
+    {
+     "say": "Senza nuovi flussi il settore rimane estremamente fragile. Segui per l'aggiornamento di domani.",
+     "show": "Quadro Fragile",
+     "figure": ""
+    }
+   ],
+   "origin": "MindTheChart",
+   "source_video": "LA FOLLIA DI QUESTI MERCATI ! IL RIMBALZO",
+   "narration": "Bitcoin fallisce il rimbalzo e conferma la forte avversione al rischio. Il tentativo di recupero del fine settimana non ha trovato continuazione nei volumi. Gli ETF spot su Bitcoin hanno registrato deflussi per 569 milioni di dollari lunedì. La domanda istituzionale resta il principale collo di bottiglia per la crescita. Senza nuovi flussi il settore rimane estremamente fragile. Segui per l'aggiornamento di domani.",
+   "ticker": "BTC-USD",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Deflussi da 569 milioni di dollari sugli ETF Bitcoin spot. La fragilità istituzionale frena il mercato crypto.",
+   "hashtags": [
+    "#Bitcoin",
+    "#BTC",
+    "#Crypto",
+    "#ETF",
+    "#Finanza",
+    "#Trading"
+   ]
+  }
+ ],
+ "en": [
+  {
+   "levels": [
+    190.0,
+    200.0
+   ],
+   "history": null,
+   "title": "Nvidia faces correction: key level at 200",
+   "hook": "Nvidia Pullback",
+   "beats": [
+    {
+     "say": "Nvidia is pulling back following its recent sharp rebound.",
+     "show": "Nvidia Pullback",
+     "figure": ""
+    },
+    {
+     "say": "The stock surged 33% in pre-market trading before retreating.",
+     "show": "33% Jump",
+     "figure": "33%"
+    },
+    {
+     "say": "This pullback indicates that the broader market correction is not yet complete.",
+     "show": "Fragile Market",
+     "figure": ""
+    },
+    {
+     "say": "A retest of the range between 190 and 200 is expected.",
+     "show": "Target 190-200",
+     "figure": "$190"
+    },
+    {
+     "say": "The price must hold above 200 to establish structural stability.",
+     "show": "Support at 200",
+     "figure": "$200"
+    },
+    {
+     "say": "Until 200 is secured, downside risks remain active.",
+     "show": "Downside Risk",
+     "figure": ""
+    },
+    {
+     "say": "Follow for tomorrow's update.",
+     "show": "Follow for updates",
+     "figure": ""
+    }
+   ],
+   "origin": "MindTheChart",
+   "source_video": "LA FOLLIA DI QUESTI MERCATI ! IL RIMBALZO",
+   "narration": "Nvidia is pulling back following its recent sharp rebound. The stock surged 33% in pre-market trading before retreating. This pullback indicates that the broader market correction is not yet complete. A retest of the range between 190 and 200 is expected. The price must hold above 200 to establish structural stability. Until 200 is secured, downside risks remain active. Follow for tomorrow's update.",
+   "ticker": "NVDA",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Nvidia retreats after a 33% pre-market jump. Watching the 190-200 range.",
+   "hashtags": [
+    "#Nvidia",
+    "#NVDA",
+    "#Stocks",
+    "#Tech",
+    "#Trading",
+    "#Markets"
+   ]
+  },
+  {
+   "levels": [],
+   "history": {
+    "symbol": "NDX",
+    "start": "2018-01",
+    "end": "2018-12"
+   },
+   "title": "Nasdaq 100 mirrors the 2018 market structure",
+   "hook": "2018 Pattern",
+   "beats": [
+    {
+     "say": "Nasdaq 100 is displaying the exact price structure seen in 2018.",
+     "show": "2018 Pattern",
+     "figure": "2018"
+    },
+    {
+     "say": "Throughout 2018, sharp rallies were systematically met with lower lows.",
+     "show": "2018 Volatility",
+     "figure": ""
+    },
+    {
+     "say": "The current chart shows matching lower highs and elevated volatility.",
+     "show": "Matching Structure",
+     "figure": ""
+    },
+    {
+     "say": "There is a 20% probability of an AI bubble unwinding.",
+     "show": "20% Bubble Risk",
+     "figure": "20%"
+    },
+    {
+     "say": "However, long-term recovery odds remain strong at 80%.",
+     "show": "80% Recovery",
+     "figure": "80%"
+    },
+    {
+     "say": "Expect continued swings before a medium-term trend establishes.",
+     "show": "Expect Swings",
+     "figure": ""
+    },
+    {
+     "say": "Follow for tomorrow's update.",
+     "show": "Follow for updates",
+     "figure": ""
+    }
+   ],
+   "origin": "MindTheChart",
+   "source_video": "LA FOLLIA DI QUESTI MERCATI ! IL RIMBALZO",
+   "narration": "Nasdaq 100 is displaying the exact price structure seen in 2018. Throughout 2018, sharp rallies were systematically met with lower lows. The current chart shows matching lower highs and elevated volatility. There is a 20% probability of an AI bubble unwinding. However, long-term recovery odds remain strong at 80%. Expect continued swings before a medium-term trend establishes. Follow for tomorrow's update.",
+   "ticker": "NDX",
+   "sentiment": "neutral",
+   "sources": [],
+   "caption": "Nasdaq 100 mirrors its 2018 cycle. Expect volatility with an 80% long-term recovery probability.",
+   "hashtags": [
+    "#Nasdaq",
+    "#NDX",
+    "#Stocks",
+    "#MarketAnalysis",
+    "#Trading",
+    "#Tech"
+   ]
+  },
+  {
+   "levels": [],
+   "history": null,
+   "title": "Bitcoin stalls as ETF outflows hit $569 million",
+   "hook": "Bitcoin Stalls",
+   "beats": [
+    {
+     "say": "Bitcoin fails to maintain recovery momentum as risk aversion grows.",
+     "show": "Bitcoin Stalls",
+     "figure": ""
+    },
+    {
+     "say": "The weekend price bounce collapsed due to a lack of buying volume.",
+     "show": "Bounce Fails",
+     "figure": ""
+    },
+    {
+     "say": "Bitcoin spot ETFs recorded $569 million in net outflows on Monday.",
+     "show": "$569M Outflows",
+     "figure": "$569M"
+    },
+    {
+     "say": "Institutional demand remains the primary bottleneck for upside potential.",
+     "show": "Institutional Drag",
+     "figure": ""
+    },
+    {
+     "say": "The crypto space stays vulnerable without fresh inflows. Follow for tomorrow's update.",
+     "show": "Market Fragile",
+     "figure": ""
+    }
+   ],
+   "origin": "MindTheChart",
+   "source_video": "LA FOLLIA DI QUESTI MERCATI ! IL RIMBALZO",
+   "narration": "Bitcoin fails to maintain recovery momentum as risk aversion grows. The weekend price bounce collapsed due to a lack of buying volume. Bitcoin spot ETFs recorded $569 million in net outflows on Monday. Institutional demand remains the primary bottleneck for upside potential. The crypto space stays vulnerable without fresh inflows. Follow for tomorrow's update.",
+   "ticker": "BTC-USD",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Bitcoin spot ETFs see $569M in daily outflows. Lack of institutional push keeps crypto fragile.",
+   "hashtags": [
+    "#Bitcoin",
+    "#BTC",
+    "#Crypto",
+    "#ETFs",
+    "#Finance",
+    "#CryptoNews"
+   ]
+  }
+ ],
+ "carousels": {
+  "it": {
+   "topic": "Analisi mercati tra Nvidia e Nasdaq",
+   "caption": "Analisi completa sul momento di tensione dei mercati: Nvidia, Nasdaq e Bitcoin sotto la lente. Segui per l'aggiornamento di domani.",
+   "sentiment": "neutral",
+   "ticker": "^GSPC",
+   "slides": [
+    {
+     "title": "MERCATI FRAGILI DOPO IL RALLY",
+     "body": "Il tentativo di rimbalzo azionario mostra crepe trasversali su tech, crypto e indici principali."
+    },
+    {
+     "title": "Nvidia FERMA IL VOLO",
+     "body": "Dopo un +33% nel pre-market, Nvidia ritraccia. Il livello 200 dollari è il supporto spartiacque per la stabilità."
+    },
+    {
+     "title": "TARGET 190-200 DOLLARI",
+     "body": "La correzione del titolo Nvidia punta all'area 190-200 dollari prima di trovare una potenziale base strutturale."
+    },
+    {
+     "title": "Nasdaq COME NEL 2018",
+     "body": "L'indice Nasdaq 100 ricalca il pattern del 2018 con massimi decrescenti e forte volatilità di breve periodo."
+    },
+    {
+     "title": "Bitcoin SOFFRE DEFLUSSI",
+     "body": "Gli ETF su Bitcoin hanno registrato deflussi per 569 milioni di dollari in una sola seduta. Manca il sostegno istituzionale."
+    },
+    {
+     "title": "VOLATILITÀ DA FESTIVITÀ",
+     "body": "La settimana corta per il Thanksgiving ridurrà i volumi di scambio, amplificando i movimenti dei prezzi."
+    },
+    {
+     "title": "QUADRO GENERALE",
+     "body": "I mercati restano in fase difensiva finché i livelli chiave non verranno confermati. Segui per l'aggiornamento di domani."
+    }
+   ],
+   "hashtags": [
+    "#Mercati",
+    "#Borsa",
+    "#Nvidia",
+    "#Nasdaq",
+    "#Bitcoin",
+    "#Trading",
+    "#Economia",
+    "#Investimenti"
+   ]
+  },
+  "en": {
+   "topic": "Market check Nvidia Nasdaq Bitcoin",
+   "caption": "Deep dive into current market stress across tech stocks, indices, and crypto. Follow for tomorrow's update.",
+   "sentiment": "neutral",
+   "ticker": "^GSPC",
+   "slides": [
+    {
+     "title": "MARKETS WEAKEN AFTER BOUNCE",
+     "body": "The broader market recovery faces immediate resistance across technology, crypto, and main stock benchmarks."
+    },
+    {
+     "title": "Nvidia RETREATS FROM HIGH",
+     "body": "After a 33% pre-market surge, Nvidia pulls back. The $200 level is critical to maintain structural balance."
+    },
+    {
+     "title": "RETEST OF 190-200 RANGE",
+     "body": "Nvidia's price chart signals a probable retest of the $190 to $200 zone before any sustainable recovery."
+    },
+    {
+     "title": "Nasdaq MIRRORS 2018 PATTERN",
+     "body": "The Nasdaq 100 mirrors the 2018 setup, defined by sequential lower highs and elevated price volatility."
+    },
+    {
+     "title": "Bitcoin ETF OUTFLOWS HIT $569M",
+     "body": "Spot Bitcoin ETFs recorded $569 million in single-day outflows as institutional participation cools down."
+    },
+    {
+     "title": "HOLIDAY VOLATILITY AHEAD",
+     "body": "The shortened Thanksgiving holiday trading week will reduce liquidity and likely amplify short-term swings."
+    },
+    {
+     "title": "SUMMARY",
+     "body": "Caution dominates until key support levels are fully validated. Follow for tomorrow's update."
+    }
+   ],
+   "hashtags": [
+    "#Markets",
+    "#Stocks",
+    "#Nvidia",
+    "#Nasdaq",
+    "#Bitcoin",
+    "#Trading",
+    "#Investing",
+    "#Economy"
+   ]
+  }
+ }
+}

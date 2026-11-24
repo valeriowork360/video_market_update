@@ -1,0 +1,1602 @@
+{
+ "it": [
+  {
+   "levels": [
+    60.0
+   ],
+   "history": {
+    "symbol": "^VIX",
+    "start": "2025-04",
+    "end": "2025-04"
+   },
+   "title": "VIX a quota 60: la strategia Airbag per i mercati",
+   "hook": "VIX A 60",
+   "beats": [
+    {
+     "say": "Il VIX a quota 60 segnala panico estremo sui mercati finanziari.",
+     "show": "VIX A 60",
+     "figure": "60"
+    },
+    {
+     "say": "Ad aprile 2025 l'indice della volatilità è schizzato a 60 punti durante una forte correzione.",
+     "show": "PICCO DI VOLATILITÀ",
+     "figure": "60"
+    },
+    {
+     "say": "Le coperture tradizionali falliscono quando la volatilità raggiunge questi livelli estremi.",
+     "show": "COPERTURE INEFFICACI",
+     "figure": ""
+    },
+    {
+     "say": "La strategia Airbag interviene solo quando i segnali quantitativi confermano un rischio imminente.",
+     "show": "STRATEGIA AIRBAG",
+     "figure": ""
+    },
+    {
+     "say": "Senza una protezione attiva, un crollo dettato dal panico distrugge il capitale.",
+     "show": "PROTEGGERE IL CAPITALE",
+     "figure": ""
+    },
+    {
+     "say": "Pianificare le coperture in anticipo evita vendite irrazionali nei momenti di panico. Segui per l'aggiornamento di domani.",
+     "show": "SEGUI IL CANALE",
+     "figure": ""
+    }
+   ],
+   "origin": "Marco Casario EXTRA",
+   "source_video": "Mercato in CRASH Come dormire tranquilli (gestendo il rischio del tuo portafogli",
+   "narration": "Il VIX a quota 60 segnala panico estremo sui mercati finanziari. Ad aprile 2025 l'indice della volatilità è schizzato a 60 punti durante una forte correzione. Le coperture tradizionali falliscono quando la volatilità raggiunge questi livelli estremi. La strategia Airbag interviene solo quando i segnali quantitativi confermano un rischio imminente. Senza una protezione attiva, un crollo dettato dal panico distrugge il capitale. Pianificare le coperture in anticipo evita vendite irrazionali nei momenti di panico. Segui per l'aggiornamento di domani.",
+   "ticker": "^VIX",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Analisi dell'indice VIX a quota 60 e utilizzo delle coperture dinamiche Airbag durante i crolli.",
+   "hashtags": [
+    "#VIX",
+    "#Trading",
+    "#MercatiFinanziari",
+    "#Opzioni",
+    "#GestioneRischio",
+    "#Borsa"
+   ]
+  },
+  {
+   "levels": [
+    7447.0
+   ],
+   "history": null,
+   "title": "S&P 500: la struttura asimmetrica a rischio limitato",
+   "hook": "RISCHIO LIMITATO",
+   "beats": [
+    {
+     "say": "Su S&P 500 la perdita massima può essere limitata a 1.270 dollari.",
+     "show": "RISCHIO LIMITATO",
+     "figure": "1.270 $"
+    },
+    {
+     "say": "Una strategia opzionale asimmetrica imposta un target preciso sull'indice a quota 7.447.",
+     "show": "TARGET 7.447",
+     "figure": "7.447"
+    },
+    {
+     "say": "Se l'indice rimane stabile o sale verso 7.447 punti, il profitto massimo raggiunge 4.730 dollari.",
+     "show": "PROFITTO 4.730 $",
+     "figure": "4.730 $"
+    },
+    {
+     "say": "Sotto i livelli chiave di supporto, l'esposizione al ribasso rimane bloccata.",
+     "show": "PERDITA BLOCCATA",
+     "figure": ""
+    },
+    {
+     "say": "Le strutture opzionali quantitative eliminano le perdite illimitate durante i ribassi. Segui per l'aggiornamento di domani.",
+     "show": "SEGUI IL CANALE",
+     "figure": ""
+    }
+   ],
+   "origin": "Marco Casario EXTRA",
+   "source_video": "Mercato in CRASH Come dormire tranquilli (gestendo il rischio del tuo portafogli",
+   "narration": "Su S&P 500 la perdita massima può essere limitata a 1.270 dollari. Una strategia opzionale asimmetrica imposta un target preciso sull'indice a quota 7.447. Se l'indice rimane stabile o sale verso 7.447 punti, il profitto massimo raggiunge 4.730 dollari. Sotto i livelli chiave di supporto, l'esposizione al ribasso rimane bloccata. Le strutture opzionali quantitative eliminano le perdite illimitate durante i ribassi. Segui per l'aggiornamento di domani.",
+   "ticker": "^GSPC",
+   "sentiment": "neutral",
+   "sources": [],
+   "caption": "Analisi dell'operatività asimmetrica in opzioni su S&P 500 con target a quota 7.447.",
+   "hashtags": [
+    "#SP500",
+    "#Trading",
+    "#Opzioni",
+    "#Borsa",
+    "#Investimenti",
+    "#Finanza"
+   ]
+  },
+  {
+   "levels": [
+    7.0
+   ],
+   "history": null,
+   "title": "Proteggere 280.000 dollari sui semiconduttori",
+   "hook": "PROTEZIONE 280.000 $",
+   "beats": [
+    {
+     "say": "Proteggere una posizione di 280.000 dollari sui semiconduttori è costato 6.600 dollari.",
+     "show": "PROTEZIONE 280.000 $",
+     "figure": "280.000 $"
+    },
+    {
+     "say": "L'ETF SOXX mostra un'elevata volatilità nei periodi di contrazione del settore.",
+     "show": "CORREZIONE SOXX",
+     "figure": ""
+    },
+    {
+     "say": "L'acquisto e la vendita combinata di opzioni put crea un cuscinetto contro un calo del 7%.",
+     "show": "CALO DEL 7%",
+     "figure": "-7%"
+    },
+    {
+     "say": "Se l'indice dei chip perde il 7%, la struttura in opzioni compensa le perdite azionarie.",
+     "show": "PERDITE COMPENSATE",
+     "figure": ""
+    },
+    {
+     "say": "Le coperture mirate tutelano il capitale senza liquidare le azioni in portafoglio. Segui per l'aggiornamento di domani.",
+     "show": "SEGUI IL CANALE",
+     "figure": ""
+    }
+   ],
+   "origin": "Marco Casario EXTRA",
+   "source_video": "Mercato in CRASH Come dormire tranquilli (gestendo il rischio del tuo portafogli",
+   "narration": "Proteggere una posizione di 280.000 dollari sui semiconduttori è costato 6.600 dollari. L'ETF SOXX mostra un'elevata volatilità nei periodi di contrazione del settore. L'acquisto e la vendita combinata di opzioni put crea un cuscinetto contro un calo del 7%. Se l'indice dei chip perde il 7%, la struttura in opzioni compensa le perdite azionarie. Le coperture mirate tutelano il capitale senza liquidare le azioni in portafoglio. Segui per l'aggiornamento di domani.",
+   "ticker": "SOXX",
+   "sentiment": "neutral",
+   "sources": [],
+   "caption": "Come coprire un portafoglio azionario sui semiconduttori con uno spread in opzioni put.",
+   "hashtags": [
+    "#SOXX",
+    "#Semiconduttori",
+    "#Opzioni",
+    "#Trading",
+    "#Borsa",
+    "#Investimenti"
+   ]
+  },
+  {
+   "levels": [
+    8.0
+   ],
+   "history": null,
+   "title": "Livelli di copertura per ogni crollo di mercato",
+   "hook": "STRATEGIE DI DIFESA",
+   "beats": [
+    {
+     "say": "Ogni percentuale di ribasso di mercato richiede una copertura specifica.",
+     "show": "STRATEGIE DI DIFESA",
+     "figure": ""
+    },
+    {
+     "say": "I ribassi leggeri tra il 3% e l'8% si gestiscono con strategie di bilanciamento leggero.",
+     "show": "CALO 3%-8%",
+     "figure": "8%"
+    },
+    {
+     "say": "Correzioni dal 10% al 25% richiedono strutture a scudo totale per fermare le perdite.",
+     "show": "CALO 10%-25%",
+     "figure": "25%"
+    },
+    {
+     "say": "Oltre il 30% di ribasso scattano i protocolli di scudo globale sul portafoglio.",
+     "show": "CALO OLTRE 30%",
+     "figure": "30%"
+    },
+    {
+     "say": "Adattare lo strumento di difesa alla gravità del crollo salvaguarda il capitale. Segui per l'aggiornamento di domani.",
+     "show": "SEGUI IL CANALE",
+     "figure": ""
+    }
+   ],
+   "origin": "Marco Casario EXTRA",
+   "source_video": "Mercato in CRASH Come dormire tranquilli (gestendo il rischio del tuo portafogli",
+   "narration": "Ogni percentuale di ribasso di mercato richiede una copertura specifica. I ribassi leggeri tra il 3% e l'8% si gestiscono con strategie di bilanciamento leggero. Correzioni dal 10% al 25% richiedono strutture a scudo totale per fermare le perdite. Oltre il 30% di ribasso scattano i protocolli di scudo globale sul portafoglio. Adattare lo strumento di difesa alla gravità del crollo salvaguarda il capitale. Segui per l'aggiornamento di domani.",
+   "ticker": null,
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Mappa delle strategie di difesa in opzioni in base all'entità dei ribassi di mercato.",
+   "hashtags": [
+    "#Trading",
+    "#GestioneRischio",
+    "#Borsa",
+    "#Opzioni",
+    "#Investimenti",
+    "#Finanza"
+   ]
+  },
+  {
+   "levels": [],
+   "history": {
+    "symbol": "^GSPC",
+    "start": "2000-03",
+    "end": "2003-03"
+   },
+   "title": "Crollo dot-com: -48% e 34 mesi di sofferenza",
+   "hook": "S&P 500 -48%",
+   "beats": [
+    {
+     "say": "L'indice S&P 500 è crollato del 48% in 30 mesi durante le dot-com.",
+     "show": "S&P 500 -48%",
+     "figure": "-48%"
+    },
+    {
+     "say": "A marzo 2000 l'indice quotava 1.527 punti prima di scendere a 801 punti a settembre 2002.",
+     "show": "DA 1.527 A 801",
+     "figure": "1.527"
+    },
+    {
+     "say": "I portafogli simulati hanno perso fino al 36% dal picco, impiegando 34 mesi per recuperare.",
+     "show": "34 MESI RECUPERO",
+     "figure": "34"
+    },
+    {
+     "say": "In caso di uno shock analogo oggi, un portafoglio non protetto affronta anni di perdita.",
+     "show": "ANNI DI PERDITE",
+     "figure": ""
+    },
+    {
+     "say": "I dati storici mostrano che la tenuta psicologica da sola non basta senza coperture. Segui per l'aggiornamento di domani.",
+     "show": "SEGUI IL CANALE",
+     "figure": ""
+    }
+   ],
+   "origin": "Marco Casario EXTRA",
+   "source_video": "Mercato in CRASH Come dormire tranquilli (gestendo il rischio del tuo portafogli",
+   "narration": "L'indice S&P 500 è crollato del 48% in 30 mesi durante le dot-com. A marzo 2000 l'indice quotava 1.527 punti prima di scendere a 801 punti a settembre 2002. I portafogli simulati hanno perso fino al 36% dal picco, impiegando 34 mesi per recuperare. In caso di uno shock analogo oggi, un portafoglio non protetto affronta anni di perdita. I dati storici mostrano che la tenuta psicologica da sola non basta senza coperture. Segui per l'aggiornamento di domani.",
+   "ticker": "^GSPC",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Simulazione del crollo delle dot-com su S&P 500: dati reali di drawdown e tempi di recupero.",
+   "hashtags": [
+    "#SP500",
+    "#DotCom",
+    "#Borsa",
+    "#CrolloMercato",
+    "#Investimenti",
+    "#Finanza"
+   ]
+  },
+  {
+   "levels": [],
+   "history": {
+    "symbol": "MSCI World",
+    "start": "2000-08",
+    "end": "2009-02"
+   },
+   "title": "MSCI World: -56,5% e 13,8 anni per recuperare",
+   "hook": "RECUPERO 13,8 ANNI",
+   "beats": [
+    {
+     "say": "L'indice MSCI World ha perso il 56,5% impiegando 13,8 anni per recuperare.",
+     "show": "RECUPERO 13,8 ANNI",
+     "figure": "13,8"
+    },
+    {
+     "say": "Da agosto 2000 a febbraio 2009 le azioni globali hanno vissuto una lunga crisi strutturale.",
+     "show": "CROLLO GLOBALE",
+     "figure": "-56,5%"
+    },
+    {
+     "say": "Un portafoglio da 100.000 euro si è ridotto fino a 43.500 euro in termini reali.",
+     "show": "DA 100K A 43,5K",
+     "figure": "43.500 €"
+    },
+    {
+     "say": "La maggior parte degli investitori non riesce a sostenere oltre un decennio di perdite.",
+     "show": "TENUTA MENTALE",
+     "figure": ""
+    },
+    {
+     "say": "Gestire il rischio in modo attivo evita che un crollo comprometta i piani finanziari. Segui per l'aggiornamento di domani.",
+     "show": "SEGUI IL CANALE",
+     "figure": ""
+    }
+   ],
+   "origin": "Marco Casario EXTRA",
+   "source_video": "Mercato in CRASH Come dormire tranquilli (gestendo il rischio del tuo portafogli",
+   "narration": "L'indice MSCI World ha perso il 56,5% impiegando 13,8 anni per recuperare. Da agosto 2000 a febbraio 2009 le azioni globali hanno vissuto una lunga crisi strutturale. Un portafoglio da 100.000 euro si è ridotto fino a 43.500 euro in termini reali. La maggior parte degli investitori non riesce a sostenere oltre un decennio di perdite. Gestire il rischio in modo attivo evita che un crollo comprometta i piani finanziari. Segui per l'aggiornamento di domani.",
+   "ticker": null,
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Analisi storica del crollo MSCI World 2000-2009: 13,8 anni necessari per il pareggio.",
+   "hashtags": [
+    "#MSCIWorld",
+    "#CrolloBorsa",
+    "#Investimenti",
+    "#Portafoglio",
+    "#Finanza",
+    "#Mercati"
+   ]
+  },
+  {
+   "levels": [],
+   "history": {
+    "symbol": "ACWI",
+    "start": "2004-12",
+    "end": "2026-04"
+   },
+   "title": "Azionario Globale ACWI: resa media 9,0% e drawdown 49,0%",
+   "hook": "DRAWDOWN 49,0%",
+   "beats": [
+    {
+     "say": "L'azionario globale rende il 9,0% all'anno ma subisce drawdown del 49,0%.",
+     "show": "DRAWDOWN 49,0%",
+     "figure": "49,0%"
+    },
+    {
+     "say": "Da dicembre 2004 ad aprile 2026 l'indice di riferimento è salito da 35 a 151 punti.",
+     "show": "DA 35 A 151",
+     "figure": "151"
+    },
+    {
+     "say": "Dietro il rendimento medio si nascondono periodi di recupero medi di 5,8 anni dopo i crolli.",
+     "show": "RECUPERO 5,8 ANNI",
+     "figure": "5,8"
+    },
+    {
+     "say": "Un calo del 49,0% richiede quasi sei anni di attesa prima di rivedere i massimi.",
+     "show": "SEI ANNI ATTESA",
+     "figure": ""
+    },
+    {
+     "say": "I rendimenti medi di lungo termine mascherano la sofferenza dei grandi ribassi. Segui per l'aggiornamento di domani.",
+     "show": "SEGUI IL CANALE",
+     "figure": ""
+    }
+   ],
+   "origin": "Marco Casario EXTRA",
+   "source_video": "Mercato in CRASH Come dormire tranquilli (gestendo il rischio del tuo portafogli",
+   "narration": "L'azionario globale rende il 9,0% all'anno ma subisce drawdown del 49,0%. Da dicembre 2004 ad aprile 2026 l'indice di riferimento è salito da 35 a 151 punti. Dietro il rendimento medio si nascondono periodi di recupero medi di 5,8 anni dopo i crolli. Un calo del 49,0% richiede quasi sei anni di attesa prima di rivedere i massimi. I rendimenti medi di lungo termine mascherano la sofferenza dei grandi ribassi. Segui per l'aggiornamento di domani.",
+   "ticker": null,
+   "sentiment": "bullish",
+   "sources": [],
+   "caption": "Dati storici dell'indice MSCI ACWI dal 2004 ad oggi: rendimenti medi contro drawdown storici.",
+   "hashtags": [
+    "#ACWI",
+    "#Azionario",
+    "#Investimenti",
+    "#Borsa",
+    "#Finanza",
+    "#ETF"
+   ]
+  },
+  {
+   "levels": [],
+   "history": null,
+   "title": "Nvidia: la copertura in opzioni recupera il 72% delle perdite",
+   "hook": "RECUPERO 72%",
+   "beats": [
+    {
+     "say": "Una copertura in opzioni ha recuperato il 72% della perdita su Nvidia.",
+     "show": "RECUPERO 72%",
+     "figure": "72%"
+    },
+    {
+     "say": "Sulla posizione azionaria in calo la perdita teorica ha raggiunto 6.270 dollari.",
+     "show": "PERDITA 6.270 $",
+     "figure": "6.270 $"
+    },
+    {
+     "say": "L'opzione put acquistata ha generato un guadagno di 4.492 dollari contenendo l'impatto.",
+     "show": "GUADAGNO 4.492 $",
+     "figure": "4.492 $"
+    },
+    {
+     "say": "Il risultato netto evidenzia una perdita complessiva drasticamente ridotta rispetto all'azionario puro.",
+     "show": "IMPATO RIDOTTO",
+     "figure": ""
+    },
+    {
+     "say": "Inserire una copertura mirata protegge i profitti accumulati nei momenti di forte volatilità. Segui per l'aggiornamento di domani.",
+     "show": "SEGUI IL CANALE",
+     "figure": ""
+    }
+   ],
+   "origin": "Marco Casario EXTRA",
+   "source_video": "Mercato in CRASH Come dormire tranquilli (gestendo il rischio del tuo portafogli",
+   "narration": "Una copertura in opzioni ha recuperato il 72% della perdita su Nvidia. Sulla posizione azionaria in calo la perdita teorica ha raggiunto 6.270 dollari. L'opzione put acquistata ha generato un guadagno di 4.492 dollari contenendo l'impatto. Il risultato netto evidenzia una perdita complessiva drasticamente ridotta rispetto all'azionario puro. Inserire una copertura mirata protegge i profitti accumulati nei momenti di forte volatilità. Segui per l'aggiornamento di domani.",
+   "ticker": "NVDA",
+   "sentiment": "bullish",
+   "sources": [],
+   "caption": "Analisi dell'efficacia di un'opzione put usata come copertura su una posizione azionaria Nvidia.",
+   "hashtags": [
+    "#Nvidia",
+    "#Opzioni",
+    "#Hedging",
+    "#Borsa",
+    "#Trading",
+    "#Finanza"
+   ]
+  },
+  {
+   "levels": [
+    239.24
+   ],
+   "history": null,
+   "title": "Nvidia oscilla del 30%: governance ed estrema volatilità",
+   "hook": "RIMBALZO +31,5%",
+   "beats": [
+    {
+     "say": "Nvidia è rimbalzata del 31,5% in un solo giorno dopo la notizia sulla governance.",
+     "show": "RIMBALZO +31,5%",
+     "figure": "31,5%"
+    },
+    {
+     "say": "Il 20 novembre il titolo aveva subito un calo del 14% prima del brusco recupero.",
+     "show": "CALO DEL 14%",
+     "figure": "-14%"
+    },
+    {
+     "say": "Nonostante il forte rally, l'azione resta sotto del 31% dal massimo storico di 239 dollari.",
+     "show": "MASSIMO 239 $",
+     "figure": "239 $"
+    },
+    {
+     "say": "Le decisioni societarie creano scossoni immediati scollegati dai dati di bilancio.",
+     "show": "IMPATO GOVERNANCE",
+     "figure": ""
+    },
+    {
+     "say": "Le reazioni del mercato ai cambi aziendali confermano l'incertezza dei singoli titoli. Segui per l'aggiornamento di domani.",
+     "show": "SEGUI IL CANALE",
+     "figure": ""
+    }
+   ],
+   "origin": "Marco Casario EXTRA",
+   "source_video": "Mercato in CRASH Come dormire tranquilli (gestendo il rischio del tuo portafogli",
+   "narration": "Nvidia è rimbalzata del 31,5% in un solo giorno dopo la notizia sulla governance. Il 20 novembre il titolo aveva subito un calo del 14% prima del brusco recupero. Nonostante il forte rally, l'azione resta sotto del 31% dal massimo storico di 239 dollari. Le decisioni societarie creano scossoni immediati scollegati dai dati di bilancio. Le reazioni del mercato ai cambi aziendali confermano l'incertezza dei singoli titoli. Segui per l'aggiornamento di domani.",
+   "ticker": "NVDA",
+   "sentiment": "neutral",
+   "sources": [],
+   "caption": "Analisi dei movimenti di Nvidia tra cali del 14% e strappi al rialzo del 31,5%.",
+   "hashtags": [
+    "#Nvidia",
+    "#Volatilità",
+    "#Borsa",
+    "#Azioni",
+    "#Tech",
+    "#Finanza"
+   ]
+  },
+  {
+   "levels": [],
+   "history": null,
+   "title": "Gli indici balzano sui dati aziendali di Big Tech",
+   "hook": "Nasdaq +6,86%",
+   "beats": [
+    {
+     "say": "Il Nasdaq ha guadagnato il 6,86% trascinando l'intero listino azionario.",
+     "show": "Nasdaq +6,86%",
+     "figure": "6,86%"
+    },
+    {
+     "say": "Anche l'indice S&P 500 ha registrato un rialzo del 5,47% nella stessa sessione.",
+     "show": "S&P 500 +5,47%",
+     "figure": "5,47%"
+    },
+    {
+     "say": "La notizia legata a un singolo colosso tech si è riflessa sull'intero mercato globale.",
+     "show": "EFFETTO CONTAGIO",
+     "figure": ""
+    },
+    {
+     "say": "Gli indici mostrano un'elevata concentrazione di rischio sui primi titoli di paniere.",
+     "show": "CONCENTRAZIONE HIGH",
+     "figure": ""
+    },
+    {
+     "say": "I movimenti sistemici dimostrano la necessità di protezioni estese all'intero portafoglio. Segui per l'aggiornamento di domani.",
+     "show": "SEGUI IL CANALE",
+     "figure": ""
+    }
+   ],
+   "origin": "Marco Casario EXTRA",
+   "source_video": "Mercato in CRASH Come dormire tranquilli (gestendo il rischio del tuo portafogli",
+   "narration": "Il Nasdaq ha guadagnato il 6,86% trascinando l'intero listino azionario. Anche l'indice S&P 500 ha registrato un rialzo del 5,47% nella stessa sessione. La notizia legata a un singolo colosso tech si è riflessa sull'intero mercato globale. Gli indici mostrano un'elevata concentrazione di rischio sui primi titoli di paniere. I movimenti sistemici dimostrano la necessità di protezioni estese all'intero portafoglio. Segui per l'aggiornamento di domani.",
+   "ticker": "^NDX",
+   "sentiment": "bullish",
+   "sources": [],
+   "caption": "Il rally del Nasdaq (+6,86%) e dell'S&P 500 (+5,47%) spinto dalle notizie societarie.",
+   "hashtags": [
+    "#Nasdaq",
+    "#SP500",
+    "#Borsa",
+    "#Rally",
+    "#Mercati",
+    "#Finanza"
+   ]
+  },
+  {
+   "levels": [],
+   "history": null,
+   "title": "Rendimento Treasury al 5,10%: tensione sui mercati",
+   "hook": "TREASURY 5,10%",
+   "beats": [
+    {
+     "say": "Il rendimento del Treasury decennale resta fermo al 5,10%.",
+     "show": "TREASURY 5,10%",
+     "figure": "5,10%"
+    },
+    {
+     "say": "Nonostante il forte rally azionario, i tassi obbligazionari non accennano a scendere.",
+     "show": "TASSI ELEVATI",
+     "figure": "5,10%"
+    },
+    {
+     "say": "La spaccatura tra valutazioni azionarie e costo del debito crea forte tensione strutturale.",
+     "show": "DISTACCO MERCATI",
+     "figure": ""
+    },
+    {
+     "say": "I tassi elevati continuano a frenare i multipli di borsa a lungo termine.",
+     "show": "PRESSIONE MULTIPLI",
+     "figure": ""
+    },
+    {
+     "say": "I rimbalzi di borsa senza il calo dei tassi non risolvono i nodi macroeconomici. Segui per l'aggiornamento di domani.",
+     "show": "SEGUI IL CANALE",
+     "figure": ""
+    }
+   ],
+   "origin": "Marco Casario EXTRA",
+   "source_video": "Mercato in CRASH Come dormire tranquilli (gestendo il rischio del tuo portafogli",
+   "narration": "Il rendimento del Treasury decennale resta fermo al 5,10%. Nonostante il forte rally azionario, i tassi obbligazionari non accennano a scendere. La spaccatura tra valutazioni azionarie e costo del debito crea forte tensione strutturale. I tassi elevati continuano a frenare i multipli di borsa a lungo termine. I rimbalzi di borsa senza il calo dei tassi non risolvono i nodi macroeconomici. Segui per l'aggiornamento di domani.",
+   "ticker": "^TNX",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "La divergenza tra il rally azionario e il rendimento del Treasury a 10 anni al 5,10%.",
+   "hashtags": [
+    "#Treasury",
+    "#TassiInteresse",
+    "#Borsa",
+    "#Macroeconomia",
+    "#Obbligazioni",
+    "#Finanza"
+   ]
+  },
+  {
+   "levels": [],
+   "history": null,
+   "title": "725 miliardi di investimenti: la spesa dei colossi Tech",
+   "hook": "725 MILIARDI $",
+   "beats": [
+    {
+     "say": "Meta, Alphabet, Microsoft e Amazon spenderanno 725 miliardi di dollari.",
+     "show": "725 MILIARDI $",
+     "figure": "725 MILIARDI $"
+    },
+    {
+     "say": "Le proiezioni degli investimenti in capitale arrivano fino al 2026 raddoppiando i valori precedenti.",
+     "show": "CAPEX RADDOPPIATO",
+     "figure": "2026"
+    },
+    {
+     "say": "Amazon da sola incrementa le spese per investimenti del 66,9%.",
+     "show": "AMAZON +66,9%",
+     "figure": "66,9%"
+    },
+    {
+     "say": "Un ritmo di spesa così elevato spinge il rischio di indebitamento societario.",
+     "show": "RISCHIO DEBITO",
+     "figure": ""
+    },
+    {
+     "say": "Investimenti imponenti senza ritorni immediati mettono sotto pressione i margini aziendali. Segui per l'aggiornamento di domani.",
+     "show": "SEGUI IL CANALE",
+     "figure": ""
+    }
+   ],
+   "origin": "Marco Casario EXTRA",
+   "source_video": "Mercato in CRASH Come dormire tranquilli (gestendo il rischio del tuo portafogli",
+   "narration": "Meta, Alphabet, Microsoft e Amazon spenderanno 725 miliardi di dollari. Le proiezioni degli investimenti in capitale arrivano fino al 2026 raddoppiando i valori precedenti. Amazon da sola incrementa le spese per investimenti del 66,9%. Un ritmo di spesa così elevato spinge il rischio di indebitamento societario. Investimenti imponenti senza ritorni immediati mettono sotto pressione i margini aziendali. Segui per l'aggiornamento di domani.",
+   "ticker": "AMZN",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "I colossi tecnologici pianificano 725 miliardi di investimenti entro il 2026.",
+   "hashtags": [
+    "#BigTech",
+    "#Amazon",
+    "#Meta",
+    "#Alphabet",
+    "#Investimenti",
+    "#Finanza"
+   ]
+  },
+  {
+   "levels": [],
+   "history": null,
+   "title": "Cash Flow negativo per i colossi del settore Tech",
+   "hook": "-9,07 MILIARDI $",
+   "beats": [
+    {
+     "say": "Alphabet registra un free cash flow negativo per 9,07 miliardi.",
+     "show": "-9,07 MILIARDI $",
+     "figure": "-9,07 MILIARDI"
+    },
+    {
+     "say": "Nel terzo trimestre anche Meta riporta un flusso di cassa libero di -2,12 miliardi.",
+     "show": "META -2,12 MILIARDI $",
+     "figure": "-2,12 MILIARDI"
+    },
+    {
+     "say": "I colossi tecnologici stanno spendendo più di quanto generano dalle loro operazioni.",
+     "show": "USCITE SUPERIORI",
+     "figure": ""
+    },
+    {
+     "say": "Per finanziare gli investimenti le aziende attingono alle riserve o emettono nuovo debito.",
+     "show": "NUOVO DEBITO",
+     "figure": ""
+    },
+    {
+     "say": "La dipendenza dal debito con tassi alti aumenta la vulnerabilità del settore. Segui per l'aggiornamento di domani.",
+     "show": "SEGUI IL CANALE",
+     "figure": ""
+    }
+   ],
+   "origin": "Marco Casario EXTRA",
+   "source_video": "Mercato in CRASH Come dormire tranquilli (gestendo il rischio del tuo portafogli",
+   "narration": "Alphabet registra un free cash flow negativo per 9,07 miliardi. Nel terzo trimestre anche Meta riporta un flusso di cassa libero di -2,12 miliardi. I colossi tecnologici stanno spendendo più di quanto generano dalle loro operazioni. Per finanziare gli investimenti le aziende attingono alle riserve o emettono nuovo debito. La dipendenza dal debito con tassi alti aumenta la vulnerabilità del settore. Segui per l'aggiornamento di domani.",
+   "ticker": "GOOGL",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Free Cash Flow negativo per Alphabet (-9,07 miliardi) e Meta (-2,12 miliardi).",
+   "hashtags": [
+    "#Alphabet",
+    "#Meta",
+    "#CashFlow",
+    "#Tech",
+    "#Borsa",
+    "#Finanza"
+   ]
+  },
+  {
+   "levels": [],
+   "history": null,
+   "title": "La matematica delle perdite: -56,5% richiede +130%",
+   "hook": "SERVE IL +130%",
+   "beats": [
+    {
+     "say": "Un calo del 56,5% richiede un guadagno del 130% per pareggiare.",
+     "show": "SERVE IL +130%",
+     "figure": "130%"
+    },
+    {
+     "say": "Le perdite finanziarie non sono simmetriche rispetto ai guadagni successivi.",
+     "show": "ASIMMETRIA",
+     "figure": ""
+    },
+    {
+     "say": "Più il portafoglio affonda nei ribassi, più la percentuale di recupero diventa verticale.",
+     "show": "RECUPERO RIPIDO",
+     "figure": ""
+    },
+    {
+     "say": "Evitare i grandi drawdown è il requisito matematico principale per crescere nel tempo.",
+     "show": "EVITARE DRAWDOWN",
+     "figure": ""
+    },
+    {
+     "say": "Capire l'asimmetria delle perdite aiuta a impostare la corretta gestione del rischio. Segui per l'aggiornamento di domani.",
+     "show": "SEGUI IL CANALE",
+     "figure": ""
+    }
+   ],
+   "origin": "Marco Casario EXTRA",
+   "source_video": "Mercato in CRASH Come dormire tranquilli (gestendo il rischio del tuo portafogli",
+   "narration": "Un calo del 56,5% richiede un guadagno del 130% per pareggiare. Le perdite finanziarie non sono simmetriche rispetto ai guadagni successivi. Più il portafoglio affonda nei ribassi, più la percentuale di recupero diventa verticale. Evitare i grandi drawdown è il requisito matematico principale per crescere nel tempo. Capire l'asimmetria delle perdite aiuta a impostare la corretta gestione del rischio. Segui per l'aggiornamento di domani.",
+   "ticker": null,
+   "sentiment": "neutral",
+   "sources": [],
+   "caption": "Spiegazione matematica dell'asimmetria dei mercati: perché serve il 130% per recuperare il 56,5%.",
+   "hashtags": [
+    "#Matematica",
+    "#Investimenti",
+    "#GestioneRischio",
+    "#Borsa",
+    "#Portafoglio",
+    "#Finanza"
+   ]
+  },
+  {
+   "levels": [],
+   "history": null,
+   "title": "Golden Butterfly: portafogli pigri contro la volatilità",
+   "hook": "SOLO -0,08%",
+   "beats": [
+    {
+     "say": "Il portafoglio Golden Butterfly ha perso solo lo 0,08% durante la correzione.",
+     "show": "SOLO -0,08%",
+     "figure": "-0,08%"
+    },
+    {
+     "say": "Nello stesso periodo un portafoglio 100% azionario ha ceduto il 4,75%.",
+     "show": "AZIONARIO -4,75%",
+     "figure": "-4,75%"
+    },
+    {
+     "say": "La classica allocazione 60/40 ha registrato una flessione dell'1,98%.",
+     "show": "PORTAFOGLIO 60/40",
+     "figure": "-1,98%"
+    },
+    {
+     "say": "La diversificazione bilanciata rappresenta la prima linea di difesa del capitale.",
+     "show": "DIVERSIFICAZIONE",
+     "figure": ""
+    },
+    {
+     "say": "Una struttura ben costruita ammortizza i cali senza ricorrere a vendite affrettate. Segui per l'aggiornamento di domani.",
+     "show": "SEGUI IL CANALE",
+     "figure": ""
+    }
+   ],
+   "origin": "Marco Casario EXTRA",
+   "source_video": "Mercato in CRASH Come dormire tranquilli (gestendo il rischio del tuo portafogli",
+   "narration": "Il portafoglio Golden Butterfly ha perso solo lo 0,08% durante la correzione. Nello stesso periodo un portafoglio 100% azionario ha ceduto il 4,75%. La classica allocazione 60/40 ha registrato una flessione dell'1,98%. La diversificazione bilanciata rappresenta la prima linea di difesa del capitale. Una struttura ben costruita ammortizza i cali senza ricorrere a vendite affrettate. Segui per l'aggiornamento di domani.",
+   "ticker": null,
+   "sentiment": "bullish",
+   "sources": [],
+   "caption": "Confronto performance tra azionario puro, 60/40 e Golden Butterfly durante l'ultimo calo.",
+   "hashtags": [
+    "#GoldenButterfly",
+    "#LazyPortfolio",
+    "#Investimenti",
+    "#AssetAllocation",
+    "#Finanza",
+    "#Borsa"
+   ]
+  }
+ ],
+ "en": [
+  {
+   "levels": [
+    60.0
+   ],
+   "history": {
+    "symbol": "^VIX",
+    "start": "2025-04",
+    "end": "2025-04"
+   },
+   "title": "VIX hits 60: The Airbag strategy for market crashes",
+   "hook": "VIX AT 60",
+   "beats": [
+    {
+     "say": "VIX hitting 60 signals extreme panic across financial markets.",
+     "show": "VIX AT 60",
+     "figure": "60"
+    },
+    {
+     "say": "In April 2025, the volatility index spiked to 60 points during a severe sell-off.",
+     "show": "VOLATILITY SPIKE",
+     "figure": "60"
+    },
+    {
+     "say": "Standard hedging fails when panic surges to such historic highs.",
+     "show": "HEDGES FAIL",
+     "figure": ""
+    },
+    {
+     "say": "The Airbag strategy deploys only when market metrics signal systematic risk.",
+     "show": "AIRBAG PROTOCOL",
+     "figure": ""
+    },
+    {
+     "say": "Without explicit downside caps, sudden volatility spikes severely damage portfolios.",
+     "show": "CAP DOWNSISE",
+     "figure": ""
+    },
+    {
+     "say": "Executing structured protection beforehand prevents panic selling during equity drops. Follow for tomorrow's update.",
+     "show": "FOLLOW FOR MORE",
+     "figure": ""
+    }
+   ],
+   "origin": "Marco Casario EXTRA",
+   "source_video": "Mercato in CRASH Come dormire tranquilli (gestendo il rischio del tuo portafogli",
+   "narration": "VIX hitting 60 signals extreme panic across financial markets. In April 2025, the volatility index spiked to 60 points during a severe sell-off. Standard hedging fails when panic surges to such historic highs. The Airbag strategy deploys only when market metrics signal systematic risk. Without explicit downside caps, sudden volatility spikes severely damage portfolios. Executing structured protection beforehand prevents panic selling during equity drops. Follow for tomorrow's update.",
+   "ticker": "^VIX",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "How volatility spikes like VIX 60 impact portfolio stability and how option hedges protect capital.",
+   "hashtags": [
+    "#VIX",
+    "#Trading",
+    "#StockMarket",
+    "#OptionsTrading",
+    "#RiskManagement",
+    "#Finance"
+   ]
+  },
+  {
+   "levels": [
+    7447.0
+   ],
+   "history": null,
+   "title": "S&P 500: Asymmetric options setup with capped risk",
+   "hook": "RISK CAPPED",
+   "beats": [
+    {
+     "say": "S&P 500 risk can be capped at exactly $1,270.",
+     "show": "RISK CAPPED",
+     "figure": "$1,270"
+    },
+    {
+     "say": "An asymmetric options strategy sets a precise target level at 7,447.",
+     "show": "TARGET 7,447",
+     "figure": "7,447"
+    },
+    {
+     "say": "If the index remains flat or moves to 7,447, maximum profit reaches $4,730.",
+     "show": "PROFIT $4,730",
+     "figure": "$4,730"
+    },
+    {
+     "say": "Below critical support levels, downside loss is strictly defined.",
+     "show": "NO DOWNSIDE",
+     "figure": ""
+    },
+    {
+     "say": "Quantitative options setups remove unlimited drawdown risks during market corrections. Follow for tomorrow's update.",
+     "show": "FOLLOW FOR MORE",
+     "figure": ""
+    }
+   ],
+   "origin": "Marco Casario EXTRA",
+   "source_video": "Mercato in CRASH Come dormire tranquilli (gestendo il rischio del tuo portafogli",
+   "narration": "S&P 500 risk can be capped at exactly $1,270. An asymmetric options strategy sets a precise target level at 7,447. If the index remains flat or moves to 7,447, maximum profit reaches $4,730. Below critical support levels, downside loss is strictly defined. Quantitative options setups remove unlimited drawdown risks during market corrections. Follow for tomorrow's update.",
+   "ticker": "^GSPC",
+   "sentiment": "neutral",
+   "sources": [],
+   "caption": "Examining an asymmetric long put butterfly options structure on the S&P 500 index.",
+   "hashtags": [
+    "#SP500",
+    "#OptionsTrading",
+    "#StockMarket",
+    "#Investing",
+    "#TradingStrategy",
+    "#Finance"
+   ]
+  },
+  {
+   "levels": [
+    7.0
+   ],
+   "history": null,
+   "title": "Hedging $280,000 semiconductor exposure",
+   "hook": "HEDGE $280,000",
+   "beats": [
+    {
+     "say": "Hedging a $280,000 semiconductor position cost exactly $6,600.",
+     "show": "HEDGE $280,000",
+     "figure": "$280,000"
+    },
+    {
+     "say": "The SOXX ETF faces sharp corrections during tech sector pullbacks.",
+     "show": "SOXX VOLATILITY",
+     "figure": ""
+    },
+    {
+     "say": "Combining long and short put options creates a cushion against a 7% decline.",
+     "show": "7% DROP HEDGE",
+     "figure": "-7%"
+    },
+    {
+     "say": "If chip stocks fall 7%, the option structure offsets equity losses.",
+     "show": "EQUITY PROTECTED",
+     "figure": ""
+    },
+    {
+     "say": "Targeted hedging shields underlying shares without selling portfolio positions. Follow for tomorrow's update.",
+     "show": "FOLLOW FOR MORE",
+     "figure": ""
+    }
+   ],
+   "origin": "Marco Casario EXTRA",
+   "source_video": "Mercato in CRASH Come dormire tranquilli (gestendo il rischio del tuo portafogli",
+   "narration": "Hedging a $280,000 semiconductor position cost exactly $6,600. The SOXX ETF faces sharp corrections during tech sector pullbacks. Combining long and short put options creates a cushion against a 7% decline. If chip stocks fall 7%, the option structure offsets equity losses. Targeted hedging shields underlying shares without selling portfolio positions. Follow for tomorrow's update.",
+   "ticker": "SOXX",
+   "sentiment": "neutral",
+   "sources": [],
+   "caption": "Deploying a bear put spread to protect a semiconductor ETF portfolio during sector pullbacks.",
+   "hashtags": [
+    "#SOXX",
+    "#Semiconductors",
+    "#OptionsTrading",
+    "#StockMarket",
+    "#Hedging",
+    "#Finance"
+   ]
+  },
+  {
+   "levels": [
+    8.0
+   ],
+   "history": null,
+   "title": "Hedging tools for every level of market crash",
+   "hook": "DEFENSIVE TIERS",
+   "beats": [
+    {
+     "say": "Different market drawdowns demand completely different hedging protocols.",
+     "show": "DEFENSIVE TIERS",
+     "figure": ""
+    },
+    {
+     "say": "Minor pullbacks between 3% and 8% call for lightweight rebalancing overlays.",
+     "show": "DROP 3%-8%",
+     "figure": "8%"
+    },
+    {
+     "say": "Deeper drops from 10% to 25% require total shield options structures.",
+     "show": "DROP 10%-25%",
+     "figure": "25%"
+    },
+    {
+     "say": "If market drawdowns cross 30%, global shield protections activate.",
+     "show": "DROP OVER 30%",
+     "figure": "30%"
+    },
+    {
+     "say": "Matching the hedging tool to the drawdown severity preserves long-term capital. Follow for tomorrow's update.",
+     "show": "FOLLOW FOR MORE",
+     "figure": ""
+    }
+   ],
+   "origin": "Marco Casario EXTRA",
+   "source_video": "Mercato in CRASH Come dormire tranquilli (gestendo il rischio del tuo portafogli",
+   "narration": "Different market drawdowns demand completely different hedging protocols. Minor pullbacks between 3% and 8% call for lightweight rebalancing overlays. Deeper drops from 10% to 25% require total shield options structures. If market drawdowns cross 30%, global shield protections activate. Matching the hedging tool to the drawdown severity preserves long-term capital. Follow for tomorrow's update.",
+   "ticker": null,
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Categorizing portfolio defense strategies based on the depth of market declines.",
+   "hashtags": [
+    "#Trading",
+    "#RiskManagement",
+    "#StockMarket",
+    "#OptionsTrading",
+    "#Investing",
+    "#Finance"
+   ]
+  },
+  {
+   "levels": [],
+   "history": {
+    "symbol": "^GSPC",
+    "start": "2000-03",
+    "end": "2003-03"
+   },
+   "title": "Dot-com crash backtest: -48% drop and 34 months recovery",
+   "hook": "S&P 500 -48%",
+   "beats": [
+    {
+     "say": "S&P 500 crashed 48% in 30 months during the dot-com bust.",
+     "show": "S&P 500 -48%",
+     "figure": "-48%"
+    },
+    {
+     "say": "In March 2000, S&P 500 peaked at 1,527 before falling to 801 in September 2002.",
+     "show": "PEAK 1,527 TO 801",
+     "figure": "1,527"
+    },
+    {
+     "say": "Simulated multi-asset portfolios lost 36% from peak and needed 34 months to break even.",
+     "show": "34 MONTHS RECOVERY",
+     "figure": "34"
+    },
+    {
+     "say": "If a similar market contraction hits today, unhedged capital faces years of losses.",
+     "show": "YEARS OF DRAWDOWN",
+     "figure": ""
+    },
+    {
+     "say": "Historical drawdowns prove that buy and hold requires extreme endurance without hedging. Follow for tomorrow's update.",
+     "show": "FOLLOW FOR MORE",
+     "figure": ""
+    }
+   ],
+   "origin": "Marco Casario EXTRA",
+   "source_video": "Mercato in CRASH Come dormire tranquilli (gestendo il rischio del tuo portafogli",
+   "narration": "S&P 500 crashed 48% in 30 months during the dot-com bust. In March 2000, S&P 500 peaked at 1,527 before falling to 801 in September 2002. Simulated multi-asset portfolios lost 36% from peak and needed 34 months to break even. If a similar market contraction hits today, unhedged capital faces years of losses. Historical drawdowns prove that buy and hold requires extreme endurance without hedging. Follow for tomorrow's update.",
+   "ticker": "^GSPC",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Backtesting S&P 500 performance during the 2000 dot-com crash: historical data and drawdown duration.",
+   "hashtags": [
+    "#SP500",
+    "#DotComCrash",
+    "#StockMarket",
+    "#Backtesting",
+    "#Investing",
+    "#Finance"
+   ]
+  },
+  {
+   "levels": [],
+   "history": {
+    "symbol": "MSCI World",
+    "start": "2000-08",
+    "end": "2009-02"
+   },
+   "title": "MSCI World: -56.5% drop took 13.8 years to break even",
+   "hook": "13.8 YEARS RECOVERY",
+   "beats": [
+    {
+     "say": "MSCI World dropped 56.5% and took 13.8 years to fully recover.",
+     "show": "13.8 YEARS RECOVERY",
+     "figure": "13.8"
+    },
+    {
+     "say": "From August 2000 to February 2009, global equities suffered a massive contraction.",
+     "show": "GLOBAL DROPS",
+     "figure": "-56.5%"
+    },
+    {
+     "say": "A 100,000 euro portfolio collapsed down to 43,500 euros at market bottom.",
+     "show": "100K DOWN TO 43.5K",
+     "figure": "43,500"
+    },
+    {
+     "say": "Most retail investors abandon investment strategies long before a decade-long recovery completes.",
+     "show": "CAPITAL DRAIN",
+     "figure": ""
+    },
+    {
+     "say": "Active risk management prevents extended drawdowns from derailing long-term goals. Follow for tomorrow's update.",
+     "show": "FOLLOW FOR MORE",
+     "figure": ""
+    }
+   ],
+   "origin": "Marco Casario EXTRA",
+   "source_video": "Mercato in CRASH Come dormire tranquilli (gestendo il rischio del tuo portafogli",
+   "narration": "MSCI World dropped 56.5% and took 13.8 years to fully recover. From August 2000 to February 2009, global equities suffered a massive contraction. A 100,000 euro portfolio collapsed down to 43,500 euros at market bottom. Most retail investors abandon investment strategies long before a decade-long recovery completes. Active risk management prevents extended drawdowns from derailing long-term goals. Follow for tomorrow's update.",
+   "ticker": null,
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Reviewing the MSCI World 2000-2009 historical drawdown and its 13.8-year recovery timeline.",
+   "hashtags": [
+    "#MSCIWorld",
+    "#StockMarket",
+    "#Drawdown",
+    "#Investing",
+    "#Portfolio",
+    "#Finance"
+   ]
+  },
+  {
+   "levels": [],
+   "history": {
+    "symbol": "ACWI",
+    "start": "2004-12",
+    "end": "2026-04"
+   },
+   "title": "Global Equities ACWI: 9.0% annual returns but 49.0% drawdown",
+   "hook": "49.0% DRAWDOWN",
+   "beats": [
+    {
+     "say": "Global equity ETF returned 9.0% yearly but suffered a 49.0% max drawdown.",
+     "show": "49.0% DRAWDOWN",
+     "figure": "49.0%"
+    },
+    {
+     "say": "From December 2004 to April 2026, the index index rose from 35 to 151.",
+     "show": "INDEX 35 TO 151",
+     "figure": "151"
+    },
+    {
+     "say": "Behind average returns lies an average recovery duration of 5.8 years per major crash.",
+     "show": "5.8 YEARS RECOVERY",
+     "figure": "5.8"
+    },
+    {
+     "say": "A 49.0% drop requires nearly six years just to return to previous portfolio peaks.",
+     "show": "SIX YEARS ATTESA",
+     "figure": ""
+    },
+    {
+     "say": "Headline averages hide severe multi-year drawdowns that test investor discipline. Follow for tomorrow's update.",
+     "show": "FOLLOW FOR MORE",
+     "figure": ""
+    }
+   ],
+   "origin": "Marco Casario EXTRA",
+   "source_video": "Mercato in CRASH Come dormire tranquilli (gestendo il rischio del tuo portafogli",
+   "narration": "Global equity ETF returned 9.0% yearly but suffered a 49.0% max drawdown. From December 2004 to April 2026, the index index rose from 35 to 151. Behind average returns lies an average recovery duration of 5.8 years per major crash. A 49.0% drop requires nearly six years just to return to previous portfolio peaks. Headline averages hide severe multi-year drawdowns that test investor discipline. Follow for tomorrow's update.",
+   "ticker": null,
+   "sentiment": "bullish",
+   "sources": [],
+   "caption": "Analyzing long-term historical performance and drawdowns of the MSCI ACWI index.",
+   "hashtags": [
+    "#ACWI",
+    "#GlobalEquities",
+    "#StockMarket",
+    "#ETFs",
+    "#Investing",
+    "#Finance"
+   ]
+  },
+  {
+   "levels": [],
+   "history": null,
+   "title": "Nvidia hedge recovers 72% of equity drawdown",
+   "hook": "72% RECOVERED",
+   "beats": [
+    {
+     "say": "A put option hedge recovered 72% of losses during Nvidia's decline.",
+     "show": "72% RECOVERED",
+     "figure": "72%"
+    },
+    {
+     "say": "The underlying share drop generated a theoretical loss of $6,270.",
+     "show": "LOSS $6,270",
+     "figure": "$6,270"
+    },
+    {
+     "say": "The long put position generated $4,492 in profit to offset stock losses.",
+     "show": "GAIN $4,492",
+     "figure": "$4,492"
+    },
+    {
+     "say": "Net drawdown on the total position remained minimal compared to unhedged equity.",
+     "show": "MINIMAL LOSS",
+     "figure": ""
+    },
+    {
+     "say": "Hedging individual positions mitigates severe equity pullbacks without liquidating stock. Follow for tomorrow's update.",
+     "show": "FOLLOW FOR MORE",
+     "figure": ""
+    }
+   ],
+   "origin": "Marco Casario EXTRA",
+   "source_video": "Mercato in CRASH Come dormire tranquilli (gestendo il rischio del tuo portafogli",
+   "narration": "A put option hedge recovered 72% of losses during Nvidia's decline. The underlying share drop generated a theoretical loss of $6,270. The long put position generated $4,492 in profit to offset stock losses. Net drawdown on the total position remained minimal compared to unhedged equity. Hedging individual positions mitigates severe equity pullbacks without liquidating stock. Follow for tomorrow's update.",
+   "ticker": "NVDA",
+   "sentiment": "bullish",
+   "sources": [],
+   "caption": "How put options helped offset 72% of losses on an individual Nvidia stock position.",
+   "hashtags": [
+    "#Nvidia",
+    "#OptionsTrading",
+    "#Hedging",
+    "#StockMarket",
+    "#Trading",
+    "#Finance"
+   ]
+  },
+  {
+   "levels": [
+    239.24
+   ],
+   "history": null,
+   "title": "Nvidia surges 31.5% in single day on governance news",
+   "hook": "SURGE +31.5%",
+   "beats": [
+    {
+     "say": "Nvidia surged 31.5% in one single trading session following executive news.",
+     "show": "SURGE +31.5%",
+     "figure": "31.5%"
+    },
+    {
+     "say": "On November 20th, the stock dropped 14% before reversing sharply.",
+     "show": "DROP 14%",
+     "figure": "-14%"
+    },
+    {
+     "say": "Despite the rally, Nvidia remains 31% below its peak level of $239.",
+     "show": "PEAK $239",
+     "figure": "$239"
+    },
+    {
+     "say": "Corporate management shifts trigger immediate volatility unrelated to core earnings.",
+     "show": "GOVERNANCE SHOCK",
+     "figure": ""
+    },
+    {
+     "say": "Extreme price swings demonstrate why concentration risk in single stocks requires protection. Follow for tomorrow's update.",
+     "show": "FOLLOW FOR MORE",
+     "figure": ""
+    }
+   ],
+   "origin": "Marco Casario EXTRA",
+   "source_video": "Mercato in CRASH Come dormire tranquilli (gestendo il rischio del tuo portafogli",
+   "narration": "Nvidia surged 31.5% in one single trading session following executive news. On November 20th, the stock dropped 14% before reversing sharply. Despite the rally, Nvidia remains 31% below its peak level of $239. Corporate management shifts trigger immediate volatility unrelated to core earnings. Extreme price swings demonstrate why concentration risk in single stocks requires protection. Follow for tomorrow's update.",
+   "ticker": "NVDA",
+   "sentiment": "neutral",
+   "sources": [],
+   "caption": "Analyzing Nvidia price action following corporate governance announcements and market volatility.",
+   "hashtags": [
+    "#Nvidia",
+    "#Volatility",
+    "#StockMarket",
+    "#TechStocks",
+    "#Trading",
+    "#Finance"
+   ]
+  },
+  {
+   "levels": [],
+   "history": null,
+   "title": "Nasdaq jumps 6.86% as single tech stock moves index",
+   "hook": "Nasdaq +6.86%",
+   "beats": [
+    {
+     "say": "Nasdaq jumped 6.86% in a broad index-wide rally.",
+     "show": "Nasdaq +6.86%",
+     "figure": "6.86%"
+    },
+    {
+     "say": "The S&P 500 gained 5.47% during the exact same trading window.",
+     "show": "S&P 500 +5.47%",
+     "figure": "5.47%"
+    },
+    {
+     "say": "Corporate news from one megacap stock triggered massive buying across entire benchmarks.",
+     "show": "BENCHMARK SPREAD",
+     "figure": ""
+    },
+    {
+     "say": "Top heavy index weighting amplifies sudden shocks in both directions.",
+     "show": "HIGH CONCENTRATION",
+     "figure": ""
+    },
+    {
+     "say": "Broad market sensitivity highlights the need for portfolio-wide hedging mechanisms. Follow for tomorrow's update.",
+     "show": "FOLLOW FOR MORE",
+     "figure": ""
+    }
+   ],
+   "origin": "Marco Casario EXTRA",
+   "source_video": "Mercato in CRASH Come dormire tranquilli (gestendo il rischio del tuo portafogli",
+   "narration": "Nasdaq jumped 6.86% in a broad index-wide rally. The S&P 500 gained 5.47% during the exact same trading window. Corporate news from one megacap stock triggered massive buying across entire benchmarks. Top heavy index weighting amplifies sudden shocks in both directions. Broad market sensitivity highlights the need for portfolio-wide hedging mechanisms. Follow for tomorrow's update.",
+   "ticker": "^NDX",
+   "sentiment": "bullish",
+   "sources": [],
+   "caption": "How single-company news events moved the Nasdaq (+6.86%) and S&P 500 (+5.47%).",
+   "hashtags": [
+    "#Nasdaq",
+    "#SP500",
+    "#StockMarket",
+    "#Rally",
+    "#Investing",
+    "#Finance"
+   ]
+  },
+  {
+   "levels": [],
+   "history": null,
+   "title": "10-Year Treasury yields stay high at 5.10% despite rally",
+   "hook": "TREASURY 5.10%",
+   "beats": [
+    {
+     "say": "10-year Treasury yields remained steady at 5.10% during stock market rally.",
+     "show": "TREASURY 5.10%",
+     "figure": "5.10%"
+    },
+    {
+     "say": "Stock indexes surged higher while bond yields showed zero downward movement.",
+     "show": "YIELDS FROZEN",
+     "figure": "5.10%"
+    },
+    {
+     "say": "The widening gap between high equity valuations and elevated interest rates persists.",
+     "show": "VALUATION GAP",
+     "figure": ""
+    },
+    {
+     "say": "High borrowing costs keep long-term pressure on corporate debt refinancing.",
+     "show": "DEBT PRESSURE",
+     "figure": ""
+    },
+    {
+     "say": "Equity rallies fail to fix underlying macroeconomic constraints while bond yields remain high. Follow for tomorrow's update.",
+     "show": "FOLLOW FOR MORE",
+     "figure": ""
+    }
+   ],
+   "origin": "Marco Casario EXTRA",
+   "source_video": "Mercato in CRASH Come dormire tranquilli (gestendo il rischio del tuo portafogli",
+   "narration": "10-year Treasury yields remained steady at 5.10% during stock market rally. Stock indexes surged higher while bond yields showed zero downward movement. The widening gap between high equity valuations and elevated interest rates persists. High borrowing costs keep long-term pressure on corporate debt refinancing. Equity rallies fail to fix underlying macroeconomic constraints while bond yields remain high. Follow for tomorrow's update.",
+   "ticker": "^TNX",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Analyzing the disconnect between stock market rallies and persistent 5.10% Treasury yields.",
+   "hashtags": [
+    "#TreasuryYields",
+    "#InterestRates",
+    "#Macroeconomy",
+    "#StockMarket",
+    "#Bonds",
+    "#Finance"
+   ]
+  },
+  {
+   "levels": [],
+   "history": null,
+   "title": "Tech giants project $725 billion capital expenditure by 2026",
+   "hook": "$725 BILLION",
+   "beats": [
+    {
+     "say": "Meta, Alphabet, Microsoft, and Amazon will spend $725 billion by 2026.",
+     "show": "$725 BILLION",
+     "figure": "$725 BILLION"
+    },
+    {
+     "say": "Capital expenditure forecasts nearly double the spending rates of prior cycles.",
+     "show": "SPENDING DOUBLES",
+     "figure": "2026"
+    },
+    {
+     "say": "Amazon alone is expanding its capital expenditures by 66.9%.",
+     "show": "AMAZON +66.9%",
+     "figure": "66.9%"
+    },
+    {
+     "say": "Massive capital outlays increase long-term corporate balance sheet leverage.",
+     "show": "DEBT RISKS",
+     "figure": ""
+    },
+    {
+     "say": "Aggressive spending programs in high-interest environments weigh on free cash generation. Follow for tomorrow's update.",
+     "show": "FOLLOW FOR MORE",
+     "figure": ""
+    }
+   ],
+   "origin": "Marco Casario EXTRA",
+   "source_video": "Mercato in CRASH Come dormire tranquilli (gestendo il rischio del tuo portafogli",
+   "narration": "Meta, Alphabet, Microsoft, and Amazon will spend $725 billion by 2026. Capital expenditure forecasts nearly double the spending rates of prior cycles. Amazon alone is expanding its capital expenditures by 66.9%. Massive capital outlays increase long-term corporate balance sheet leverage. Aggressive spending programs in high-interest environments weigh on free cash generation. Follow for tomorrow's update.",
+   "ticker": "AMZN",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Big Tech companies project $725 billion in capital expenditures by 2026.",
+   "hashtags": [
+    "#BigTech",
+    "#Amazon",
+    "#Meta",
+    "#Alphabet",
+    "#CapEx",
+    "#Finance"
+   ]
+  },
+  {
+   "levels": [],
+   "history": null,
+   "title": "Big Tech faces negative free cash flow as CapEx surges",
+   "hook": "-$9.07 BILLION",
+   "beats": [
+    {
+     "say": "Alphabet reported negative free cash flow of $9.07 billion.",
+     "show": "-$9.07 BILLION",
+     "figure": "-$9.07 BILLION"
+    },
+    {
+     "say": "Meta posted a negative free cash flow of $2.12 billion in Q3.",
+     "show": "META -$2.12 BILLION",
+     "figure": "-$2.12 BILLION"
+    },
+    {
+     "say": "Capital expenditures currently exceed net operating cash flow generation.",
+     "show": "CASH DRAIN",
+     "figure": ""
+    },
+    {
+     "say": "Companies rely on cash reserves or debt markets to fund ongoing operations.",
+     "show": "DEBT ISSUANCE",
+     "figure": ""
+    },
+    {
+     "say": "Relying on debt financing in a high-rate regime elevates structural corporate risk. Follow for tomorrow's update.",
+     "show": "FOLLOW FOR MORE",
+     "figure": ""
+    }
+   ],
+   "origin": "Marco Casario EXTRA",
+   "source_video": "Mercato in CRASH Come dormire tranquilli (gestendo il rischio del tuo portafogli",
+   "narration": "Alphabet reported negative free cash flow of $9.07 billion. Meta posted a negative free cash flow of $2.12 billion in Q3. Capital expenditures currently exceed net operating cash flow generation. Companies rely on cash reserves or debt markets to fund ongoing operations. Relying on debt financing in a high-rate regime elevates structural corporate risk. Follow for tomorrow's update.",
+   "ticker": "GOOGL",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Examining negative free cash flow figures at Alphabet (-$9.07B) and Meta (-$2.12B).",
+   "hashtags": [
+    "#Alphabet",
+    "#Meta",
+    "#FreeCashFlow",
+    "#TechStocks",
+    "#Investing",
+    "#Finance"
+   ]
+  },
+  {
+   "levels": [],
+   "history": null,
+   "title": "The math of market losses: -56.5% requires a +130% gain",
+   "hook": "NEEDS +130% GAIN",
+   "beats": [
+    {
+     "say": "A 56.5% loss requires a massive 130% gain just to break even.",
+     "show": "NEEDS +130% GAIN",
+     "figure": "130%"
+    },
+    {
+     "say": "Portfolio losses and gains are mathematically asymmetric.",
+     "show": "ASYMMETRY MATH",
+     "figure": ""
+    },
+    {
+     "say": "As drawdowns deepen, the required recovery percentage climbs exponentially higher.",
+     "show": "STEEPER CLIMB",
+     "figure": ""
+    },
+    {
+     "say": "Limiting peak-to-trough drawdowns is essential for long-term compound growth.",
+     "show": "LIMIT DRAWDOWN",
+     "figure": ""
+    },
+    {
+     "say": "Understanding drawdown asymmetry is vital for preserving long-term investment capital. Follow for tomorrow's update.",
+     "show": "FOLLOW FOR MORE",
+     "figure": ""
+    }
+   ],
+   "origin": "Marco Casario EXTRA",
+   "source_video": "Mercato in CRASH Come dormire tranquilli (gestendo il rischio del tuo portafogli",
+   "narration": "A 56.5% loss requires a massive 130% gain just to break even. Portfolio losses and gains are mathematically asymmetric. As drawdowns deepen, the required recovery percentage climbs exponentially higher. Limiting peak-to-trough drawdowns is essential for long-term compound growth. Understanding drawdown asymmetry is vital for preserving long-term investment capital. Follow for tomorrow's update.",
+   "ticker": null,
+   "sentiment": "neutral",
+   "sources": [],
+   "caption": "Understanding the mathematics of loss recovery: why a 56.5% drawdown demands a 130% return.",
+   "hashtags": [
+    "#FinancialMath",
+    "#RiskManagement",
+    "#Investing",
+    "#StockMarket",
+    "#Portfolio",
+    "#Finance"
+   ]
+  },
+  {
+   "levels": [],
+   "history": null,
+   "title": "Golden Butterfly portfolio drops only 0.08% in pullbacks",
+   "hook": "DOWN ONLY 0.08%",
+   "beats": [
+    {
+     "say": "The Golden Butterfly portfolio fell just 0.08% during recent drawdowns.",
+     "show": "DOWN ONLY 0.08%",
+     "figure": "-0.08%"
+    },
+    {
+     "say": "Over the same timeframe, a 100% equity allocation lost 4.75%.",
+     "show": "EQUITY -4.75%",
+     "figure": "-4.75%"
+    },
+    {
+     "say": "A standard 60/40 balanced portfolio declined by 1.98%.",
+     "show": "PORTFOLIO 60/40",
+     "figure": "-1.98%"
+    },
+    {
+     "say": "Strategic asset allocation functions as the primary line of drawdown defense.",
+     "show": "ASSET ALLOCATION",
+     "figure": ""
+    },
+    {
+     "say": "Proper portfolio structure cushions equity drops during periods of market stress. Follow for tomorrow's update.",
+     "show": "FOLLOW FOR MORE",
+     "figure": ""
+    }
+   ],
+   "origin": "Marco Casario EXTRA",
+   "source_video": "Mercato in CRASH Come dormire tranquilli (gestendo il rischio del tuo portafogli",
+   "narration": "The Golden Butterfly portfolio fell just 0.08% during recent drawdowns. Over the same timeframe, a 100% equity allocation lost 4.75%. A standard 60/40 balanced portfolio declined by 1.98%. Strategic asset allocation functions as the primary line of drawdown defense. Proper portfolio structure cushions equity drops during periods of market stress. Follow for tomorrow's update.",
+   "ticker": null,
+   "sentiment": "bullish",
+   "sources": [],
+   "caption": "Comparing performance of 100% equity, 60/40, and Golden Butterfly portfolios during corrections.",
+   "hashtags": [
+    "#GoldenButterfly",
+    "#LazyPortfolio",
+    "#AssetAllocation",
+    "#Investing",
+    "#Finance",
+    "#RiskManagement"
+   ]
+  }
+ ],
+ "carousels": {
+  "it": {
+   "topic": "Gestione del rischio nei crolli di borsa",
+   "caption": "Guida completa alla gestione del rischio di portafoglio: dai dati storici dei crolli alle strategie di copertura in opzioni. Segui per l'aggiornamento di domani.",
+   "sentiment": "bearish",
+   "ticker": "^GSPC",
+   "slides": [
+    {
+     "title": "Mercato in crash: come gestire il rischio",
+     "body": "Ecco come proteggere il capitale dai crolli di borsa usando dati storici e coperture in opzioni."
+    },
+    {
+     "title": "La storia dei crolli",
+     "body": "Nel 2000 l'MSCI World ha perso il 56,5% impiegando 13,8 anni per recuperare. I tempi di recupero passivi sono spesso insostenibili."
+    },
+    {
+     "title": "La matematica del recupero",
+     "body": "Una perdita del 50% richiede un guadagno del 100% per tornare a pari. Contenere i drawdown è matematicamente fondamentale."
+    },
+    {
+     "title": "Fondo di emergenza a 18 mesi",
+     "body": "Mantenere 18 mesi di spese in liquidità evita di dover liquidare posizioni azionarie durante i minimi di mercato."
+    },
+    {
+     "title": "Struttura Airbag su S&P 500",
+     "body": "Con la strategia Airbag un calo del 15% causa una perdita dell'1,7% invece del 15%, sfruttando i picchi di volatilità."
+    },
+    {
+     "title": "Coperture mirate sui singoli titoli",
+     "body": "Lo Scudo Totale su Nvidia ha recuperato il 72% della perdita durante un ribasso del 7%, riducendo il rischio specifico."
+    },
+    {
+     "title": "Proteggi il portafoglio oggi",
+     "body": "Un approccio quantitativo basato su dati reali salva il capitale nei momenti di panico. Segui per l'aggiornamento di domani."
+    }
+   ],
+   "hashtags": [
+    "#GestioneRischio",
+    "#Borsa",
+    "#Investimenti",
+    "#Opzioni",
+    "#SP500",
+    "#Portafoglio",
+    "#FinanzaPersonale",
+    "#Hedging"
+   ]
+  },
+  "en": {
+   "topic": "Portfolio Risk Management in Crashes",
+   "caption": "Comprehensive guide to portfolio risk management: leveraging historical crash data and systematic option hedges. Follow for tomorrow's update.",
+   "sentiment": "bearish",
+   "ticker": "^GSPC",
+   "slides": [
+    {
+     "title": "Market Crash: How to manage risk",
+     "body": "Discover how to protect portfolio capital during severe market downturns using backtested options strategies."
+    },
+    {
+     "title": "Historical Crash Duration",
+     "body": "The 2000 MSCI World crash saw a 56.5% drop that required 13.8 years to recover. Passive buy-and-hold carries heavy drawdowns."
+    },
+    {
+     "title": "Asymmetry of Losses",
+     "body": "A 50% drawdown requires a 100% return to break even. Capping losses early is mathematically essential for long-term compounding."
+    },
+    {
+     "title": "18-Month Emergency Buffer",
+     "body": "Holding 18 months of expenses in cash prevents liquidating long-term equity holdings at market bottoms."
+    },
+    {
+     "title": "S&P 500 Airbag Strategy",
+     "body": "The Airbag options structure limits a 15% market fall to a 1.7% loss by capitalizing on volatility expansion."
+    },
+    {
+     "title": "Single Stock Protection",
+     "body": "Deploying Total Shield on Nvidia recovered 72% of equity drawdown during a 7% drop, insulating individual asset risk."
+    },
+    {
+     "title": "Protect Capital Systematically",
+     "body": "Systematic data-driven protection ensures long-term survival through volatile market regimes. Follow for tomorrow's update."
+    }
+   ],
+   "hashtags": [
+    "#RiskManagement",
+    "#StockMarket",
+    "#Investing",
+    "#OptionsTrading",
+    "#SP500",
+    "#Portfolio",
+    "#Hedging",
+    "#Finance"
+   ]
+  }
+ }
+}
