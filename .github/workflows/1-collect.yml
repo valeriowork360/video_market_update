@@ -41,6 +41,15 @@ jobs:
         if: always()
         run: |
           scripts/save.sh "dati: raccolta $(date -u +%F_%H%M)"
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: output-${{ github.run_id }}
+          path: |
+            output/**
+            !output/**/_tmp*/**
+          if-no-files-found: ignore
+          retention-days: 7
       - name: Avviso se la macchina non e' partita
         if: failure() && steps.run.conclusion != 'failure'
         env:
