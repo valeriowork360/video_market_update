@@ -38,12 +38,29 @@ def one_video(note, st, offline):
         shorts = writer.upgrade({"shorts": data.get(lang, [])})["shorts"]
         label = produce.date_label(day, lang, False)
         folder = OUT / "social" / vid / lang
-        todo = [i for i in range(1, len(shorts) + 1) if f"{lang}:s{i}" not in sent]
+        todo = [1] if shorts and CFG.get("shorts_mode", "hooks") == "hooks" and f"{lang}:h" not in sent else []
+        if CFG.get("shorts_mode", "hooks") != "hooks":
+            todo = [i for i in range(1, len(shorts) + 1) if f"{lang}:s{i}" not in sent]
         car = data.get("carousels", {}).get(lang)
         if todo or (car and f"{lang}:c" not in sent):  # the carousel video follows the carousel
             telegram.message(f"{produce.FLAG[lang]} <b>{telegram.esc(origin)}</b> · nuovo video\n"
-                             f"{telegram.esc(note['title'])}\n{len(shorts)} short"
+                             f"{telegram.esc(note['title'])}\n"
+                             + (f"1 short con {len(shorts)} punti" if CFG.get("shorts_mode", "hooks") == "hooks"
+                                else f"{len(shorts)} short")
                              + (" e 1 carosello" if car else ""), html_mode=True)
+        if CFG.get("shorts_mode", "hooks") == "hooks" and todo:
+            try:
+                s = hooks_short(shorts, car)
+                mp4, secs = video.short_video(s, 0, lang, folder, label, mood)
+                cap = f"{s['title']}\n\n{s['caption']}\n\n{' '.join(s['hashtags'])}"
+                mp4.with_suffix(".txt").write_text(cap, encoding="utf-8")
+                telegram.video(mp4, f"📱 Short · {origin} · {len(s['beats'])} punti\n\n{cap}", 1080, 1920, secs)
+                sent.append(f"{lang}:h")
+                publish.short(f"{day}_social", lang, f"{vid}-h", s, mp4)
+            except Exception as e:
+                problems.append(f"short {lang}: {str(e)[:90]}")
+                log(f"    short {lang} saltato: {str(e)[:160]}")
+            todo = []
         for i in todo:
             s = shorts[i - 1]
             try:
@@ -83,6 +100,21 @@ def one_video(note, st, offline):
         if online and (todo or car):
             log("  " + online.replace("\n", " | "))
     return problems
+
+
+def hooks_short(shorts, car):
+    """ONE short per video: the opening (cover + hook line) of every point, one after another."""
+    beats = [dict(sh["beats"][0], show=sh.get("hook") or sh["beats"][0]["show"]) for sh in shorts if sh.get("beats")]
+    first = shorts[0]
+    title = (car or {}).get("topic") or first["title"]
+    caption = (car or {}).get("caption") or first.get("caption", "")
+    tags = (car or {}).get("hashtags") or first.get("hashtags", [])
+    sent = [s.get("sentiment") for s in shorts]
+    mood = max(set(sent), key=sent.count) if sent else "neutral"
+    return {"title": title, "hook": beats[0]["show"], "beats": beats, "origin": first.get("origin"),
+            "source_video": first.get("source_video"), "narration": " ".join(b["say"] for b in beats),
+            "ticker": None, "sentiment": mood, "levels": [], "history": None, "sources": [],
+            "caption": caption, "hashtags": list(tags)[:10], "all_hooks": True}
 
 
 def main():

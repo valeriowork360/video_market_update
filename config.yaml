@@ -204,6 +204,8 @@ credits:
   on_screen: false
   never_say: [Pizzino, Casario, Financial Education, Lefebvre, MindTheChart, Mind The Chart, 0xTalks, 0x Talks]
 
+shorts_mode: hooks              # hooks = UN solo short per video con l'apertura di ogni punto; single = uno short per punto
+
 daily:
   minutes: 6                    # durata indicativa del video lungo
   shorts_per_video: 15          # tetto di sicurezza: uno short per ogni parte saliente del video, mai riempitivi

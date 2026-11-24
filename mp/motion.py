@@ -186,7 +186,7 @@ class Short:
         if i in self.cache:
             return self.cache[i]
         b = self.beats[i]
-        hook = i == 0
+        hook = i == 0 or bool(self.s.get("all_hooks"))
         fill = DARK if hook else TEXT
         max_w = W - 2 * M - (40 if hook else 0)
         f, lines = _fit_lines(clean(b["show"]).upper(), "x", max_w, 4 if hook else 3,
@@ -215,7 +215,8 @@ class Short:
     def frame(self, t):
         i = max(k for k, s in enumerate(self.starts) if s <= t + 1e-6)
         tb = t - self.starts[i]
-        b, col, hook, last = self.beats[i], self.col, i == 0, i == len(self.beats) - 1
+        b, col, last = self.beats[i], self.col, i == len(self.beats) - 1
+        hook = i == 0 or bool(self.s.get("all_hooks"))
         if hook:
             im = Image.new("RGB", (W, H), col)
             d = ImageDraw.Draw(im)
