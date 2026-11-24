@@ -548,11 +548,12 @@
    "en:s10",
    "en:c",
    "en:cv",
-   "it:h"
+   "it:h",
+   "en:h"
   ],
-  "tries": 0,
+  "tries": 1,
   "title": "Once in 20 year Short Squeeze!",
-  "done": false
+  "done": true
  },
  "UjQxU676XEo": {
   "sent": [
@@ -574,11 +575,12 @@
    "en:s7",
    "en:c",
    "en:cv",
-   "it:h"
+   "it:h",
+   "en:h"
   ],
-  "tries": 0,
+  "tries": 1,
   "title": "Shocking Market Collapse, Bitcoin Crash and Outlook for 2027 w @benjaminjcowen i",
-  "done": false
+  "done": true
  },
  "l0Qegryx3H8": {
   "sent": [
@@ -598,10 +600,11 @@
    "en:s6",
    "en:c",
    "en:cv",
-   "it:h"
+   "it:h",
+   "en:h"
   ],
-  "tries": 0,
+  "tries": 1,
   "title": "The Market Is Finally Showing Signs of Life... Watch What Happens Next",
-  "done": false
+  "done": true
  }
 }
