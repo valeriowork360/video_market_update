@@ -1,0 +1,885 @@
+{
+ "it": [
+  {
+   "levels": [
+    5048.0
+   ],
+   "history": {
+    "symbol": "^IXIC",
+    "start": "2000-03",
+    "end": "2015-04"
+   },
+   "title": "Nasdaq: il confronto reale con il picco del 2000",
+   "hook": "Nasdaq PICCO 5.048",
+   "beats": [
+    {
+     "say": "Nasdaq nel marzo 2000 toccava 5.048 punti prima del tracollo.",
+     "show": "Nasdaq PICCO 5.048",
+     "figure": "5.048"
+    },
+    {
+     "say": "All'epoca le società tecnologiche quotavano a 190 volte gli utili.",
+     "show": "190 VOLTE UTILI",
+     "figure": "190"
+    },
+    {
+     "say": "L'indice ha impiegato 15 anni e un mese per rivedere i massimi.",
+     "show": "15 ANNI RECUPERO",
+     "figure": "15 anni"
+    },
+    {
+     "say": "Nel 2015 il recupero a 5.092 punti rifletteva multipli di 25.",
+     "show": "MULTIPLI A 25",
+     "figure": "5.092"
+    },
+    {
+     "say": "Oggi i giganti tecnologici generano flussi di cassa reali e profitti storici.",
+     "show": "UTILI REALI OGGI",
+     "figure": ""
+    },
+    {
+     "say": "Il rischio attuale riguarda le aspettative sui prezzi, non l'esistenza del business.",
+     "show": "PREZZO CONTRO PROMESSE",
+     "figure": ""
+    },
+    {
+     "say": "La prudenza sui multipli resta fondamentale: segui per l'aggiornamento di domani.",
+     "show": "SEGUI PER AGGIORNAMENTO",
+     "figure": ""
+    }
+   ],
+   "origin": "Marco Casario",
+   "source_video": "I Mercati crollano: non è la BOLLA che deve preoccuparti",
+   "narration": "Nasdaq nel marzo 2000 toccava 5.048 punti prima del tracollo. All'epoca le società tecnologiche quotavano a 190 volte gli utili. L'indice ha impiegato 15 anni e un mese per rivedere i massimi. Nel 2015 il recupero a 5.092 punti rifletteva multipli di 25. Oggi i giganti tecnologici generano flussi di cassa reali e profitti storici. Il rischio attuale riguarda le aspettative sui prezzi, non l'esistenza del business. La prudenza sui multipli resta fondamentale: segui per l'aggiornamento di domani.",
+   "ticker": "^IXIC",
+   "sentiment": "neutral",
+   "sources": [],
+   "caption": "Il Nasdaq nel 2000 scambiava a multipli estremi senza utili reali. Oggi i fondamentali sono differenti ma richiedono disciplina.",
+   "hashtags": [
+    "#nasdaq",
+    "#bolla2000",
+    "#tecnologia",
+    "#mercati",
+    "#investimenti"
+   ]
+  },
+  {
+   "levels": [],
+   "history": {
+    "symbol": "^GSPC",
+    "start": "2004-01",
+    "end": "2024-01"
+   },
+   "title": "S&P 500: il costo di uscire durante i crolli",
+   "hook": "RENDIMENTO DIMEZZATO",
+   "beats": [
+    {
+     "say": "Perdere i 10 giorni migliori dimezza il rendimento di vent'anni.",
+     "show": "RENDIMENTO DIMEZZATO",
+     "figure": "-50%"
+    },
+    {
+     "say": "Sull'S&P 500 vendere durante il panico blocca le perdite ed esclude la ripresa.",
+     "show": "VENDERE NEL PANICO",
+     "figure": ""
+    },
+    {
+     "say": "Sette dei 10 giorni migliori si verificano entro due settimane dai peggiori.",
+     "show": "7 SU 10",
+     "figure": "7 su 10"
+    },
+    {
+     "say": "I rimbalzi più violenti avvengono sempre nei momenti di massima paura.",
+     "show": "RIMBALZI VIOLENTI",
+     "figure": ""
+    },
+    {
+     "say": "Mantenere la strategia protegge il capitale nel lungo periodo.",
+     "show": "DISCIPLINA OPERATIVA",
+     "figure": ""
+    },
+    {
+     "say": "Il tempo sul mercato batte il tentativo di prevedere i minimi: segui per l'aggiornamento di domani.",
+     "show": "SEGUI PER AGGIORNAMENTO",
+     "figure": ""
+    }
+   ],
+   "origin": "Marco Casario",
+   "source_video": "I Mercati crollano: non è la BOLLA che deve preoccuparti",
+   "narration": "Perdere i 10 giorni migliori dimezza il rendimento di vent'anni. Sull'S&P 500 vendere durante il panico blocca le perdite ed esclude la ripresa. Sette dei 10 giorni migliori si verificano entro due settimane dai peggiori. I rimbalzi più violenti avvengono sempre nei momenti di massima paura. Mantenere la strategia protegge il capitale nel lungo periodo. Il tempo sul mercato batte il tentativo di prevedere i minimi: segui per l'aggiornamento di domani.",
+   "ticker": "^GSPC",
+   "sentiment": "bullish",
+   "sources": [],
+   "caption": "I dieci giorni migliori in borsa si concentrano a ridosso dei crolli più violenti. Uscire dal mercato compromette il rendimento.",
+   "hashtags": [
+    "#sp500",
+    "#investimenti",
+    "#strategia",
+    "#finanza",
+    "#lungotermine"
+   ]
+  },
+  {
+   "levels": [
+    6910.0
+   ],
+   "history": null,
+   "title": "Opzioni put a lungo termine come assicurazione",
+   "hook": "PROTEZIONE CON OPZIONI PUT",
+   "beats": [
+    {
+     "say": "Le opzioni put sul Nasdaq fungono da polizza assicurativa per il portafoglio.",
+     "show": "PROTEZIONE CON OPZIONI PUT",
+     "figure": ""
+    },
+    {
+     "say": "La copertura va acquistata nei momenti di calma quando la volatilità costa poco.",
+     "show": "COPERTURA A BASSO COSTO",
+     "figure": ""
+    },
+    {
+     "say": "Se il mercato scende sotto il livello 6.910 la protezione genera liquidità immediata.",
+     "show": "LIVELLO SOTTO 6.910",
+     "figure": "6.910"
+    },
+    {
+     "say": "Questo meccanismo permette di compensare i ribassi senza vendere le azioni in perdita.",
+     "show": "COMPENSARE I RIBASSI",
+     "figure": ""
+    },
+    {
+     "say": "Un'assicurazione strutturata in anticipo protegge dalle vendite emotive.",
+     "show": "ZERO VENDITE EMOTIVE",
+     "figure": ""
+    },
+    {
+     "say": "La gestione del rischio parte dalla preparazione: segui per l'aggiornamento di domani.",
+     "show": "SEGUI PER AGGIORNAMENTO",
+     "figure": ""
+    }
+   ],
+   "origin": "Marco Casario",
+   "source_video": "I Mercati crollano: non è la BOLLA che deve preoccuparti",
+   "narration": "Le opzioni put sul Nasdaq fungono da polizza assicurativa per il portafoglio. La copertura va acquistata nei momenti di calma quando la volatilità costa poco. Se il mercato scende sotto il livello 6.910 la protezione genera liquidità immediata. Questo meccanismo permette di compensare i ribassi senza vendere le azioni in perdita. Un'assicurazione strutturata in anticipo protegge dalle vendite emotive. La gestione del rischio parte dalla preparazione: segui per l'aggiornamento di domani.",
+   "ticker": "QQQ",
+   "sentiment": "neutral",
+   "sources": [],
+   "caption": "L'acquisto di opzioni put nei momenti di bassa volatilità permette di coprire i portafogli tecnologici senza liquidare le posizioni.",
+   "hashtags": [
+    "#opzioni",
+    "#copertura",
+    "#nasdaq",
+    "#investimenti",
+    "#gestionedelrischio"
+   ]
+  },
+  {
+   "levels": [],
+   "history": null,
+   "title": "Crollo tecnologico: Nasdaq giù del 19,8%",
+   "hook": "Nasdaq -19,8%",
+   "beats": [
+    {
+     "say": "Nasdaq 100 perde il 19,8% dal massimo storico.",
+     "show": "Nasdaq -19,8%",
+     "figure": "-19,8%"
+    },
+    {
+     "say": "L'S&P 500 ha registrato un calo dell'8,6% in appena cinque sedute.",
+     "show": "S&P 500 -8,6%",
+     "figure": "-8,6%"
+    },
+    {
+     "say": "Il picco dell'indice di volatilità VIX a 40 punti segnala panico aperto.",
+     "show": "VIX A 40",
+     "figure": "40"
+    },
+    {
+     "say": "Pochi giorni di ribasso possono cancellare mesi di guadagni sui semiconduttori.",
+     "show": "MESI DI GUADAGNI PERSI",
+     "figure": ""
+    },
+    {
+     "say": "La gestione del rischio protegge il capitale: segui per l'aggiornamento di domani.",
+     "show": "SEGUI PER AGGIORNAMENTO",
+     "figure": ""
+    }
+   ],
+   "origin": "Marco Casario",
+   "source_video": "I Mercati crollano: non è la BOLLA che deve preoccuparti",
+   "narration": "Nasdaq 100 perde il 19,8% dal massimo storico. L'S&P 500 ha registrato un calo dell'8,6% in appena cinque sedute. Il picco dell'indice di volatilità VIX a 40 punti segnala panico aperto. Pochi giorni di ribasso possono cancellare mesi di guadagni sui semiconduttori. La gestione del rischio protegge il capitale: segui per l'aggiornamento di domani.",
+   "ticker": "NVDA",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "I principali indici tecnologici affrontano una correzione rapida con l'indice VIX a 40 punti. Disciplina fondamentale.",
+   "hashtags": [
+    "#nasdaq",
+    "#sp500",
+    "#crollo",
+    "#vix",
+    "#mercati"
+   ]
+  },
+  {
+   "levels": [],
+   "history": null,
+   "title": "Banche centrali e la reazione dopo cali del 10%",
+   "hook": "FED TAGLIA I TASSI",
+   "beats": [
+    {
+     "say": "Fed taglia i tassi dopo ogni calo del 10% dell'azionario.",
+     "show": "FED TAGLIA I TASSI",
+     "figure": "-10%"
+    },
+    {
+     "say": "I dati dal 1994 mostrano un taglio medio di 0,32 punti al vertice successivo.",
+     "show": "TAGLIO MEDIO 0,32",
+     "figure": "0,32"
+    },
+    {
+     "say": "Entro un anno dal ribasso la riduzione complessiva supera 1,25 punti percentuali.",
+     "show": "TAGLIO DI 1,25 PUNTI",
+     "figure": "1,25"
+    },
+    {
+     "say": "L'inflazione persistente limita tuttavia i margini di manovra della banca centrale.",
+     "show": "INFLAZIONE ANCORA ALTA",
+     "figure": ""
+    },
+    {
+     "say": "Prepararsi ai cali senza contare sui salvataggi: segui per l'aggiornamento di domani.",
+     "show": "SEGUI PER AGGIORNAMENTO",
+     "figure": ""
+    }
+   ],
+   "origin": "Marco Casario",
+   "source_video": "I Mercati crollano: non è la BOLLA che deve preoccuparti",
+   "narration": "Fed taglia i tassi dopo ogni calo del 10% dell'azionario. I dati dal 1994 mostrano un taglio medio di 0,32 punti al vertice successivo. Entro un anno dal ribasso la riduzione complessiva supera 1,25 punti percentuali. L'inflazione persistente limita tuttavia i margini di manovra della banca centrale. Prepararsi ai cali senza contare sui salvataggi: segui per l'aggiornamento di domani.",
+   "ticker": "^GSPC",
+   "sentiment": "neutral",
+   "sources": [],
+   "caption": "Dal 1994 la Federal Reserve interviene sui tassi dopo correzioni del 10%. Oggi l'inflazione rende il percorso più complesso.",
+   "hashtags": [
+    "#fed",
+    "#tassi",
+    "#banchecentrali",
+    "#inflazione",
+    "#mercati"
+   ]
+  },
+  {
+   "levels": [],
+   "history": null,
+   "title": "Diversificazione globale contro il crollo di Nvidia",
+   "hook": "Nvidia PESA IL 5,25%",
+   "beats": [
+    {
+     "say": "Nvidia pesa il 5,25% in un portafoglio globale MSCI World.",
+     "show": "Nvidia PESA IL 5,25%",
+     "figure": "5,25%"
+    },
+    {
+     "say": "Su un investimento complessivo di 10.000 euro l'esposizione diretta è 525 euro.",
+     "show": "525 EURO SU 10.000",
+     "figure": "10.000 €"
+    },
+    {
+     "say": "Anche un calo marcato del titolo produce un impatto complessivo limitato a 250 euro.",
+     "show": "IMPATTO DI 250 EURO",
+     "figure": "250 €"
+    },
+    {
+     "say": "La diversificazione geografica e settoriale assorbe le perdite sui singoli titoli tecnologici.",
+     "show": "DIVERSIFICAZIONE GLOBALE",
+     "figure": ""
+    },
+    {
+     "say": "Calcolare i pesi reali evita decisioni dettate dalla paura: segui per l'aggiornamento di domani.",
+     "show": "SEGUI PER AGGIORNAMENTO",
+     "figure": ""
+    }
+   ],
+   "origin": "Marco Casario",
+   "source_video": "I Mercati crollano: non è la BOLLA che deve preoccuparti",
+   "narration": "Nvidia pesa il 5,25% in un portafoglio globale MSCI World. Su un investimento complessivo di 10.000 euro l'esposizione diretta è 525 euro. Anche un calo marcato del titolo produce un impatto complessivo limitato a 250 euro. La diversificazione geografica e settoriale assorbe le perdite sui singoli titoli tecnologici. Calcolare i pesi reali evita decisioni dettate dalla paura: segui per l'aggiornamento di domani.",
+   "ticker": "NVDA",
+   "sentiment": "neutral",
+   "sources": [],
+   "caption": "Un portafoglio globale limita le perdite dei singoli titoli tecnologici. I dati reali sull'impatto di Nvidia su 10.000 euro.",
+   "hashtags": [
+    "#nvidia",
+    "#etf",
+    "#msciworld",
+    "#portafoglio",
+    "#investimenti"
+   ]
+  },
+  {
+   "levels": [
+    7135.0
+   ],
+   "history": null,
+   "title": "Copertura con opzioni put: 40% di perdite compensate",
+   "hook": "40% PERDITE COMPENSATE",
+   "beats": [
+    {
+     "say": "Opzioni put sull'S&P 500 compensano il 40% delle perdite azionarie.",
+     "show": "40% PERDITE COMPENSATE",
+     "figure": "40%"
+    },
+    {
+     "say": "Nei recenti ribassi tecnologici le posizioni su Microsoft e Nvidia segnavano 15.000 dollari di perdite.",
+     "show": "PERDITA 15.000 DOLLARI",
+     "figure": "15.000 $"
+    },
+    {
+     "say": "La chiusura delle coperture con strike 7.135 ha generato 6.000 dollari di profitto.",
+     "show": "PROFITTO 6.000 DOLLARI",
+     "figure": "6.000 $"
+    },
+    {
+     "say": "Gli strumenti derivati permettono di assorbire i crolli mantenendo intatto il portafoglio azionario.",
+     "show": "CAPITALE PROTETTO",
+     "figure": ""
+    },
+    {
+     "say": "La protezione tecnica trasforma la volatilità in liquidità: segui per l'aggiornamento di domani.",
+     "show": "SEGUI PER AGGIORNAMENTO",
+     "figure": ""
+    }
+   ],
+   "origin": "Marco Casario",
+   "source_video": "I Mercati crollano: non è la BOLLA che deve preoccuparti",
+   "narration": "Opzioni put sull'S&P 500 compensano il 40% delle perdite azionarie. Nei recenti ribassi tecnologici le posizioni su Microsoft e Nvidia segnavano 15.000 dollari di perdite. La chiusura delle coperture con strike 7.135 ha generato 6.000 dollari di profitto. Gli strumenti derivati permettono di assorbire i crolli mantenendo intatto il portafoglio azionario. La protezione tecnica trasforma la volatilità in liquidità: segui per l'aggiornamento di domani.",
+   "ticker": "ES=F",
+   "sentiment": "bullish",
+   "sources": [],
+   "caption": "L'uso disciplinato di put options ha permesso di recuperare il 40% delle perdite sui tecnologici durante la recente correzione.",
+   "hashtags": [
+    "#copertura",
+    "#opzioni",
+    "#sp500",
+    "#trading",
+    "#investimenti"
+   ]
+  }
+ ],
+ "en": [
+  {
+   "levels": [
+    72.0
+   ],
+   "history": null,
+   "title": "Four academic warning signs for semiconductor stocks",
+   "hook": "SEMICONDUCTOR BUBBLE WARNING",
+   "beats": [
+    {
+     "say": "Four warning lights out of four are flashing for semiconductors.",
+     "show": "SEMICONDUCTOR BUBBLE WARNING",
+     "figure": "4 of 4"
+    },
+    {
+     "say": "Harvard research outlines four clear criteria before major market corrections.",
+     "show": "HARVARD BUBBLE TEST",
+     "figure": ""
+    },
+    {
+     "say": "The VIX spiked to 40 points, confirming extreme volatility.",
+     "show": "VIX HITS 40",
+     "figure": "40"
+    },
+    {
+     "say": "The semiconductor ETF surged nearly threefold before dropping over 40%.",
+     "show": "DROP OVER 40%",
+     "figure": "-40%"
+    },
+    {
+     "say": "Heavy debt funding for artificial intelligence infrastructure adds structural fragility.",
+     "show": "RISING AI DEBT",
+     "figure": ""
+    },
+    {
+     "say": "A break below the 72 level triggers extended downside risks.",
+     "show": "KEY LEVEL 72",
+     "figure": "72"
+    },
+    {
+     "say": "Risk indicators are flashing red: follow for tomorrow's update.",
+     "show": "FOLLOW FOR TOMORROW",
+     "figure": ""
+    }
+   ],
+   "origin": "Marco Casario",
+   "source_video": "I Mercati crollano: non è la BOLLA che deve preoccuparti",
+   "narration": "Four warning lights out of four are flashing for semiconductors. Harvard research outlines four clear criteria before major market corrections. The VIX spiked to 40 points, confirming extreme volatility. The semiconductor ETF surged nearly threefold before dropping over 40%. Heavy debt funding for artificial intelligence infrastructure adds structural fragility. A break below the 72 level triggers extended downside risks. Risk indicators are flashing red: follow for tomorrow's update.",
+   "ticker": "SOXX",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "All four academic indicators for sector bubbles have triggered in semiconductor equities. Elevated volatility continues.",
+   "hashtags": [
+    "#stocks",
+    "#semiconductors",
+    "#nasdaq",
+    "#vix",
+    "#investing"
+   ]
+  },
+  {
+   "levels": [
+    5048.0
+   ],
+   "history": {
+    "symbol": "^IXIC",
+    "start": "2000-03",
+    "end": "2015-04"
+   },
+   "title": "Nasdaq today versus the 2000 dot com peak",
+   "hook": "Nasdaq 5,048 PEAK",
+   "beats": [
+    {
+     "say": "Nasdaq peaked at 5,048 in March 2000 before crashing.",
+     "show": "Nasdaq 5,048 PEAK",
+     "figure": "5,048"
+    },
+    {
+     "say": "Internet stocks back then traded at roughly 190 times earnings.",
+     "show": "190 TIMES EARNINGS",
+     "figure": "190"
+    },
+    {
+     "say": "It took 15 years and one month to recover those record levels.",
+     "show": "15 YEAR RECOVERY",
+     "figure": "15 years"
+    },
+    {
+     "say": "When it reached 5,092 in 2015, valuations had compressed to 25.",
+     "show": "VALUATIONS COMPRESSED 25",
+     "figure": "5,092"
+    },
+    {
+     "say": "Today leading tech companies produce massive cash flows and verified earnings.",
+     "show": "MASSIVE CASH FLOWS",
+     "figure": ""
+    },
+    {
+     "say": "The issue today is the price paid for growth, not phantom companies.",
+     "show": "PRICE VS PROMISES",
+     "figure": ""
+    },
+    {
+     "say": "Valuations still determine long-term risk: follow for tomorrow's update.",
+     "show": "FOLLOW FOR TOMORROW",
+     "figure": ""
+    }
+   ],
+   "origin": "Marco Casario",
+   "source_video": "I Mercati crollano: non è la BOLLA che deve preoccuparti",
+   "narration": "Nasdaq peaked at 5,048 in March 2000 before crashing. Internet stocks back then traded at roughly 190 times earnings. It took 15 years and one month to recover those record levels. When it reached 5,092 in 2015, valuations had compressed to 25. Today leading tech companies produce massive cash flows and verified earnings. The issue today is the price paid for growth, not phantom companies. Valuations still determine long-term risk: follow for tomorrow's update.",
+   "ticker": "^IXIC",
+   "sentiment": "neutral",
+   "sources": [],
+   "caption": "In 2000 the Nasdaq traded at 190 times earnings before taking 15 years to recover. Today's tech leaders hold stronger fundamentals.",
+   "hashtags": [
+    "#nasdaq",
+    "#dotcom",
+    "#stockmarket",
+    "#techstocks",
+    "#investing"
+   ]
+  },
+  {
+   "levels": [],
+   "history": {
+    "symbol": "^GSPC",
+    "start": "2004-01",
+    "end": "2024-01"
+   },
+   "title": "S&P 500: missing the ten best days ruins returns",
+   "hook": "RETURNS CUT IN HALF",
+   "beats": [
+    {
+     "say": "Missing the 10 best days cuts 20-year portfolio returns in half.",
+     "show": "RETURNS CUT IN HALF",
+     "figure": "-50%"
+    },
+    {
+     "say": "Panic selling during market drops locks in major equity losses.",
+     "show": "PANIC SELLING RISK",
+     "figure": ""
+    },
+    {
+     "say": "Seven of those 10 best days happen within two weeks of the worst.",
+     "show": "7 OF 10 DAYS",
+     "figure": "7 of 10"
+    },
+    {
+     "say": "The sharpest rallies regularly occur amid peak market terror.",
+     "show": "SHARPEST RALLIES HAPPEN",
+     "figure": ""
+    },
+    {
+     "say": "Disciplined execution outperforms emotional market timing every single time.",
+     "show": "DISCIPLINE OVER EMOTION",
+     "figure": ""
+    },
+    {
+     "say": "Staying invested preserves long-term compounding: follow for tomorrow's update.",
+     "show": "FOLLOW FOR TOMORROW",
+     "figure": ""
+    }
+   ],
+   "origin": "Marco Casario",
+   "source_video": "I Mercati crollano: non è la BOLLA che deve preoccuparti",
+   "narration": "Missing the 10 best days cuts 20-year portfolio returns in half. Panic selling during market drops locks in major equity losses. Seven of those 10 best days happen within two weeks of the worst. The sharpest rallies regularly occur amid peak market terror. Disciplined execution outperforms emotional market timing every single time. Staying invested preserves long-term compounding: follow for tomorrow's update.",
+   "ticker": "^GSPC",
+   "sentiment": "bullish",
+   "sources": [],
+   "caption": "Seven of the ten best stock market days occur within two weeks of the worst drawdowns. Emotional exits destroy performance.",
+   "hashtags": [
+    "#sp500",
+    "#investing",
+    "#stockmarket",
+    "#longterminvesting",
+    "#finance"
+   ]
+  },
+  {
+   "levels": [
+    6910.0
+   ],
+   "history": null,
+   "title": "Using long term put options as market insurance",
+   "hook": "PUT OPTION INSURANCE",
+   "beats": [
+    {
+     "say": "Long-term put options on the Nasdaq act like portfolio insurance.",
+     "show": "PUT OPTION INSURANCE",
+     "figure": ""
+    },
+    {
+     "say": "Hedging must be established during calm markets when option premiums are cheap.",
+     "show": "BUY PROTECTION CHEAP",
+     "figure": ""
+    },
+    {
+     "say": "If the market breaches 6,910 on the downside, the put activates.",
+     "show": "BREAK BELOW 6,910",
+     "figure": "6,910"
+    },
+    {
+     "say": "The resulting payout offsets portfolio equity drops without liquidating core shares.",
+     "show": "OFFSET EQUITY LOSSES",
+     "figure": ""
+    },
+    {
+     "say": "Predefined downside protection eliminates emotional decision making during market panics.",
+     "show": "NO PANIC SELLING",
+     "figure": ""
+    },
+    {
+     "say": "Risk management begins well before drawdowns: follow for tomorrow's update.",
+     "show": "FOLLOW FOR TOMORROW",
+     "figure": ""
+    }
+   ],
+   "origin": "Marco Casario",
+   "source_video": "I Mercati crollano: non è la BOLLA che deve preoccuparti",
+   "narration": "Long-term put options on the Nasdaq act like portfolio insurance. Hedging must be established during calm markets when option premiums are cheap. If the market breaches 6,910 on the downside, the put activates. The resulting payout offsets portfolio equity drops without liquidating core shares. Predefined downside protection eliminates emotional decision making during market panics. Risk management begins well before drawdowns: follow for tomorrow's update.",
+   "ticker": "QQQ",
+   "sentiment": "neutral",
+   "sources": [],
+   "caption": "Buying put options during calm market phases provides portfolio insurance against sudden tech drawdowns. Plan before crashes.",
+   "hashtags": [
+    "#options",
+    "#hedging",
+    "#nasdaq",
+    "#riskmanagement",
+    "#investing"
+   ]
+  },
+  {
+   "levels": [],
+   "history": null,
+   "title": "Tech selloff: Nasdaq falls 19.8% from highs",
+   "hook": "Nasdaq PLUNGES -19.8%",
+   "beats": [
+    {
+     "say": "Nasdaq 100 dropped 19.8% from its record all-time high.",
+     "show": "Nasdaq PLUNGES -19.8%",
+     "figure": "-19.8%"
+    },
+    {
+     "say": "The S&P 500 shed 8.6% across just five trading sessions.",
+     "show": "S&P 500 -8.6%",
+     "figure": "-8.6%"
+    },
+    {
+     "say": "The VIX volatility index touched 40 points, confirming extreme fear.",
+     "show": "VIX TOUCHES 40",
+     "figure": "40"
+    },
+    {
+     "say": "Rapid tech corrections can erase months of accumulated returns in days.",
+     "show": "MONTHS OF GAINS GONE",
+     "figure": ""
+    },
+    {
+     "say": "Strict risk controls protect capital: follow for tomorrow's update.",
+     "show": "FOLLOW FOR TOMORROW",
+     "figure": ""
+    }
+   ],
+   "origin": "Marco Casario",
+   "source_video": "I Mercati crollano: non è la BOLLA che deve preoccuparti",
+   "narration": "Nasdaq 100 dropped 19.8% from its record all-time high. The S&P 500 shed 8.6% across just five trading sessions. The VIX volatility index touched 40 points, confirming extreme fear. Rapid tech corrections can erase months of accumulated returns in days. Strict risk controls protect capital: follow for tomorrow's update.",
+   "ticker": "NVDA",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "The Nasdaq 100 nears bear market territory with a 19.8% drop while the VIX reaches 40 points. Risk management matters.",
+   "hashtags": [
+    "#nasdaq",
+    "#sp500",
+    "#marketcrash",
+    "#vix",
+    "#investing"
+   ]
+  },
+  {
+   "levels": [],
+   "history": null,
+   "title": "Fed rate cut pattern after ten percent drops",
+   "hook": "FED RATE CUTS",
+   "beats": [
+    {
+     "say": "Federal Reserve cuts follow 10% stock market drawdowns historically.",
+     "show": "FED RATE CUTS",
+     "figure": "-10%"
+    },
+    {
+     "say": "Since 1994, the Fed slashed rates by 0.32 points at the next meeting.",
+     "show": "CUTS 0.32 POINTS",
+     "figure": "0.32"
+    },
+    {
+     "say": "Over the subsequent 12 months, total reductions exceeded 1.25 points.",
+     "show": "TOTAL CUT 1.25",
+     "figure": "1.25"
+    },
+    {
+     "say": "Persistent inflation limits how aggressively central banks can intervene today.",
+     "show": "STICKY INFLATION LIMITS",
+     "figure": ""
+    },
+    {
+     "say": "Portfolios must manage downside independently: follow for tomorrow's update.",
+     "show": "FOLLOW FOR TOMORROW",
+     "figure": ""
+    }
+   ],
+   "origin": "Marco Casario",
+   "source_video": "I Mercati crollano: non è la BOLLA che deve preoccuparti",
+   "narration": "Federal Reserve cuts follow 10% stock market drawdowns historically. Since 1994, the Fed slashed rates by 0.32 points at the next meeting. Over the subsequent 12 months, total reductions exceeded 1.25 points. Persistent inflation limits how aggressively central banks can intervene today. Portfolios must manage downside independently: follow for tomorrow's update.",
+   "ticker": "^GSPC",
+   "sentiment": "neutral",
+   "sources": [],
+   "caption": "Historical data since 1994 shows the Fed regularly cuts rates following a 10% drawdown, but current inflation restricts monetary easing.",
+   "hashtags": [
+    "#federalreserve",
+    "#interestrates",
+    "#stocks",
+    "#inflation",
+    "#economy"
+   ]
+  },
+  {
+   "levels": [],
+   "history": null,
+   "title": "Global diversification buffers Nvidia stock drops",
+   "hook": "Nvidia 5.25% WEIGHT",
+   "beats": [
+    {
+     "say": "Nvidia accounts for 5.25% of a global MSCI World ETF.",
+     "show": "Nvidia 5.25% WEIGHT",
+     "figure": "5.25%"
+    },
+    {
+     "say": "In a 10,000 euro allocation, direct exposure equals 525 euros.",
+     "show": "525 ON 10,000 EUROS",
+     "figure": "€10,000"
+    },
+    {
+     "say": "A sharp tech pullback inflicts an overall impact of roughly 250 euros.",
+     "show": "NET IMPACT 250 EUROS",
+     "figure": "€250"
+    },
+    {
+     "say": "Geographic and sector diversification insulates whole portfolios against single stock shocks.",
+     "show": "INSULATING THE PORTFOLIO",
+     "figure": ""
+    },
+    {
+     "say": "Knowing real asset weights stops panic: follow for tomorrow's update.",
+     "show": "FOLLOW FOR TOMORROW",
+     "figure": ""
+    }
+   ],
+   "origin": "Marco Casario",
+   "source_video": "I Mercati crollano: non è la BOLLA che deve preoccuparti",
+   "narration": "Nvidia accounts for 5.25% of a global MSCI World ETF. In a 10,000 euro allocation, direct exposure equals 525 euros. A sharp tech pullback inflicts an overall impact of roughly 250 euros. Geographic and sector diversification insulates whole portfolios against single stock shocks. Knowing real asset weights stops panic: follow for tomorrow's update.",
+   "ticker": "NVDA",
+   "sentiment": "neutral",
+   "sources": [],
+   "caption": "With Nvidia weighting 5.25% in global ETFs, broad exposure cushions large single-stock selloffs. Know your asset weights.",
+   "hashtags": [
+    "#nvidia",
+    "#etf",
+    "#portfoliomanagement",
+    "#investing",
+    "#stocks"
+   ]
+  },
+  {
+   "levels": [
+    7135.0
+   ],
+   "history": null,
+   "title": "Put options offset 40% of tech stock losses",
+   "hook": "40% LOSSES OFFSET",
+   "beats": [
+    {
+     "say": "Put options on the S&P 500 offset 40% of tech drawdowns.",
+     "show": "40% LOSSES OFFSET",
+     "figure": "40%"
+    },
+    {
+     "say": "Drops in stocks like Microsoft and Nvidia produced 15,000 dollars in equity losses.",
+     "show": "15,000 DOLLAR LOSS",
+     "figure": "$15,000"
+    },
+    {
+     "say": "Closing long put options around the 7,135 strike yielded over 6,000 dollars in gain.",
+     "show": "6,000 DOLLAR PROFIT",
+     "figure": "$6,000"
+    },
+    {
+     "say": "Downside hedges convert market volatility directly into portfolio liquidity.",
+     "show": "VOLATILITY INTO CASH",
+     "figure": ""
+    },
+    {
+     "say": "Structural protection buffers against sudden drops: follow for tomorrow's update.",
+     "show": "FOLLOW FOR TOMORROW",
+     "figure": ""
+    }
+   ],
+   "origin": "Marco Casario",
+   "source_video": "I Mercati crollano: non è la BOLLA che deve preoccuparti",
+   "narration": "Put options on the S&P 500 offset 40% of tech drawdowns. Drops in stocks like Microsoft and Nvidia produced 15,000 dollars in equity losses. Closing long put options around the 7,135 strike yielded over 6,000 dollars in gain. Downside hedges convert market volatility directly into portfolio liquidity. Structural protection buffers against sudden drops: follow for tomorrow's update.",
+   "ticker": "ES=F",
+   "sentiment": "bullish",
+   "sources": [],
+   "caption": "Disciplined put option hedges recouped 40% of tech equity losses, yielding 6,000 dollars against 15,000 dollars in drops.",
+   "hashtags": [
+    "#hedging",
+    "#sp500",
+    "#options",
+    "#trading",
+    "#stocks"
+   ]
+  }
+ ],
+ "carousels": {
+  "it": {
+   "topic": "Gestire i crolli di borsa",
+   "caption": "Il Nasdaq corregge di quasi il 20% mentre i dati storici mostrano la via per gestire la volatilità. Segui per l'aggiornamento di domani.",
+   "sentiment": "neutral",
+   "ticker": "^IXIC",
+   "slides": [
+    {
+     "title": "Nasdaq giù del 20%: come difendersi",
+     "body": "Ecco cosa rivelano il confronto con il 2000, i test accademici e le coperture reali."
+    },
+    {
+     "title": "La correzione attuale",
+     "body": "L'indice Nasdaq 100 è sceso del 19,8% dai massimi, mentre la volatilità VIX è salita a quota 40."
+    },
+    {
+     "title": "Il confronto col 2000",
+     "body": "A marzo 2000 il Nasdaq a 5.048 punti trattava a 190 volte gli utili. Oggi le aziende generano profitti reali."
+    },
+    {
+     "title": "Segnali di allarme attivi",
+     "body": "Quattro indicatori accademici su quattro indicano rischio correzione sui semiconduttori, con l'indice ETF sotto la soglia 72."
+    },
+    {
+     "title": "Non vendere nel panico",
+     "body": "Perdere i 10 giorni migliori dimezza il rendimento ventennale: sette di essi avvengono a ridosso dei crolli peggiori."
+    },
+    {
+     "title": "Coperture con opzioni",
+     "body": "Le put comprate a basso costo hanno compensato il 40% delle perdite azionarie durante l'ultimo ribasso."
+    },
+    {
+     "title": "La regola fondamentale",
+     "body": "La disciplina e la diversificazione vincono sull'emotività durante ogni crollo. Segui per l'aggiornamento di domani."
+    }
+   ],
+   "hashtags": [
+    "#nasdaq",
+    "#investimenti",
+    "#sp500",
+    "#portafoglio",
+    "#gestionedelrischio",
+    "#finanza",
+    "#opzioni",
+    "#trading"
+   ]
+  },
+  "en": {
+   "topic": "Managing market crashes and tech corrections",
+   "caption": "The Nasdaq corrects nearly 20% while historical data reveals how to survive drawdowns without panic selling. Follow for tomorrow's update.",
+   "sentiment": "neutral",
+   "ticker": "^IXIC",
+   "slides": [
+    {
+     "title": "Nasdaq drops 20%: how to protect capital",
+     "body": "Historical parallels, Harvard bubble indicators, and practical downside protection strategies revealed."
+    },
+    {
+     "title": "The sharp tech selloff",
+     "body": "The Nasdaq 100 dropped 19.8% from record highs, driving the VIX volatility index up to 40."
+    },
+    {
+     "title": "The 2000 bubble difference",
+     "body": "In 2000 the Nasdaq peaked at 5,048 at 190 times earnings. Today's tech leaders generate record revenues."
+    },
+    {
+     "title": "Four bubble indicators active",
+     "body": "Academic criteria signal elevated risks across semiconductor stocks, with the ETF testing the critical 72 level."
+    },
+    {
+     "title": "Missing the best days",
+     "body": "Missing the 10 best days cuts 20-year returns by half. Seven occurred within two weeks of major crashes."
+    },
+    {
+     "title": "Downside put protection",
+     "body": "Purchasing long put options during quiet periods offset 40% of tech losses during recent selloffs."
+    },
+    {
+     "title": "Rules over emotion",
+     "body": "Disciplined asset allocation and predefined hedges beat panic selling every time. Follow for tomorrow's update."
+    }
+   ],
+   "hashtags": [
+    "#nasdaq",
+    "#investing",
+    "#sp500",
+    "#portfoliomanagement",
+    "#riskmanagement",
+    "#stocks",
+    "#hedging",
+    "#trading"
+   ]
+  }
+ }
+}

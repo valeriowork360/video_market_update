@@ -1,0 +1,1163 @@
+{
+ "it": [
+  {
+   "levels": [
+    14000.0
+   ],
+   "history": {
+    "symbol": "^IXIC",
+    "start": "2018-08",
+    "end": "2018-12"
+   },
+   "title": "Nasdaq e la trappola del grafico 2018",
+   "hook": "Nasdaq come 2018",
+   "beats": [
+    {
+     "say": "Nasdaq si trova in una struttura grafica identica a quella del 2018.",
+     "show": "Nasdaq come 2018",
+     "figure": "2018"
+    },
+    {
+     "say": "Il rimbalzo di questa settimana mostra forza, ma l'indice rimane vulnerabile.",
+     "show": "Rimbalzo in corso",
+     "figure": ""
+    },
+    {
+     "say": "Nel 2018 l'indice toccò il picco di 8.110 ad agosto per poi cadere del 22% a 6.333 a dicembre.",
+     "show": "Crollo del 22%",
+     "figure": "-22%"
+    },
+    {
+     "say": "Senza il superamento dei massimi precedenti il rischio è toccare nuovi minimi sotto 14.000.",
+     "show": "Supporto 14.000",
+     "figure": "14.000"
+    },
+    {
+     "say": "I rally intermedi possono ingannare prima della decisione finale.",
+     "show": "Trappola rialzista",
+     "figure": ""
+    },
+    {
+     "say": "La conferma della ripresa richiede una forza costante. Segui per l'aggiornamento di domani.",
+     "show": "Segui per updates",
+     "figure": ""
+    }
+   ],
+   "origin": "Jeremy Lefebvre",
+   "source_video": "Once in 20 year Short Squeeze!",
+   "narration": "Nasdaq si trova in una struttura grafica identica a quella del 2018. Il rimbalzo di questa settimana mostra forza, ma l'indice rimane vulnerabile. Nel 2018 l'indice toccò il picco di 8.110 ad agosto per poi cadere del 22% a 6.333 a dicembre. Senza il superamento dei massimi precedenti il rischio è toccare nuovi minimi sotto 14.000. I rally intermedi possono ingannare prima della decisione finale. La conferma della ripresa richiede una forza costante. Segui per l'aggiornamento di domani.",
+   "ticker": "^IXIC",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Il Nasdaq ripercorre la struttura del 2018. Senza nuovi massimi la correzione resta aperta.",
+   "hashtags": [
+    "#Nasdaq",
+    "#Borsa",
+    "#Mercati",
+    "#Economia",
+    "#Trading",
+    "#Finanza"
+   ]
+  },
+  {
+   "levels": [
+    13.0
+   ],
+   "history": null,
+   "title": "Nasdaq sotto di 13% dai massimi",
+   "hook": "Nasdaq sotto 13%",
+   "beats": [
+    {
+     "say": "Nasdaq scambia al 13% sotto i recenti massimi di periodo.",
+     "show": "Nasdaq sotto 13%",
+     "figure": "-13%"
+    },
+    {
+     "say": "Ogni recente tentativo di rimbalzo si è fermato prima del picco precedente.",
+     "show": "Massimi decrescenti",
+     "figure": ""
+    },
+    {
+     "say": "La serie di massimi decrescenti segnala una pressione di vendita persistente.",
+     "show": "Pressione in vendita",
+     "figure": ""
+    },
+    {
+     "say": "Un rialzo di 500 punti è necessario per invertire la tendenza di breve termine.",
+     "show": "Spinta 500 punti",
+     "figure": "500"
+    },
+    {
+     "say": "In assenza di questa rottura la tendenza ribassista rimane intatta.",
+     "show": "Trend ribassista",
+     "figure": ""
+    },
+    {
+     "say": "I livelli tecnici determineranno la direzione. Segui per l'aggiornamento di domani.",
+     "show": "Segui per updates",
+     "figure": ""
+    }
+   ],
+   "origin": "Jeremy Lefebvre",
+   "source_video": "Once in 20 year Short Squeeze!",
+   "narration": "Nasdaq scambia al 13% sotto i recenti massimi di periodo. Ogni recente tentativo di rimbalzo si è fermato prima del picco precedente. La serie di massimi decrescenti segnala una pressione di vendita persistente. Un rialzo di 500 punti è necessario per invertire la tendenza di breve termine. In assenza di questa rottura la tendenza ribassista rimane intatta. I livelli tecnici determineranno la direzione. Segui per l'aggiornamento di domani.",
+   "ticker": "^IXIC",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Il Nasdaq resta distante dal suo picco. Servono 500 punti di spinta per invertire il trend.",
+   "hashtags": [
+    "#Nasdaq",
+    "#Tech",
+    "#Borsa",
+    "#Mercati",
+    "#Investimenti"
+   ]
+  },
+  {
+   "levels": [],
+   "history": {
+    "symbol": "SNDK",
+    "start": "2026-01",
+    "end": "2026-07"
+   },
+   "title": "Crolli storici dopo rally estremi",
+   "hook": "SanDisk -50%",
+   "beats": [
+    {
+     "say": "SanDisk è passata da 44 a 254 per poi crollare del 50%.",
+     "show": "SanDisk -50%",
+     "figure": "-50%"
+    },
+    {
+     "say": "I rialzi parabolici all'inizio dell'anno creano forte instabilità nella seconda metà.",
+     "show": "Volatilità estrema",
+     "figure": ""
+    },
+    {
+     "say": "Dopo il picco di 254 a giugno il titolo è sceso a 127 in un solo mese.",
+     "show": "Da 254 a 127",
+     "figure": "127"
+    },
+    {
+     "say": "Prese di beneficio così ampie indeboliscono la struttura dell'intero settore.",
+     "show": "Prese di beneficio",
+     "figure": ""
+    },
+    {
+     "say": "I guadagni rapidi aumentano la fragilità del mercato in fase di ritracciamento.",
+     "show": "Rischio correzione",
+     "figure": ""
+    },
+    {
+     "say": "La storia mostra il peso delle vendite successive ai rally. Segui per l'aggiornamento di domani.",
+     "show": "Segui per updates",
+     "figure": ""
+    }
+   ],
+   "origin": "Jeremy Lefebvre",
+   "source_video": "Once in 20 year Short Squeeze!",
+   "narration": "SanDisk è passata da 44 a 254 per poi crollare del 50%. I rialzi parabolici all'inizio dell'anno creano forte instabilità nella seconda metà. Dopo il picco di 254 a giugno il titolo è sceso a 127 in un solo mese. Prese di beneficio così ampie indeboliscono la struttura dell'intero settore. I guadagni rapidi aumentano la fragilità del mercato in fase di ritracciamento. La storia mostra il peso delle vendite successive ai rally. Segui per l'aggiornamento di domani.",
+   "ticker": "SNDK",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "La storia di SanDisk mostra i pericoli delle prese di beneficio dopo corse paraboliche.",
+   "hashtags": [
+    "#SanDisk",
+    "#Borsa",
+    "#Mercati",
+    "#Azioni",
+    "#Finanza"
+   ]
+  },
+  {
+   "levels": [
+    460.0,
+    540.0
+   ],
+   "history": {
+    "symbol": "NVDA",
+    "start": "2018-01",
+    "end": "2018-12"
+   },
+   "title": "Nvidia e il precedente del crollo 2018",
+   "hook": "Nvidia crollo 54%",
+   "beats": [
+    {
+     "say": "Nvidia è crollata del 54% in tre mesi nel 2018.",
+     "show": "Nvidia crollo 54%",
+     "figure": "-54%"
+    },
+    {
+     "say": "La struttura del grafico attuale mostra forti analogie con quel ciclo.",
+     "show": "Grafico sovrapposto",
+     "figure": "2018"
+    },
+    {
+     "say": "Nel 2018 il titolo toccò il picco a 7 a settembre, per poi scendere a 3 a dicembre.",
+     "show": "Da 7 a 3 dollari",
+     "figure": "3"
+    },
+    {
+     "say": "I tentativi di ripresa a 5,40 furono respinti prima di toccare il minimo finale.",
+     "show": "Rimbalzo respinto",
+     "figure": "5,40"
+    },
+    {
+     "say": "I rimbalzi intermedi in questi contesti possono precedere ulteriori flessioni.",
+     "show": "Rischio ribasso",
+     "figure": ""
+    },
+    {
+     "say": "Il modello storico invita alla cautela sui livelli chiave. Segui per l'aggiornamento di domani.",
+     "show": "Segui per updates",
+     "figure": ""
+    }
+   ],
+   "origin": "Jeremy Lefebvre",
+   "source_video": "Once in 20 year Short Squeeze!",
+   "narration": "Nvidia è crollata del 54% in tre mesi nel 2018. La struttura del grafico attuale mostra forti analogie con quel ciclo. Nel 2018 il titolo toccò il picco a 7 a settembre, per poi scendere a 3 a dicembre. I tentativi di ripresa a 5,40 furono respinti prima di toccare il minimo finale. I rimbalzi intermedi in questi contesti possono precedere ulteriori flessioni. Il modello storico invita alla cautela sui livelli chiave. Segui per l'aggiornamento di domani.",
+   "ticker": "NVDA",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Il crollo del 54% di Nvidia nel 2018 offre lezioni utili sulla struttura dei prezzi attuale.",
+   "hashtags": [
+    "#Nvidia",
+    "#NVDA",
+    "#Semiconduttori",
+    "#Borsa",
+    "#Finanza"
+   ]
+  },
+  {
+   "levels": [
+    35.0,
+    40.0
+   ],
+   "history": null,
+   "title": "VIX sopra 35 e la volatilità sui mercati",
+   "hook": "VIX oltre 35",
+   "beats": [
+    {
+     "say": "VIX ha superato quota 35 raggiungendo picchi vicini a 40.",
+     "show": "VIX oltre 35",
+     "figure": "35"
+    },
+    {
+     "say": "L'indice della volatilità misura la tensione e le opzioni di protezione sul mercato.",
+     "show": "Tensione sui mercati",
+     "figure": ""
+    },
+    {
+     "say": "Picchi superiori a 35 coincidono storicamente con momenti di estremo timore.",
+     "show": "Picco a 40",
+     "figure": "40"
+    },
+    {
+     "say": "Storicamente le fasi di picco del VIX anticipano fasi di riassestamento dei prezzi.",
+     "show": "Riassestamento prezzi",
+     "figure": ""
+    },
+    {
+     "say": "La volatilità estrema riconfigura i punti di ingresso di lungo termine.",
+     "show": "Opportunità di lungo",
+     "figure": ""
+    },
+    {
+     "say": "I livelli del VIX restano un indicatore fondamentale. Segui per l'aggiornamento di domani.",
+     "show": "Segui per updates",
+     "figure": ""
+    }
+   ],
+   "origin": "Jeremy Lefebvre",
+   "source_video": "Once in 20 year Short Squeeze!",
+   "narration": "VIX ha superato quota 35 raggiungendo picchi vicini a 40. L'indice della volatilità misura la tensione e le opzioni di protezione sul mercato. Picchi superiori a 35 coincidono storicamente con momenti di estremo timore. Storicamente le fasi di picco del VIX anticipano fasi di riassestamento dei prezzi. La volatilità estrema riconfigura i punti di ingresso di lungo termine. I livelli del VIX restano un indicatore fondamentale. Segui per l'aggiornamento di domani.",
+   "ticker": "^VIX",
+   "sentiment": "neutral",
+   "sources": [],
+   "caption": "Il VIX sopra quota 35 segnala volatilità elevata e storiche fasi di inversione.",
+   "hashtags": [
+    "#VIX",
+    "#Volatilità",
+    "#Borsa",
+    "#Mercati",
+    "#Finanza"
+   ]
+  },
+  {
+   "levels": [
+    18.0,
+    60.0
+   ],
+   "history": null,
+   "title": "VIX da 18 a 60 in un solo mese",
+   "hook": "VIX a quota 60",
+   "beats": [
+    {
+     "say": "VIX è balzato da 18 a 60 nell'arco di un mese.",
+     "show": "VIX a quota 60",
+     "figure": "60"
+    },
+    {
+     "say": "Un movimento di questa portata indica una liquidazione rapida delle posizioni.",
+     "show": "Balzo da 18",
+     "figure": "18"
+    },
+    {
+     "say": "Il picco a 60 non garantisce un minimo immediato per gli indici azionari.",
+     "show": "Nessun minimo certo",
+     "figure": ""
+    },
+    {
+     "say": "Storicamente le impennate del VIX rimangono eventi chiave da monitorare.",
+     "show": "Evento storico",
+     "figure": ""
+    },
+    {
+     "say": "Le fasi di tensione elevata tendono a precedere fasi di stabilizzazione.",
+     "show": "Stabilizzazione",
+     "figure": ""
+    },
+    {
+     "say": "L'analisi dei picchi aiuta a valutare il rischio. Segui per l'aggiornamento di domani.",
+     "show": "Segui per updates",
+     "figure": ""
+    }
+   ],
+   "origin": "Jeremy Lefebvre",
+   "source_video": "Once in 20 year Short Squeeze!",
+   "narration": "VIX è balzato da 18 a 60 nell'arco di un mese. Un movimento di questa portata indica una liquidazione rapida delle posizioni. Il picco a 60 non garantisce un minimo immediato per gli indici azionari. Storicamente le impennate del VIX rimangono eventi chiave da monitorare. Le fasi di tensione elevata tendono a precedere fasi di stabilizzazione. L'analisi dei picchi aiuta a valutare il rischio. Segui per l'aggiornamento di domani.",
+   "ticker": "^VIX",
+   "sentiment": "neutral",
+   "sources": [],
+   "caption": "Il VIX da 18 a 60 in un mese segna uno dei movimenti di volatilità più rapidi.",
+   "hashtags": [
+    "#VIX",
+    "#Borsa",
+    "#Mercati",
+    "#Finanza",
+    "#Economia"
+   ]
+  },
+  {
+   "levels": [],
+   "history": null,
+   "title": "AMD sfida Nvidia nei data center",
+   "hook": "AMD data center 107%",
+   "beats": [
+    {
+     "say": "AMD proietta una crescita dei data center del 107%.",
+     "show": "AMD data center 107%",
+     "figure": "107%"
+    },
+    {
+     "say": "La sfida tra AMD e Nvidia si sposta sui tassi di espansione dei ricavi aziendali.",
+     "show": "Sfida nei chip",
+     "figure": ""
+    },
+    {
+     "say": "AMD accelera dal 14% al 107% tra la metà del 2025 e il 2026.",
+     "show": "Crescita dal 14%",
+     "figure": "14%"
+    },
+    {
+     "say": "Nvidia stabilizza la propria crescita tra il 56% e il 110% nello stesso periodo.",
+     "show": "Nvidia tra 56 e 110%",
+     "figure": "56%"
+    },
+    {
+     "say": "Il divario tra le due aziende continua a ridursi rapidamente.",
+     "show": "Divario in calo",
+     "figure": ""
+    },
+    {
+     "say": "I dati di fatturato guidano le quote di mercato. Segui per l'aggiornamento di domani.",
+     "show": "Segui per updates",
+     "figure": ""
+    }
+   ],
+   "origin": "Jeremy Lefebvre",
+   "source_video": "Once in 20 year Short Squeeze!",
+   "narration": "AMD proietta una crescita dei data center del 107%. La sfida tra AMD e Nvidia si sposta sui tassi di espansione dei ricavi aziendali. AMD accelera dal 14% al 107% tra la metà del 2025 e il 2026. Nvidia stabilizza la propria crescita tra il 56% e il 110% nello stesso periodo. Il divario tra le due aziende continua a ridursi rapidamente. I dati di fatturato guidano le quote di mercato. Segui per l'aggiornamento di domani.",
+   "ticker": "NVDA",
+   "sentiment": "bullish",
+   "sources": [],
+   "caption": "I ricavi Data Center di AMD accelerano al 107% riducendo la distanza da Nvidia.",
+   "hashtags": [
+    "#AMD",
+    "#Nvidia",
+    "#Semiconduttori",
+    "#Tech",
+    "#Borsa"
+   ]
+  },
+  {
+   "levels": [],
+   "history": null,
+   "title": "Short squeeze e balzo di Nvidia",
+   "hook": "Nvidia oltre 30%",
+   "beats": [
+    {
+     "say": "Nvidia ha registrato un rialzo superiore al 30% in un solo giorno.",
+     "show": "Nvidia oltre 30%",
+     "figure": "30%"
+    },
+    {
+     "say": "I mercati hanno visto acquisti da panico su importanti mega-cap azionarie.",
+     "show": "Acquisti da panico",
+     "figure": ""
+    },
+    {
+     "say": "I movimenti di copertura sulle posizioni corte hanno alimentato il rally.",
+     "show": "Short squeeze",
+     "figure": ""
+    },
+    {
+     "say": "Flussi così imponenti sono insoliti per società da varie migliaia di miliardi.",
+     "show": "Flussi eccezionali",
+     "figure": ""
+    },
+    {
+     "say": "Segui per l'aggiornamento di domani.",
+     "show": "Segui per updates",
+     "figure": ""
+    }
+   ],
+   "origin": "Jeremy Lefebvre",
+   "source_video": "Once in 20 year Short Squeeze!",
+   "narration": "Nvidia ha registrato un rialzo superiore al 30% in un solo giorno. I mercati hanno visto acquisti da panico su importanti mega-cap azionarie. I movimenti di copertura sulle posizioni corte hanno alimentato il rally. Flussi così imponenti sono insoliti per società da varie migliaia di miliardi. Segui per l'aggiornamento di domani.",
+   "ticker": "NVDA",
+   "sentiment": "bullish",
+   "sources": [],
+   "caption": "Nvidia guadagna oltre il 30% in un giorno a seguito di ricoperture su posizioni corte.",
+   "hashtags": [
+    "#Nvidia",
+    "#NVDA",
+    "#Borsa",
+    "#Azioni",
+    "#Finanza"
+   ]
+  },
+  {
+   "levels": [],
+   "history": null,
+   "title": "Tax-loss harvesting di fine anno",
+   "hook": "Pressione su Nike",
+   "beats": [
+    {
+     "say": "Nike affronta vendite legate alla gestione fiscale di fine anno.",
+     "show": "Pressione su Nike",
+     "figure": ""
+    },
+    {
+     "say": "Tra fine novembre e metà dicembre gli investitori liquidano i titoli in perdita.",
+     "show": "Vendite fiscali",
+     "figure": ""
+    },
+    {
+     "say": "Con vendite fino al 31 dicembre si compensano le plusvalenze realizzate.",
+     "show": "Scadenza 31 dicembre",
+     "figure": "31"
+    },
+    {
+     "say": "Titoli deboli come Nike subiscono ulteriore pressione concentrata in poche settimane.",
+     "show": "Titoli penalizzati",
+     "figure": ""
+    },
+    {
+     "say": "Segui per l'aggiornamento di domani.",
+     "show": "Segui per updates",
+     "figure": ""
+    }
+   ],
+   "origin": "Jeremy Lefebvre",
+   "source_video": "Once in 20 year Short Squeeze!",
+   "narration": "Nike affronta vendite legate alla gestione fiscale di fine anno. Tra fine novembre e metà dicembre gli investitori liquidano i titoli in perdita. Con vendite fino al 31 dicembre si compensano le plusvalenze realizzate. Titoli deboli come Nike subiscono ulteriore pressione concentrata in poche settimane. Segui per l'aggiornamento di domani.",
+   "ticker": "NKE",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Le scadenze fiscali di dicembre incrementano la pressione sui titoli in flessione come Nike.",
+   "hashtags": [
+    "#Nike",
+    "#Borsa",
+    "#Tasse",
+    "#Investimenti",
+    "#Finanza"
+   ]
+  },
+  {
+   "levels": [],
+   "history": null,
+   "title": "AMD supera Nvidia su 12 mesi",
+   "hook": "AMD +110%",
+   "beats": [
+    {
+     "say": "AMD supera Nvidia con un rialzo del 110% nell'ultimo anno.",
+     "show": "AMD +110%",
+     "figure": "110%"
+    },
+    {
+     "say": "Nell'ultimo mese AMD ha ceduto il 12% rispetto al calo del 22% di Nvidia.",
+     "show": "AMD -12% vs -22%",
+     "figure": "-12%"
+    },
+    {
+     "say": "Su tre mesi AMD resta stabile mentre Nvidia perde il 21%.",
+     "show": "Nvidia -21%",
+     "figure": "-21%"
+    },
+    {
+     "say": "I dati comparativi evidenziano una forza relativa su più orizzonti temporali.",
+     "show": "Forza relativa",
+     "figure": ""
+    },
+    {
+     "say": "Segui per l'aggiornamento di domani.",
+     "show": "Segui per updates",
+     "figure": ""
+    }
+   ],
+   "origin": "Jeremy Lefebvre",
+   "source_video": "Once in 20 year Short Squeeze!",
+   "narration": "AMD supera Nvidia con un rialzo del 110% nell'ultimo anno. Nell'ultimo mese AMD ha ceduto il 12% rispetto al calo del 22% di Nvidia. Su tre mesi AMD resta stabile mentre Nvidia perde il 21%. I dati comparativi evidenziano una forza relativa su più orizzonti temporali. Segui per l'aggiornamento di domani.",
+   "ticker": "AMD",
+   "sentiment": "bullish",
+   "sources": [],
+   "caption": "AMD mostra una performance relativa superiore rispetto a Nvidia su diversi orizzonti.",
+   "hashtags": [
+    "#AMD",
+    "#Nvidia",
+    "#Borsa",
+    "#Azioni",
+    "#Tech"
+   ]
+  }
+ ],
+ "en": [
+  {
+   "levels": [
+    14000.0
+   ],
+   "history": {
+    "symbol": "^IXIC",
+    "start": "2018-08",
+    "end": "2018-12"
+   },
+   "title": "Nasdaq fractal mirrors the 2018 pattern",
+   "hook": "Nasdaq 2018 pattern",
+   "beats": [
+    {
+     "say": "Nasdaq is repeating the exact chart structure seen in 2018.",
+     "show": "Nasdaq 2018 pattern",
+     "figure": "2018"
+    },
+    {
+     "say": "The recent weekly rally looks strong, but market structure remains fragile.",
+     "show": "Rally under test",
+     "figure": ""
+    },
+    {
+     "say": "In 2018 the index peaked at 8,110 in August before dropping 22% to 6,333 in December.",
+     "show": "22% drop history",
+     "figure": "-22%"
+    },
+    {
+     "say": "Without breaking prior high resistance, the risk of testing 14,000 remains high.",
+     "show": "Level 14,000",
+     "figure": "14,000"
+    },
+    {
+     "say": "Temporary bounces often disguise continuation patterns during correction phases.",
+     "show": "Bull trap risk",
+     "figure": ""
+    },
+    {
+     "say": "Only a breakout past previous highs invalidates the setup. Follow for tomorrow's update.",
+     "show": "Follow for updates",
+     "figure": ""
+    }
+   ],
+   "origin": "Jeremy Lefebvre",
+   "source_video": "Once in 20 year Short Squeeze!",
+   "narration": "Nasdaq is repeating the exact chart structure seen in 2018. The recent weekly rally looks strong, but market structure remains fragile. In 2018 the index peaked at 8,110 in August before dropping 22% to 6,333 in December. Without breaking prior high resistance, the risk of testing 14,000 remains high. Temporary bounces often disguise continuation patterns during correction phases. Only a breakout past previous highs invalidates the setup. Follow for tomorrow's update.",
+   "ticker": "^IXIC",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Nasdaq tests key resistance levels while matching 2018 chart patterns.",
+   "hashtags": [
+    "#Nasdaq",
+    "#Stocks",
+    "#Markets",
+    "#Investing",
+    "#Finance",
+    "#Trading"
+   ]
+  },
+  {
+   "levels": [
+    13.0
+   ],
+   "history": null,
+   "title": "Nasdaq stays 13% below peak",
+   "hook": "Nasdaq down 13%",
+   "beats": [
+    {
+     "say": "Nasdaq trades 13% below its recent all-time high.",
+     "show": "Nasdaq down 13%",
+     "figure": "-13%"
+    },
+    {
+     "say": "Recent rallies failed to exceed previous high points before turning back down.",
+     "show": "Lower highs pattern",
+     "figure": ""
+    },
+    {
+     "say": "Lower highs keep the index in a vulnerable technical position.",
+     "show": "Technical weakness",
+     "figure": ""
+    },
+    {
+     "say": "A push of 500 to 600 points is needed to clear key resistance.",
+     "show": "500 point push",
+     "figure": "500"
+    },
+    {
+     "say": "Without that breakout, rallies remain susceptible to renewed selling pressure.",
+     "show": "Resistance risk",
+     "figure": ""
+    },
+    {
+     "say": "Key chart levels will confirm the trend. Follow for tomorrow's update.",
+     "show": "Follow for updates",
+     "figure": ""
+    }
+   ],
+   "origin": "Jeremy Lefebvre",
+   "source_video": "Once in 20 year Short Squeeze!",
+   "narration": "Nasdaq trades 13% below its recent all-time high. Recent rallies failed to exceed previous high points before turning back down. Lower highs keep the index in a vulnerable technical position. A push of 500 to 600 points is needed to clear key resistance. Without that breakout, rallies remain susceptible to renewed selling pressure. Key chart levels will confirm the trend. Follow for tomorrow's update.",
+   "ticker": "^IXIC",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Nasdaq remains down 13% with lower highs limiting short-term momentum.",
+   "hashtags": [
+    "#Nasdaq",
+    "#StockMarket",
+    "#Trading",
+    "#Investing",
+    "#Finance"
+   ]
+  },
+  {
+   "levels": [],
+   "history": {
+    "symbol": "SNDK",
+    "start": "2026-01",
+    "end": "2026-07"
+   },
+   "title": "Extreme gains often precede 50% drops",
+   "hook": "SanDisk 50% drop",
+   "beats": [
+    {
+     "say": "SanDisk rose from 44 to 254 before falling 50%.",
+     "show": "SanDisk 50% drop",
+     "figure": "-50%"
+    },
+    {
+     "say": "Massive early-year runs create vulnerability to aggressive selling later on.",
+     "show": "Early run risks",
+     "figure": ""
+    },
+    {
+     "say": "After topping at 254 in June, it collapsed to 127 within one month.",
+     "show": "127 low in July",
+     "figure": "127"
+    },
+    {
+     "say": "Heavy profit-taking erades months of gains in very short timeframes.",
+     "show": "Rapid liquidation",
+     "figure": ""
+    },
+    {
+     "say": "Parabolic stock moves routinely trigger steep corrective drawdowns.",
+     "show": "Drawdown risk",
+     "figure": ""
+    },
+    {
+     "say": "Market history highlights these recurring cycles. Follow for tomorrow's update.",
+     "show": "Follow for updates",
+     "figure": ""
+    }
+   ],
+   "origin": "Jeremy Lefebvre",
+   "source_video": "Once in 20 year Short Squeeze!",
+   "narration": "SanDisk rose from 44 to 254 before falling 50%. Massive early-year runs create vulnerability to aggressive selling later on. After topping at 254 in June, it collapsed to 127 within one month. Heavy profit-taking erades months of gains in very short timeframes. Parabolic stock moves routinely trigger steep corrective drawdowns. Market history highlights these recurring cycles. Follow for tomorrow's update.",
+   "ticker": "SNDK",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "SanDisk historic cycle demonstrates how fast gains reverse during profit-taking.",
+   "hashtags": [
+    "#Stocks",
+    "#Trading",
+    "#SanDisk",
+    "#MarketHistory",
+    "#Investing"
+   ]
+  },
+  {
+   "levels": [
+    460.0,
+    540.0
+   ],
+   "history": {
+    "symbol": "NVDA",
+    "start": "2018-01",
+    "end": "2018-12"
+   },
+   "title": "Nvidia chart repeating 2018 drawdown",
+   "hook": "Nvidia 54% drop",
+   "beats": [
+    {
+     "say": "Nvidia dropped 54% in three months during 2018.",
+     "show": "Nvidia 54% drop",
+     "figure": "-54%"
+    },
+    {
+     "say": "Current price movement shares significant structural similarities with that period.",
+     "show": "2018 comparison",
+     "figure": ""
+    },
+    {
+     "say": "In 2018 the stock peaked at 7 in September before sliding to 3 in December.",
+     "show": "Peak 7 to low 3",
+     "figure": "3"
+    },
+    {
+     "say": "A temporary recovery bounce to 5.40 failed before reaching the ultimate low.",
+     "show": "Bounce failure",
+     "figure": "5.40"
+    },
+    {
+     "say": "Recovery attempts can encounter steep rejections during broad corrective cycles.",
+     "show": "Correction risks",
+     "figure": ""
+    },
+    {
+     "say": "Historical fractals clarify key support zones. Follow for tomorrow's update.",
+     "show": "Follow for updates",
+     "figure": ""
+    }
+   ],
+   "origin": "Jeremy Lefebvre",
+   "source_video": "Once in 20 year Short Squeeze!",
+   "narration": "Nvidia dropped 54% in three months during 2018. Current price movement shares significant structural similarities with that period. In 2018 the stock peaked at 7 in September before sliding to 3 in December. A temporary recovery bounce to 5.40 failed before reaching the ultimate low. Recovery attempts can encounter steep rejections during broad corrective cycles. Historical fractals clarify key support zones. Follow for tomorrow's update.",
+   "ticker": "NVDA",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Nvidia 2018 historical pattern shows how bounce rejections can lead to lower lows.",
+   "hashtags": [
+    "#Nvidia",
+    "#NVDA",
+    "#Stocks",
+    "#Tech",
+    "#Investing",
+    "#Finance"
+   ]
+  },
+  {
+   "levels": [
+    35.0,
+    40.0
+   ],
+   "history": null,
+   "title": "VIX spike past 35 marks market stress",
+   "hook": "VIX above 35",
+   "beats": [
+    {
+     "say": "VIX spiked above 35 and neared 40 points.",
+     "show": "VIX above 35",
+     "figure": "35"
+    },
+    {
+     "say": "The volatility index tracks pricing on S&P 500 index options.",
+     "show": "Market tension",
+     "figure": ""
+    },
+    {
+     "say": "Spikes past 35 reflect acute market stress and widespread hedging.",
+     "show": "Spike to 40",
+     "figure": "40"
+    },
+    {
+     "say": "Historically these spikes occur near major market reset points.",
+     "show": "Price resets",
+     "figure": ""
+    },
+    {
+     "say": "High volatility environment creates unique long-term rebalancing conditions.",
+     "show": "Market reset",
+     "figure": ""
+    },
+    {
+     "say": "Monitoring the VIX clarifies risk exposure. Follow for tomorrow's update.",
+     "show": "Follow for updates",
+     "figure": ""
+    }
+   ],
+   "origin": "Jeremy Lefebvre",
+   "source_video": "Once in 20 year Short Squeeze!",
+   "narration": "VIX spiked above 35 and neared 40 points. The volatility index tracks pricing on S&P 500 index options. Spikes past 35 reflect acute market stress and widespread hedging. Historically these spikes occur near major market reset points. High volatility environment creates unique long-term rebalancing conditions. Monitoring the VIX clarifies risk exposure. Follow for tomorrow's update.",
+   "ticker": "^VIX",
+   "sentiment": "neutral",
+   "sources": [],
+   "caption": "VIX surges past 35 highlight historical market volatility extremes.",
+   "hashtags": [
+    "#VIX",
+    "#Volatility",
+    "#StockMarket",
+    "#Finance",
+    "#Investing"
+   ]
+  },
+  {
+   "levels": [
+    18.0,
+    60.0
+   ],
+   "history": null,
+   "title": "VIX moves from 18 to 60 in 30 days",
+   "hook": "VIX hits 60",
+   "beats": [
+    {
+     "say": "VIX leaped from 18 to 60 within thirty days.",
+     "show": "VIX hits 60",
+     "figure": "60"
+    },
+    {
+     "say": "A surge from 18 to 60 represents an intense shift in risk sentiment.",
+     "show": "Surge from 18",
+     "figure": "18"
+    },
+    {
+     "say": "While extreme spikes signal capitulation, they do not pinpoint exact market bottoms.",
+     "show": "Capitulation phase",
+     "figure": ""
+    },
+    {
+     "say": "Historical data shows extreme volatility leads into long-term repositioning.",
+     "show": "Long term trend",
+     "figure": ""
+    },
+    {
+     "say": "Extremely high readings clear leverage out of the financial system.",
+     "show": "System reset",
+     "figure": ""
+    },
+    {
+     "say": "Tracking volatility remains crucial for risk management. Follow for tomorrow's update.",
+     "show": "Follow for updates",
+     "figure": ""
+    }
+   ],
+   "origin": "Jeremy Lefebvre",
+   "source_video": "Once in 20 year Short Squeeze!",
+   "narration": "VIX leaped from 18 to 60 within thirty days. A surge from 18 to 60 represents an intense shift in risk sentiment. While extreme spikes signal capitulation, they do not pinpoint exact market bottoms. Historical data shows extreme volatility leads into long-term repositioning. Extremely high readings clear leverage out of the financial system. Tracking volatility remains crucial for risk management. Follow for tomorrow's update.",
+   "ticker": "^VIX",
+   "sentiment": "neutral",
+   "sources": [],
+   "caption": "VIX surge from 18 to 60 indicates major portfolio deleveraging across markets.",
+   "hashtags": [
+    "#VIX",
+    "#StockMarket",
+    "#Finance",
+    "#Volatility",
+    "#Trading"
+   ]
+  },
+  {
+   "levels": [],
+   "history": null,
+   "title": "AMD narrowing Nvidia data center gap",
+   "hook": "AMD 107% growth",
+   "beats": [
+    {
+     "say": "AMD projects data center growth surging to 107%.",
+     "show": "AMD 107% growth",
+     "figure": "107%"
+    },
+    {
+     "say": "The data center rivalry between AMD and Nvidia is shifting rapidly.",
+     "show": "Data center rivalry",
+     "figure": ""
+    },
+    {
+     "say": "AMD revenue growth accelerates from 14% up to 107% by late 2026.",
+     "show": "Surge from 14%",
+     "figure": "14%"
+    },
+    {
+     "say": "Nvidia growth rate stabilizes between 56% and 110% over six quarters.",
+     "show": "Nvidia at 56%",
+     "figure": "56%"
+    },
+    {
+     "say": "The percentage growth gap between both semiconductor giants is closing.",
+     "show": "Closing the gap",
+     "figure": ""
+    },
+    {
+     "say": "Quarterly earnings updates will test these projections. Follow for tomorrow's update.",
+     "show": "Follow for updates",
+     "figure": ""
+    }
+   ],
+   "origin": "Jeremy Lefebvre",
+   "source_video": "Once in 20 year Short Squeeze!",
+   "narration": "AMD projects data center growth surging to 107%. The data center rivalry between AMD and Nvidia is shifting rapidly. AMD revenue growth accelerates from 14% up to 107% by late 2026. Nvidia growth rate stabilizes between 56% and 110% over six quarters. The percentage growth gap between both semiconductor giants is closing. Quarterly earnings updates will test these projections. Follow for tomorrow's update.",
+   "ticker": "NVDA",
+   "sentiment": "bullish",
+   "sources": [],
+   "caption": "AMD data center projections show rapid growth accelerating toward Nvidia levels.",
+   "hashtags": [
+    "#AMD",
+    "#Nvidia",
+    "#Semiconductors",
+    "#Tech",
+    "#Investing"
+   ]
+  },
+  {
+   "levels": [],
+   "history": null,
+   "title": "Nvidia single day surge tops 30%",
+   "hook": "Nvidia up 30%",
+   "beats": [
+    {
+     "say": "Nvidia jumped over 30% in a single trading session.",
+     "show": "Nvidia up 30%",
+     "figure": "30%"
+    },
+    {
+     "say": "Panic buying and short squeezes triggered massive moves across mega-caps.",
+     "show": "Panic buying surge",
+     "figure": ""
+    },
+    {
+     "say": "Short sellers rushing to cover drove historic volume into key tech names.",
+     "show": "Short squeeze",
+     "figure": ""
+    },
+    {
+     "say": "Single-day moves of this magnitude remain highly unusual for multi-trillion dollar firms.",
+     "show": "Historic volatility",
+     "figure": ""
+    },
+    {
+     "say": "Follow for tomorrow's update.",
+     "show": "Follow for updates",
+     "figure": ""
+    }
+   ],
+   "origin": "Jeremy Lefebvre",
+   "source_video": "Once in 20 year Short Squeeze!",
+   "narration": "Nvidia jumped over 30% in a single trading session. Panic buying and short squeezes triggered massive moves across mega-caps. Short sellers rushing to cover drove historic volume into key tech names. Single-day moves of this magnitude remain highly unusual for multi-trillion dollar firms. Follow for tomorrow's update.",
+   "ticker": "NVDA",
+   "sentiment": "bullish",
+   "sources": [],
+   "caption": "Nvidia records a historic 30% single-day advance during massive short squeeze.",
+   "hashtags": [
+    "#Nvidia",
+    "#NVDA",
+    "#Stocks",
+    "#Trading",
+    "#Finance"
+   ]
+  },
+  {
+   "levels": [],
+   "history": null,
+   "title": "Year end tax loss selling pressures Nike",
+   "hook": "Tax loss selling",
+   "beats": [
+    {
+     "say": "Nike faces tax-loss harvesting pressure into December.",
+     "show": "Tax loss selling",
+     "figure": ""
+    },
+    {
+     "say": "Investors sell underperforming assets between late November and mid-December.",
+     "show": "December selling",
+     "figure": ""
+    },
+    {
+     "say": "Trades must settle by December 31 to offset capital gains for the current year.",
+     "show": "December 31 deadline",
+     "figure": "31"
+    },
+    {
+     "say": "Beaten-down stocks frequently absorb concentrated selling before year end.",
+     "show": "Concentrated pressure",
+     "figure": ""
+    },
+    {
+     "say": "Follow for tomorrow's update.",
+     "show": "Follow for updates",
+     "figure": ""
+    }
+   ],
+   "origin": "Jeremy Lefebvre",
+   "source_video": "Once in 20 year Short Squeeze!",
+   "narration": "Nike faces tax-loss harvesting pressure into December. Investors sell underperforming assets between late November and mid-December. Trades must settle by December 31 to offset capital gains for the current year. Beaten-down stocks frequently absorb concentrated selling before year end. Follow for tomorrow's update.",
+   "ticker": "NKE",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "December tax-loss settlement deadlines create seasonal headwinds for underperforming stocks.",
+   "hashtags": [
+    "#Nike",
+    "#Taxes",
+    "#Stocks",
+    "#Investing",
+    "#Finance"
+   ]
+  },
+  {
+   "levels": [],
+   "history": null,
+   "title": "AMD outperforms Nvidia over trailing year",
+   "hook": "AMD up 110%",
+   "beats": [
+    {
+     "say": "AMD outperformed Nvidia with a 110% gain over one year.",
+     "show": "AMD up 110%",
+     "figure": "110%"
+    },
+    {
+     "say": "Over one month AMD dropped 12% compared to Nvidia's 22% decline.",
+     "show": "AMD down 12%",
+     "figure": "-12%"
+    },
+    {
+     "say": "Over three months AMD traded flat while Nvidia lost 21%.",
+     "show": "Nvidia down 21%",
+     "figure": "-21%"
+    },
+    {
+     "say": "Comparative price metrics confirm persistent relative strength in AMD.",
+     "show": "Relative strength",
+     "figure": ""
+    },
+    {
+     "say": "Follow for tomorrow's update.",
+     "show": "Follow for updates",
+     "figure": ""
+    }
+   ],
+   "origin": "Jeremy Lefebvre",
+   "source_video": "Once in 20 year Short Squeeze!",
+   "narration": "AMD outperformed Nvidia with a 110% gain over one year. Over one month AMD dropped 12% compared to Nvidia's 22% decline. Over three months AMD traded flat while Nvidia lost 21%. Comparative price metrics confirm persistent relative strength in AMD. Follow for tomorrow's update.",
+   "ticker": "AMD",
+   "sentiment": "bullish",
+   "sources": [],
+   "caption": "Performance data shows AMD holding relative strength against Nvidia across major timeframes.",
+   "hashtags": [
+    "#AMD",
+    "#Nvidia",
+    "#Semiconductors",
+    "#Stocks",
+    "#Finance"
+   ]
+  }
+ ],
+ "carousels": {
+  "it": {
+   "topic": "Analisi Nasdaq e Modelli Storici 2018",
+   "caption": "Analisi del Nasdaq tra grafici del 2018 e dinamiche di fine anno. Segui per l'aggiornamento di domani.",
+   "sentiment": "bearish",
+   "ticker": "^IXIC",
+   "slides": [
+    {
+     "title": "Nasdaq replica il pattern del 2018",
+     "body": "Il grafico attuale del Nasdaq mostra forti analogie con la correzione del 2018. Ecco i livelli e i dati storici da monitorare."
+    },
+    {
+     "title": "Crollo del 22% nel 2018",
+     "body": "Nel 2018 il Nasdaq salì a 8.110 punti ad agosto prima di crollare del 22% fino a 6.333 punti a dicembre."
+    },
+    {
+     "title": "Supporti e resistenza 14.000",
+     "body": "Senza il superamento dei massimi recenti, il Nasdaq rischia di scivolare verso il supporto chiave a quota 14.000."
+    },
+    {
+     "title": "Il precedente di Nvidia",
+     "body": "Nel 2018 Nvidia scese da 7 a 3 dollari con un calo del 54%. I rimbalzi a 5,40 dollari furono tutti respinti."
+    },
+    {
+     "title": "Prese di beneficio stagionali",
+     "body": "Il tax-loss harvesting di dicembre concentra la pressione di vendita sui titoli in sofferenza fino alla scadenza del 31 dicembre."
+    },
+    {
+     "title": "Volatilità e livelli VIX",
+     "body": "I balzi del VIX sopra quota 35 e fino a 60 riflettono fasi di stress estremo e riconfigurazione dei prezzi."
+    },
+    {
+     "title": "Monitorare la resistenza",
+     "body": "La conferma di una ripresa richiede la rottura dei massimi precedenti. Segui per l'aggiornamento di domani."
+    }
+   ],
+   "hashtags": [
+    "#Nasdaq",
+    "#Borsa",
+    "#Mercati",
+    "#Nvidia",
+    "#AMD",
+    "#Finanza",
+    "#Trading",
+    "#Investimenti"
+   ]
+  },
+  "en": {
+   "topic": "Nasdaq Analysis and 2018 Chart Fractals",
+   "caption": "Analyzing Nasdaq chart patterns and historical comparisons from 2018. Follow for tomorrow's update.",
+   "sentiment": "bearish",
+   "ticker": "^IXIC",
+   "slides": [
+    {
+     "title": "Nasdaq mirrors the 2018 chart setup",
+     "body": "Current Nasdaq price action shares clear technical traits with 2018. Here is the historical breakdown and key levels."
+    },
+    {
+     "title": "The 22% fall in 2018",
+     "body": "In 2018 the Nasdaq peaked at 8,110 in August before dropping 22% to 6,333 by December."
+    },
+    {
+     "title": "Level 14,000 under watch",
+     "body": "Failing to clear resistance keeps the index vulnerable to testing lower support down around 14,000."
+    },
+    {
+     "title": "Nvidia 54% drawdown precedent",
+     "body": "In 2018 Nvidia fell from 7 to 3 dollars. Temporary bounces to 5.40 failed before reaching the ultimate low."
+    },
+    {
+     "title": "December tax loss pressure",
+     "body": "Tax-loss harvesting increases selling in underperforming stocks leading up to the December 31 deadline."
+    },
+    {
+     "title": "VIX spikes measure capitulation",
+     "body": "VIX surges past 35 up to 60 point levels historically mark major market leverage resets."
+    },
+    {
+     "title": "Watch key resistance breaks",
+     "body": "A clear breakout above previous highs is required to confirm a sustained reversal. Follow for tomorrow's update."
+    }
+   ],
+   "hashtags": [
+    "#Nasdaq",
+    "#StockMarket",
+    "#Nvidia",
+    "#AMD",
+    "#Investing",
+    "#Finance",
+    "#Trading",
+    "#Markets"
+   ]
+  }
+ }
+}

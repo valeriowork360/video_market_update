@@ -1,0 +1,1304 @@
+{
+ "it": [
+  {
+   "levels": [
+    35.0
+   ],
+   "history": {
+    "symbol": "^VIX",
+    "start": "2000-01",
+    "end": "2025-12"
+   },
+   "title": "VIX sopra 35: la storia indica rialzi sicuri?",
+   "hook": "VIX SOPRA 35",
+   "beats": [
+    {
+     "say": "Il VIX sopra 35 punti ha generato rendimenti positivi nell'S&P 500 undici volte su undici.",
+     "show": "VIX SOPRA 35",
+     "figure": "35"
+    },
+    {
+     "say": "Dal 2000 al 2025, ogni picco di panico estremo della volatilità ha aperto finestre di recupero.",
+     "show": "PANICO STORICO",
+     "figure": "2000-2025"
+    },
+    {
+     "say": "Nel 2008 il VIX toccò quota 79, prima di scendere fino a 9 punti nel 2017, con un crollo dell'88% in 108 mesi.",
+     "show": "VIX DA 79 A 9",
+     "figure": "-88%"
+    },
+    {
+     "say": "La statistica storica mostra che dopo nove mesi l'azionario americano ha sempre chiuso in guadagno.",
+     "show": "RECUPERO A 9 MESI",
+     "figure": "100%"
+    },
+    {
+     "say": "Il campione resta però ridotto e non cancella la volatilità violenta delle prime settimane.",
+     "show": "RISCHIO BREVE TERMINE",
+     "figure": ""
+    },
+    {
+     "say": "La statistica offre un vantaggio a lungo termine solo a chi regge il drawdown iniziale.",
+     "show": "RESISTERE AL PANICO",
+     "figure": ""
+    },
+    {
+     "say": "La storia premia la disciplina. Segui per l'aggiornamento di domani.",
+     "show": "DISCIPLINA SUI MERCATI",
+     "figure": ""
+    }
+   ],
+   "origin": "Marco Casario EXTRA",
+   "source_video": "Bolla AI o Correzione: non confondere un rimbalzo con la fine della Discesa",
+   "narration": "Il VIX sopra 35 punti ha generato rendimenti positivi nell'S&P 500 undici volte su undici. Dal 2000 al 2025, ogni picco di panico estremo della volatilità ha aperto finestre di recupero. Nel 2008 il VIX toccò quota 79, prima di scendere fino a 9 punti nel 2017, con un crollo dell'88% in 108 mesi. La statistica storica mostra che dopo nove mesi l'azionario americano ha sempre chiuso in guadagno. Il campione resta però ridotto e non cancella la volatilità violenta delle prime settimane. La statistica offre un vantaggio a lungo termine solo a chi regge il drawdown iniziale. La storia premia la disciplina. Segui per l'aggiornamento di domani.",
+   "ticker": "^VIX",
+   "sentiment": "bullish",
+   "sources": [],
+   "caption": "Ogni picco del VIX sopra 35 ha preceduto guadagni a nove mesi sull'S&P 500, ma la gestione del rischio resta essenziale. Segui per l'aggiornamento di domani.",
+   "hashtags": [
+    "#VIX",
+    "#SP500",
+    "#Borsa",
+    "#Investimenti",
+    "#Trading",
+    "#Mercati"
+   ]
+  },
+  {
+   "levels": [
+    4200.0,
+    3616.0
+   ],
+   "history": null,
+   "title": "Oro in caduta libera: -30% dai massimi",
+   "hook": "ORO A 3.616",
+   "beats": [
+    {
+     "say": "L'oro ha perso il 30% dai massimi annuali, scendendo verso il supporto a 3.616 dollari.",
+     "show": "ORO A 3.616",
+     "figure": "-30%"
+    },
+    {
+     "say": "Il contratto future sull'oro è scivolato dal picco di 4.200 dollari alla base del rettangolo tecnico.",
+     "show": "DA 4.200 A 3.616",
+     "figure": "3.616 $"
+    },
+    {
+     "say": "Il crollo non riflette una perdita di valore del metallo, ma liquidazioni forzate e margin call globali.",
+     "show": "MARGIN CALL",
+     "figure": ""
+    },
+    {
+     "say": "Le vendite obbligate per coprire perdite su altri asset hanno colpito persino il bene rifugio per eccellenza.",
+     "show": "LIQUIDAZIONI FORZATE",
+     "figure": ""
+    },
+    {
+     "say": "Se l'oro rimbalza mentre le azioni continuano a scendere, la fase di liquidazione coatta sarà conclusa.",
+     "show": "TEST A 3.616",
+     "figure": "3.616 $"
+    },
+    {
+     "say": "Il recupero dell'oro resta il primo indicatore di allentamento delle tensioni di liquidità.",
+     "show": "SEGNALE DI SVOLTA",
+     "figure": ""
+    },
+    {
+     "say": "Monitorare la tenuta dei supporti. Segui per l'aggiornamento di domani.",
+     "show": "LIVELLI CHIAVE ORO",
+     "figure": ""
+    }
+   ],
+   "origin": "Marco Casario EXTRA",
+   "source_video": "Bolla AI o Correzione: non confondere un rimbalzo con la fine della Discesa",
+   "narration": "L'oro ha perso il 30% dai massimi annuali, scendendo verso il supporto a 3.616 dollari. Il contratto future sull'oro è scivolato dal picco di 4.200 dollari alla base del rettangolo tecnico. Il crollo non riflette una perdita di valore del metallo, ma liquidazioni forzate e margin call globali. Le vendite obbligate per coprire perdite su altri asset hanno colpito persino il bene rifugio per eccellenza. Se l'oro rimbalza mentre le azioni continuano a scendere, la fase di liquidazione coatta sarà conclusa. Il recupero dell'oro resta il primo indicatore di allentamento delle tensioni di liquidità. Monitorare la tenuta dei supporti. Segui per l'aggiornamento di domani.",
+   "ticker": "GC=F",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Il crollo dell'oro verso 3.616 dollari è causato da margin call globali. Un rimbalzo indicherà la fine dei disinvestimenti forzati. Segui per l'aggiornamento di domani.",
+   "hashtags": [
+    "#Oro",
+    "#Gold",
+    "#MateriePrime",
+    "#MarginCall",
+    "#Trading",
+    "#Mercati"
+   ]
+  },
+  {
+   "levels": [
+    3.0
+   ],
+   "history": null,
+   "title": "Rapporto SPY ed RSP: crollo generale o no?",
+   "hook": "RATIO A 3,33",
+   "beats": [
+    {
+     "say": "Il rapporto tra SPY ed RSP è sceso a quota 3,33, svelando la vera struttura del ribasso.",
+     "show": "RATIO A 3,33",
+     "figure": "3,33"
+    },
+    {
+     "say": "Il grafico mette a confronto l'indice S&P 500 standard con la sua versione a pesi uguali.",
+     "show": "SPY CONTRO RSP",
+     "figure": ""
+    },
+    {
+     "say": "La discesa del rapporto indica che i colossi tecnologici stanno cadendo molto più velocemente del resto del listino.",
+     "show": "CONCENTRAZIONE TECH",
+     "figure": ""
+    },
+    {
+     "say": "Non siamo davanti a un sell-off generalizzato, ma a una rotazione mirata fuori dai titoli a mega capitalizzazione.",
+     "show": "VENDITE SELETTIVE",
+     "figure": ""
+    },
+    {
+     "say": "Se il rapporto arresta la discesa intorno a 3,33, la pressione ribassista sulle mega cap sarà esaurita.",
+     "show": "STABILITÀ A 3,33",
+     "figure": "3,33"
+    },
+    {
+     "say": "La stabilizzazione di questa linea certificherà la fine della debolezza del mercato allargato.",
+     "show": "FINE DEL RIBASSO",
+     "figure": ""
+    },
+    {
+     "say": "Osservare la rotazione interna. Segui per l'aggiornamento di domani.",
+     "show": "MONITORARE IL RATIO",
+     "figure": ""
+    }
+   ],
+   "origin": "Marco Casario EXTRA",
+   "source_video": "Bolla AI o Correzione: non confondere un rimbalzo con la fine della Discesa",
+   "narration": "Il rapporto tra SPY ed RSP è sceso a quota 3,33, svelando la vera struttura del ribasso. Il grafico mette a confronto l'indice S&P 500 standard con la sua versione a pesi uguali. La discesa del rapporto indica che i colossi tecnologici stanno cadendo molto più velocemente del resto del listino. Non siamo davanti a un sell-off generalizzato, ma a una rotazione mirata fuori dai titoli a mega capitalizzazione. Se il rapporto arresta la discesa intorno a 3,33, la pressione ribassista sulle mega cap sarà esaurita. La stabilizzazione di questa linea certificherà la fine della debolezza del mercato allargato. Osservare la rotazione interna. Segui per l'aggiornamento di domani.",
+   "ticker": "SPY",
+   "sentiment": "neutral",
+   "sources": [],
+   "caption": "Il rapporto SPY/RSP a 3,33 dimostra che la correzione è concentrata sui colossi tecnologici e non su tutto il mercato. Segui per l'aggiornamento di domani.",
+   "hashtags": [
+    "#SPY",
+    "#RSP",
+    "#SP500",
+    "#Azionario",
+    "#Rotazione",
+    "#AnalisiTecnica"
+   ]
+  },
+  {
+   "levels": [
+    7000.0,
+    6880.0
+   ],
+   "history": null,
+   "title": "S&P 500 Equal Weight: tenuta a 7.000",
+   "hook": "RSP A 7.000",
+   "beats": [
+    {
+     "say": "L'indice equal weight RSP ha corretto solo dell'8%, difendendo il supporto a 7.000 punti.",
+     "show": "RSP A 7.000",
+     "figure": "-8%"
+    },
+    {
+     "say": "Mentre l'S&P 500 standard ha cancellato i guadagni dell'anno, l'equal weight resta ben sopra i minimi.",
+     "show": "TENUTA ANNUALE",
+     "figure": "6.880"
+    },
+    {
+     "say": "Alcuni titoli leader come Nvidia hanno perso circa il 50% dai massimi, distorcendo l'indice generale.",
+     "show": "Nvidia -50%",
+     "figure": "-50%"
+    },
+    {
+     "say": "La maggioranza dei titoli del paniere mostra un quadro tecnico stabile e bilanciato.",
+     "show": "MERCATO SANO",
+     "figure": ""
+    },
+    {
+     "say": "Finché RSP tiene sopra l'area di supporto compresa tra 7.000 e 6.880 punti, la struttura complessiva regge.",
+     "show": "AREA 7.000-6.880",
+     "figure": "7.000"
+    },
+    {
+     "say": "La correzione è violenta nei titoli della tecnologia ma circoscritta nel mercato allargato.",
+     "show": "DANNO SETTORIALE",
+     "figure": ""
+    },
+    {
+     "say": "Valutare i dati complessivi. Segui per l'aggiornamento di domani.",
+     "show": "SEGUI GLI AGGIORNAMENTI",
+     "figure": ""
+    }
+   ],
+   "origin": "Marco Casario EXTRA",
+   "source_video": "Bolla AI o Correzione: non confondere un rimbalzo con la fine della Discesa",
+   "narration": "L'indice equal weight RSP ha corretto solo dell'8%, difendendo il supporto a 7.000 punti. Mentre l'S&P 500 standard ha cancellato i guadagni dell'anno, l'equal weight resta ben sopra i minimi. Alcuni titoli leader come Nvidia hanno perso circa il 50% dai massimi, distorcendo l'indice generale. La maggioranza dei titoli del paniere mostra un quadro tecnico stabile e bilanciato. Finché RSP tiene sopra l'area di supporto compresa tra 7.000 e 6.880 punti, la struttura complessiva regge. La correzione è violenta nei titoli della tecnologia ma circoscritta nel mercato allargato. Valutare i dati complessivi. Segui per l'aggiornamento di domani.",
+   "ticker": "RSP",
+   "sentiment": "neutral",
+   "sources": [],
+   "caption": "L'indice RSP tiene il livello 7.000 con un calo limitato all'8%: il sell-off ha colpito principalmente le mega cap. Segui per l'aggiornamento di domani.",
+   "hashtags": [
+    "#RSP",
+    "#Nvidia",
+    "#SP500",
+    "#BorsaAmericana",
+    "#Titoli",
+    "#Finanza"
+   ]
+  },
+  {
+   "levels": [
+    7300.0,
+    6910.0
+   ],
+   "history": null,
+   "title": "Coperture su SPX: ammortizzato il 40% del calo",
+   "hook": "CALO FRENATO AL 40%",
+   "beats": [
+    {
+     "say": "I put spread su SPX hanno assorbito il 40% delle perdite registrate sui titoli tecnologici.",
+     "show": "CALO FRENATO AL 40%",
+     "figure": "40%"
+    },
+    {
+     "say": "La discesa dell'indice tra 7.300 e 6.910 punti ha colpito duramente le azioni a grande capitalizzazione.",
+     "show": "RANGE 7.300-6.910",
+     "figure": "6.910"
+    },
+    {
+     "say": "L'apertura tempestiva di opzioni put ha compensato la svalutazione di posizioni lunghe senza richiedere vendite forzate.",
+     "show": "PROTEZIONE CON OPZIONI",
+     "figure": ""
+    },
+    {
+     "say": "Le coperture aperte con scadenze a dicembre restano attive per fronteggiare ulteriori scivoloni.",
+     "show": "SCADENZA DICEMBRE",
+     "figure": ""
+    },
+    {
+     "say": "Sotto quota 6.910 punti la protezione delle opzioni diventa fondamentale per limitare il drawdown.",
+     "show": "SUPPORTO A 6.910",
+     "figure": "6.910"
+    },
+    {
+     "say": "Coprire il portafoglio nei momenti di calma riduce l'impatto dei movimenti ribassisti improvvisi.",
+     "show": "HEDGING EFFICACE",
+     "figure": ""
+    },
+    {
+     "say": "Gestire il rischio con metodo. Segui per l'aggiornamento di domani.",
+     "show": "GESTIONE RISCHIO",
+     "figure": ""
+    }
+   ],
+   "origin": "Marco Casario EXTRA",
+   "source_video": "Bolla AI o Correzione: non confondere un rimbalzo con la fine della Discesa",
+   "narration": "I put spread su SPX hanno assorbito il 40% delle perdite registrate sui titoli tecnologici. La discesa dell'indice tra 7.300 e 6.910 punti ha colpito duramente le azioni a grande capitalizzazione. L'apertura tempestiva di opzioni put ha compensato la svalutazione di posizioni lunghe senza richiedere vendite forzate. Le coperture aperte con scadenze a dicembre restano attive per fronteggiare ulteriori scivoloni. Sotto quota 6.910 punti la protezione delle opzioni diventa fondamentale per limitare il drawdown. Coprire il portafoglio nei momenti di calma riduce l'impatto dei movimenti ribassisti improvvisi. Gestire il rischio con metodo. Segui per l'aggiornamento di domani.",
+   "ticker": "^SPX",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "L'uso di put spread sull'S&P 500 ha compensato il 40% delle perdite sui colossi tecnologici tra 7.300 e 6.910 punti. Segui per l'aggiornamento di domani.",
+   "hashtags": [
+    "#SPX",
+    "#Opzioni",
+    "#PutOption",
+    "#Hedging",
+    "#Rischio",
+    "#Portafoglio"
+   ]
+  },
+  {
+   "levels": [
+    18.0,
+    40.0
+   ],
+   "history": null,
+   "title": "VIX a 40: scatta il de-risking forzato",
+   "hook": "VIX TOCCA 40",
+   "beats": [
+    {
+     "say": "Il picco del VIX a 40 punti ha imposto vendite automatiche sull'azionario globale.",
+     "show": "VIX TOCCA 40",
+     "figure": "40"
+    },
+    {
+     "say": "La volatilità è schizzata rapidamente dal supporto di 18 punti fino al massimo a quota 40.",
+     "show": "DA 18 A 40 PUNTI",
+     "figure": "18"
+    },
+    {
+     "say": "I fondi quantitativi basati sul controllo della volatilità riducono per regolamento l'esposizione al crescere dell'indice.",
+     "show": "VENDITE AUTOMATICHE",
+     "figure": ""
+    },
+    {
+     "say": "Inoltre la scadenza di 3 miliardi di dollari in opzioni put ha costretto al ribilanciamento del delta.",
+     "show": "3 MILIARDI IN PUT",
+     "figure": "3 miliardi $"
+    },
+    {
+     "say": "Senza una discesa stabile del VIX sotto i 20 punti, i rimbalzi tecnici restano temporanei.",
+     "show": "SOGLIA A 20 PUNTI",
+     "figure": "20"
+    },
+    {
+     "say": "La dinamica dei derivati impone movimenti meccanici che prescindono dai fondamentali aziendali.",
+     "show": "CIRCUITO MECCANICO",
+     "figure": ""
+    },
+    {
+     "say": "La volatilità guida i flussi. Segui per l'aggiornamento di domani.",
+     "show": "SEGUI LA VOLATILITÀ",
+     "figure": ""
+    }
+   ],
+   "origin": "Marco Casario EXTRA",
+   "source_video": "Bolla AI o Correzione: non confondere un rimbalzo con la fine della Discesa",
+   "narration": "Il picco del VIX a 40 punti ha imposto vendite automatiche sull'azionario globale. La volatilità è schizzata rapidamente dal supporto di 18 punti fino al massimo a quota 40. I fondi quantitativi basati sul controllo della volatilità riducono per regolamento l'esposizione al crescere dell'indice. Inoltre la scadenza di 3 miliardi di dollari in opzioni put ha costretto al ribilanciamento del delta. Senza una discesa stabile del VIX sotto i 20 punti, i rimbalzi tecnici restano temporanei. La dinamica dei derivati impone movimenti meccanici che prescindono dai fondamentali aziendali. La volatilità guida i flussi. Segui per l'aggiornamento di domani.",
+   "ticker": "^VIX",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Il VIX schizzato a 40 punti ha attivato vendite automatiche e delta hedging sui mercati. Segui per l'aggiornamento di domani.",
+   "hashtags": [
+    "#VIX",
+    "#Volatilità",
+    "#DeltaHedging",
+    "#Borsa",
+    "#Opzioni",
+    "#Mercati"
+   ]
+  },
+  {
+   "levels": [
+    10.0,
+    47.0
+   ],
+   "history": null,
+   "title": "Indice di correlazione a 47: panico diffuso",
+   "hook": "CORRELAZIONE A 47",
+   "beats": [
+    {
+     "say": "L'indice di correlazione CBOE è balzato da quota 10 a 47 in poche sedute.",
+     "show": "CORRELAZIONE A 47",
+     "figure": "47"
+    },
+    {
+     "say": "Questo indicatore misura il grado di sincronizzazione nei movimenti delle azioni dell'S&P 500.",
+     "show": "INDICE COR1M",
+     "figure": "10"
+    },
+    {
+     "say": "A livelli bassi solo pochi titoli guidano il listino; quando schizza a 47 la diversificazione viene annullata.",
+     "show": "EFFETTO CONTAGIO",
+     "figure": "47"
+    },
+    {
+     "say": "Tutti i settori finiscono per scendere insieme, azzerando temporaneamente i benefici dell'asset allocation.",
+     "show": "DISCESA SINCRONIZZATA",
+     "figure": ""
+    },
+    {
+     "say": "Una discesa dell'indice verso il supporto di 20 indicherà il ritorno a condizioni di mercato ordinate.",
+     "show": "OBIETTIVO VERSO 20",
+     "figure": "20"
+    },
+    {
+     "say": "Finché la correlazione resta elevata, le vendite colpiscono l'intero listino in modo indiscriminato.",
+     "show": "RISCHIO SISTEMICO",
+     "figure": ""
+    },
+    {
+     "say": "Monitorare la dispersione dei titoli. Segui per l'aggiornamento di domani.",
+     "show": "SEGUI LA CORRELAZIONE",
+     "figure": ""
+    }
+   ],
+   "origin": "Marco Casario EXTRA",
+   "source_video": "Bolla AI o Correzione: non confondere un rimbalzo con la fine della Discesa",
+   "narration": "L'indice di correlazione CBOE è balzato da quota 10 a 47 in poche sedute. Questo indicatore misura il grado di sincronizzazione nei movimenti delle azioni dell'S&P 500. A livelli bassi solo pochi titoli guidano il listino; quando schizza a 47 la diversificazione viene annullata. Tutti i settori finiscono per scendere insieme, azzerando temporaneamente i benefici dell'asset allocation. Una discesa dell'indice verso il supporto di 20 indicherà il ritorno a condizioni di mercato ordinate. Finché la correlazione resta elevata, le vendite colpiscono l'intero listino in modo indiscriminato. Monitorare la dispersione dei titoli. Segui per l'aggiornamento di domani.",
+   "ticker": null,
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "L'indice di correlazione COR1M schizzato da 10 a 47 annulla temporaneamente i benefici della diversificazione. Segui per l'aggiornamento di domani.",
+   "hashtags": [
+    "#COR1M",
+    "#Correlazione",
+    "#CBOE",
+    "#SP500",
+    "#Diversificazione",
+    "#Rischio"
+   ]
+  },
+  {
+   "levels": [
+    1.0,
+    1.0
+   ],
+   "history": null,
+   "title": "EUR/USD a 1,095: il dollaro fa da scudo",
+   "hook": "EUR/USD A 1,095",
+   "beats": [
+    {
+     "say": "L'euro è sceso da 1,13 fino a 1,095 contro il dollaro americano.",
+     "show": "EUR/USD A 1,095",
+     "figure": "1,095"
+    },
+    {
+     "say": "Il rafforzamento del biglietto verde ha registrato un progresso del 2,5% in poche sedute.",
+     "show": "DOLLARO +2,5%",
+     "figure": "2,5%"
+    },
+    {
+     "say": "Per un investitore europeo esposto sull'azionario americano, il dollaro forte ha ridotto le perdite nominali.",
+     "show": "CUSCINETTO VALUTARIO",
+     "figure": ""
+    },
+    {
+     "say": "Il cambio ha agito come un freno naturale alla contrazione dell'indice in portafoglio.",
+     "show": "PROTEZIONE NATURALE",
+     "figure": ""
+    },
+    {
+     "say": "La tenuta del supporto a 1,095 deciderà se l'effetto protettivo della valuta proseguirà.",
+     "show": "LIVELLO 1,095",
+     "figure": "1,095"
+    },
+    {
+     "say": "Nelle allocazioni globali l'impatto valutario modifica sensibilmente la performance reale.",
+     "show": "IMPATTO VALUTARIO",
+     "figure": ""
+    },
+    {
+     "say": "Controllare sempre il fattore cambio. Segui per l'aggiornamento di domani.",
+     "show": "FUTURO DEL CAMBIO",
+     "figure": ""
+    }
+   ],
+   "origin": "Marco Casario EXTRA",
+   "source_video": "Bolla AI o Correzione: non confondere un rimbalzo con la fine della Discesa",
+   "narration": "L'euro è sceso da 1,13 fino a 1,095 contro il dollaro americano. Il rafforzamento del biglietto verde ha registrato un progresso del 2,5% in poche sedute. Per un investitore europeo esposto sull'azionario americano, il dollaro forte ha ridotto le perdite nominali. Il cambio ha agito come un freno naturale alla contrazione dell'indice in portafoglio. La tenuta del supporto a 1,095 deciderà se l'effetto protettivo della valuta proseguirà. Nelle allocazioni globali l'impatto valutario modifica sensibilmente la performance reale. Controllare sempre il fattore cambio. Segui per l'aggiornamento di domani.",
+   "ticker": "EURUSD=X",
+   "sentiment": "neutral",
+   "sources": [],
+   "caption": "Il calo di EUR/USD da 1,13 a 1,095 ha ammortizzato le perdite sull'azionario USA per i portafogli in euro. Segui per l'aggiornamento di domani.",
+   "hashtags": [
+    "#EURUSD",
+    "#Forex",
+    "#Dollaro",
+    "#Valute",
+    "#Investimenti",
+    "#Finanza"
+   ]
+  },
+  {
+   "levels": [
+    6000.0,
+    5500.0
+   ],
+   "history": null,
+   "title": "Prezzi delle put quadruplicati a 6.000",
+   "hook": "PUT DA 7 A 27",
+   "beats": [
+    {
+     "say": "Le opzioni put sullo strike 6.000 dell'S&P 500 sono quadruplicate da 7 a 27 punti.",
+     "show": "PUT DA 7 A 27",
+     "figure": "27"
+    },
+    {
+     "say": "Il movimento è avvenuto durante la discesa del 4,4% dell'indice azionario.",
+     "show": "INDICE GIÙ DEL 4,4%",
+     "figure": "-4,4%"
+    },
+    {
+     "say": "Anche sullo strike inferiore a 5.500 i prezzi delle coperture sono balzati a quasi 15 punti.",
+     "show": "STRIKE 5.500 A 15",
+     "figure": "15"
+    },
+    {
+     "say": "La volatilità implicita sui contratti profondamente ribassisti è salita al 62%, evidenziando timori di crollo sistemico.",
+     "show": "VOLATILITÀ AL 62%",
+     "figure": "62%"
+    },
+    {
+     "say": "Il costo elevato delle protezioni conferma che non si tratta di semplici prese di beneficio.",
+     "show": "PAURA REALE",
+     "figure": ""
+    },
+    {
+     "say": "Finché la domanda di put rimane alta, il rischio di nuove onde ribassiste resta intatto.",
+     "show": "PRESSIONE SULLE PUT",
+     "figure": ""
+    },
+    {
+     "say": "Verificare sempre i costi di copertura. Segui per l'aggiornamento di domani.",
+     "show": "COSTI DELLE OPZIONI",
+     "figure": ""
+    }
+   ],
+   "origin": "Marco Casario EXTRA",
+   "source_video": "Bolla AI o Correzione: non confondere un rimbalzo con la fine della Discesa",
+   "narration": "Le opzioni put sullo strike 6.000 dell'S&P 500 sono quadruplicate da 7 a 27 punti. Il movimento è avvenuto durante la discesa del 4,4% dell'indice azionario. Anche sullo strike inferiore a 5.500 i prezzi delle coperture sono balzati a quasi 15 punti. La volatilità implicita sui contratti profondamente ribassisti è salita al 62%, evidenziando timori di crollo sistemico. Il costo elevato delle protezioni conferma che non si tratta di semplici prese di beneficio. Finché la domanda di put rimane alta, il rischio di nuove onde ribassiste resta intatto. Verificare sempre i costi di copertura. Segui per l'aggiornamento di domani.",
+   "ticker": "ES=F",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "I prezzi delle opzioni put sullo strike 6.000 sono quadruplicati con una volatilità implicita salita al 62%. Segui per l'aggiornamento di domani.",
+   "hashtags": [
+    "#Opzioni",
+    "#Put",
+    "#SP500",
+    "#VolatilitàImplicita",
+    "#Trading",
+    "#Borsa"
+   ]
+  },
+  {
+   "levels": [
+    100.0
+   ],
+   "history": null,
+   "title": "VWCE a -7,4%: l'effetto delle put",
+   "hook": "+0,2% CON COPERTURA",
+   "beats": [
+    {
+     "say": "Un portafoglio azionario su VWCE ha perso il 7,4%, mentre la versione coperta ha segnato più 0,2%.",
+     "show": "+0,2% CON COPERTURA",
+     "figure": "+0,2%"
+    },
+    {
+     "say": "L'indice globale ha risentito della brusca correzione dei mercati azionari internazionali.",
+     "show": "VWCE A -7,4%",
+     "figure": "-7,4%"
+    },
+    {
+     "say": "L'acquisto di protezione tramite opzioni put ha azzerato l'impatto negativo del calo.",
+     "show": "PROTEZIONE PUT",
+     "figure": ""
+    },
+    {
+     "say": "L'assicurazione va acquistata durante le fasi di calma, quando il costo è minimo.",
+     "show": "COMPRARE NELLA CALMA",
+     "figure": ""
+    },
+    {
+     "say": "Attendere che il mercato crolli rende le strategie di copertura estremamente onerose.",
+     "show": "COSTI IN SALITA",
+     "figure": ""
+    },
+    {
+     "say": "La gestione scientifica del rischio protegge il capitale a lungo termine. Segui per l'aggiornamento di domani.",
+     "show": "GESTIONE CAPITALE",
+     "figure": ""
+    }
+   ],
+   "origin": "Marco Casario EXTRA",
+   "source_video": "Bolla AI o Correzione: non confondere un rimbalzo con la fine della Discesa",
+   "narration": "Un portafoglio azionario su VWCE ha perso il 7,4%, mentre la versione coperta ha segnato più 0,2%. L'indice globale ha risentito della brusca correzione dei mercati azionari internazionali. L'acquisto di protezione tramite opzioni put ha azzerato l'impatto negativo del calo. L'assicurazione va acquistata durante le fasi di calma, quando il costo è minimo. Attendere che il mercato crolli rende le strategie di copertura estremamente onerose. La gestione scientifica del rischio protegge il capitale a lungo termine. Segui per l'aggiornamento di domani.",
+   "ticker": "VWCE.DE",
+   "sentiment": "neutral",
+   "sources": [],
+   "caption": "Un portafoglio su VWCE con coperture in put ha chiuso a +0,2% contro il -7,4% della posizione non protetta. Segui per l'aggiornamento di domani.",
+   "hashtags": [
+    "#VWCE",
+    "#ETF",
+    "#Coperture",
+    "#Opzioni",
+    "#Investimenti",
+    "#Patrimonio"
+   ]
+  }
+ ],
+ "en": [
+  {
+   "levels": [
+    35.0
+   ],
+   "history": {
+    "symbol": "^VIX",
+    "start": "2000-01",
+    "end": "2025-12"
+   },
+   "title": "VIX above 35: does history guarantee gains?",
+   "hook": "VIX OVER 35",
+   "beats": [
+    {
+     "say": "A VIX spike above 35 points delivered positive S&P 500 returns eleven times out of eleven.",
+     "show": "VIX OVER 35",
+     "figure": "35"
+    },
+    {
+     "say": "Between 2000 and 2025, extreme volatility spikes opened consistent multi-month recovery windows.",
+     "show": "HISTORICAL PANIC",
+     "figure": "2000-2025"
+    },
+    {
+     "say": "In October 2008 the VIX peaked at 79, before dropping to 9 by 2017, falling 88% over 108 months.",
+     "show": "VIX DROP 88%",
+     "figure": "-88%"
+    },
+    {
+     "say": "Across every historical occurrence, the equity index was higher nine months later.",
+     "show": "NINE MONTH WIN",
+     "figure": "100%"
+    },
+    {
+     "say": "The historical sample is small and never eliminates severe short-term pain.",
+     "show": "VOLATILITY RISK",
+     "figure": ""
+    },
+    {
+     "say": "Extreme fear signals cyclical opportunities, provided capital survives interim drawdowns.",
+     "show": "SURVIVING DRAWDOWN",
+     "figure": ""
+    },
+    {
+     "say": "Patience beats panic selling. Follow for tomorrow's update.",
+     "show": "PATIENCE WINS",
+     "figure": ""
+    }
+   ],
+   "origin": "Marco Casario EXTRA",
+   "source_video": "Bolla AI o Correzione: non confondere un rimbalzo con la fine della Discesa",
+   "narration": "A VIX spike above 35 points delivered positive S&P 500 returns eleven times out of eleven. Between 2000 and 2025, extreme volatility spikes opened consistent multi-month recovery windows. In October 2008 the VIX peaked at 79, before dropping to 9 by 2017, falling 88% over 108 months. Across every historical occurrence, the equity index was higher nine months later. The historical sample is small and never eliminates severe short-term pain. Extreme fear signals cyclical opportunities, provided capital survives interim drawdowns. Patience beats panic selling. Follow for tomorrow's update.",
+   "ticker": "^VIX",
+   "sentiment": "bullish",
+   "sources": [],
+   "caption": "A VIX surge past 35 has a perfect historical track record nine months later. Follow for tomorrow's update.",
+   "hashtags": [
+    "#VIX",
+    "#SP500",
+    "#StockMarket",
+    "#Investing",
+    "#Volatility",
+    "#Finance"
+   ]
+  },
+  {
+   "levels": [
+    4200.0,
+    3616.0
+   ],
+   "history": null,
+   "title": "Gold crashes 30%: margin call liquidations",
+   "hook": "GOLD AT $3,616",
+   "beats": [
+    {
+     "say": "Gold futures dropped 30% from yearly highs, testing critical support at $3,616.",
+     "show": "GOLD AT $3,616",
+     "figure": "-30%"
+    },
+    {
+     "say": "The contract tumbled from its $4,200 peak down to the lower boundary of its broad technical range.",
+     "show": "PEAK AT $4,200",
+     "figure": "$3,616"
+    },
+    {
+     "say": "This decline is driven by forced margin liquidations across global portfolios, not structural weakness.",
+     "show": "FORCED SELLING",
+     "figure": ""
+    },
+    {
+     "say": "Leveraged positions in Asia faced regulatory deleveraging, forcing sales in highly liquid safe havens.",
+     "show": "DELEVERAGING WAVE",
+     "figure": ""
+    },
+    {
+     "say": "If gold stabilizes while equities keep falling, forced selling pressure will officially be over.",
+     "show": "WATCH $3,616",
+     "figure": "$3,616"
+    },
+    {
+     "say": "A gold rebound marks the first clear signal that systemic cash crunches are easing.",
+     "show": "LIQUIDITY SIGNAL",
+     "figure": ""
+    },
+    {
+     "say": "Watch the support boundary closely. Follow for tomorrow's update.",
+     "show": "KEY GOLD LEVELS",
+     "figure": ""
+    }
+   ],
+   "origin": "Marco Casario EXTRA",
+   "source_video": "Bolla AI o Correzione: non confondere un rimbalzo con la fine della Discesa",
+   "narration": "Gold futures dropped 30% from yearly highs, testing critical support at $3,616. The contract tumbled from its $4,200 peak down to the lower boundary of its broad technical range. This decline is driven by forced margin liquidations across global portfolios, not structural weakness. Leveraged positions in Asia faced regulatory deleveraging, forcing sales in highly liquid safe havens. If gold stabilizes while equities keep falling, forced selling pressure will officially be over. A gold rebound marks the first clear signal that systemic cash crunches are easing. Watch the support boundary closely. Follow for tomorrow's update.",
+   "ticker": "GC=F",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Gold's pullback to $3,616 stems from widespread margin calls rather than fundamental deterioration. Follow for tomorrow's update.",
+   "hashtags": [
+    "#Gold",
+    "#Commodities",
+    "#MarginCall",
+    "#Trading",
+    "#Deleveraging",
+    "#Macro"
+   ]
+  },
+  {
+   "levels": [
+    3.0
+   ],
+   "history": null,
+   "title": "SPY versus RSP ratio tests 3.33 support",
+   "hook": "RATIO AT 3.33",
+   "beats": [
+    {
+     "say": "The SPY to RSP ratio dropped to 3.33, exposing the true nature of market selling.",
+     "show": "RATIO AT 3.33",
+     "figure": "3.33"
+    },
+    {
+     "say": "This metric compares the market-cap weighted S&P 500 against the equal-weight version.",
+     "show": "SPY VS RSP",
+     "figure": ""
+    },
+    {
+     "say": "A falling line proves mega-cap technology shares are dropping faster than the broader index components.",
+     "show": "MEGA CAP DRAG",
+     "figure": ""
+    },
+    {
+     "say": "Broad breadth remains healthier than headline index numbers suggest.",
+     "show": "RESILIENT BREADTH",
+     "figure": ""
+    },
+    {
+     "say": "If the ratio levels off around 3.33, concentrated selling pressure will officially fade.",
+     "show": "WATCH 3.33 FLOOR",
+     "figure": "3.33"
+    },
+    {
+     "say": "A flattening ratio is the earliest indicator that broad market liquidation has ended.",
+     "show": "SELLING EXHAUSTION",
+     "figure": ""
+    },
+    {
+     "say": "Track relative market strength. Follow for tomorrow's update.",
+     "show": "MONITOR BREADTH",
+     "figure": ""
+    }
+   ],
+   "origin": "Marco Casario EXTRA",
+   "source_video": "Bolla AI o Correzione: non confondere un rimbalzo con la fine della Discesa",
+   "narration": "The SPY to RSP ratio dropped to 3.33, exposing the true nature of market selling. This metric compares the market-cap weighted S&P 500 against the equal-weight version. A falling line proves mega-cap technology shares are dropping faster than the broader index components. Broad breadth remains healthier than headline index numbers suggest. If the ratio levels off around 3.33, concentrated selling pressure will officially fade. A flattening ratio is the earliest indicator that broad market liquidation has ended. Track relative market strength. Follow for tomorrow's update.",
+   "ticker": "SPY",
+   "sentiment": "neutral",
+   "sources": [],
+   "caption": "The SPY/RSP ratio down at 3.33 highlights that downside pressure remains confined to mega-cap tech. Follow for tomorrow's update.",
+   "hashtags": [
+    "#SPY",
+    "#RSP",
+    "#StockMarket",
+    "#MarketBreadth",
+    "#TechStocks",
+    "#Investing"
+   ]
+  },
+  {
+   "levels": [
+    7000.0,
+    6880.0
+   ],
+   "history": null,
+   "title": "Equal-Weight S&P 500 holds 7,000 level",
+   "hook": "RSP HOLDS 7,000",
+   "beats": [
+    {
+     "say": "The equal-weight RSP index dropped just 8%, holding firm above the 7,000 level.",
+     "show": "RSP HOLDS 7,000",
+     "figure": "-8%"
+    },
+    {
+     "say": "While the standard index tested its yearly open, the equal-weight basket remained significantly higher.",
+     "show": "ABOVE 6,880 LOW",
+     "figure": "6,880"
+    },
+    {
+     "say": "Mega-caps like Nvidia dropped nearly 50% from record highs, severely skewing capitalization-weighted benchmarks.",
+     "show": "Nvidia PLUNGE",
+     "figure": "-50%"
+    },
+    {
+     "say": "The broader equity universe avoided severe breakdowns during this sell-off.",
+     "show": "BROAD STABILITY",
+     "figure": ""
+    },
+    {
+     "say": "As long as RSP defends the 7,000 support down to 6,880, baseline equity strength remains intact.",
+     "show": "RANGE 7,000-6,880",
+     "figure": "7,000"
+    },
+    {
+     "say": "Damage is highly localized in high-multiple technology rather than systemic.",
+     "show": "LOCALIZED DROP",
+     "figure": ""
+    },
+    {
+     "say": "Check underlying market internals. Follow for tomorrow's update.",
+     "show": "MONITOR HEALTH",
+     "figure": ""
+    }
+   ],
+   "origin": "Marco Casario EXTRA",
+   "source_video": "Bolla AI o Correzione: non confondere un rimbalzo con la fine della Discesa",
+   "narration": "The equal-weight RSP index dropped just 8%, holding firm above the 7,000 level. While the standard index tested its yearly open, the equal-weight basket remained significantly higher. Mega-caps like Nvidia dropped nearly 50% from record highs, severely skewing capitalization-weighted benchmarks. The broader equity universe avoided severe breakdowns during this sell-off. As long as RSP defends the 7,000 support down to 6,880, baseline equity strength remains intact. Damage is highly localized in high-multiple technology rather than systemic. Check underlying market internals. Follow for tomorrow's update.",
+   "ticker": "RSP",
+   "sentiment": "neutral",
+   "sources": [],
+   "caption": "Equal-weight RSP down just 8% shows underlying market resilience while mega-cap tech absorbs severe losses. Follow for tomorrow's update.",
+   "hashtags": [
+    "#RSP",
+    "#Nvidia",
+    "#StockMarket",
+    "#SP500",
+    "#Investing",
+    "#TechCorrection"
+   ]
+  },
+  {
+   "levels": [
+    7300.0,
+    6910.0
+   ],
+   "history": null,
+   "title": "SPX put hedges offset 40% of tech losses",
+   "hook": "40% LOSS OFFSET",
+   "beats": [
+    {
+     "say": "Protective SPX put spreads successfully offset 40% of unrealized mega-cap technology losses.",
+     "show": "40% LOSS OFFSET",
+     "figure": "40%"
+    },
+    {
+     "say": "The index dropped rapidly between the 7,300 ceiling and the 6,910 support floor.",
+     "show": "7,300 TO 6,910",
+     "figure": "6,910"
+    },
+    {
+     "say": "Options structures shielded the broader portfolio without requiring liquidations of core equity holdings.",
+     "show": "CORE PROTECTION",
+     "figure": ""
+    },
+    {
+     "say": "Existing put spreads expiring in December remain active as an insurance buffer.",
+     "show": "DECEMBER EXPIRY",
+     "figure": ""
+    },
+    {
+     "say": "If price action breaks below 6,910, these derivative hedges will absorb the next wave of downside.",
+     "show": "WATCH 6,910 LEVEL",
+     "figure": "6,910"
+    },
+    {
+     "say": "Setting up portfolio insurance early protects capital when volatility strikes.",
+     "show": "PROACTIVE HEDGING",
+     "figure": ""
+    },
+    {
+     "say": "Control risk systematically. Follow for tomorrow's update.",
+     "show": "RISK CONTROL",
+     "figure": ""
+    }
+   ],
+   "origin": "Marco Casario EXTRA",
+   "source_video": "Bolla AI o Correzione: non confondere un rimbalzo con la fine della Discesa",
+   "narration": "Protective SPX put spreads successfully offset 40% of unrealized mega-cap technology losses. The index dropped rapidly between the 7,300 ceiling and the 6,910 support floor. Options structures shielded the broader portfolio without requiring liquidations of core equity holdings. Existing put spreads expiring in December remain active as an insurance buffer. If price action breaks below 6,910, these derivative hedges will absorb the next wave of downside. Setting up portfolio insurance early protects capital when volatility strikes. Control risk systematically. Follow for tomorrow's update.",
+   "ticker": "^SPX",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "SPX protective put spreads absorbed 40% of tech equity drawdowns between 7,300 and 6,910. Follow for tomorrow's update.",
+   "hashtags": [
+    "#SPX",
+    "#OptionsTrading",
+    "#Hedging",
+    "#RiskManagement",
+    "#Portfolios",
+    "#Finance"
+   ]
+  },
+  {
+   "levels": [
+    18.0,
+    40.0
+   ],
+   "history": null,
+   "title": "VIX hits 40: mechanical de-risking triggers",
+   "hook": "VIX HITS 40",
+   "beats": [
+    {
+     "say": "The VIX surge to 40 points forced automated institutional de-risking across global equities.",
+     "show": "VIX HITS 40",
+     "figure": "40"
+    },
+    {
+     "say": "Volatility surged violently from the 18 baseline straight up to 40 points.",
+     "show": "SURGE FROM 18",
+     "figure": "18"
+    },
+    {
+     "say": "Volatility-controlled systematic funds automatically trim equity exposure when turbulence spikes.",
+     "show": "SYSTEMATIC SELLING",
+     "figure": ""
+    },
+    {
+     "say": "Meanwhile, three billion dollars in single-stock put expirations forced immediate delta hedging adjustments.",
+     "show": "$3B PUT EXPIRY",
+     "figure": "$3 billion"
+    },
+    {
+     "say": "Until the VIX settles back below 20, any bounce remains vulnerable to mechanical selling.",
+     "show": "WATCH 20 FLOOR",
+     "figure": "20"
+    },
+    {
+     "say": "Mechanical derivative flows overpower traditional company valuation during rapid sell-offs.",
+     "show": "DERIVATIVE DRIVEN",
+     "figure": ""
+    },
+    {
+     "say": "Monitor mechanical triggers closely. Follow for tomorrow's update.",
+     "show": "FOLLOW UPDATES",
+     "figure": ""
+    }
+   ],
+   "origin": "Marco Casario EXTRA",
+   "source_video": "Bolla AI o Correzione: non confondere un rimbalzo con la fine della Discesa",
+   "narration": "The VIX surge to 40 points forced automated institutional de-risking across global equities. Volatility surged violently from the 18 baseline straight up to 40 points. Volatility-controlled systematic funds automatically trim equity exposure when turbulence spikes. Meanwhile, three billion dollars in single-stock put expirations forced immediate delta hedging adjustments. Until the VIX settles back below 20, any bounce remains vulnerable to mechanical selling. Mechanical derivative flows overpower traditional company valuation during rapid sell-offs. Monitor mechanical triggers closely. Follow for tomorrow's update.",
+   "ticker": "^VIX",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "A VIX reading of 40 sparked mandatory fund liquidations alongside $3 billion in single-stock option delta hedging. Follow for tomorrow's update.",
+   "hashtags": [
+    "#VIX",
+    "#Volatility",
+    "#DeltaHedging",
+    "#Options",
+    "#StockMarket",
+    "#DeRisking"
+   ]
+  },
+  {
+   "levels": [
+    10.0,
+    47.0
+   ],
+   "history": null,
+   "title": "Correlation index surges to 47 points",
+   "hook": "CORRELATION AT 47",
+   "beats": [
+    {
+     "say": "The CBOE Implied Correlation Index surged from 10 to 47 within days.",
+     "show": "CORRELATION AT 47",
+     "figure": "47"
+    },
+    {
+     "say": "This metric tracks how closely individual S&P 500 equities move in tandem.",
+     "show": "COR1M INDEX",
+     "figure": "10"
+    },
+    {
+     "say": "When correlation spikes from historical lows to 47, conventional portfolio diversification breaks down.",
+     "show": "DIVERSIFICATION BREAKS",
+     "figure": "47"
+    },
+    {
+     "say": "Stocks drop simultaneously regardless of sector or individual balance sheet quality.",
+     "show": "SYNCHRONIZED FALL",
+     "figure": ""
+    },
+    {
+     "say": "A decline back toward the 20 level is necessary before individual stock picking works again.",
+     "show": "TARGET BELOW 20",
+     "figure": "20"
+    },
+    {
+     "say": "Elevated correlation highlights indiscriminate institutional selling rather than sector rebalancing.",
+     "show": "INDISCRIMINATE EXIT",
+     "figure": ""
+    },
+    {
+     "say": "Track correlation shifts carefully. Follow for tomorrow's update.",
+     "show": "TRACK CORRELATION",
+     "figure": ""
+    }
+   ],
+   "origin": "Marco Casario EXTRA",
+   "source_video": "Bolla AI o Correzione: non confondere un rimbalzo con la fine della Discesa",
+   "narration": "The CBOE Implied Correlation Index surged from 10 to 47 within days. This metric tracks how closely individual S&P 500 equities move in tandem. When correlation spikes from historical lows to 47, conventional portfolio diversification breaks down. Stocks drop simultaneously regardless of sector or individual balance sheet quality. A decline back toward the 20 level is necessary before individual stock picking works again. Elevated correlation highlights indiscriminate institutional selling rather than sector rebalancing. Track correlation shifts carefully. Follow for tomorrow's update.",
+   "ticker": null,
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "A spike in the CBOE correlation index to 47 proves that asset diversification broke down during the sell-off. Follow for tomorrow's update.",
+   "hashtags": [
+    "#Correlation",
+    "#CBOE",
+    "#SP500",
+    "#StockMarket",
+    "#PortfolioManagement",
+    "#Finance"
+   ]
+  },
+  {
+   "levels": [
+    1.0,
+    1.0
+   ],
+   "history": null,
+   "title": "EUR/USD drops to 1.095: dollar buffer",
+   "hook": "EUR/USD AT 1.095",
+   "beats": [
+    {
+     "say": "The euro dropped from 1.13 down to key support at 1.095 against the dollar.",
+     "show": "EUR/USD AT 1.095",
+     "figure": "1.095"
+    },
+    {
+     "say": "The United States dollar appreciated 2.5% during the equity market correction.",
+     "show": "DOLLAR UP 2.5%",
+     "figure": "2.5%"
+    },
+    {
+     "say": "For international holders of US assets, currency appreciation cushioned index drawdowns.",
+     "show": "CURRENCY BUFFER",
+     "figure": ""
+    },
+    {
+     "say": "Dollar strength acted as an automatic stabilizer across global investment accounts.",
+     "show": "PORTFOLIO SHIELD",
+     "figure": ""
+    },
+    {
+     "say": "If 1.095 breaks down, further currency moves will impact cross-border equity valuations.",
+     "show": "SUPPORT AT 1.095",
+     "figure": "1.095"
+    },
+    {
+     "say": "Exchange rates play a vital role in determining net performance during corrections.",
+     "show": "NET PERFORMANCE",
+     "figure": ""
+    },
+    {
+     "say": "Factor currency into returns. Follow for tomorrow's update.",
+     "show": "CURRENCY MATTERS",
+     "figure": ""
+    }
+   ],
+   "origin": "Marco Casario EXTRA",
+   "source_video": "Bolla AI o Correzione: non confondere un rimbalzo con la fine della Discesa",
+   "narration": "The euro dropped from 1.13 down to key support at 1.095 against the dollar. The United States dollar appreciated 2.5% during the equity market correction. For international holders of US assets, currency appreciation cushioned index drawdowns. Dollar strength acted as an automatic stabilizer across global investment accounts. If 1.095 breaks down, further currency moves will impact cross-border equity valuations. Exchange rates play a vital role in determining net performance during corrections. Factor currency into returns. Follow for tomorrow's update.",
+   "ticker": "EURUSD=X",
+   "sentiment": "neutral",
+   "sources": [],
+   "caption": "EUR/USD slipping toward 1.095 created an automatic buffer for euro-based investors in US equities. Follow for tomorrow's update.",
+   "hashtags": [
+    "#EURUSD",
+    "#Forex",
+    "#USDollar",
+    "#Currency",
+    "#GlobalMarkets",
+    "#Investing"
+   ]
+  },
+  {
+   "levels": [
+    6000.0,
+    5500.0
+   ],
+   "history": null,
+   "title": "S&P 500 put prices quadruple at 6,000",
+   "hook": "PUTS SOAR 4X",
+   "beats": [
+    {
+     "say": "S&P 500 put options on the 6,000 strike quadrupled from 7 to 27 points.",
+     "show": "PUTS SOAR 4X",
+     "figure": "27"
+    },
+    {
+     "say": "The surge occurred during a rapid 4.4% index correction.",
+     "show": "INDEX DROP 4.4%",
+     "figure": "-4.4%"
+    },
+    {
+     "say": "Protective contracts down at the 5,500 strike jumped to nearly 15 points.",
+     "show": "STRIKE 5,500 SPIKES",
+     "figure": "15"
+    },
+    {
+     "say": "Implied volatility on deep crash puts climbed straight to 62%, signaling structural fear.",
+     "show": "VOLATILITY AT 62%",
+     "figure": "62%"
+    },
+    {
+     "say": "Expensive downside insurance demonstrates that market participants are not treating this as routine profit-taking.",
+     "show": "SYSTEMIC FEAR",
+     "figure": ""
+    },
+    {
+     "say": "Elevated option pricing leaves the door open to additional volatility spikes.",
+     "show": "VOLATILE SKIES",
+     "figure": ""
+    },
+    {
+     "say": "Keep tracking option skew. Follow for tomorrow's update.",
+     "show": "TRACK OPTION SKEW",
+     "figure": ""
+    }
+   ],
+   "origin": "Marco Casario EXTRA",
+   "source_video": "Bolla AI o Correzione: non confondere un rimbalzo con la fine della Discesa",
+   "narration": "S&P 500 put options on the 6,000 strike quadrupled from 7 to 27 points. The surge occurred during a rapid 4.4% index correction. Protective contracts down at the 5,500 strike jumped to nearly 15 points. Implied volatility on deep crash puts climbed straight to 62%, signaling structural fear. Expensive downside insurance demonstrates that market participants are not treating this as routine profit-taking. Elevated option pricing leaves the door open to additional volatility spikes. Keep tracking option skew. Follow for tomorrow's update.",
+   "ticker": "ES=F",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "S&P 500 put options on the 6,000 strike exploded from 7 to 27 points as implied volatility hit 62%. Follow for tomorrow's update.",
+   "hashtags": [
+    "#SP500",
+    "#OptionsTrading",
+    "#PutOptions",
+    "#Volatility",
+    "#StockMarket",
+    "#Finance"
+   ]
+  },
+  {
+   "levels": [
+    100.0
+   ],
+   "history": null,
+   "title": "VWCE drops 7.4%: protective put advantage",
+   "hook": "HEDGE HITS +0.2%",
+   "beats": [
+    {
+     "say": "An unprotected VWCE portfolio lost 7.4%, while a hedged account gained 0.2%.",
+     "show": "HEDGE HITS +0.2%",
+     "figure": "+0.2%"
+    },
+    {
+     "say": "The broad global ETF retreated alongside the sudden drop in US equities.",
+     "show": "VWCE LOSES 7.4%",
+     "figure": "-7.4%"
+    },
+    {
+     "say": "Strategic put options completely erased downside volatility over the exact same period.",
+     "show": "PUT PROTECTION",
+     "figure": ""
+    },
+    {
+     "say": "Insurance must be established during low-volatility regimes when contract pricing is cheap.",
+     "show": "BUY CHEAP HEDGES",
+     "figure": ""
+    },
+    {
+     "say": "Purchasing downside protection during panics results in paying peak premiums.",
+     "show": "PANIC IS EXPENSIVE",
+     "figure": ""
+    },
+    {
+     "say": "Structure hedges before drawdowns begin. Follow for tomorrow's update.",
+     "show": "PLAN HEDGES EARLY",
+     "figure": ""
+    }
+   ],
+   "origin": "Marco Casario EXTRA",
+   "source_video": "Bolla AI o Correzione: non confondere un rimbalzo con la fine della Discesa",
+   "narration": "An unprotected VWCE portfolio lost 7.4%, while a hedged account gained 0.2%. The broad global ETF retreated alongside the sudden drop in US equities. Strategic put options completely erased downside volatility over the exact same period. Insurance must be established during low-volatility regimes when contract pricing is cheap. Purchasing downside protection during panics results in paying peak premiums. Structure hedges before drawdowns begin. Follow for tomorrow's update.",
+   "ticker": "VWCE.DE",
+   "sentiment": "neutral",
+   "sources": [],
+   "caption": "A hedged VWCE position delivered +0.2% while an unhedged portfolio sank 7.4% during the market pullback. Follow for tomorrow's update.",
+   "hashtags": [
+    "#VWCE",
+    "#ETFs",
+    "#Hedging",
+    "#Options",
+    "#Investing",
+    "#PortfolioStrategy"
+   ]
+  }
+ ],
+ "carousels": {
+  "it": {
+   "topic": "Anatomia del ribasso di mercato",
+   "caption": "Analisi approfondita sui meccanismi dietro la recente correzione dell'S&P 500, dai derivati alla tenuta dei supporti. Segui per l'aggiornamento di domani.",
+   "sentiment": "neutral",
+   "ticker": "^GSPC",
+   "slides": [
+    {
+     "title": "Crollo di mercato: semplice rimbalzo?",
+     "body": "Ecco cosa rivelano la volatilità, le coperture in opzioni e la tenuta dei supporti chiave."
+    },
+    {
+     "title": "VIX sopra 35 punti",
+     "body": "Nella storia l'S&P 500 è salito undici volte su undici a nove mesi da un picco del VIX sopra 35."
+    },
+    {
+     "title": "Oro scivola del 30%",
+     "body": "La discesa dell'oro a 3.616 dollari è frutto di margin call forzate e non di debolezza intrinseca del bene."
+    },
+    {
+     "title": "Divergenza tech e listino",
+     "body": "Mentre le mega cap correggono pesantemente, l'indice equal weight RSP difende l'area di supporto a 7.000 punti."
+    },
+    {
+     "title": "L'effetto del delta hedging",
+     "body": "La scadenza di 3 miliardi di dollari in opzioni put ha amplificato meccanicamente le vendite azionarie."
+    },
+    {
+     "title": "Coperture nei momenti calmi",
+     "body": "I put spread hanno assorbito il 40% delle perdite. La protezione si compra prima del panico. Segui per l'aggiornamento di domani."
+    }
+   ],
+   "hashtags": [
+    "#SP500",
+    "#Borsa",
+    "#Volatilità",
+    "#Investimenti",
+    "#Opzioni",
+    "#Trading",
+    "#Finanza",
+    "#Mercati"
+   ]
+  },
+  "en": {
+   "topic": "Mechanics behind the market pullback",
+   "caption": "Breaking down the mechanical drivers of the latest equity correction, from VIX triggers to options hedging. Follow for tomorrow's update.",
+   "sentiment": "neutral",
+   "ticker": "^GSPC",
+   "slides": [
+    {
+     "title": "Market crash: bounce or breakdown?",
+     "body": "Here is what volatility triggers, options hedging, and key support levels reveal right now."
+    },
+    {
+     "title": "VIX spikes past 35",
+     "body": "History shows the S&P 500 posted gains nine months later in all eleven past instances of VIX exceeding 35."
+    },
+    {
+     "title": "Gold drops 30%",
+     "body": "Gold's decline to $3,616 was driven by forced liquidations and global margin calls, not fundamental failure."
+    },
+    {
+     "title": "Equal-weight index holds",
+     "body": "While mega-caps absorbed large drawdowns, the equal-weight RSP successfully defended its critical 7,000 support level."
+    },
+    {
+     "title": "Delta hedging feedback",
+     "body": "The expiration of $3 billion in single-stock put options triggered automated selling across the underlying equities."
+    },
+    {
+     "title": "Hedging before panic",
+     "body": "Portfolio put spreads absorbed 40% of tech losses. Always insure before turbulence hits. Follow for tomorrow's update."
+    }
+   ],
+   "hashtags": [
+    "#StockMarket",
+    "#SP500",
+    "#Volatility",
+    "#Options",
+    "#Hedging",
+    "#Investing",
+    "#Macro",
+    "#Trading"
+   ]
+  }
+ }
+}
