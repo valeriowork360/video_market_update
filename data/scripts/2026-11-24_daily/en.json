@@ -1,0 +1,179 @@
+{
+ "title": "Wall Street Rallies as Nvidia CEO Returns and Bitcoin Struggles",
+ "description": "Wall Street surges in its strongest single-day rally in over a year following executive changes at Nvidia.\nTech volatility remains elevated while regulatory scrutiny and trade blacklists expand.\nBitcoin trades near key support zones while economic calendar events loom.\nSources: Marco Casario, Jeremy Lefebvre, Michael Pizzino, Jason Pizzino, CNBC, Yahoo Finance, Investing.com.",
+ "tags": [
+  "Nvidia",
+  "S&P 500",
+  "Nasdaq",
+  "Bitcoin",
+  "Stock Market",
+  "Market News",
+  "Tech Rally",
+  "Crypto",
+  "Fed",
+  "Economy"
+ ],
+ "thumbnail_text": "Nvidia CEO RETURNS",
+ "mood": "upbeat",
+ "segments": [
+  {
+   "id": "s1",
+   "kind": "hook",
+   "heading": "Nvidia Reinstatement Sparks Market Surge",
+   "narration": "A massive single-day rally sweeps Wall Street after Nvidia reinstates its chief executive officer. Meanwhile, federal trade blacklists expand to linked technology firms, index rebalancing brings structural changes, and Bitcoin fails to clear key overhead resistance.",
+   "bullets": [
+    "Nvidia leadership change sparks rally",
+    "U.S. blacklists linked tech firms",
+    "Bitcoin tests major overhead resistance"
+   ],
+   "ticker": "NVDA",
+   "sentiment": "bullish",
+   "sources": [
+    "CNBC",
+    "Yahoo Finance",
+    "Marco Casario"
+   ]
+  },
+  {
+   "id": "s2",
+   "kind": "market",
+   "heading": "Wall Street Bounces Sharply",
+   "narration": "Wall Street logged a sharp rebound in the latest trading session. The Nasdaq Composite surged 6.5% to 24,090, while the S&P 500 jumped 4.7% to 7,237. The Dow Jones added 3.0% to finish at 49,595. Volatility pulled back rapidly, with the VIX falling nearly 26% to 27. European equities also advanced, with the FTSE MIB rising 0.6% to 49,022 and the Euro Stoxx 50 gaining 2.2% to 6,074. Gold surged 3.9% to $3,651 per ounce, while Crude oil fell 4.5% to $80.17 per barrel.",
+   "bullets": [
+    "Nasdaq surges 6.5% to 24,090",
+    "S&P 500 climbs 4.7% to 7,237",
+    "VIX collapses 25.8% down to 27",
+    "Gold gains 3.9% to $3,651"
+   ],
+   "ticker": "^GSPC",
+   "sentiment": "bullish",
+   "sources": [
+    "Yahoo Finance"
+   ]
+  },
+  {
+   "id": "s3",
+   "kind": "topic",
+   "heading": "Nvidia CEO Reinstatement and Blacklist",
+   "narration": "The reinstatement of Nvidia chief executive Jensen Huang triggered record-breaking single-stock options volume and a powerful short squeeze across Asian and American semiconductor suppliers. However, broader trade tensions continue to unfold in the background. The United States added cloud infrastructure company Megaspeed and an Alibaba subsidiary to its trade blacklist over export control concerns linked to advanced computing hardware. Nvidia shares also face seasonal headwinds entering December, where tax-loss harvesting historically increases selling pressure on underperforming assets. While competitor AMD closed relative performance gaps in recent weeks, sudden market maker adjustments in options delta hedging amplified today's sharp upside momentum across chipmakers.",
+   "bullets": [
+    "Jensen Huang reinstated as Nvidia CEO",
+    "Megaspeed added to U.S. blacklist",
+    "Record single-stock options volume",
+    "Tax-loss harvesting dynamic approaches"
+   ],
+   "ticker": "NVDA",
+   "sentiment": "bullish",
+   "sources": [
+    "CNBC",
+    "Investing.com",
+    "Jeremy Lefebvre",
+    "Marco Casario"
+   ]
+  },
+  {
+   "id": "s4",
+   "kind": "topic",
+   "heading": "Rally Meets Structural Resistance Levels",
+   "narration": "Today's rally cushioned recent portfolio drawdowns, but a single session of gains does not establish a permanent trend reversal. During the recent drop, the CBOE Implied Correlation Index surged from 10 to 47, demonstrating how systematic deleveraging and option market dynamics drove correlated selling across asset classes. The S&P 500 has pushed back toward the 7,200 to 7,300 resistance zone. Establishing a durable interim bottom requires consecutive sessions of upside follow-through above this boundary. Until sustained buying volume consolidates above key technical targets, broader equities remain exposed to mechanical volatility and year-end portfolio rebalancing.",
+   "bullets": [
+    "S&P 500 tests 7,200 to 7,300 zone",
+    "Correlation index spiked to 47",
+    "Consecutive up-days needed to confirm floor",
+    "Mechanical derivative mechanics driving swings"
+   ],
+   "ticker": "^GSPC",
+   "sentiment": "neutral",
+   "sources": [
+    "Marco Casario",
+    "Michael Pizzino"
+   ]
+  },
+  {
+   "id": "s5",
+   "kind": "topic",
+   "heading": "Bitcoin Fails to Clear Resistance",
+   "narration": "Digital assets pulled back after an initial bounce, leaving Bitcoin at $60,284 and Ethereum at $1,697. Bitcoin briefly reached $64,600 before reversing, maintaining a pattern that lacks three consecutive green daily candles. Crucial structural resistance remains firmly at $67,000. Reclaiming and consolidating above $67,000 is necessary to reverse the short-term downward bias. If resistance holds, downside risk targets sit between $52,000 and $49,000. Dollar strength near 104 and shifting interest rate expectations continue to dictate macro liquidity conditions across global risk assets.",
+   "bullets": [
+    "Bitcoin trades near $60,284 level",
+    "Major pivot overhead sits at $67,000",
+    "Downside risk targets $52,000 to $49,000",
+    "Macro liquidity tied to dollar index"
+   ],
+   "ticker": "BTC-USD",
+   "sentiment": "bearish",
+   "sources": [
+    "Michael Pizzino",
+    "Jason Pizzino"
+   ]
+  },
+  {
+   "id": "s6",
+   "kind": "topic",
+   "heading": "SharkNinja Set for S&P 500",
+   "narration": "Index reshuffling brings significant individual stock moves. SharkNinja will join the S&P 500 benchmark prior to the market open on December 2, replacing AES, while Paycom Software shifts to the S&P MidCap 400. In enterprise technology, CrowdStrike continues to integrate its $44 billion acquisition of Zscaler despite recent market pressure. Institutional reallocations into defensive consumer growth brands reflect ongoing adjustments as capital managers position portfolios ahead of the final trading weeks of the year.",
+   "bullets": [
+    "SharkNinja joins S&P 500 Dec 2",
+    "AES leaves S&P 500 benchmark",
+    "CrowdStrike defends Zscaler acquisition",
+    "Capital shifts to resilient consumer names"
+   ],
+   "ticker": "SN",
+   "sentiment": "bullish",
+   "sources": [
+    "Yahoo Finance",
+    "CNBC"
+   ]
+  },
+  {
+   "id": "s7",
+   "kind": "curious",
+   "heading": "Amazon Delivery Drone FAA Investigation",
+   "narration": "Federal aviation regulators opened an investigation into Amazon after a commercial delivery drone struck a fiber optic cable and a residential garage in Michigan during takeoff before entangling itself in power lines. The incident highlights operational hurdles as autonomous logistics networks deploy in residential neighborhoods.",
+   "bullets": [
+    "FAA probes Amazon drone crash",
+    "Drone struck fiber cable and garage",
+    "Entangled in Michigan power lines"
+   ],
+   "ticker": "AMZN",
+   "sentiment": "neutral",
+   "sources": [
+    "CNBC"
+   ]
+  },
+  {
+   "id": "s8",
+   "kind": "ahead",
+   "heading": "PCE Inflation and GDP Ahead",
+   "narration": "Key macroeconomic releases will guide market sentiment over the coming sessions. Today at 10:00 AM Eastern Time, the United States Consumer Confidence report is scheduled with a forecast of 92.4. On Wednesday at 8:30 AM Eastern Time, crucial inflation and growth metrics arrive: the Core PCE Price Index is expected at 0.3% month-over-month, preliminary quarterly GDP is forecast at 3.5%, and the GDP Price Index is projected at 2.3%.",
+   "bullets": [
+    "Nov 24, 10:00 AM ET: Consumer Confidence",
+    "Nov 25, 08:30 AM ET: Core PCE Index",
+    "Nov 25, 08:30 AM ET: Prelim U.S. GDP",
+    "PCE inflation forecast sits at 0.3%"
+   ],
+   "ticker": null,
+   "sentiment": "neutral",
+   "sources": [
+    "Forex Factory"
+   ]
+  },
+  {
+   "id": "s9",
+   "kind": "outro",
+   "heading": "Briefing Complete",
+   "narration": "This briefing is for informational purposes only and is not financial advice. Follow for tomorrow's update.",
+   "bullets": [
+    "Not financial advice",
+    "Follow for tomorrow's update"
+   ],
+   "ticker": null,
+   "sentiment": "neutral",
+   "sources": []
+  }
+ ],
+ "words": 602,
+ "model": "gemini-3.6-flash",
+ "n_notes": 5,
+ "n_news": 187
+}
