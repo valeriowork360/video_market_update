@@ -369,12 +369,30 @@
   "done_at": "2026-11-23T03:44:16.840257+00:00"
  },
  "XyswxFiX8qY": {
-  "status": "pending",
+  "status": "done",
   "attempts": 1,
   "channel": "Marco Casario",
   "title": "I Mercati crollano: non è la BOLLA che deve preoccuparti",
   "first_seen": "2026-11-23T13:41:23.234321+00:00",
+  "tries": 2,
+  "done_at": "2026-11-24T01:18:55.219619+00:00"
+ },
+ "gCWCEbs54n0": {
+  "status": "done",
+  "attempts": 0,
+  "channel": "Financial Education 2",
+  "title": "Once in 20 year Short Squeeze!",
+  "done_at": "2026-11-24T01:16:33.778229+00:00",
+  "duplicate": true,
+  "tries": 1
+ },
+ "0vOgvjNiQnw": {
+  "status": "done",
+  "attempts": 0,
+  "channel": "Marco Casario EXTRA",
+  "title": "Bolla AI o Correzione: non confondere un rimbalzo con la fine della Discesa",
+  "first_seen": "2026-11-24T01:16:33.779195+00:00",
   "tries": 1,
-  "last_error": "gemini-3.7-flash: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again "
+  "done_at": "2026-11-24T01:18:06.260719+00:00"
  }
 }
