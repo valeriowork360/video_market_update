@@ -412,5 +412,14 @@
   "first_seen": "2026-11-24T04:32:46.242274+00:00",
   "tries": 1,
   "done_at": "2026-11-24T04:33:11.573628+00:00"
+ },
+ "h1FZdOIAXkw": {
+  "status": "pending",
+  "attempts": 1,
+  "channel": "MindTheChart",
+  "title": "LA FOLLIA DI QUESTI MERCATI ! IL RIMBALZO",
+  "first_seen": "2026-11-24T14:55:54.559773+00:00",
+  "tries": 1,
+  "last_error": "gemini-3.7-flash: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again "
  }
 }
