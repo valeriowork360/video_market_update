@@ -1,0 +1,760 @@
+{
+ "it": [
+  {
+   "levels": [
+    184.0
+   ],
+   "history": null,
+   "title": "Nvidia crolla del 49%: il livello chiave da difendere",
+   "hook": "Nvidia -48,9%",
+   "beats": [
+    {
+     "say": "Nvidia è crollata del 48,9% dai massimi storici prima di rimbalzare.",
+     "show": "Nvidia -48,9%",
+     "figure": "-48,9%"
+    },
+    {
+     "say": "Il titolo ha mostrato una prima reazione dopo settimane di forti vendite.",
+     "show": "Primo rimbalzo",
+     "figure": ""
+    },
+    {
+     "say": "Un solo giorno di rialzo non basta per confermare un'inversione di tendenza.",
+     "show": "Non basta",
+     "figure": ""
+    },
+    {
+     "say": "La condizione tecnica richiede di mantenere il prezzo sopra il punto medio di 184 dollari.",
+     "show": "Supporto 184 $",
+     "figure": "184 $"
+    },
+    {
+     "say": "I ritracciamenti devono avvenire con volumi in calo per evitare un nuovo crollo.",
+     "show": "Volumi in calo",
+     "figure": ""
+    },
+    {
+     "say": "La cautela resta d'obbligo finché gli acquisti non si stabilizzano sopra i livelli chiave. Segui per l'aggiornamento di domani.",
+     "show": "Attendi conferme",
+     "figure": ""
+    }
+   ],
+   "origin": "Michael Pizzino",
+   "source_video": "The Market Is Finally Showing Signs of Life... Watch What Happens Next",
+   "narration": "Nvidia è crollata del 48,9% dai massimi storici prima di rimbalzare. Il titolo ha mostrato una prima reazione dopo settimane di forti vendite. Un solo giorno di rialzo non basta per confermare un'inversione di tendenza. La condizione tecnica richiede di mantenere il prezzo sopra il punto medio di 184 dollari. I ritracciamenti devono avvenire con volumi in calo per evitare un nuovo crollo. La cautela resta d'obbligo finché gli acquisti non si stabilizzano sopra i livelli chiave. Segui per l'aggiornamento di domani.",
+   "ticker": "NVDA",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Nvidia tenta il recupero dopo un calo del 48,9%, ma il livello di 184 dollari resta decisivo per la tenuta del supporto.",
+   "hashtags": [
+    "#Nvidia",
+    "#NVDA",
+    "#Azioni",
+    "#Borsa",
+    "#Investing",
+    "#Tech"
+   ]
+  },
+  {
+   "levels": [
+    7200.0,
+    7300.0
+   ],
+   "history": null,
+   "title": "S&P 500 tocca la resistenza: rimbalzo vero o trappola?",
+   "hook": "S&P 500 a 7.300",
+   "beats": [
+    {
+     "say": "S&P 500 ha raggiunto l'area di resistenza a 7.300 punti in un solo giorno.",
+     "show": "S&P 500 a 7.300",
+     "figure": "7.300"
+    },
+    {
+     "say": "L'indice ha registrato un forte balzo dopo aver testato il minimo del 20 novembre.",
+     "show": "Rimbalzo dal minimo",
+     "figure": ""
+    },
+    {
+     "say": "I volumi durante la salita sono diminuiti rispetto alle sessioni precedenti.",
+     "show": "Volumi bassi",
+     "figure": ""
+    },
+    {
+     "say": "Il livello di supporto da monitorare per mantenere la struttura è 7.200 punti.",
+     "show": "Supporto 7.200",
+     "figure": "7.200"
+    },
+    {
+     "say": "I compratori devono mostrare più giornate positive consecutive per cementare il minimo.",
+     "show": "Servono rialzi",
+     "figure": ""
+    },
+    {
+     "say": "Senza acquisti continuativi il rischio di un nuovo test al ribasso rimane alto. Segui per l'aggiornamento di domani.",
+     "show": "Rischio ritest",
+     "figure": ""
+    }
+   ],
+   "origin": "Michael Pizzino",
+   "source_video": "The Market Is Finally Showing Signs of Life... Watch What Happens Next",
+   "narration": "S&P 500 ha raggiunto l'area di resistenza a 7.300 punti in un solo giorno. L'indice ha registrato un forte balzo dopo aver testato il minimo del 20 novembre. I volumi durante la salita sono diminuiti rispetto alle sessioni precedenti. Il livello di supporto da monitorare per mantenere la struttura è 7.200 punti. I compratori devono mostrare più giornate positive consecutive per cementare il minimo. Senza acquisti continuativi il rischio di un nuovo test al ribasso rimane alto. Segui per l'aggiornamento di domani.",
+   "ticker": "ES=F",
+   "sentiment": "neutral",
+   "sources": [],
+   "caption": "S&P 500 si scontra con la resistenza di 7.300 punti. Servono giornate consecutive al rialzo per confermare il minimo.",
+   "hashtags": [
+    "#SP500",
+    "#Borsa",
+    "#Mercati",
+    "#Trading",
+    "#Finanza",
+    "#Azionario"
+   ]
+  },
+  {
+   "levels": [
+    28000.0
+   ],
+   "history": null,
+   "title": "Nasdaq rimbalza dell'8% ma la struttura resta debole",
+   "hook": "Nasdaq +8%",
+   "beats": [
+    {
+     "say": "Nasdaq è rimbalzato dell'8% dai minimi ma resta strutturalmente debole.",
+     "show": "Nasdaq +8%",
+     "figure": "8%"
+    },
+    {
+     "say": "L'indice ha rotti importanti livelli tecnici dove solitamente i mercati forti tengono.",
+     "show": "Rottura tecnica",
+     "figure": ""
+    },
+    {
+     "say": "Per invertire la rotta l'azione del prezzo deve recuperare almeno metà del calo.",
+     "show": "Recuperare il calo",
+     "figure": ""
+    },
+    {
+     "say": "Il livello chiave da riconquistare è fissato a 28.000 punti.",
+     "show": "Target 28.000",
+     "figure": "28.000"
+    },
+    {
+     "say": "Solo un ritorno sopra quota 28.000 confermerà una vera forza di fondo.",
+     "show": "Conferma di forza",
+     "figure": ""
+    },
+    {
+     "say": "Finché quel livello resiste il settore tecnologico resta in una posizione vulnerabile. Segui per l'aggiornamento di domani.",
+     "show": "Mercato debole",
+     "figure": ""
+    }
+   ],
+   "origin": "Michael Pizzino",
+   "source_video": "The Market Is Finally Showing Signs of Life... Watch What Happens Next",
+   "narration": "Nasdaq è rimbalzato dell'8% dai minimi ma resta strutturalmente debole. L'indice ha rotti importanti livelli tecnici dove solitamente i mercati forti tengono. Per invertire la rotta l'azione del prezzo deve recuperare almeno metà del calo. Il livello chiave da riconquistare è fissato a 28.000 punti. Solo un ritorno sopra quota 28.000 confermerà una vera forza di fondo. Finché quel livello resiste il settore tecnologico resta in una posizione vulnerabile. Segui per l'aggiornamento di domani.",
+   "ticker": null,
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Il Nasdaq recupera l'8% ma non supera le rotture strutturali. La quota da riconquistare per l'inversione è 28.000 punti.",
+   "hashtags": [
+    "#Nasdaq",
+    "#Tech",
+    "#Borsa",
+    "#MercatiFinanziari",
+    "#Trading",
+    "#Azioni"
+   ]
+  },
+  {
+   "levels": [
+    103.5
+   ],
+   "history": null,
+   "title": "Dollaro USA sui massimi: segnali di stanchezza imminente",
+   "hook": "Dollaro ai massimi",
+   "beats": [
+    {
+     "say": "L'indice del dollaro USA mostra sfinimento dei compratori vicino ai massimi.",
+     "show": "Dollaro ai massimi",
+     "figure": ""
+    },
+    {
+     "say": "Il recente rialzo è stato accompagnato da volumi anomali e forte volatilità.",
+     "show": "Volumi anomali",
+     "figure": ""
+    },
+    {
+     "say": "Una flessione del dollaro è necessaria per dare respiro alle attività a rischio.",
+     "show": "Spinta ai mercati",
+     "figure": ""
+    },
+    {
+     "say": "Il supporto pivot da monitorare attentamente si trova a 103,5.",
+     "show": "Supporto 103,5",
+     "figure": "103,5"
+    },
+    {
+     "say": "La rottura sotto 103,5 avvierebbe un trend ribassista favorevole ad azionario e crypto.",
+     "show": "Svolta bullish",
+     "figure": ""
+    },
+    {
+     "say": "Un calo del dollaro fornirà la spinta decisiva al prossimo rally di mercato. Segui per l'aggiornamento di domani.",
+     "show": "Dollaro in calo",
+     "figure": ""
+    }
+   ],
+   "origin": "Michael Pizzino",
+   "source_video": "The Market Is Finally Showing Signs of Life... Watch What Happens Next",
+   "narration": "L'indice del dollaro USA mostra sfinimento dei compratori vicino ai massimi. Il recente rialzo è stato accompagnato da volumi anomali e forte volatilità. Una flessione del dollaro è necessaria per dare respiro alle attività a rischio. Il supporto pivot da monitorare attentamente si trova a 103,5. La rottura sotto 103,5 avvierebbe un trend ribassista favorevole ad azionario e crypto. Un calo del dollaro fornirà la spinta decisiva al prossimo rally di mercato. Segui per l'aggiornamento di domani.",
+   "ticker": null,
+   "sentiment": "bullish",
+   "sources": [],
+   "caption": "Il rally del dollaro mostra segnali di sfinimento. Una discesa sotto 103,5 sbloccherà la spinta per azionario e crypto.",
+   "hashtags": [
+    "#Dollaro",
+    "#Forex",
+    "#DXY",
+    "#Mercati",
+    "#Economia",
+    "#Crypto"
+   ]
+  },
+  {
+   "levels": [
+    67000.0
+   ],
+   "history": null,
+   "title": "Bitcoin sale a 64.600 $ e azzera i guadagni",
+   "hook": "Bitcoin 64.600 $",
+   "beats": [
+    {
+     "say": "Bitcoin è salito fino a 64.600 dollari prima di azzerare tutti i guadagni.",
+     "show": "Bitcoin 64.600 $",
+     "figure": "64.600 $"
+    },
+    {
+     "say": "Il rialzo ha tentato di interrompere una serie negativa durata 17 giorni.",
+     "show": "Calo di 17 giorni",
+     "figure": "17 giorni"
+    },
+    {
+     "say": "La giornata si è chiusa esattamente al livello di prezzo di partenza.",
+     "show": "Guadagni azzerati",
+     "figure": ""
+    },
+    {
+     "say": "Per confermare un cambio di rotta serve consolidare sopra 67.000 dollari.",
+     "show": "Pivot 67.000 $",
+     "figure": "67.000 $"
+    },
+    {
+     "say": "La struttura richiede tre candele giornaliere verdi consecutive prima della svolta.",
+     "show": "Servono 3 giorni",
+     "figure": "3 giorni"
+    },
+    {
+     "say": "Senza conferme su timeframe più alti la pressione ribassista domina. Segui per l'aggiornamento di domani.",
+     "show": "Trend ribassista",
+     "figure": ""
+    }
+   ],
+   "origin": "Michael Pizzino",
+   "source_video": "The Market Is Finally Showing Signs of Life... Watch What Happens Next",
+   "narration": "Bitcoin è salito fino a 64.600 dollari prima di azzerare tutti i guadagni. Il rialzo ha tentato di interrompere una serie negativa durata 17 giorni. La giornata si è chiusa esattamente al livello di prezzo di partenza. Per confermare un cambio di rotta serve consolidare sopra 67.000 dollari. La struttura richiede tre candele giornaliere verdi consecutive prima della svolta. Senza conferme su timeframe più alti la pressione ribassista domina. Segui per l'aggiornamento di domani.",
+   "ticker": "BTC-USD",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Bitcoin tocca 64.600 dollari ma chiude in parità. Serve la rottura di quota 67.000 dollari per invertire la tendenza.",
+   "hashtags": [
+    "#Bitcoin",
+    "#BTC",
+    "#Crypto",
+    "#Criptovalute",
+    "#Trading",
+    "#MarketUpdate"
+   ]
+  },
+  {
+   "levels": [
+    67000.0,
+    52000.0,
+    49000.0
+   ],
+   "history": null,
+   "title": "Bitcoin: il rischio calo tra 52.000 e 49.000 dollari",
+   "hook": "Target 49.000 $",
+   "beats": [
+    {
+     "say": "Bitcoin rischia una discesa verso 49.000 dollari se la resistenza tiene.",
+     "show": "Target 49.000 $",
+     "figure": "49.000 $"
+    },
+    {
+     "say": "Il grafico giornaliero non mostra ancora tre giorni consecutivi di rialzo.",
+     "show": "Mancano acquisti",
+     "figure": ""
+    },
+    {
+     "say": "La resistenza principale sopra il prezzo è posizionata a 67.000 dollari.",
+     "show": "Resistenza 67.000 $",
+     "figure": "67.000 $"
+    },
+    {
+     "say": "Il mancato superamento di 67.000 dollari mantiene attivo il trend ribassista.",
+     "show": "Trend negativo",
+     "figure": ""
+    },
+    {
+     "say": "La perdita di forza aprirà il target compreso tra 52.000 e 49.000 dollari.",
+     "show": "Supporto 52.000 $",
+     "figure": "52.000 $"
+    },
+    {
+     "say": "Il mercato rimane in una fase di debolezza fino alla rottura del pivot. Segui per l'aggiornamento di domani.",
+     "show": "Monitora i livelli",
+     "figure": ""
+    }
+   ],
+   "origin": "Michael Pizzino",
+   "source_video": "The Market Is Finally Showing Signs of Life... Watch What Happens Next",
+   "narration": "Bitcoin rischia una discesa verso 49.000 dollari se la resistenza tiene. Il grafico giornaliero non mostra ancora tre giorni consecutivi di rialzo. La resistenza principale sopra il prezzo è posizionata a 67.000 dollari. Il mancato superamento di 67.000 dollari mantiene attivo il trend ribassista. La perdita di forza aprirà il target compreso tra 52.000 e 49.000 dollari. Il mercato rimane in una fase di debolezza fino alla rottura del pivot. Segui per l'aggiornamento di domani.",
+   "ticker": "BTC-USD",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Bitcoin rimane sotto pressione sotto i 67.000 dollari. Senza rottura al rialzo i target restano tra 52.000 e 49.000 dollari.",
+   "hashtags": [
+    "#Bitcoin",
+    "#BTC",
+    "#Crypto",
+    "#Trading",
+    "#AnalisiTecnica",
+    "#Cripto"
+   ]
+  }
+ ],
+ "en": [
+  {
+   "levels": [
+    184.0
+   ],
+   "history": null,
+   "title": "Nvidia Drops 49%: The Key Level to Watch Now",
+   "hook": "Nvidia -48.9%",
+   "beats": [
+    {
+     "say": "Nvidia dropped 48.9% from its all-time high before bouncing.",
+     "show": "Nvidia -48.9%",
+     "figure": "-48.9%"
+    },
+    {
+     "say": "The stock saw a quick rebound after weeks of heavy selling.",
+     "show": "First bounce",
+     "figure": ""
+    },
+    {
+     "say": "A single green day is not enough to confirm a full trend reversal.",
+     "show": "Not confirmed",
+     "figure": ""
+    },
+    {
+     "say": "Price action needs to hold firmly above the midpoint level at $184.",
+     "show": "Hold $184",
+     "figure": "$184"
+    },
+    {
+     "say": "Pullbacks require lower trading volume to prevent another massive selloff.",
+     "show": "Volume check",
+     "figure": ""
+    },
+    {
+     "say": "Caution is required until buying volume proves sustained strength. Follow for tomorrow's update.",
+     "show": "Stay cautious",
+     "figure": ""
+    }
+   ],
+   "origin": "Michael Pizzino",
+   "source_video": "The Market Is Finally Showing Signs of Life... Watch What Happens Next",
+   "narration": "Nvidia dropped 48.9% from its all-time high before bouncing. The stock saw a quick rebound after weeks of heavy selling. A single green day is not enough to confirm a full trend reversal. Price action needs to hold firmly above the midpoint level at $184. Pullbacks require lower trading volume to prevent another massive selloff. Caution is required until buying volume proves sustained strength. Follow for tomorrow's update.",
+   "ticker": "NVDA",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Nvidia is attempting a recovery after a 48.9% decline, with $184 acting as the primary pivot point.",
+   "hashtags": [
+    "#Nvidia",
+    "#NVDA",
+    "#Stocks",
+    "#Trading",
+    "#TechStocks",
+    "#MarketUpdate"
+   ]
+  },
+  {
+   "levels": [
+    7200.0,
+    7300.0
+   ],
+   "history": null,
+   "title": "S&P 500 Hits Key Resistance: Real Bottom or Trap?",
+   "hook": "S&P 500 at 7,300",
+   "beats": [
+    {
+     "say": "S&P 500 reached the 7,300 resistance area in a single day.",
+     "show": "S&P 500 at 7,300",
+     "figure": "7,300"
+    },
+    {
+     "say": "The index bounced off its recent swing low from November 20.",
+     "show": "Bounce off low",
+     "figure": ""
+    },
+    {
+     "say": "Volume on the push higher was lower than previous heavy sessions.",
+     "show": "Lower volume",
+     "figure": ""
+    },
+    {
+     "say": "The key support area to preserve positive structure sits at 7,200 points.",
+     "show": "Support at 7,200",
+     "figure": "7,200"
+    },
+    {
+     "say": "Bulls must deliver multiple consecutive green days to confirm a durable bottom.",
+     "show": "Need green days",
+     "figure": ""
+    },
+    {
+     "say": "Without sustained buying power, this move remains vulnerable. Follow for tomorrow's update.",
+     "show": "Watch support",
+     "figure": ""
+    }
+   ],
+   "origin": "Michael Pizzino",
+   "source_video": "The Market Is Finally Showing Signs of Life... Watch What Happens Next",
+   "narration": "S&P 500 reached the 7,300 resistance area in a single day. The index bounced off its recent swing low from November 20. Volume on the push higher was lower than previous heavy sessions. The key support area to preserve positive structure sits at 7,200 points. Bulls must deliver multiple consecutive green days to confirm a durable bottom. Without sustained buying power, this move remains vulnerable. Follow for tomorrow's update.",
+   "ticker": "ES=F",
+   "sentiment": "neutral",
+   "sources": [],
+   "caption": "The S&P 500 tests resistance at 7,300 after bouncing from November lows. Multi-day confirmation is still needed.",
+   "hashtags": [
+    "#SP500",
+    "#Stocks",
+    "#MarketAnalysis",
+    "#Trading",
+    "#Finance",
+    "#StockMarket"
+   ]
+  },
+  {
+   "levels": [
+    28000.0
+   ],
+   "history": null,
+   "title": "Nasdaq Rallies 8% But Key Structure Remains Broken",
+   "hook": "Nasdaq +8%",
+   "beats": [
+    {
+     "say": "Nasdaq rallied 8% from its bottom but remains structurally weak.",
+     "show": "Nasdaq +8%",
+     "figure": "8%"
+    },
+    {
+     "say": "The index broke down from key support areas where strong trends usually hold.",
+     "show": "Structural break",
+     "figure": ""
+    },
+    {
+     "say": "To repair the chart, price action must regain half of its recent drop.",
+     "show": "Reclaim half",
+     "figure": ""
+    },
+    {
+     "say": "The main resistance target overhead is fixed at 28,000 points.",
+     "show": "Target 28,000",
+     "figure": "28,000"
+    },
+    {
+     "say": "Reclaiming 28,000 points is required to establish true market strength.",
+     "show": "Needs 28,000",
+     "figure": ""
+    },
+    {
+     "say": "Until that pivot is reclaimed, tech indices remain at risk. Follow for tomorrow's update.",
+     "show": "Tech fragile",
+     "figure": ""
+    }
+   ],
+   "origin": "Michael Pizzino",
+   "source_video": "The Market Is Finally Showing Signs of Life... Watch What Happens Next",
+   "narration": "Nasdaq rallied 8% from its bottom but remains structurally weak. The index broke down from key support areas where strong trends usually hold. To repair the chart, price action must regain half of its recent drop. The main resistance target overhead is fixed at 28,000 points. Reclaiming 28,000 points is required to establish true market strength. Until that pivot is reclaimed, tech indices remain at risk. Follow for tomorrow's update.",
+   "ticker": null,
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Despite an 8% bounce, the Nasdaq stays in a damaged technical state until it reclaims 28,000 points.",
+   "hashtags": [
+    "#Nasdaq",
+    "#TechStocks",
+    "#StockMarket",
+    "#Trading",
+    "#Investing",
+    "#Finance"
+   ]
+  },
+  {
+   "levels": [
+    103.5
+   ],
+   "history": null,
+   "title": "US Dollar Hits Exhaustion: Tailwinds Ahead for Stocks?",
+   "hook": "Dollar exhaustion",
+   "beats": [
+    {
+     "say": "US Dollar index is showing buying exhaustion near current highs.",
+     "show": "Dollar exhaustion",
+     "figure": ""
+    },
+    {
+     "say": "The recent rally produced abnormal volume and expanding price ranges.",
+     "show": "Volume spike",
+     "figure": ""
+    },
+    {
+     "say": "A dollar pullback is required to unlock upside momentum for risk assets.",
+     "show": "Risk assets boost",
+     "figure": ""
+    },
+    {
+     "say": "The critical downside support level to watch sits at 103.5.",
+     "show": "Pivot 103.5",
+     "figure": "103.5"
+    },
+    {
+     "say": "A clean break below 103.5 will confirm a trend reversal into lower ranges.",
+     "show": "Breakout below",
+     "figure": ""
+    },
+    {
+     "say": "Dollar weakness remains the essential trigger for sustained equity and crypto rallies. Follow for tomorrow's update.",
+     "show": "Dollar weakness",
+     "figure": ""
+    }
+   ],
+   "origin": "Michael Pizzino",
+   "source_video": "The Market Is Finally Showing Signs of Life... Watch What Happens Next",
+   "narration": "US Dollar index is showing buying exhaustion near current highs. The recent rally produced abnormal volume and expanding price ranges. A dollar pullback is required to unlock upside momentum for risk assets. The critical downside support level to watch sits at 103.5. A clean break below 103.5 will confirm a trend reversal into lower ranges. Dollar weakness remains the essential trigger for sustained equity and crypto rallies. Follow for tomorrow's update.",
+   "ticker": null,
+   "sentiment": "bullish",
+   "sources": [],
+   "caption": "The US Dollar rally shows signs of exhaustion. A drop below 103.5 could spark the next leg up for stocks and crypto.",
+   "hashtags": [
+    "#USDollar",
+    "#DXY",
+    "#Forex",
+    "#Stocks",
+    "#Crypto",
+    "#Markets"
+   ]
+  },
+  {
+   "levels": [
+    67000.0
+   ],
+   "history": null,
+   "title": "Bitcoin Spikes to $64,600 Then Wipes Out Gains",
+   "hook": "Bitcoin $64,600",
+   "beats": [
+    {
+     "say": "Bitcoin surged to $64,600 before erasing all of its gains.",
+     "show": "Bitcoin $64,600",
+     "figure": "$64,600"
+    },
+    {
+     "say": "Bulls tried to snap a 17-day decline following the cycle top.",
+     "show": "17-day drop",
+     "figure": "17 days"
+    },
+    {
+     "say": "Price action closed the session exactly where the rally started.",
+     "show": "Gains erased",
+     "figure": ""
+    },
+    {
+     "say": "The key overhead pivot level to reclaim sits at $67,000.",
+     "show": "Pivot $67,000",
+     "figure": "$67,000"
+    },
+    {
+     "say": "Building a valid base requires printing three consecutive green daily closes.",
+     "show": "3 green days",
+     "figure": "3 days"
+    },
+    {
+     "say": "Higher timeframe indicators demand clear breakout confirmation before turning bullish. Follow for tomorrow's update.",
+     "show": "Wait confirmation",
+     "figure": ""
+    }
+   ],
+   "origin": "Michael Pizzino",
+   "source_video": "The Market Is Finally Showing Signs of Life... Watch What Happens Next",
+   "narration": "Bitcoin surged to $64,600 before erasing all of its gains. Bulls tried to snap a 17-day decline following the cycle top. Price action closed the session exactly where the rally started. The key overhead pivot level to reclaim sits at $67,000. Building a valid base requires printing three consecutive green daily closes. Higher timeframe indicators demand clear breakout confirmation before turning bullish. Follow for tomorrow's update.",
+   "ticker": "BTC-USD",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Bitcoin's rally to $64,600 completely faded by close. Resistance at $67,000 remains the key hurdle for bulls.",
+   "hashtags": [
+    "#Bitcoin",
+    "#BTC",
+    "#Crypto",
+    "#Cryptocurrency",
+    "#Trading",
+    "#CryptoNews"
+   ]
+  },
+  {
+   "levels": [
+    67000.0,
+    52000.0,
+    49000.0
+   ],
+   "history": null,
+   "title": "Bitcoin Warning: $49,000 In Sight If Pivot Fails",
+   "hook": "Target $49,000",
+   "beats": [
+    {
+     "say": "Bitcoin risks falling toward $49,000 if overhead resistance holds.",
+     "show": "Target $49,000",
+     "figure": "$49,000"
+    },
+    {
+     "say": "The daily chart still lacks three consecutive green closes.",
+     "show": "No momentum",
+     "figure": ""
+    },
+    {
+     "say": "The overhead resistance pivot point remains firm at $67,000.",
+     "show": "Resistance $67,000",
+     "figure": "$67,000"
+    },
+    {
+     "say": "Failing to regain $67,000 keeps the broader downtrend fully intact.",
+     "show": "Downtrend intact",
+     "figure": ""
+    },
+    {
+     "say": "Downside targets align between $52,000 and $49,000 if support breaks.",
+     "show": "Support $52,000",
+     "figure": "$52,000"
+    },
+    {
+     "say": "The overall trend stays downward until proven otherwise by key levels. Follow for tomorrow's update.",
+     "show": "Watch levels",
+     "figure": ""
+    }
+   ],
+   "origin": "Michael Pizzino",
+   "source_video": "The Market Is Finally Showing Signs of Life... Watch What Happens Next",
+   "narration": "Bitcoin risks falling toward $49,000 if overhead resistance holds. The daily chart still lacks three consecutive green closes. The overhead resistance pivot point remains firm at $67,000. Failing to regain $67,000 keeps the broader downtrend fully intact. Downside targets align between $52,000 and $49,000 if support breaks. The overall trend stays downward until proven otherwise by key levels. Follow for tomorrow's update.",
+   "ticker": "BTC-USD",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Bitcoin remains locked in a downward trend below $67,000. Failure to break higher exposes targets down to $49,000.",
+   "hashtags": [
+    "#Bitcoin",
+    "#BTC",
+    "#Crypto",
+    "#CryptoAnalysis",
+    "#Trading",
+    "#BitcoinPrice"
+   ]
+  }
+ ],
+ "carousels": {
+  "it": {
+   "topic": "Analisi rimbalzo e livelli chiave",
+   "caption": "Il mercato mostra segnali di reazione ma la conferma del trend richiede il superamento di livelli tecnici ben precisi. Ecco la mappa completa tra azionario e crypto. Segui per l'aggiornamento di domani.",
+   "sentiment": "neutral",
+   "ticker": null,
+   "slides": [
+    {
+     "title": "Rimbalzo di mercato: inversione o trappola?",
+     "body": "I livelli tecnici su Nvidia, S&P 500, Nasdaq, Dollaro e Bitcoin rivelano le prossime mosse."
+    },
+    {
+     "title": "Nvidia sotto l'esame di 184 $",
+     "body": "Dopo il crollo del 48,9%, Nvidia deve difendere il livello medio di 184 dollari con volumi bassi nei ritracciamenti."
+    },
+    {
+     "title": "S&P 500 e Nasdaq alla prova",
+     "body": "L'S&P 500 sbatte sulla resistenza di 7.300 punti, mentre il Nasdaq deve riconquistare 28.000 punti per ritrovare forza."
+    },
+    {
+     "title": "Il nodo del dollaro a 103,5",
+     "body": "L'indice del dollaro mostra sfinimento dei compratori. Una discesa sotto 103,5 darà ossigeno ad azionario e crypto."
+    },
+    {
+     "title": "Bitcoin fissa il pivot a 67.000 $",
+     "body": "Bitcoin deve consolidare sopra 67.000 dollari con tre giorni verdi consecutivi per evitare discese verso 52.000 e 49.000 dollari."
+    },
+    {
+     "title": "Attendi le conferme dei livelli",
+     "body": "I rimbalzi di un solo giorno non bastano a cambiare il trend. Segui per l'aggiornamento di domani."
+    }
+   ],
+   "hashtags": [
+    "#Borsa",
+    "#Mercati",
+    "#Nvidia",
+    "#SP500",
+    "#Nasdaq",
+    "#Bitcoin",
+    "#Trading",
+    "#Finanza",
+    "#Crypto"
+   ]
+  },
+  "en": {
+   "topic": "Market Bounce and Key Technical Levels",
+   "caption": "The market shows signs of life, but trend reversals require multi-day confirmation above critical price pivots. Here is your roadmap across major assets. Follow for tomorrow's update.",
+   "sentiment": "neutral",
+   "ticker": null,
+   "slides": [
+    {
+     "title": "Market Bounce: Real Reversal or Trap?",
+     "body": "Key technical levels for Nvidia, S&P 500, Nasdaq, Dollar, and Bitcoin reveal what comes next."
+    },
+    {
+     "title": "Nvidia Tests $184 Midpoint",
+     "body": "Following a 48.9% decline, Nvidia must hold above $184 with declining volume on pullbacks to confirm stability."
+    },
+    {
+     "title": "S&P 500 and Nasdaq Hurdles",
+     "body": "S&P 500 reached 7,300 resistance, while Nasdaq must reclaim 28,000 points to overcome severe structural damage."
+    },
+    {
+     "title": "US Dollar Exhaustion at 103.5",
+     "body": "The dollar index shows buying exhaustion near highs. A breakdown below 103.5 provides tailwinds for risk assets."
+    },
+    {
+     "title": "Bitcoin's $67,000 Pivot Line",
+     "body": "Bitcoin needs three green days above $67,000 to reverse momentum, or risks lower targets between $52,000 and $49,000."
+    },
+    {
+     "title": "Focus on Confirmation Signals",
+     "body": "Single-day gains do not confirm new trends; wait for technical level breaks. Follow for tomorrow's update."
+    }
+   ],
+   "hashtags": [
+    "#StockMarket",
+    "#Markets",
+    "#Nvidia",
+    "#SP500",
+    "#Nasdaq",
+    "#Bitcoin",
+    "#Trading",
+    "#Investing",
+    "#Finance"
+   ]
+  }
+ }
+}

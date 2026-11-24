@@ -1,0 +1,806 @@
+{
+ "it": [
+  {
+   "levels": [
+    104.0,
+    106.0
+   ],
+   "history": null,
+   "title": "DXY verso 104: il livello chiave per il fondo dei mercati",
+   "hook": "DXY A 104",
+   "beats": [
+    {
+     "say": "Il DXY punta alla resistenza di 104.",
+     "show": "DXY A 104",
+     "figure": "104"
+    },
+    {
+     "say": "L'indice del dollaro americano spinge verso una zona macro cruciale.",
+     "show": "ZONA CRUCIALE",
+     "figure": ""
+    },
+    {
+     "say": "I tagli dei tassi non riporteranno i tassi di interesse a zero.",
+     "show": "NO TASSI ZERO",
+     "figure": "0%"
+    },
+    {
+     "say": "Se il DXY sale tra 104 e 106, i mercati trovano la loro base.",
+     "show": "TARGET 104-106",
+     "figure": "106"
+    },
+    {
+     "say": "Oro e Bitcoin toccano il fondo prima del completamento dei tagli della Fed.",
+     "show": "FONDO MINIMI",
+     "figure": ""
+    },
+    {
+     "say": "I tassi si stabilizzeranno tra 0% e 2%. Segui per l'aggiornamento di domani.",
+     "show": "TASSI 0-2%",
+     "figure": "2%"
+    }
+   ],
+   "origin": "Jason Pizzino",
+   "source_video": "Shocking Market Collapse, Bitcoin Crash and Outlook for 2027 w @benjaminjcowen i",
+   "narration": "Il DXY punta alla resistenza di 104. L'indice del dollaro americano spinge verso una zona macro cruciale. I tagli dei tassi non riporteranno i tassi di interesse a zero. Se il DXY sale tra 104 e 106, i mercati trovano la loro base. Oro e Bitcoin toccano il fondo prima del completamento dei tagli della Fed. I tassi si stabilizzeranno tra 0% e 2%. Segui per l'aggiornamento di domani.",
+   "ticker": "DX-Y.NYB",
+   "sentiment": "neutral",
+   "sources": [],
+   "caption": "Il livello del DXY tra 104 e 106 potrebbe segnare il punto di svolta per i mercati.",
+   "hashtags": [
+    "#DXY",
+    "#Fed",
+    "#Dollaro",
+    "#Bitcoin",
+    "#Oro",
+    "#Macroeconomia"
+   ]
+  },
+  {
+   "levels": [],
+   "history": {
+    "symbol": "GC=F",
+    "start": "1974-03",
+    "end": "1974-09"
+   },
+   "title": "L'oro ha toccato il minimo prima delle azioni nel 1974",
+   "hook": "ORO 1974",
+   "beats": [
+    {
+     "say": "L'oro ha toccato il minimo prima nel 1974.",
+     "show": "ORO 1974",
+     "figure": "1974"
+    },
+    {
+     "say": "A marzo 1974 l'oro subì un forte calo durante una grave recessione USA.",
+     "show": "CALO RECESSIONE",
+     "figure": ""
+    },
+    {
+     "say": "Tutti si aspettavano il recupero delle azioni prima dei metalli preziosi.",
+     "show": "MERCATO INERTE",
+     "figure": ""
+    },
+    {
+     "say": "Entro settembre 1974 l'oro completò il minimo e balzò su nuovi massimi.",
+     "show": "SETTEMBRE 1974",
+     "figure": ""
+    },
+    {
+     "say": "I metalli anticipano l'uscita dalla crisi rispetto agli asset di rischio.",
+     "show": "RIPRESA ANTICIPATA",
+     "figure": ""
+    },
+    {
+     "say": "L'oro guida le risposte di politica monetaria. Segui per l'aggiornamento di domani.",
+     "show": "GUIDA IL RALLY",
+     "figure": ""
+    }
+   ],
+   "origin": "Jason Pizzino",
+   "source_video": "Shocking Market Collapse, Bitcoin Crash and Outlook for 2027 w @benjaminjcowen i",
+   "narration": "L'oro ha toccato il minimo prima nel 1974. A marzo 1974 l'oro subì un forte calo durante una grave recessione USA. Tutti si aspettavano il recupero delle azioni prima dei metalli preziosi. Entro settembre 1974 l'oro completò il minimo e balzò su nuovi massimi. I metalli anticipano l'uscita dalla crisi rispetto agli asset di rischio. L'oro guida le risposte di politica monetaria. Segui per l'aggiornamento di domani.",
+   "ticker": "GC=F",
+   "sentiment": "bullish",
+   "sources": [],
+   "caption": "Nel 1974 l'oro ha anticipato la ripresa azionaria toccando i minimi sei mesi prima.",
+   "hashtags": [
+    "#Oro",
+    "#Recessione",
+    "#StoriaFinanziaria",
+    "#Mercati",
+    "#Macroeconomia"
+   ]
+  },
+  {
+   "levels": [],
+   "history": {
+    "symbol": "^GSPC",
+    "start": "1997-03",
+    "end": "2000-03"
+   },
+   "title": "S&P 500 a 1.527 punti: la lezione del ciclo 1997-2000",
+   "hook": "S&P 500 1.527",
+   "beats": [
+    {
+     "say": "S&P 500 toccò 1.527 punti a marzo 2000.",
+     "show": "S&P 500 1.527",
+     "figure": "1.527"
+    },
+    {
+     "say": "Dal marzo 1997 la Fed alzò i tassi, li fermò, li tagliò e li rialzò sette volte.",
+     "show": "7 RIALZI FED",
+     "figure": "7"
+    },
+    {
+     "say": "I mercati assorbirono molteplici rialzi prima di cedere alla recessione.",
+     "show": "RESISTENZA TEMPORANEA",
+     "figure": ""
+    },
+    {
+     "say": "L'indice scese del -0,4% a 1.499 punti a fine periodo.",
+     "show": "S&P 500 1.499",
+     "figure": "1.499"
+    },
+    {
+     "say": "Le lunghe fasi di pausa dei tassi sostengono i listini solo temporaneamente.",
+     "show": "PAUSA TASSI",
+     "figure": ""
+    },
+    {
+     "say": "I plateau prolungati nascondono rischi strutturali. Segui per l'aggiornamento di domani.",
+     "show": "RISCHIO STRUCTURAL",
+     "figure": ""
+    }
+   ],
+   "origin": "Jason Pizzino",
+   "source_video": "Shocking Market Collapse, Bitcoin Crash and Outlook for 2027 w @benjaminjcowen i",
+   "narration": "S&P 500 toccò 1.527 punti a marzo 2000. Dal marzo 1997 la Fed alzò i tassi, li fermò, li tagliò e li rialzò sette volte. I mercati assorbirono molteplici rialzi prima di cedere alla recessione. L'indice scese del -0,4% a 1.499 punti a fine periodo. Le lunghe fasi di pausa dei tassi sostengono i listini solo temporaneamente. I plateau prolungati nascondono rischi strutturali. Segui per l'aggiornamento di domani.",
+   "ticker": "^GSPC",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "La storia del ciclo 1997-2000 mostra come la fase di stasi dei tassi preceda le correzioni.",
+   "hashtags": [
+    "#SP500",
+    "#Fed",
+    "#Tassi",
+    "#Recessione",
+    "#Borsa"
+   ]
+  },
+  {
+   "levels": [],
+   "history": null,
+   "title": "Bitcoin segna il minimo di ciclo: prospettiva 2027",
+   "hook": "MINIMO Bitcoin",
+   "beats": [
+    {
+     "say": "Bitcoin registra il minimo del ciclo.",
+     "show": "MINIMO Bitcoin",
+     "figure": ""
+    },
+    {
+     "say": "I mercati delle criptovalute mostrano stanchezza dopo una lunga fase ribassista.",
+     "show": "STANCHEZZA MERCATO",
+     "figure": ""
+    },
+    {
+     "say": "I veri minimi si formano quando il sentiment negativo è al massimo.",
+     "show": "SENTIMENT NEGATIVO",
+     "figure": ""
+    },
+    {
+     "say": "Un importante rimbalzo si concretizzerà entro l'inizio del 2027.",
+     "show": "RIMBALZO 2027",
+     "figure": "2027"
+    },
+    {
+     "say": "Ai primi rialzi seguiranno verifiche macroeconomiche. Segui per l'aggiornamento di domani.",
+     "show": "VERIFICA MACRO",
+     "figure": ""
+    }
+   ],
+   "origin": "Jason Pizzino",
+   "source_video": "Shocking Market Collapse, Bitcoin Crash and Outlook for 2027 w @benjaminjcowen i",
+   "narration": "Bitcoin registra il minimo del ciclo. I mercati delle criptovalute mostrano stanchezza dopo una lunga fase ribassista. I veri minimi si formano quando il sentiment negativo è al massimo. Un importante rimbalzo si concretizzerà entro l'inizio del 2027. Ai primi rialzi seguiranno verifiche macroeconomiche. Segui per l'aggiornamento di domani.",
+   "ticker": "BTC-USD",
+   "sentiment": "bullish",
+   "sources": [],
+   "caption": "Il minimo di ciclo per Bitcoin apre la strada a un potenziale rimbalzo verso il 2027.",
+   "hashtags": [
+    "#Bitcoin",
+    "#Crypto",
+    "#CicloBitcoin",
+    "#Mercati"
+   ]
+  },
+  {
+   "levels": [],
+   "history": null,
+   "title": "IPO OpenAI 2027: il rischio liquidità per Bitcoin",
+   "hook": "IPO OPENAI 2027",
+   "beats": [
+    {
+     "say": "L'IPO di OpenAI minaccia la liquidità di Bitcoin.",
+     "show": "IPO OPENAI 2027",
+     "figure": "2027"
+    },
+    {
+     "say": "La quotazione prevista nel 2027 assorbirà capitale dai mercati digitali.",
+     "show": "DRAIN LIQUIDITÀ",
+     "figure": ""
+    },
+    {
+     "say": "Le mega sbarchi in borsa prosciugano la liquidità degli asset alternativi.",
+     "show": "CAPITALI IN FUOGA",
+     "figure": ""
+    },
+    {
+     "say": "I guadagni delle crypto subiranno pressioni durante la finestra dell'IPO.",
+     "show": "PRESSIONE CRYPTO",
+     "figure": ""
+    },
+    {
+     "say": "I grandi eventi azionari riallocano i capitali. Segui per l'aggiornamento di domani.",
+     "show": "REALLOCAZIONE",
+     "figure": ""
+    }
+   ],
+   "origin": "Jason Pizzino",
+   "source_video": "Shocking Market Collapse, Bitcoin Crash and Outlook for 2027 w @benjaminjcowen i",
+   "narration": "L'IPO di OpenAI minaccia la liquidità di Bitcoin. La quotazione prevista nel 2027 assorbirà capitale dai mercati digitali. Le mega sbarchi in borsa prosciugano la liquidità degli asset alternativi. I guadagni delle crypto subiranno pressioni durante la finestra dell'IPO. I grandi eventi azionari riallocano i capitali. Segui per l'aggiornamento di domani.",
+   "ticker": "BTC-USD",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "La quotazione di OpenAI nel 2027 rischia di prosciugare la liquidità da Bitcoin.",
+   "hashtags": [
+    "#OpenAI",
+    "#Bitcoin",
+    "#IPO",
+    "#Crypto",
+    "#Liquidita"
+   ]
+  },
+  {
+   "levels": [
+    24000.0
+   ],
+   "history": null,
+   "title": "Bitcoin sopra 24.000 dollari: la lezione del ciclo 2023",
+   "hook": "BTC 24.000 $",
+   "beats": [
+    {
+     "say": "Bitcoin ha tenuto quota 24.000 dollari.",
+     "show": "BTC 24.000 $",
+     "figure": "24.000 $"
+    },
+    {
+     "say": "Attendersi un crollo sotto 24.000 dollari a fine 2023 è stato un errore.",
+     "show": "SUPPORTO TENUTO",
+     "figure": ""
+    },
+    {
+     "say": "Le correzioni nei cicli rialzisti finiscono più in alto del previsto.",
+     "show": "MINIMI PIÙ ALTI",
+     "figure": ""
+    },
+    {
+     "say": "I supporti chiave difendono il trend rialzista prima del previsto.",
+     "show": "TREND FORTE",
+     "figure": ""
+    },
+    {
+     "say": "I ritracciamenti contenuti segnalano forza strutturale. Segui per l'aggiornamento di domani.",
+     "show": "FORZA STRUTTURALE",
+     "figure": ""
+    }
+   ],
+   "origin": "Jason Pizzino",
+   "source_video": "Shocking Market Collapse, Bitcoin Crash and Outlook for 2027 w @benjaminjcowen i",
+   "narration": "Bitcoin ha tenuto quota 24.000 dollari. Attendersi un crollo sotto 24.000 dollari a fine 2023 è stato un errore. Le correzioni nei cicli rialzisti finiscono più in alto del previsto. I supporti chiave difendono il trend rialzista prima del previsto. I ritracciamenti contenuti segnalano forza strutturale. Segui per l'aggiornamento di domani.",
+   "ticker": "BTC-USD",
+   "sentiment": "bullish",
+   "sources": [],
+   "caption": "Il supporto a 24.000 dollari nel 2023 ha confermato la tenuta strutturale del trend di Bitcoin.",
+   "hashtags": [
+    "#Bitcoin",
+    "#Supporto",
+    "#BTC",
+    "#AnalisiTecnica",
+    "#Crypto"
+   ]
+  },
+  {
+   "levels": [],
+   "history": null,
+   "title": "Oro in difficoltà nel 2026: i rischi di debolezza prolungata",
+   "hook": "ORO IN AFFANNO",
+   "beats": [
+    {
+     "say": "L'oro ha faticato per tutto il 2026.",
+     "show": "ORO IN AFFANNO",
+     "figure": "2026"
+    },
+    {
+     "say": "I metalli preziosi non hanno fornito le coperture rifugio attese.",
+     "show": "NO BENERIFUGIO",
+     "figure": ""
+    },
+    {
+     "say": "Le materie prime possono attraversare lunghe fasi di correzione.",
+     "show": "CORREZIONE LUNGA",
+     "figure": ""
+    },
+    {
+     "say": "L'oro necessita di un pronto riscatto per evitare debolezze pluriennali.",
+     "show": "RISCATTO NECESSARIO",
+     "figure": ""
+    },
+    {
+     "say": "I beni rifugio richiedono un rapido recupero. Segui per l'aggiornamento di domani.",
+     "show": "RECUPERO RAPIDO",
+     "figure": ""
+    }
+   ],
+   "origin": "Jason Pizzino",
+   "source_video": "Shocking Market Collapse, Bitcoin Crash and Outlook for 2027 w @benjaminjcowen i",
+   "narration": "L'oro ha faticato per tutto il 2026. I metalli preziosi non hanno fornito le coperture rifugio attese. Le materie prime possono attraversare lunghe fasi di correzione. L'oro necessita di un pronto riscatto per evitare debolezze pluriennali. I beni rifugio richiedono un rapido recupero. Segui per l'aggiornamento di domani.",
+   "ticker": "GC=F",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Nel 2026 l'oro ha faticato a confermare il proprio ruolo di bene rifugio.",
+   "hashtags": [
+    "#Oro",
+    "#MateriePrime",
+    "#Mercati",
+    "#BeniRifugio",
+    "#Investing"
+   ]
+  }
+ ],
+ "en": [
+  {
+   "levels": [
+    104.0,
+    106.0
+   ],
+   "history": null,
+   "title": "DXY reaching 104: key threshold for market bottom",
+   "hook": "DXY AT 104",
+   "beats": [
+    {
+     "say": "DXY targets resistance at 104.",
+     "show": "DXY AT 104",
+     "figure": "104"
+    },
+    {
+     "say": "The US Dollar Index is pressing upward toward a critical macro zone.",
+     "show": "CRITICAL ZONE",
+     "figure": ""
+    },
+    {
+     "say": "Rate cuts will not return interest rates back to zero.",
+     "show": "NO ZERO RATES",
+     "figure": "0%"
+    },
+    {
+     "say": "If DXY climbs to 104 or 106, asset markets find their floor.",
+     "show": "TARGET 104-106",
+     "figure": "106"
+    },
+    {
+     "say": "Gold and Bitcoin establish a bottom before full Fed cuts take effect.",
+     "show": "ASSET BOTTOM",
+     "figure": ""
+    },
+    {
+     "say": "Interest rates will settle between 0% and 2%. Follow for tomorrow's update.",
+     "show": "RATES 0-2%",
+     "figure": "2%"
+    }
+   ],
+   "origin": "Jason Pizzino",
+   "source_video": "Shocking Market Collapse, Bitcoin Crash and Outlook for 2027 w @benjaminjcowen i",
+   "narration": "DXY targets resistance at 104. The US Dollar Index is pressing upward toward a critical macro zone. Rate cuts will not return interest rates back to zero. If DXY climbs to 104 or 106, asset markets find their floor. Gold and Bitcoin establish a bottom before full Fed cuts take effect. Interest rates will settle between 0% and 2%. Follow for tomorrow's update.",
+   "ticker": "DX-Y.NYB",
+   "sentiment": "neutral",
+   "sources": [],
+   "caption": "DXY approaching 104-106 signals a potential structural bottom across major assets.",
+   "hashtags": [
+    "#DXY",
+    "#Fed",
+    "#Dollar",
+    "#Bitcoin",
+    "#Gold",
+    "#Macro"
+   ]
+  },
+  {
+   "levels": [],
+   "history": {
+    "symbol": "GC=F",
+    "start": "1974-03",
+    "end": "1974-09"
+   },
+   "title": "Gold bottomed before stocks in 1974",
+   "hook": "GOLD 1974",
+   "beats": [
+    {
+     "say": "Gold bottomed first in 1974.",
+     "show": "GOLD 1974",
+     "figure": "1974"
+    },
+    {
+     "say": "In March 1974 gold suffered a severe selloff during a US recession.",
+     "show": "RECESSION DROP",
+     "figure": ""
+    },
+    {
+     "say": "Investors expected stocks to recover before precious metals.",
+     "show": "WRONG EXPECTATIONS",
+     "figure": ""
+    },
+    {
+     "say": "By September 1974 gold completed its bottom and reached new highs.",
+     "show": "SEPTEMBER 1974",
+     "figure": ""
+    },
+    {
+     "say": "Precious metals clear downturns months before risk assets recover.",
+     "show": "EARLY RECOVERY",
+     "figure": ""
+    },
+    {
+     "say": "Gold leads macroeconomic policy responses. Follow for tomorrow's update.",
+     "show": "LEADS THE CYCLE",
+     "figure": ""
+    }
+   ],
+   "origin": "Jason Pizzino",
+   "source_video": "Shocking Market Collapse, Bitcoin Crash and Outlook for 2027 w @benjaminjcowen i",
+   "narration": "Gold bottomed first in 1974. In March 1974 gold suffered a severe selloff during a US recession. Investors expected stocks to recover before precious metals. By September 1974 gold completed its bottom and reached new highs. Precious metals clear downturns months before risk assets recover. Gold leads macroeconomic policy responses. Follow for tomorrow's update.",
+   "ticker": "GC=F",
+   "sentiment": "bullish",
+   "sources": [],
+   "caption": "Historical data shows gold completing cycle bottoms ahead of stock market pivots.",
+   "hashtags": [
+    "#Gold",
+    "#Recession",
+    "#MarketHistory",
+    "#Stocks",
+    "#Macro"
+   ]
+  },
+  {
+   "levels": [],
+   "history": {
+    "symbol": "^GSPC",
+    "start": "1997-03",
+    "end": "2000-03"
+   },
+   "title": "S&P 500 hit 1,527 points: the 1997-2000 rate cycle",
+   "hook": "S&P 500 1,527",
+   "beats": [
+    {
+     "say": "S&P 500 reached 1,527 in March 2000.",
+     "show": "S&P 500 1,527",
+     "figure": "1,527"
+    },
+    {
+     "say": "From March 1997 the Fed raised rates, paused, cut, and hiked seven times.",
+     "show": "7 FED HIKES",
+     "figure": "7"
+    },
+    {
+     "say": "Markets absorbed multiple rate hikes before entering a recession.",
+     "show": "TEMPORARY LAG",
+     "figure": ""
+    },
+    {
+     "say": "S&P 500 fell -0.4% down to 1,499 at cycle end.",
+     "show": "S&P 500 1,499",
+     "figure": "1,499"
+    },
+    {
+     "say": "Extended rate plateaus sustain equities until macroeconomic reality strikes.",
+     "show": "RATE PLATEAU",
+     "figure": ""
+    },
+    {
+     "say": "Prolonged rate pauses mask structural risk. Follow for tomorrow's update.",
+     "show": "STRUCTURAL RISK",
+     "figure": ""
+    }
+   ],
+   "origin": "Jason Pizzino",
+   "source_video": "Shocking Market Collapse, Bitcoin Crash and Outlook for 2027 w @benjaminjcowen i",
+   "narration": "S&P 500 reached 1,527 in March 2000. From March 1997 the Fed raised rates, paused, cut, and hiked seven times. Markets absorbed multiple rate hikes before entering a recession. S&P 500 fell -0.4% down to 1,499 at cycle end. Extended rate plateaus sustain equities until macroeconomic reality strikes. Prolonged rate pauses mask structural risk. Follow for tomorrow's update.",
+   "ticker": "^GSPC",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "The 1997-2000 rate trajectory illustrates how rate plateaus precede major market shifts.",
+   "hashtags": [
+    "#SP500",
+    "#Fed",
+    "#InterestRates",
+    "#Recession",
+    "#Stocks"
+   ]
+  },
+  {
+   "levels": [],
+   "history": null,
+   "title": "Bitcoin cycle low: looking forward to 2027",
+   "hook": "Bitcoin BOTTOM",
+   "beats": [
+    {
+     "say": "Bitcoin marks its cycle bottom.",
+     "show": "Bitcoin BOTTOM",
+     "figure": ""
+    },
+    {
+     "say": "Crypto markets exhibit fatigue after prolonged bearish sentiment.",
+     "show": "BEAR FATIGUE",
+     "figure": ""
+    },
+    {
+     "say": "Major bottoms take shape when negative sentiment reaches saturation.",
+     "show": "PEAK NEGATIVITY",
+     "figure": ""
+    },
+    {
+     "say": "A structural bounce materializes ahead of early 2027.",
+     "show": "BOUNCE 2027",
+     "figure": "2027"
+    },
+    {
+     "say": "Macroeconomic reality checks follow initial gains. Follow for tomorrow's update.",
+     "show": "MACRO CHECK",
+     "figure": ""
+    }
+   ],
+   "origin": "Jason Pizzino",
+   "source_video": "Shocking Market Collapse, Bitcoin Crash and Outlook for 2027 w @benjaminjcowen i",
+   "narration": "Bitcoin marks its cycle bottom. Crypto markets exhibit fatigue after prolonged bearish sentiment. Major bottoms take shape when negative sentiment reaches saturation. A structural bounce materializes ahead of early 2027. Macroeconomic reality checks follow initial gains. Follow for tomorrow's update.",
+   "ticker": "BTC-USD",
+   "sentiment": "bullish",
+   "sources": [],
+   "caption": "Bitcoin cycle low structure suggests room for a medium-term recovery heading into 2027.",
+   "hashtags": [
+    "#Bitcoin",
+    "#Crypto",
+    "#BitcoinCycle",
+    "#Markets"
+   ]
+  },
+  {
+   "levels": [],
+   "history": null,
+   "title": "OpenAI IPO in 2027: liquidity drain for Bitcoin",
+   "hook": "OPENAI IPO 2027",
+   "beats": [
+    {
+     "say": "OpenAI IPO threatens Bitcoin liquidity.",
+     "show": "OPENAI IPO 2027",
+     "figure": "2027"
+    },
+    {
+     "say": "The public offering in 2027 will draw capital away from digital assets.",
+     "show": "LIQUIDITY DRAIN",
+     "figure": ""
+    },
+    {
+     "say": "Mega tech listings absorb global liquidity from alternative markets.",
+     "show": "CAPITAL SHIFT",
+     "figure": ""
+    },
+    {
+     "say": "Crypto gains face heavy pressure during the IPO window.",
+     "show": "CRYPTO PRESSURE",
+     "figure": ""
+    },
+    {
+     "say": "Major public offerings reallocate global capital. Follow for tomorrow's update.",
+     "show": "CAPITAL DRAIN",
+     "figure": ""
+    }
+   ],
+   "origin": "Jason Pizzino",
+   "source_video": "Shocking Market Collapse, Bitcoin Crash and Outlook for 2027 w @benjaminjcowen i",
+   "narration": "OpenAI IPO threatens Bitcoin liquidity. The public offering in 2027 will draw capital away from digital assets. Mega tech listings absorb global liquidity from alternative markets. Crypto gains face heavy pressure during the IPO window. Major public offerings reallocate global capital. Follow for tomorrow's update.",
+   "ticker": "BTC-USD",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "The anticipated OpenAI IPO in 2027 could draw vital liquidity away from alternative crypto assets.",
+   "hashtags": [
+    "#OpenAI",
+    "#Bitcoin",
+    "#IPO",
+    "#Crypto",
+    "#Liquidity"
+   ]
+  },
+  {
+   "levels": [
+    24000.0
+   ],
+   "history": null,
+   "title": "Bitcoin held above $24,000: 2023 cycle review",
+   "hook": "BTC $24,000",
+   "beats": [
+    {
+     "say": "Bitcoin held above $24,000.",
+     "show": "BTC $24,000",
+     "figure": "$24,000"
+    },
+    {
+     "say": "Expecting a drop below $24,000 in late 2023 proved incorrect.",
+     "show": "SUPPORT HELD",
+     "figure": ""
+    },
+    {
+     "say": "Corrections during bull cycles end shallower than projected.",
+     "show": "SHALLOWER BOTTOM",
+     "figure": ""
+    },
+    {
+     "say": "Key support levels defend structural uptrends earlier than expected.",
+     "show": "STRONG TREND",
+     "figure": ""
+    },
+    {
+     "say": "Shallow pullbacks signal underlying asset strength. Follow for tomorrow's update.",
+     "show": "ASSET STRENGTH",
+     "figure": ""
+    }
+   ],
+   "origin": "Jason Pizzino",
+   "source_video": "Shocking Market Collapse, Bitcoin Crash and Outlook for 2027 w @benjaminjcowen i",
+   "narration": "Bitcoin held above $24,000. Expecting a drop below $24,000 in late 2023 proved incorrect. Corrections during bull cycles end shallower than projected. Key support levels defend structural uptrends earlier than expected. Shallow pullbacks signal underlying asset strength. Follow for tomorrow's update.",
+   "ticker": "BTC-USD",
+   "sentiment": "bullish",
+   "sources": [],
+   "caption": "Bitcoin holding $24,000 in 2023 highlights how bull cycle pullbacks often bottom earlier.",
+   "hashtags": [
+    "#Bitcoin",
+    "#BTC",
+    "#Trading",
+    "#Crypto",
+    "#TechnicalAnalysis"
+   ]
+  },
+  {
+   "levels": [],
+   "history": null,
+   "title": "Gold struggles in 2026: risks of prolonged weakness",
+   "hook": "GOLD STRUGGLES",
+   "beats": [
+    {
+     "say": "Gold struggled throughout 2026.",
+     "show": "GOLD STRUGGLES",
+     "figure": "2026"
+    },
+    {
+     "say": "Precious metals failed to deliver expected safe-haven gains.",
+     "show": "NO HAVEN BID",
+     "figure": ""
+    },
+    {
+     "say": "Commodity benchmarks can mirror deep multi-year corrective phases.",
+     "show": "DEEP CORRECTION",
+     "figure": ""
+    },
+    {
+     "say": "Gold requires an immediate bounce to prevent structural weakness.",
+     "show": "BOUNCE REQUIRED",
+     "figure": ""
+    },
+    {
+     "say": "Haven assets need a swift recovery. Follow for tomorrow's update.",
+     "show": "SWIFT RECOVERY",
+     "figure": ""
+    }
+   ],
+   "origin": "Jason Pizzino",
+   "source_video": "Shocking Market Collapse, Bitcoin Crash and Outlook for 2027 w @benjaminjcowen i",
+   "narration": "Gold struggled throughout 2026. Precious metals failed to deliver expected safe-haven gains. Commodity benchmarks can mirror deep multi-year corrective phases. Gold requires an immediate bounce to prevent structural weakness. Haven assets need a swift recovery. Follow for tomorrow's update.",
+   "ticker": "GC=F",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Gold underperforming in 2026 warns of potential multi-year corrective pressure without quick recovery.",
+   "hashtags": [
+    "#Gold",
+    "#Commodities",
+    "#SafeHaven",
+    "#Markets",
+    "#Investing"
+   ]
+  }
+ ],
+ "carousels": {
+  "it": {
+   "topic": "Analisi ciclo Bitcoin e mercati 2027",
+   "caption": "DXY a 104, lezioni dal 1974 e la prospettiva per il 2027: ecco il quadro completo sui mercati. Segui per l'aggiornamento di domani.",
+   "sentiment": "neutral",
+   "ticker": "BTC-USD",
+   "slides": [
+    {
+     "title": "Bitcoin verso il 2027: i segnali",
+     "body": "Analizziamo i livelli chiave del DXY, le analogie storiche dal 1974 e l'impatto dei tassi di interesse."
+    },
+    {
+     "title": "DXY target tra 104 e 106",
+     "body": "Se l'indice del dollaro raggiunge quota 104 o 106, oro e Bitcoin potrebbero toccare il minimo di ciclo."
+    },
+    {
+     "title": "Lezione oro del 1974",
+     "body": "Nel 1974 l'oro toccò il minimo sei mesi prima del mercato azionario, guidando la ripresa economica."
+    },
+    {
+     "title": "S&P 500 e tassi 1997-2000",
+     "body": "Fra il 1997 e il 2000 l'S&P 500 raggiunse 1.527 punti nonostante sette rialzi dei tassi prima della recessione."
+    },
+    {
+     "title": "Rischio liquidità IPO OpenAI 2027",
+     "body": "La mega quotazione di OpenAI nel 2027 potrebbe prosciugare liquidità da Bitcoin e criptovalute."
+    },
+    {
+     "title": "Tassi stabili tra 0% e 2%",
+     "body": "I tagli della Fed non riporteranno i tassi a zero, ma stabiliranno un nuovo equilibrio di lungo periodo. Segui per l'aggiornamento di domani."
+    }
+   ],
+   "hashtags": [
+    "#Bitcoin",
+    "#Oro",
+    "#Fed",
+    "#DXY",
+    "#SP500",
+    "#Macroeconomia",
+    "#Mercati",
+    "#OpenAI"
+   ]
+  },
+  "en": {
+   "topic": "Bitcoin cycle and 2027 outlook",
+   "caption": "DXY at 104, 1974 gold parallels, and the 2027 market outlook explained. Follow for tomorrow's update.",
+   "sentiment": "neutral",
+   "ticker": "BTC-USD",
+   "slides": [
+    {
+     "title": "Bitcoin 2027 outlook: key signals",
+     "body": "Examining DXY levels, 1974 historical parallels, and the trajectory for global interest rates."
+    },
+    {
+     "title": "DXY target at 104 to 106",
+     "body": "Reaching 104 or 106 on the US Dollar Index typically triggers a bottom for gold and Bitcoin."
+    },
+    {
+     "title": "1974 gold bottom lesson",
+     "body": "In 1974 gold completed its bottom six months ahead of equities, leading the broader market recovery."
+    },
+    {
+     "title": "S&P 500 1997-2000 cycle",
+     "body": "S&P 500 hit 1,527 points in March 2000 following seven rate hikes before the recession materialized."
+    },
+    {
+     "title": "2027 OpenAI IPO liquidity risk",
+     "body": "The massive OpenAI public offering in 2027 could drain liquidity away from crypto assets."
+    },
+    {
+     "title": "New baseline: 0% to 2% rates",
+     "body": "Fed rate cuts will not return interest rates to zero, settling in a 0% to 2% range instead. Follow for tomorrow's update."
+    }
+   ],
+   "hashtags": [
+    "#Bitcoin",
+    "#Gold",
+    "#Fed",
+    "#DXY",
+    "#SP500",
+    "#Macroeconomics",
+    "#Markets",
+    "#OpenAI"
+   ]
+  }
+ }
+}
