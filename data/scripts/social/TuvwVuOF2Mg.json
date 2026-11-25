@@ -1,0 +1,1002 @@
+{
+ "it": [
+  {
+   "levels": [
+    7300.0,
+    7200.0,
+    7100.0
+   ],
+   "history": null,
+   "title": "S&P 500: il livello chiave per la ripartenza",
+   "hook": "S&P 500 PRESSIONE",
+   "beats": [
+    {
+     "say": "S&P 500 resiste sopra il punto medio ma la struttura resta fragile.",
+     "show": "S&P 500 PRESSIONE",
+     "figure": "7.300"
+    },
+    {
+     "say": "L'indice scambia sopra i minimi di marzo in una fase d'incertezza.",
+     "show": "PUNTO MEDIO TENUTO",
+     "figure": ""
+    },
+    {
+     "say": "Le vendite anomale del 20 novembre hanno interrotto il recupero.",
+     "show": "VENDITE ANOMALE",
+     "figure": ""
+    },
+    {
+     "say": "Se l'indice difende il supporto a 7.100 punti la ripresa resta possibile.",
+     "show": "SUPPORTO A 7.100",
+     "figure": "7.100"
+    },
+    {
+     "say": "Solo una chiusura sopra 7.300 punti confermerà un minimo duraturo.",
+     "show": "RESISTENZA A 7.300",
+     "figure": "7.300"
+    },
+    {
+     "say": "Senza questo superamento il rischio di nuovi ribassi rimane elevato. Segui per l'aggiornamento di domani.",
+     "show": "DIREZIONE INCERTA",
+     "figure": ""
+    }
+   ],
+   "origin": "Michael Pizzino",
+   "source_video": "The Bears Are Still Winning... But the Story Isn't Over Yet",
+   "narration": "S&P 500 resiste sopra il punto medio ma la struttura resta fragile. L'indice scambia sopra i minimi di marzo in una fase d'incertezza. Le vendite anomale del 20 novembre hanno interrotto il recupero. Se l'indice difende il supporto a 7.100 punti la ripresa resta possibile. Solo una chiusura sopra 7.300 punti confermerà un minimo duraturo. Senza questo superamento il rischio di nuovi ribassi rimane elevato. Segui per l'aggiornamento di domani.",
+   "ticker": "ES=F",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "L'S&P 500 bilancia tenuta tecnica e pressione ribassista. Serve il superamento di 7.300 punti per confermare la svolta.",
+   "hashtags": [
+    "#SP500",
+    "#Borsa",
+    "#Trading",
+    "#Azioni",
+    "#Mercati",
+    "#Finanza"
+   ]
+  },
+  {
+   "levels": [
+    27300.0,
+    27500.0,
+    28000.0
+   ],
+   "history": null,
+   "title": "Nasdaq in ritardo: il livello decisivo",
+   "hook": "Nasdaq IN DIFFICOLTÀ",
+   "beats": [
+    {
+     "say": "Nasdaq mostra una debolezza relativa evidente rispetto all'S&P 500.",
+     "show": "Nasdaq IN DIFFICOLTÀ",
+     "figure": "27.300"
+    },
+    {
+     "say": "L'indice tecnologico si trova bloccato sotto il punto medio di 27.300 punti.",
+     "show": "SOTTO IL MEDIANO",
+     "figure": "27.300"
+    },
+    {
+     "say": "I recenti tentativi di rialzo hanno registrato solo minimi decrescenti.",
+     "show": "MASSIMI DECRESCENTI",
+     "figure": ""
+    },
+    {
+     "say": "Se l'indice supera la resistenza a 27.500 punti potrà riagganciare il rally.",
+     "show": "RESISTENZA 27.500",
+     "figure": "27.500"
+    },
+    {
+     "say": "Il mancato superamento di 28.000 punti confermerà il controllo dei ribassisti.",
+     "show": "TARGET 28.000",
+     "figure": "28.000"
+    },
+    {
+     "say": "Senza una rottura decisa la debolezza prosegue. Segui per l'aggiornamento di domani.",
+     "show": "TREND RIBASSISTA",
+     "figure": ""
+    }
+   ],
+   "origin": "Michael Pizzino",
+   "source_video": "The Bears Are Still Winning... But the Story Isn't Over Yet",
+   "narration": "Nasdaq mostra una debolezza relativa evidente rispetto all'S&P 500. L'indice tecnologico si trova bloccato sotto il punto medio di 27.300 punti. I recenti tentativi di rialzo hanno registrato solo minimi decrescenti. Se l'indice supera la resistenza a 27.500 punti potrà riagganciare il rally. Il mancato superamento di 28.000 punti confermerà il controllo dei ribassisti. Senza una rottura decisa la debolezza prosegue. Segui per l'aggiornamento di domani.",
+   "ticker": "^IXIC",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Il Nasdaq fatica a recuperare il punto medio a 27.300 punti. Serve il superamento di 27.500 punti per invertire la rotta.",
+   "hashtags": [
+    "#Nasdaq",
+    "#Tech",
+    "#Borsa",
+    "#Trading",
+    "#Mercati",
+    "#WallStreet"
+   ]
+  },
+  {
+   "levels": [
+    48000.0,
+    49000.0
+   ],
+   "history": null,
+   "title": "Dow Jones: la trappola dei volumi bassi",
+   "hook": "Dow Jones AL TEST",
+   "beats": [
+    {
+     "say": "Dow Jones testa la media a 48.000 punti ma con volumi in calo.",
+     "show": "Dow Jones AL TEST",
+     "figure": "48.000"
+    },
+    {
+     "say": "L'indice si attesta sul livello di ritracciamento del cinquanta per cento.",
+     "show": "RITRACCIAMENTO 50%",
+     "figure": "50%"
+    },
+    {
+     "say": "I rimbalzi con volumi scarsi durante le festività aumentano il rischio di trappole.",
+     "show": "VOLUMI IN CALO",
+     "figure": ""
+    },
+    {
+     "say": "I rialzisti devono difendere il supporto di 48.000 punti.",
+     "show": "SUPPORTO 48.000",
+     "figure": "48.000"
+    },
+    {
+     "say": "Servono tre sessioni positive consecutive sopra 49.000 per validare il fondo.",
+     "show": "RESISTENZA 49.000",
+     "figure": "49.000"
+    },
+    {
+     "say": "Senza volumi sostenuti la pressione ribassista domina. Segui per l'aggiornamento di domani.",
+     "show": "RISCHIO FALSO SEGNALE",
+     "figure": ""
+    }
+   ],
+   "origin": "Michael Pizzino",
+   "source_video": "The Bears Are Still Winning... But the Story Isn't Over Yet",
+   "narration": "Dow Jones testa la media a 48.000 punti ma con volumi in calo. L'indice si attesta sul livello di ritracciamento del cinquanta per cento. I rimbalzi con volumi scarsi durante le festività aumentano il rischio di trappole. I rialzisti devono difendere il supporto di 48.000 punti. Servono tre sessioni positive consecutive sopra 49.000 per validare il fondo. Senza volumi sostenuti la pressione ribassista domina. Segui per l'aggiornamento di domani.",
+   "ticker": "^DJI",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Il Dow Jones registra un rimbalzo a volumi ridotti. Occorre il recupero di 49.000 punti su tre sedute consecutive.",
+   "hashtags": [
+    "#DowJones",
+    "#Borsa",
+    "#Trading",
+    "#WallStreet",
+    "#Economia",
+    "#Finanza"
+   ]
+  },
+  {
+   "levels": [
+    2750.0,
+    3690.0
+   ],
+   "history": null,
+   "title": "Russell 2000: allarme per le piccole imprese",
+   "hook": "RUSSELL 2000 IN CRISI",
+   "beats": [
+    {
+     "say": "Russell 2000 scambia a 2.750 punti ben sotto i livelli chiave.",
+     "show": "RUSSELL 2000 IN CRISI",
+     "figure": "2.750"
+    },
+    {
+     "say": "L'indice delle piccole imprese riflette la pressione sull'economia reale.",
+     "show": "PICCOLE IMPRESE",
+     "figure": ""
+    },
+    {
+     "say": "Il cedimento dei supporti rende vulnerabile ogni tentativo di rimbalzo.",
+     "show": "VULNERABILITÀ ALTA",
+     "figure": ""
+    },
+    {
+     "say": "Sotto 2.750 punti la struttura tecnica rimane pesantemente ribassista.",
+     "show": "SOTTO 2.750",
+     "figure": "2.750"
+    },
+    {
+     "say": "Solo l'inversione verso il target di 3.690 punti cambierà il quadro macro.",
+     "show": "TARGET 3.690",
+     "figure": "3.690"
+    },
+    {
+     "say": "Il contesto economico resta incerto. Segui per l'aggiornamento di domani.",
+     "show": "QUADRO DEBOLE",
+     "figure": ""
+    }
+   ],
+   "origin": "Michael Pizzino",
+   "source_video": "The Bears Are Still Winning... But the Story Isn't Over Yet",
+   "narration": "Russell 2000 scambia a 2.750 punti ben sotto i livelli chiave. L'indice delle piccole imprese riflette la pressione sull'economia reale. Il cedimento dei supporti rende vulnerabile ogni tentativo di rimbalzo. Sotto 2.750 punti la struttura tecnica rimane pesantemente ribassista. Solo l'inversione verso il target di 3.690 punti cambierà il quadro macro. Il contesto economico resta incerto. Segui per l'aggiornamento di domani.",
+   "ticker": "^RUT",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Le piccole imprese del Russell 2000 scambiano sotto 2.750 punti, evidenziando fragilità economica.",
+   "hashtags": [
+    "#Russell2000",
+    "#SmallCaps",
+    "#Borsa",
+    "#Economia",
+    "#Trading",
+    "#Mercati"
+   ]
+  },
+  {
+   "levels": [
+    3690.0,
+    3900.0
+   ],
+   "history": null,
+   "title": "Oro: falso rimbalzo e resistenza chiave",
+   "hook": "ORO IN FRENATA",
+   "beats": [
+    {
+     "say": "L'oro soffre un rimbalzo debole che si spegne sotto la resistenza.",
+     "show": "ORO IN FRENATA",
+     "figure": "3.700 $"
+    },
+    {
+     "say": "Il tentativo di recupero del cinquanta per cento è subito rientrato.",
+     "show": "RITRACCIAMENTO FALLITO",
+     "figure": "50%"
+    },
+    {
+     "say": "I rally intra-giornalieri non scalfiscono il trend ribassista di fondo.",
+     "show": "TREND RIBASSISTA",
+     "figure": ""
+    },
+    {
+     "say": "Superare la resistenza di 3.700 dollari è il primo requisito tecnico.",
+     "show": "RESISTENZA 3.700 $",
+     "figure": "3.700 $"
+    },
+    {
+     "say": "Solo minimi crescenti sopra 3.900 dollari confermeranno un'inversione duratura.",
+     "show": "TARGET 3.900 $",
+     "figure": "3.900 $"
+    },
+    {
+     "say": "Senza conferme settimanali l'oro resta sotto controllo ribassista. Segui per l'aggiornamento di domani.",
+     "show": "CONTROLLO RIBASSISTA",
+     "figure": ""
+    }
+   ],
+   "origin": "Michael Pizzino",
+   "source_video": "The Bears Are Still Winning... But the Story Isn't Over Yet",
+   "narration": "L'oro soffre un rimbalzo debole che si spegne sotto la resistenza. Il tentativo di recupero del cinquanta per cento è subito rientrato. I rally intra-giornalieri non scalfiscono il trend ribassista di fondo. Superare la resistenza di 3.700 dollari è il primo requisito tecnico. Solo minimi crescenti sopra 3.900 dollari confermeranno un'inversione duratura. Senza conferme settimanali l'oro resta sotto controllo ribassista. Segui per l'aggiornamento di domani.",
+   "ticker": "GC=F",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "L'oro fallisce il mantenimento del 50% di ritracciamento. Servono 3.700 e 3.900 dollari per invertire il trend.",
+   "hashtags": [
+    "#Oro",
+    "#Gold",
+    "#Commodities",
+    "#Trading",
+    "#Mercati",
+    "#Investimenti"
+   ]
+  },
+  {
+   "levels": [
+    87.0,
+    89.5
+   ],
+   "history": null,
+   "title": "Petrolio bloccato nel range: i livelli",
+   "hook": "PETROLIO IN RANGE",
+   "beats": [
+    {
+     "say": "Il petrolio rimane ingabbiato in un ampio canale di consolidamento.",
+     "show": "PETROLIO IN RANGE",
+     "figure": "87 $"
+    },
+    {
+     "say": "Il prezzo oscilla tra i picchi di marzo e i minimi di luglio.",
+     "show": "CANALE LATERALE",
+     "figure": ""
+    },
+    {
+     "say": "I trend di breve durata mancano di spinta sui grafici macro.",
+     "show": "SENZA DIREZIONE",
+     "figure": ""
+    },
+    {
+     "say": "La prima resistenza ostica si posiziona a 87 dollari al barile.",
+     "show": "RESISTENZA 87 $",
+     "figure": "87 $"
+    },
+    {
+     "say": "Il livello successivo a 89,50 dollari rappresenta la vera barriera.",
+     "show": "BARRIERA 89,50 $",
+     "figure": "89,50 $"
+    },
+    {
+     "say": "Finché non rompe il canale il rischio di respinta resta alto. Segui per l'aggiornamento di domani.",
+     "show": "RISCHIO FRENATA",
+     "figure": ""
+    }
+   ],
+   "origin": "Michael Pizzino",
+   "source_video": "The Bears Are Still Winning... But the Story Isn't Over Yet",
+   "narration": "Il petrolio rimane ingabbiato in un ampio canale di consolidamento. Il prezzo oscilla tra i picchi di marzo e i minimi di luglio. I trend di breve durata mancano di spinta sui grafici macro. La prima resistenza ostica si posiziona a 87 dollari al barile. Il livello successivo a 89,50 dollari rappresenta la vera barriera. Finché non rompe il canale il rischio di respinta resta alto. Segui per l'aggiornamento di domani.",
+   "ticker": "CL=F",
+   "sentiment": "neutral",
+   "sources": [],
+   "caption": "Il petrolio greggio oscilla tra i picchi di marzo e i minimi estivi. Le resistenze chiave sono a 87 e 89,50 dollari.",
+   "hashtags": [
+    "#Petrolio",
+    "#Oil",
+    "#MateriePrime",
+    "#Trading",
+    "#Mercati",
+    "#Economia"
+   ]
+  },
+  {
+   "levels": [
+    103.5,
+    105.0
+   ],
+   "history": null,
+   "title": "Dollaro USA: la forza del trend rialzista",
+   "hook": "DOLLARO FORTE",
+   "beats": [
+    {
+     "say": "Il dollaro USA mantiene un solido trend rialzista su scala annuale.",
+     "show": "DOLLARO FORTE",
+     "figure": "103,5"
+    },
+    {
+     "say": "Nonostante brevi prese di beneficio l'impostazione macro rimane positiva.",
+     "show": "TREND SOLIDO",
+     "figure": ""
+    },
+    {
+     "say": "I ritracciamenti temporanei non hanno intaccato la struttura dei minimi.",
+     "show": "STRUTTURA RIALZISTA",
+     "figure": ""
+    },
+    {
+     "say": "Il supporto decisivo da monitorare si trova a 103,5 punti.",
+     "show": "SUPPORTO 103,5",
+     "figure": "103,5"
+    },
+    {
+     "say": "Una tenuta sopra questo livello proietta il dollaro verso la resistenza macro di 105.",
+     "show": "TARGET 105",
+     "figure": "105"
+    },
+    {
+     "say": "Solo una rottura sotto 103,5 segnalerà un'inversione. Segui per l'aggiornamento di domani.",
+     "show": "TREND RIALZISTA",
+     "figure": ""
+    }
+   ],
+   "origin": "Michael Pizzino",
+   "source_video": "The Bears Are Still Winning... But the Story Isn't Over Yet",
+   "narration": "Il dollaro USA mantiene un solido trend rialzista su scala annuale. Nonostante brevi prese di beneficio l'impostazione macro rimane positiva. I ritracciamenti temporanei non hanno intaccato la struttura dei minimi. Il supporto decisivo da monitorare si trova a 103,5 punti. Una tenuta sopra questo livello proietta il dollaro verso la resistenza macro di 105. Solo una rottura sotto 103,5 segnalerà un'inversione. Segui per l'aggiornamento di domani.",
+   "ticker": "DX-Y.NYB",
+   "sentiment": "bullish",
+   "sources": [],
+   "caption": "Il dollaro USA mostra forza continua. Finché difende 103,5 punti la corsa punta all'obiettivo di 105 punti.",
+   "hashtags": [
+    "#Dollaro",
+    "#USD",
+    "#Forex",
+    "#Trading",
+    "#Valute",
+    "#Economia"
+   ]
+  },
+  {
+   "levels": [
+    52000.0,
+    49000.0,
+    67000.0
+   ],
+   "history": null,
+   "title": "Bitcoin: 411 giorni di bear market",
+   "hook": "Bitcoin 411 GIORNI",
+   "beats": [
+    {
+     "say": "Bitcoin accumula 411 giorni in fase ribassista senza conferma di svolta.",
+     "show": "Bitcoin 411 GIORNI",
+     "figure": "411"
+    },
+    {
+     "say": "La struttura di lungo periodo non ha ancora registrato tre ripartenze consecutive.",
+     "show": "MERCATO ORSO",
+     "figure": ""
+    },
+    {
+     "say": "L'assenza di rotture sui massimi relativi lascia il controllo ai venditori.",
+     "show": "CONTROLLO ORSI",
+     "figure": ""
+    },
+    {
+     "say": "I supporti immediati si posizionano a 52.000 e 49.000 dollari.",
+     "show": "SUPPORTI 52k-49k",
+     "figure": "52.000 $"
+    },
+    {
+     "say": "Occorre il recupero di 67.000 dollari per riattivare la struttura rialzista.",
+     "show": "RESISTENZA 67.000 $",
+     "figure": "67.000 $"
+    },
+    {
+     "say": "Servono conferme settimanali prima di dichiarare la fine del bear market. Segui per l'aggiornamento di domani.",
+     "show": "ATTESA CONFERMA",
+     "figure": ""
+    }
+   ],
+   "origin": "Michael Pizzino",
+   "source_video": "The Bears Are Still Winning... But the Story Isn't Over Yet",
+   "narration": "Bitcoin accumula 411 giorni in fase ribassista senza conferma di svolta. La struttura di lungo periodo non ha ancora registrato tre ripartenze consecutive. L'assenza di rotture sui massimi relativi lascia il controllo ai venditori. I supporti immediati si posizionano a 52.000 e 49.000 dollari. Occorre il recupero di 67.000 dollari per riattivare la struttura rialzista. Servono conferme settimanali prima di dichiarare la fine del bear market. Segui per l'aggiornamento di domani.",
+   "ticker": "BTC-USD",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Bitcoin prosegue nel bear market da 411 giorni. Supporti a 52.000 e 49.000 dollari; serve il recupero di 67.000 dollari.",
+   "hashtags": [
+    "#Bitcoin",
+    "#BTC",
+    "#Crypto",
+    "#Criptovalute",
+    "#Trading",
+    "#Mercati"
+   ]
+  }
+ ],
+ "en": [
+  {
+   "levels": [
+    7300.0,
+    7200.0,
+    7100.0
+   ],
+   "history": null,
+   "title": "S&P 500: The Key Level to Watch",
+   "hook": "S&P 500 TESTED",
+   "beats": [
+    {
+     "say": "S&P 500 holds its midpoint but structural weakness persists.",
+     "show": "S&P 500 TESTED",
+     "figure": "7,300"
+    },
+    {
+     "say": "The index hovers above March lows amid trading uncertainty.",
+     "show": "MIDPOINT HOLDS",
+     "figure": ""
+    },
+    {
+     "say": "Abnormal selling on November 20 paused gains without reversing the trend.",
+     "show": "PANIC SELLING",
+     "figure": ""
+    },
+    {
+     "say": "If price holds support at 7,100 points, recovery stays on the table.",
+     "show": "SUPPORT AT 7,100",
+     "figure": "7,100"
+    },
+    {
+     "say": "Reclaiming 7,300 points is required to validate a sustainable bottom.",
+     "show": "RESISTANCE AT 7,300",
+     "figure": "7,300"
+    },
+    {
+     "say": "Failure to break 7,300 leaves downside risks intact. Follow for tomorrow's update.",
+     "show": "WATCH THE BREAK",
+     "figure": ""
+    }
+   ],
+   "origin": "Michael Pizzino",
+   "source_video": "The Bears Are Still Winning... But the Story Isn't Over Yet",
+   "narration": "S&P 500 holds its midpoint but structural weakness persists. The index hovers above March lows amid trading uncertainty. Abnormal selling on November 20 paused gains without reversing the trend. If price holds support at 7,100 points, recovery stays on the table. Reclaiming 7,300 points is required to validate a sustainable bottom. Failure to break 7,300 leaves downside risks intact. Follow for tomorrow's update.",
+   "ticker": "ES=F",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "S&P 500 sits at a critical midpoint. A break above 7,300 points is required for confirmation.",
+   "hashtags": [
+    "#SP500",
+    "#Stocks",
+    "#Trading",
+    "#Markets",
+    "#Investing",
+    "#Finance"
+   ]
+  },
+  {
+   "levels": [
+    27300.0,
+    27500.0,
+    28000.0
+   ],
+   "history": null,
+   "title": "Nasdaq Lags Behind: Critical Levels",
+   "hook": "Nasdaq LAGGING",
+   "beats": [
+    {
+     "say": "Nasdaq shows clear relative weakness compared to the S&P 500.",
+     "show": "Nasdaq LAGGING",
+     "figure": "27,300"
+    },
+    {
+     "say": "The tech index remains trapped below its 27,300 midpoint.",
+     "show": "BELOW MIDPOINT",
+     "figure": "27,300"
+    },
+    {
+     "say": "Recent bounce attempts formed lower highs beneath previous peaks.",
+     "show": "LOWER HIGHS",
+     "figure": ""
+    },
+    {
+     "say": "A break above 27,500 points would signal catching up with equities.",
+     "show": "BREAKOUT AT 27,500",
+     "figure": "27,500"
+    },
+    {
+     "say": "Failing below 28,000 points keeps the dominant downtrend in control.",
+     "show": "TARGET 28,000",
+     "figure": "28,000"
+    },
+    {
+     "say": "Tech stays vulnerable without confirmed upside. Follow for tomorrow's update.",
+     "show": "BEARS IN CONTROL",
+     "figure": ""
+    }
+   ],
+   "origin": "Michael Pizzino",
+   "source_video": "The Bears Are Still Winning... But the Story Isn't Over Yet",
+   "narration": "Nasdaq shows clear relative weakness compared to the S&P 500. The tech index remains trapped below its 27,300 midpoint. Recent bounce attempts formed lower highs beneath previous peaks. A break above 27,500 points would signal catching up with equities. Failing below 28,000 points keeps the dominant downtrend in control. Tech stays vulnerable without confirmed upside. Follow for tomorrow's update.",
+   "ticker": "^IXIC",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Nasdaq remains stuck under key retracement levels. A push over 27,500 is essential.",
+   "hashtags": [
+    "#Nasdaq",
+    "#TechStocks",
+    "#Stocks",
+    "#Trading",
+    "#Markets",
+    "#WallStreet"
+   ]
+  },
+  {
+   "levels": [
+    48000.0,
+    49000.0
+   ],
+   "history": null,
+   "title": "Dow Jones: Low Volume Trap Warning",
+   "hook": "Dow Jones WARNING",
+   "beats": [
+    {
+     "say": "Dow Jones tests the 48,000 midpoint on declining trading volume.",
+     "show": "Dow Jones WARNING",
+     "figure": "48,000"
+    },
+    {
+     "say": "The index sits right at its key fifty percent retracement zone.",
+     "show": "50% RETRACEMENT",
+     "figure": "50%"
+    },
+    {
+     "say": "Holiday rallies on low volume carry a high risk of failure.",
+     "show": "LOW VOLUME BOUNCE",
+     "figure": ""
+    },
+    {
+     "say": "Holding support at 48,000 points is the first required step.",
+     "show": "SUPPORT AT 48,000",
+     "figure": "48,000"
+    },
+    {
+     "say": "Bulls need three consecutive positive closes above 49,000 points.",
+     "show": "RESISTANCE AT 49,000",
+     "figure": "49,000"
+    },
+    {
+     "say": "Without volume, the recovery lacks foundation. Follow for tomorrow's update.",
+     "show": "BEARISH RISK",
+     "figure": ""
+    }
+   ],
+   "origin": "Michael Pizzino",
+   "source_video": "The Bears Are Still Winning... But the Story Isn't Over Yet",
+   "narration": "Dow Jones tests the 48,000 midpoint on declining trading volume. The index sits right at its key fifty percent retracement zone. Holiday rallies on low volume carry a high risk of failure. Holding support at 48,000 points is the first required step. Bulls need three consecutive positive closes above 49,000 points. Without volume, the recovery lacks foundation. Follow for tomorrow's update.",
+   "ticker": "^DJI",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Dow Jones faces low volume risks near 48,000. Reclaiming 49,000 is needed for trend reversal.",
+   "hashtags": [
+    "#DowJones",
+    "#Stocks",
+    "#Trading",
+    "#Markets",
+    "#WallStreet",
+    "#Investing"
+   ]
+  },
+  {
+   "levels": [
+    2750.0,
+    3690.0
+   ],
+   "history": null,
+   "title": "Russell 2000: Warning Sign for Small Caps",
+   "hook": "RUSSELL 2000 WEAK",
+   "beats": [
+    {
+     "say": "Russell 2000 trades near 2,750 points well below breakdown zones.",
+     "show": "RUSSELL 2000 WEAK",
+     "figure": "2,750"
+    },
+    {
+     "say": "Small caps point to growing strain across the broader economy.",
+     "show": "ECONOMIC STRAIN",
+     "figure": ""
+    },
+    {
+     "say": "Bounces remain prone to failure while below critical midpoints.",
+     "show": "HIGH FAILURE RISK",
+     "figure": ""
+    },
+    {
+     "say": "Trading below 2,750 points preserves the dominant bearish structure.",
+     "show": "BELOW 2,750",
+     "figure": "2,750"
+    },
+    {
+     "say": "Reaching the 3,690 swing high is necessary for full trend reversal.",
+     "show": "TARGET 3,690",
+     "figure": "3,690"
+    },
+    {
+     "say": "Small cap weakness continues to signal caution. Follow for tomorrow's update.",
+     "show": "BEAR TREND CONTINUES",
+     "figure": ""
+    }
+   ],
+   "origin": "Michael Pizzino",
+   "source_video": "The Bears Are Still Winning... But the Story Isn't Over Yet",
+   "narration": "Russell 2000 trades near 2,750 points well below breakdown zones. Small caps point to growing strain across the broader economy. Bounces remain prone to failure while below critical midpoints. Trading below 2,750 points preserves the dominant bearish structure. Reaching the 3,690 swing high is necessary for full trend reversal. Small cap weakness continues to signal caution. Follow for tomorrow's update.",
+   "ticker": "^RUT",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Russell 2000 lingers near 2,750 points, signaling ongoing economic pressure on small caps.",
+   "hashtags": [
+    "#Russell2000",
+    "#SmallCaps",
+    "#Stocks",
+    "#Economy",
+    "#Trading",
+    "#Markets"
+   ]
+  },
+  {
+   "levels": [
+    3690.0,
+    3900.0
+   ],
+   "history": null,
+   "title": "Gold: Weak Bounce Rebuffed at Resistance",
+   "hook": "GOLD REJECTED",
+   "beats": [
+    {
+     "say": "Gold sees its bounce fade quickly below key resistance.",
+     "show": "GOLD REJECTED",
+     "figure": "$3,700"
+    },
+    {
+     "say": "Reclaiming the fifty percent level lacked volume and follow-through.",
+     "show": "WEAK RECOVERY",
+     "figure": "50%"
+    },
+    {
+     "say": "Short term intraday pops fail to shift the high timeframe bear trend.",
+     "show": "BEAR TIMEFRAME",
+     "figure": ""
+    },
+    {
+     "say": "Price must overcome resistance at $3,700 to open upside momentum.",
+     "show": "RESISTANCE $3,700",
+     "figure": "$3,700"
+    },
+    {
+     "say": "Establishing higher lows above $3,900 is required for a lasting turn.",
+     "show": "TARGET $3,900",
+     "figure": "$3,900"
+    },
+    {
+     "say": "Bears remain in driver's seat until weekly levels clear. Follow for tomorrow's update.",
+     "show": "BEARS IN CONTROL",
+     "figure": ""
+    }
+   ],
+   "origin": "Michael Pizzino",
+   "source_video": "The Bears Are Still Winning... But the Story Isn't Over Yet",
+   "narration": "Gold sees its bounce fade quickly below key resistance. Reclaiming the fifty percent level lacked volume and follow-through. Short term intraday pops fail to shift the high timeframe bear trend. Price must overcome resistance at $3,700 to open upside momentum. Establishing higher lows above $3,900 is required for a lasting turn. Bears remain in driver's seat until weekly levels clear. Follow for tomorrow's update.",
+   "ticker": "GC=F",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Gold failed to hold its 50% midpoint. A break past $3,700 and $3,900 is needed to reverse course.",
+   "hashtags": [
+    "#Gold",
+    "#GoldMarket",
+    "#Commodities",
+    "#Trading",
+    "#Markets",
+    "#Investing"
+   ]
+  },
+  {
+   "levels": [
+    87.0,
+    89.5
+   ],
+   "history": null,
+   "title": "Crude Oil Trapped in Wide Range",
+   "hook": "CRUDE OIL BOUND",
+   "beats": [
+    {
+     "say": "Crude oil stays stuck in a broad consolidation pattern.",
+     "show": "CRUDE OIL BOUND",
+     "figure": "$87"
+    },
+    {
+     "say": "Price fluctuates between March peaks and July swing lows.",
+     "show": "CONSOLIDATION ZONE",
+     "figure": ""
+    },
+    {
+     "say": "Short-term momentum lacks support from higher timeframe charts.",
+     "show": "NO MACRO TREND",
+     "figure": ""
+    },
+    {
+     "say": "Overhead resistance waits near $87 per barrel.",
+     "show": "RESISTANCE $87",
+     "figure": "$87"
+    },
+    {
+     "say": "A stronger breakout requires clearing $89.50 per barrel.",
+     "show": "BARRIER $89.50",
+     "figure": "$89.50"
+    },
+    {
+     "say": "High risk of failure persists inside this trading band. Follow for tomorrow's update.",
+     "show": "RANGE BOUND",
+     "figure": ""
+    }
+   ],
+   "origin": "Michael Pizzino",
+   "source_video": "The Bears Are Still Winning... But the Story Isn't Over Yet",
+   "narration": "Crude oil stays stuck in a broad consolidation pattern. Price fluctuates between March peaks and July swing lows. Short-term momentum lacks support from higher timeframe charts. Overhead resistance waits near $87 per barrel. A stronger breakout requires clearing $89.50 per barrel. High risk of failure persists inside this trading band. Follow for tomorrow's update.",
+   "ticker": "CL=F",
+   "sentiment": "neutral",
+   "sources": [],
+   "caption": "Crude oil oscillates within an established trading range. Key resistance levels sit at $87 and $89.50.",
+   "hashtags": [
+    "#CrudeOil",
+    "#Oil",
+    "#Commodities",
+    "#Trading",
+    "#Markets",
+    "#Energy"
+   ]
+  },
+  {
+   "levels": [
+    103.5,
+    105.0
+   ],
+   "history": null,
+   "title": "US Dollar Maintains Strong Macro Uptrend",
+   "hook": "DOLLAR RALLY",
+   "beats": [
+    {
+     "say": "US Dollar sustains its powerful upward trend throughout the year.",
+     "show": "DOLLAR RALLY",
+     "figure": "103.5"
+    },
+    {
+     "say": "Recent minor pullbacks have failed to weaken overall market momentum.",
+     "show": "BULLISH STRUCTURE",
+     "figure": ""
+    },
+    {
+     "say": "Short term sell-offs represent temporary corrections in a bull trend.",
+     "show": "PULLBACK PAUSE",
+     "figure": ""
+    },
+    {
+     "say": "The critical support level to defend is located at 103.5.",
+     "show": "SUPPORT 103.5",
+     "figure": "103.5"
+    },
+    {
+     "say": "Holding above 103.5 points the dollar toward macro resistance at 105.",
+     "show": "TARGET 105",
+     "figure": "105"
+    },
+    {
+     "say": "The trend stays bullish unless support at 103.5 breaks. Follow for tomorrow's update.",
+     "show": "UPTREND HOLDS",
+     "figure": ""
+    }
+   ],
+   "origin": "Michael Pizzino",
+   "source_video": "The Bears Are Still Winning... But the Story Isn't Over Yet",
+   "narration": "US Dollar sustains its powerful upward trend throughout the year. Recent minor pullbacks have failed to weaken overall market momentum. Short term sell-offs represent temporary corrections in a bull trend. The critical support level to defend is located at 103.5. Holding above 103.5 points the dollar toward macro resistance at 105. The trend stays bullish unless support at 103.5 breaks. Follow for tomorrow's update.",
+   "ticker": "DX-Y.NYB",
+   "sentiment": "bullish",
+   "sources": [],
+   "caption": "US Dollar remains structurally strong. Holding above 103.5 keeps macro upside toward 105 open.",
+   "hashtags": [
+    "#USDollar",
+    "#USD",
+    "#Forex",
+    "#Trading",
+    "#Currencies",
+    "#Markets"
+   ]
+  },
+  {
+   "levels": [
+    52000.0,
+    49000.0,
+    67000.0
+   ],
+   "history": null,
+   "title": "Bitcoin Bear Market Reaches Day 411",
+   "hook": "BTC 411 DAYS BEAR",
+   "beats": [
+    {
+     "say": "Bitcoin extends its bear market to 411 days without trend confirmation.",
+     "show": "BTC 411 DAYS BEAR",
+     "figure": "411"
+    },
+    {
+     "say": "Price action has failed to deliver three consecutive green updates from lows.",
+     "show": "BEAR MARKET",
+     "figure": ""
+    },
+    {
+     "say": "Lack of swing top breakouts leaves sellers in firm command.",
+     "show": "SELLERS COMMAND",
+     "figure": ""
+    },
+    {
+     "say": "Immediate support levels sit around $52,000 and $49,000.",
+     "show": "SUPPORT $52k-$49k",
+     "figure": "$52,000"
+    },
+    {
+     "say": "Bulls must reclaim $67,000 to re-establish technical market strength.",
+     "show": "RESISTANCE $67,000",
+     "figure": "$67,000"
+    },
+    {
+     "say": "Structural work is required before bullish momentum returns. Follow for tomorrow's update.",
+     "show": "WAIT FOR BREAK",
+     "figure": ""
+    }
+   ],
+   "origin": "Michael Pizzino",
+   "source_video": "The Bears Are Still Winning... But the Story Isn't Over Yet",
+   "narration": "Bitcoin extends its bear market to 411 days without trend confirmation. Price action has failed to deliver three consecutive green updates from lows. Lack of swing top breakouts leaves sellers in firm command. Immediate support levels sit around $52,000 and $49,000. Bulls must reclaim $67,000 to re-establish technical market strength. Structural work is required before bullish momentum returns. Follow for tomorrow's update.",
+   "ticker": "BTC-USD",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Bitcoin remains in a 411-day bear market trend. Support rests at $52,000 and $49,000, while $67,000 is key resistance.",
+   "hashtags": [
+    "#Bitcoin",
+    "#BTC",
+    "#Crypto",
+    "#Cryptocurrency",
+    "#Trading",
+    "#Markets"
+   ]
+  }
+ ],
+ "carousels": {
+  "it": {
+   "topic": "Analisi Mercati e Livelli Chiave",
+   "caption": "Panoramica completa sui principali mercati azionari, materie prime e criptovalute. I livelli chiave e i punti di svolta da monitorare nelle prossime sessioni. Segui per l'aggiornamento di domani.",
+   "sentiment": "bearish",
+   "ticker": "^GSPC",
+   "slides": [
+    {
+     "title": "Mercati al bivio: i livelli chiave",
+     "body": "Ecco l'analisi tecnica aggiornata sui principali indici, materie prime e criptovalute per le prossime sedute."
+    },
+    {
+     "title": "S&P 500 a 7.300",
+     "body": "L'S&P 500 mantiene il punto medio ma necessita della rottura di 7.300 punti per confermare un minimo duraturo."
+    },
+    {
+     "title": "Nasdaq sotto 27.300",
+     "body": "Il Nasdaq mostra debolezza relativa restando bloccato sotto il punto medio di 27.300 punti e la resistenza a 27.500."
+    },
+    {
+     "title": "Dow Jones a volumi bassi",
+     "body": "Il Dow Jones testa quota 48.000 a volumi ridotti. Serve il recupero di 49.000 punti per evitare trappole ribassiste."
+    },
+    {
+     "title": "Oro e Petrolio in range",
+     "body": "L'oro fatica sotto 3.700 dollari, mentre il petrolio oscilla nel canale tra 87 e 89,50 dollari al barile."
+    },
+    {
+     "title": "Bitcoin e Dollaro USA",
+     "body": "Il dollaro mantiene la forza sopra 103,5 punti, mentre Bitcoin affronta 411 giorni di bear market con supporto a 52.000 dollari."
+    },
+    {
+     "title": "Attesa di conferme tecniche",
+     "body": "I mercati richiedono pazienza e conferme di volume prima di posizionarsi. Segui per l'aggiornamento di domani."
+    }
+   ],
+   "hashtags": [
+    "#Mercati",
+    "#Borsa",
+    "#SP500",
+    "#Nasdaq",
+    "#Bitcoin",
+    "#Oro",
+    "#Trading",
+    "#Finanza"
+   ]
+  },
+  "en": {
+   "topic": "Market Trends and Key Levels",
+   "caption": "A complete overview of major stock indexes, commodities, and crypto. Here are the key technical breakdown levels to watch next. Follow for tomorrow's update.",
+   "sentiment": "bearish",
+   "ticker": "^GSPC",
+   "slides": [
+    {
+     "title": "Markets at Crossroads: Key Levels",
+     "body": "Here is the technical overview across equity indexes, commodities, and crypto as key levels face tests."
+    },
+    {
+     "title": "S&P 500 Needs 7,300",
+     "body": "S&P 500 holds its midpoint but must reclaim 7,300 points to validate a lasting market bottom."
+    },
+    {
+     "title": "Nasdaq Trapped Under 27,300",
+     "body": "Nasdaq shows relative weakness below its 27,300 midpoint and must clear 27,500 to catch up."
+    },
+    {
+     "title": "Dow Jones Low Volume Bounce",
+     "body": "Dow Jones tests 48,000 on declining holiday volume. Reclaiming 49,000 points is required for reversal."
+    },
+    {
+     "title": "Gold and Oil Range Bounds",
+     "body": "Gold struggles below $3,700 resistance, while crude oil remains confined inside $87 and $89.50 bounds."
+    },
+    {
+     "title": "Bitcoin and US Dollar",
+     "body": "US Dollar holds strong above 103.5 support, while Bitcoin marks day 411 in a bear market with support at $52,000."
+    },
+    {
+     "title": "Wait for Trend Confirmation",
+     "body": "Markets demand patience and price action confirmation before trend changes occur. Follow for tomorrow's update."
+    }
+   ],
+   "hashtags": [
+    "#Markets",
+    "#Stocks",
+    "#SP500",
+    "#Nasdaq",
+    "#Bitcoin",
+    "#Gold",
+    "#Trading",
+    "#Investing"
+   ]
+  }
+ }
+}
