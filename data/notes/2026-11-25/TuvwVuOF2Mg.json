@@ -1,0 +1,368 @@
+{
+ "market_relevance": 10,
+ "scope": "global",
+ "kind": "market update",
+ "summary": "Michael Pizzino analyzes major stock indexes, oil, gold, the US dollar, and Bitcoin following recent market volatility. He reviews key chart levels and points out that despite short-term stabilization, medium-term trends remain downward across most markets. Thanksgiving holiday volume drops create false signals, requiring caution and waiting for clear trend confirmation. Several markets continue trading below previous highs and midpoints, indicating bears maintain control. He stresses the need for patience and confirmed price action above key levels before turning bullish.",
+ "digest_it": "Michael Pizzino analizza i principali mercati evidenziando trend ancora deboli o ribassisti. Sottolinea che i trend di medio termine restano ribassisti e che i volumi ridotti per le festività possono generare falsi segnali. Rimane cauto e in attesa di conferme tecniche prima di ipotizzare un'inversione rialzista, indicando che per Bitcoin e oro servono rotture decise di resistenze chiave.",
+ "author_tone": "bearish",
+ "tone_evidence": "He states that bears remain clearly in control and trends are still down across the board.",
+ "key_points": [
+  {
+   "point": "S&P 500 sits above its midpoint from March to all-time highs but needs to regain the 7,300 breakdown zone.",
+   "timestamp": "01:33"
+  },
+  {
+   "point": "Nasdaq trades below its 50% retracement level at 27,300 from the March bottom to October top, showing relative weakness.",
+   "timestamp": "03:46"
+  },
+  {
+   "point": "Dow Jones tests its 50% level with dropping volume, posing risks of failure ahead of the holiday period.",
+   "timestamp": "05:40"
+  },
+  {
+   "point": "Russell 2000 sits well below its midpoint at 2,750 and breakdown zone, painting a grim picture for small caps.",
+   "timestamp": "06:40"
+  },
+  {
+   "point": "Gold hovers around its 50% retracement level after an inspiring bounce failed, continuing its downtrend.",
+   "timestamp": "07:59"
+  },
+  {
+   "point": "Crude oil is stuck inside a broad range with short-term bounces facing resistance near $87 and $89.50.",
+   "timestamp": "09:02"
+  },
+  {
+   "point": "US Dollar remains strong and needs to drop below 103.5 to suggest a pullback from its uptrend.",
+   "timestamp": "09:54"
+  },
+  {
+   "point": "Bitcoin has dropped for 411 days in a bear market without printing three consecutive updates, keeping bears in control.",
+   "timestamp": "10:50"
+  }
+ ],
+ "moments": [
+  {
+   "timestamp": "01:33",
+   "topic": "S&P 500 Index Analysis",
+   "claim": "S&P 500 sits in reasonable midpoint ground but must reclaim 7,300 to signal a durable low.",
+   "details": "Price hovers above its midpoint from the March run-up to all-time highs. Key resistance levels to watch are 7,200 and the breakdown zone at 7,300. Abnormal selling on November 20 creates uncertainty, and confirmation requires breaking above 7,300 and holding.",
+   "surprise": "Abnormal panic selling on November 20 mirrors prior moves that only paused the downtrend rather than reversing it.",
+   "kind": "setup",
+   "ticker": "ES=F",
+   "scenario": "If price consolidates above 7,300, it confirms a significant low and tests new all-time highs; if it fails, further downside is likely.",
+   "conclusion": "The market remains inconclusive until price breaks and holds above 7,300 points.",
+   "levels": [
+    {
+     "value": 7300.0,
+     "label": "resistance"
+    },
+    {
+     "value": 7200.0,
+     "label": "target"
+    },
+    {
+     "value": 7100.0,
+     "label": "support"
+    }
+   ]
+  },
+  {
+   "timestamp": "03:46",
+   "topic": "Nasdaq Index Weakness",
+   "claim": "Nasdaq shows relative weakness compared to the S&P 500 by failing to reclaim its 50% midpoint.",
+   "details": "The range from the March bottom to the October top places the midpoint at 27,300 points. The index has been unable to reclaim this level, trading beneath previous October and January highs. Any potential rally risks forming a lower high.",
+   "surprise": "Nasdaq trades in a weaker position than the broader S&P 500 index.",
+   "kind": "setup",
+   "ticker": "^IXIC",
+   "scenario": "A break above the midpoint and trend line around 27,500 would signal catching up, while failure keeps tech in a weaker position.",
+   "conclusion": "Nasdaq requires a break past 27,500 to invalidate its weaker relative standing.",
+   "levels": [
+    {
+     "value": 27300.0,
+     "label": "resistance"
+    },
+    {
+     "value": 27500.0,
+     "label": "target"
+    },
+    {
+     "value": 28000.0,
+     "label": "resistance"
+    }
+   ]
+  },
+  {
+   "timestamp": "05:40",
+   "topic": "Dow Jones Index Update",
+   "claim": "Dow Jones tests the 50% level on declining volume, carrying a high risk of failure.",
+   "details": "The index closed just above its 50% retracement level during the previous session, but volume dropped off. Low-volume rallies carry a higher risk of failure, especially heading into the Thanksgiving holiday period.",
+   "surprise": "Declining volume on the bounce increases the risk of a failed rally.",
+   "kind": "setup",
+   "ticker": "^DJI",
+   "scenario": "Bulls must secure three consecutive updates and reclaim the midpoint to reverse the ongoing downtrend.",
+   "conclusion": "Dow Jones needs sustained volume and consecutive daily gains to confirm a lasting bottom.",
+   "levels": [
+    {
+     "value": 48000.0,
+     "label": "support"
+    },
+    {
+     "value": 49000.0,
+     "label": "resistance"
+    }
+   ]
+  },
+  {
+   "timestamp": "06:40",
+   "topic": "Russell 2000 Small Caps",
+   "claim": "Russell 2000 sits well below its midpoint and breakdown zone, signaling broader economic strain.",
+   "details": "The small-cap index trades near 2,750, well beneath its midpoint and breakdown zones, touching just below the 50% level. This points to a grim outlook for the broader economy of two thousand small-cap stocks, increasing the risk of a failed bounce.",
+   "surprise": "Small caps sit deep below key breakdown levels, pointing to underlying economic weakness.",
+   "kind": "setup",
+   "ticker": "^RUT",
+   "scenario": "Any bounce from current levels risks being a failed rally unless price clears the previous swing top at 3,690.",
+   "conclusion": "Small caps remain in a weak position with significant hurdles required for trend reversal.",
+   "levels": [
+    {
+     "value": 2750.0,
+     "label": "resistance"
+    },
+    {
+     "value": 3690.0,
+     "label": "target"
+    }
+   ]
+  },
+  {
+   "timestamp": "07:59",
+   "topic": "Gold Market Outlook",
+   "claim": "Gold's recent bounce above its 50% level proved uninspiring, leading straight back into a downtrend.",
+   "details": "After briefly reclaiming its 50% level, gold experienced weak follow-through and resumed its decline. Short-term intraday rallies failed to overcome the dominant high-timeframe downtrend, leaving previous swing highs around $3,690 as key resistance.",
+   "surprise": "The brief recovery above the 50% level lacked follow-through and quickly evaporated.",
+   "kind": "setup",
+   "ticker": "GC=F",
+   "scenario": "Price must break the previous swing top at 3,690 to signal any meaningful shift from the prevailing bear trend.",
+   "conclusion": "Gold continues to trade under bearish control until a convincing breakout occurs.",
+   "levels": [
+    {
+     "value": 3690.0,
+     "label": "resistance"
+    },
+    {
+     "value": 52000.0,
+     "label": "target"
+    }
+   ]
+  },
+  {
+   "timestamp": "09:02",
+   "topic": "Crude Oil Range Bound",
+   "claim": "Crude oil remains stuck in a broad range with short-term weakness and overhead resistance.",
+   "details": "Oil oscillates between the March peak and July bottom, keeping both short-term trends short-lived. Overhead resistance sits near $87 and previous resistance at $89.50 per barrel.",
+   "surprise": "The larger picture for oil remains locked inside a wide consolidation range.",
+   "kind": "setup",
+   "ticker": "CL=F",
+   "scenario": "Short-term bounces may test $87 or $89.50 resistance, but the broader range persists until a decisive breakout.",
+   "conclusion": "Crude oil lacks clear directional momentum on higher timeframes.",
+   "levels": [
+    {
+     "value": 87.0,
+     "label": "resistance"
+    },
+    {
+     "value": 89.5,
+     "label": "resistance"
+    }
+   ]
+  },
+  {
+   "timestamp": "09:54",
+   "topic": "US Dollar Strength",
+   "claim": "The US dollar maintains a strong uptrend and requires a break below 103.5 to signal a top.",
+   "details": "The dollar has climbed throughout the year. Only a drop below the lower high at 103.5 would indicate a cool-off or sideways transition, while overhead resistance waits near the macro 50% level at 105.",
+   "surprise": "The dollar has sustained its strong upward trajectory for the majority of the year.",
+   "kind": "setup",
+   "ticker": "DX-Y.NYB",
+   "scenario": "If price holds above 103.5, the dollar uptrend continues toward the 105 macro resistance level.",
+   "conclusion": "The dollar remains firmly bullish until a breakdown occurs below support.",
+   "levels": [
+    {
+     "value": 103.5,
+     "label": "support"
+    },
+    {
+     "value": 105.0,
+     "label": "resistance"
+    }
+   ]
+  },
+  {
+   "timestamp": "10:50",
+   "topic": "Bitcoin Bear Market",
+   "claim": "Bitcoin has spent 411 days in a bear market without confirming a trend reversal.",
+   "details": "Bitcoin failed to print three consecutive updates from its bear market bottom, keeping the downward trend intact. Historical duration suggests typical bear market lengths, but absence of swing top breakouts leaves bears in control.",
+   "surprise": "Bitcoin has extended its bear market duration to 411 days without reversal confirmation.",
+   "kind": "setup",
+   "ticker": "BTC-USD",
+   "scenario": "Bulls must break previous swing tops and reclaim 52,000 and 49,000 levels to signal trend change.",
+   "conclusion": "Bitcoin remains in a firmly entrenched bear market lacking price action confirmation for bulls.",
+   "levels": [
+    {
+     "value": 52000.0,
+     "label": "target"
+    },
+    {
+     "value": 49000.0,
+     "label": "target"
+    }
+   ]
+  },
+  {
+   "timestamp": "13:06",
+   "topic": "S&P 500 chart analysis",
+   "claim": "S&P 500 is holding above its midpoint, but requires a higher low formation above 7,100 points.",
+   "details": "The index is sitting in decent territory above its midpoint as Thanksgiving approaches. A higher low above 7,100 points is the minimum requirement, though a break above 7,300 points would be much stronger.",
+   "surprise": "Market is holding key midpoint levels despite volume uncertainty around holiday periods.",
+   "kind": "setup",
+   "ticker": "^GSPC",
+   "scenario": "Form a higher low above 7,100 points, ideally pushing past 7,300 points to confirm strength.",
+   "conclusion": "Indices other than S&P 500 are in slightly weaker shapes and require more work to build strong positions.",
+   "levels": [
+    {
+     "value": 7100.0,
+     "label": "support"
+    },
+    {
+     "value": 7300.0,
+     "label": "target"
+    }
+   ]
+  },
+  {
+   "timestamp": "13:32",
+   "topic": "Gold market outlook",
+   "claim": "Gold trends remain clearly down on higher timeframes, needing a short-term breakout above 3,700 dollars.",
+   "details": "Gold needs a short-term breakout above 3,700 dollars to test the 3,900 dollar level. On larger timeframes, sustainable trend changes require weekly higher lows above 3,900 dollars.",
+   "surprise": "Gold requires significant weekly support confirmation before any meaningful bounce can be trusted.",
+   "kind": "setup",
+   "ticker": "GC=F",
+   "scenario": "Break out above 3,700 dollars to test 3,900 dollars, followed by weekly higher lows to confirm a bounce.",
+   "conclusion": "Broader trends in gold remain downward until larger resistance levels are cleared and held.",
+   "levels": [
+    {
+     "value": 3700.0,
+     "label": "resistance"
+    },
+    {
+     "value": 3900.0,
+     "label": "target"
+    }
+   ]
+  },
+  {
+   "timestamp": "13:54",
+   "topic": "Crude oil analysis",
+   "claim": "Crude oil is inconclusive on high timeframes and weak on short to intermediate horizons.",
+   "details": "Overcoming the 87 to 89 dollar range could prompt tests of overhead resistance, but entering that zone still carries high failure risk.",
+   "surprise": "Even with trend changes, oil maintains a high risk of failure near overhead resistance zones.",
+   "kind": "setup",
+   "ticker": "CL=F",
+   "scenario": "Overcome 87 to 89 dollars, test overhead resistance, and break out while avoiding failure risks.",
+   "conclusion": "Oil remains inconclusive on macro charts and weak on intermediate timeframes.",
+   "levels": [
+    {
+     "value": 87.0,
+     "label": "resistance"
+    },
+    {
+     "value": 89.0,
+     "label": "resistance"
+    }
+   ]
+  },
+  {
+   "timestamp": "14:10",
+   "topic": "US Dollar index review",
+   "claim": "The US dollar has experienced a short-term sell-off, but needs a break below 103.5 to reverse its uptrend.",
+   "details": "A failure to break below 103.5 means the broader upward trend will likely continue, with a major 50 percent retracement level tracked at 105.",
+   "surprise": "A strong macro uptrend persists in the dollar despite recent short-term pullbacks.",
+   "kind": "setup",
+   "ticker": "DX-Y.NYB",
+   "scenario": "Break below 103.5 to invalidate the uptrend; otherwise, continue upward toward the 105 level.",
+   "conclusion": "The dollar's overarching uptrend remains intact unless key lower-high breaks occur.",
+   "levels": [
+    {
+     "value": 103.5,
+     "label": "support"
+    },
+    {
+     "value": 105.0,
+     "label": "target"
+    }
+   ]
+  },
+  {
+   "timestamp": "14:28",
+   "topic": "Bitcoin price action",
+   "claim": "Bitcoin remains in a daily downtrend with immediate support levels watched around 52,000 and 49,000 dollars.",
+   "details": "Bitcoin needs to break above 67,000 dollars to enter a technically strong position and print weekly higher lows. The market is currently down 411 days from its all-time high.",
+   "surprise": "Bitcoin has been in a correction phase for over 400 days from its all-time high.",
+   "kind": "setup",
+   "ticker": "BTC-USD",
+   "scenario": "Test support near 52,000 or 49,000 dollars before potentially consolidating and breaking above 67,000 dollars.",
+   "conclusion": "Substantial structural work is required before bullish momentum fully returns to Bitcoin.",
+   "levels": [
+    {
+     "value": 52000.0,
+     "label": "support"
+    },
+    {
+     "value": 49000.0,
+     "label": "support"
+    },
+    {
+     "value": 67000.0,
+     "label": "resistance"
+    }
+   ]
+  }
+ ],
+ "tickers": [
+  "ES=F",
+  "^IXIC",
+  "^DJI",
+  "^RUT",
+  "GC=F",
+  "CL=F",
+  "DX-Y.NYB",
+  "BTC-USD",
+  "^GSPC"
+ ],
+ "predictions": [
+  "S&P 500 needs to hold above 7,300 to confirm a bottom",
+  "US dollar expected to test 105 resistance level",
+  "S&P 500 to form a higher low above 7,100 or 7,300 points",
+  "Gold to test 3,900 dollars upon breaking 3,700 dollars",
+  "Bitcoin to possibly slide towards 52,000 or 49,000 dollars before a stronger recovery"
+ ],
+ "catalysts": [
+  "Thanksgiving holiday low volume period",
+  "Thanksgiving holiday volume impact"
+ ],
+ "rumors": [],
+ "curiosities": [
+  "Bitcoin has run for 411 days in its current bear market structure.",
+  "Bitcoin is down 411 days from its all-time high."
+ ],
+ "promo": false,
+ "language": "en",
+ "video_id": "TuvwVuOF2Mg",
+ "title": "The Bears Are Still Winning... But the Story Isn't Over Yet",
+ "author": "Michael Pizzino",
+ "url": "https://www.youtube.com/watch?v=TuvwVuOF2Mg",
+ "published": "2026-11-25T03:05:34+00:00",
+ "duration_min": 16,
+ "partial": false,
+ "analysed_at": "2026-11-25T03:57:51.737827+00:00",
+ "model": "gemini-3.5-flash-lite"
+}
