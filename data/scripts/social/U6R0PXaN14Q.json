@@ -1,0 +1,468 @@
+{
+ "it": [
+  {
+   "levels": [],
+   "history": null,
+   "title": "Oro: crollo del 33% dai massimi",
+   "hook": "ORO CROLLA -33%",
+   "beats": [
+    {
+     "say": "L'Oro crolla del 33% rispetto ai massimi storici segnati a gennaio.",
+     "show": "ORO CROLLA -33%",
+     "figure": "-33%"
+    },
+    {
+     "say": "Dai 5.594 dollari per oncia la quotazione è scivolata fino a 3.722.",
+     "show": "DA 5.594 A 3.722",
+     "figure": "3.722 $"
+    },
+    {
+     "say": "Per gli investitori europei la perdita si ferma invece al 26%.",
+     "show": "IN EURO -26%",
+     "figure": "-26%"
+    },
+    {
+     "say": "Il prezzo al grammo è passato da circa 147 euro a 109 euro.",
+     "show": "DA 147 A 109€",
+     "figure": "109 €"
+    },
+    {
+     "say": "La forza del dollaro ha amplificato la discesa. Segui per l'aggiornamento di domani.",
+     "show": "DOLLARO PROTAGONISTA",
+     "figure": ""
+    }
+   ],
+   "origin": "Marco Casario",
+   "source_video": "L'Oro Crolla e non Protegge: le Banche Centrali comprano ma non copiarle",
+   "narration": "L'Oro crolla del 33% rispetto ai massimi storici segnati a gennaio. Dai 5.594 dollari per oncia la quotazione è scivolata fino a 3.722. Per gli investitori europei la perdita si ferma invece al 26%. Il prezzo al grammo è passato da circa 147 euro a 109 euro. La forza del dollaro ha amplificato la discesa. Segui per l'aggiornamento di domani.",
+   "ticker": "GC=F",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Forte correzione per l'Oro: il calo in dollari tocca il 33%, mentre in euro si ferma al 26%.",
+   "hashtags": [
+    "#oro",
+    "#materieprime",
+    "#investimenti",
+    "#dollaro",
+    "#mercati"
+   ]
+  },
+  {
+   "levels": [],
+   "history": null,
+   "title": "Chi sta vendendo Oro?",
+   "hook": "CHI VENDE ORO?",
+   "beats": [
+    {
+     "say": "Quattro categorie di venditori stanno alimentando il crollo dell'Oro.",
+     "show": "CHI VENDE ORO?",
+     "figure": ""
+    },
+    {
+     "say": "I primi sono gli speculatori a leva, costretti a chiudere per margin call.",
+     "show": "MARGIN CALL",
+     "figure": ""
+    },
+    {
+     "say": "Poi ci sono famiglie e piccoli risparmiatori a caccia di liquidità.",
+     "show": "BISOGNO DI LIQUIDITÀ",
+     "figure": ""
+    },
+    {
+     "say": "Persino alcune banche centrali vendono riserve per difendere la propria valuta nazionale.",
+     "show": "BANCHE CENTRALI",
+     "figure": ""
+    },
+    {
+     "say": "Non è una bocciatura dell'asset, ma pura vendita forzata. Segui per l'aggiornamento di domani.",
+     "show": "VENDITE FORZATE",
+     "figure": ""
+    }
+   ],
+   "origin": "Marco Casario",
+   "source_video": "L'Oro Crolla e non Protegge: le Banche Centrali comprano ma non copiarle",
+   "narration": "Quattro categorie di venditori stanno alimentando il crollo dell'Oro. I primi sono gli speculatori a leva, costretti a chiudere per margin call. Poi ci sono famiglie e piccoli risparmiatori a caccia di liquidità. Persino alcune banche centrali vendono riserve per difendere la propria valuta nazionale. Non è una bocciatura dell'asset, ma pura vendita forzata. Segui per l'aggiornamento di domani.",
+   "ticker": "GC=F",
+   "sentiment": "neutral",
+   "sources": [],
+   "caption": "Dagli speculatori a leva alle banche centrali: ecco chi alimenta le vendite sull'Oro.",
+   "hashtags": [
+    "#oro",
+    "#banchecentrali",
+    "#trading",
+    "#finanza",
+    "#liquidita"
+   ]
+  },
+  {
+   "levels": [],
+   "history": null,
+   "title": "Oro in portafoglio: la regola del 5-10%",
+   "hook": "ORO COME ASSICURAZIONE",
+   "beats": [
+    {
+     "say": "L'Oro in portafoglio non serve per speculare: è una polizza assicurativa.",
+     "show": "ORO COME ASSICURAZIONE",
+     "figure": ""
+    },
+    {
+     "say": "Una quota corretta si colloca tipicamente tra il 5 e il 10%.",
+     "show": "QUOTA 5-10%",
+     "figure": "5-10%"
+    },
+    {
+     "say": "Le oscillazioni di breve termine vanno ignorate senza farsi prendere dall'ansia.",
+     "show": "IGNORA LA VOLATILITÀ",
+     "figure": ""
+    },
+    {
+     "say": "Il ribilanciamento scatta solo se il peso devia di 3 o 5 punti percentuali.",
+     "show": "DEVIAZIONE 3-5%",
+     "figure": "3-5%"
+    },
+    {
+     "say": "La disciplina delle regole elimina gli errori emotivi. Segui per l'aggiornamento di domani.",
+     "show": "DISCIPLINA RIGIDA",
+     "figure": ""
+    }
+   ],
+   "origin": "Marco Casario",
+   "source_video": "L'Oro Crolla e non Protegge: le Banche Centrali comprano ma non copiarle",
+   "narration": "L'Oro in portafoglio non serve per speculare: è una polizza assicurativa. Una quota corretta si colloca tipicamente tra il 5 e il 10%. Le oscillazioni di breve termine vanno ignorate senza farsi prendere dall'ansia. Il ribilanciamento scatta solo se il peso devia di 3 o 5 punti percentuali. La disciplina delle regole elimina gli errori emotivi. Segui per l'aggiornamento di domani.",
+   "ticker": "GC=F",
+   "sentiment": "neutral",
+   "sources": [],
+   "caption": "Gestire l'Oro come una polizza: quota fissa tra 5 e 10% e ribilanciamenti solo su scostamenti netti.",
+   "hashtags": [
+    "#oro",
+    "#portafoglio",
+    "#investimenti",
+    "#ribilanciamento",
+    "#strategia"
+   ]
+  },
+  {
+   "levels": [],
+   "history": null,
+   "title": "Oro fisico e fisco: la trappola del 26%",
+   "hook": "ORO FISICO E TASSE",
+   "beats": [
+    {
+     "say": "Attenzione alla nuova stangata fiscale sull'Oro fisico in Italia.",
+     "show": "ORO FISICO E TASSE",
+     "figure": ""
+    },
+    {
+     "say": "Dal 2024 vendere oro senza fattura d'acquisto comporta una sanzione pesante.",
+     "show": "SENZA FATTURA",
+     "figure": "2024"
+    },
+    {
+     "say": "L'aliquota del 26% si applica sull'intero controvalore incassato, non sulla plusvalenza.",
+     "show": "26% SUL TOTALE",
+     "figure": "26%"
+    },
+    {
+     "say": "Gli strumenti finanziari come gli ETC evitano il problema e permettono di compensare minusvalenze.",
+     "show": "VANTAGGIO ETC",
+     "figure": ""
+    },
+    {
+     "say": "La scelta dello strumento impatta direttamente sul rendimento netto. Segui per l'aggiornamento di domani.",
+     "show": "RENDIMENTO NETTO",
+     "figure": ""
+    }
+   ],
+   "origin": "Marco Casario",
+   "source_video": "L'Oro Crolla e non Protegge: le Banche Centrali comprano ma non copiarle",
+   "narration": "Attenzione alla nuova stangata fiscale sull'Oro fisico in Italia. Dal 2024 vendere oro senza fattura d'acquisto comporta una sanzione pesante. L'aliquota del 26% si applica sull'intero controvalore incassato, non sulla plusvalenza. Gli strumenti finanziari come gli ETC evitano il problema e permettono di compensare minusvalenze. La scelta dello strumento impatta direttamente sul rendimento netto. Segui per l'aggiornamento di domani.",
+   "ticker": "GC=F",
+   "sentiment": "neutral",
+   "sources": [],
+   "caption": "Occhio al fisco: vendere oro fisico senza documentazione costa il 26% sull'intero incasso.",
+   "hashtags": [
+    "#oro",
+    "#fisco",
+    "#tasse",
+    "#investimenti",
+    "#risparmio"
+   ]
+  }
+ ],
+ "en": [
+  {
+   "levels": [],
+   "history": null,
+   "title": "Gold plunges 33% from its peak",
+   "hook": "GOLD CRASH -33%",
+   "beats": [
+    {
+     "say": "Gold is down 33% from its January record high.",
+     "show": "GOLD CRASH -33%",
+     "figure": "-33%"
+    },
+    {
+     "say": "Prices plunged from $5,594 per ounce down to $3,722.",
+     "show": "FROM $5,594 TO $3,722",
+     "figure": "$3,722"
+    },
+    {
+     "say": "For European investors the drop was softer, halting at 26%.",
+     "show": "EURO DROP -26%",
+     "figure": "-26%"
+    },
+    {
+     "say": "The gram price fell from roughly 147 euros to 109 euros.",
+     "show": "FROM €147 TO €109",
+     "figure": "€109"
+    },
+    {
+     "say": "Dollar strength widened the gap. Follow for tomorrow's update.",
+     "show": "DOLLAR IMPACT",
+     "figure": ""
+    }
+   ],
+   "origin": "Marco Casario",
+   "source_video": "L'Oro Crolla e non Protegge: le Banche Centrali comprano ma non copiarle",
+   "narration": "Gold is down 33% from its January record high. Prices plunged from $5,594 per ounce down to $3,722. For European investors the drop was softer, halting at 26%. The gram price fell from roughly 147 euros to 109 euros. Dollar strength widened the gap. Follow for tomorrow's update.",
+   "ticker": "GC=F",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Gold suffers a steep correction: down 33% in USD terms and 26% in euros.",
+   "hashtags": [
+    "#gold",
+    "#commodities",
+    "#investing",
+    "#dollar",
+    "#markets"
+   ]
+  },
+  {
+   "levels": [],
+   "history": null,
+   "title": "Who is selling gold right now?",
+   "hook": "WHO SELLS GOLD?",
+   "beats": [
+    {
+     "say": "Four distinct groups are fueling the current gold sell-off.",
+     "show": "WHO SELLS GOLD?",
+     "figure": ""
+    },
+    {
+     "say": "Leveraged speculators were hit first by severe margin calls.",
+     "show": "MARGIN CALLS",
+     "figure": ""
+    },
+    {
+     "say": "Retail investors and households are offloading metal to raise urgent liquidity.",
+     "show": "LIQUIDITY CRUNCH",
+     "figure": ""
+    },
+    {
+     "say": "Even select central banks sold gold to defend their local currencies.",
+     "show": "CENTRAL BANKS",
+     "figure": ""
+    },
+    {
+     "say": "This is forced liquidation, not lost confidence. Follow for tomorrow's update.",
+     "show": "FORCED SELLING",
+     "figure": ""
+    }
+   ],
+   "origin": "Marco Casario",
+   "source_video": "L'Oro Crolla e non Protegge: le Banche Centrali comprano ma non copiarle",
+   "narration": "Four distinct groups are fueling the current gold sell-off. Leveraged speculators were hit first by severe margin calls. Retail investors and households are offloading metal to raise urgent liquidity. Even select central banks sold gold to defend their local currencies. This is forced liquidation, not lost confidence. Follow for tomorrow's update.",
+   "ticker": "GC=F",
+   "sentiment": "neutral",
+   "sources": [],
+   "caption": "From leveraged accounts to central banks: the four forces behind the gold drop.",
+   "hashtags": [
+    "#gold",
+    "#centralbanks",
+    "#trading",
+    "#liquidity",
+    "#investing"
+   ]
+  },
+  {
+   "levels": [],
+   "history": null,
+   "title": "How to hold gold: the 5-10% rule",
+   "hook": "GOLD IS INSURANCE",
+   "beats": [
+    {
+     "say": "Gold is not a speculative growth bet, it is portfolio insurance.",
+     "show": "GOLD IS INSURANCE",
+     "figure": ""
+    },
+    {
+     "say": "A target weighting typically sits between 5 and 10%.",
+     "show": "5-10% ALLOCATION",
+     "figure": "5-10%"
+    },
+    {
+     "say": "Short-term market volatility should be completely ignored.",
+     "show": "IGNORE SWINGS",
+     "figure": ""
+    },
+    {
+     "say": "Rebalancing triggers only when allocation drifts by 3 to 5 percentage points.",
+     "show": "DRIFT 3-5%",
+     "figure": "3-5%"
+    },
+    {
+     "say": "Clear rules remove emotional mistakes in panic phases. Follow for tomorrow's update.",
+     "show": "RULE DISCIPLINE",
+     "figure": ""
+    }
+   ],
+   "origin": "Marco Casario",
+   "source_video": "L'Oro Crolla e non Protegge: le Banche Centrali comprano ma non copiarle",
+   "narration": "Gold is not a speculative growth bet, it is portfolio insurance. A target weighting typically sits between 5 and 10%. Short-term market volatility should be completely ignored. Rebalancing triggers only when allocation drifts by 3 to 5 percentage points. Clear rules remove emotional mistakes in panic phases. Follow for tomorrow's update.",
+   "ticker": "GC=F",
+   "sentiment": "neutral",
+   "sources": [],
+   "caption": "Treat gold as insurance: keep a 5-10% target and rebalance only after 3-5% drift.",
+   "hashtags": [
+    "#gold",
+    "#portfoliomanagement",
+    "#assetallocation",
+    "#investing",
+    "#hedging"
+   ]
+  },
+  {
+   "levels": [],
+   "history": null,
+   "title": "Physical gold tax trap: what to know",
+   "hook": "GOLD TAX TRAP",
+   "beats": [
+    {
+     "say": "Tax regulations can heavily penalize physical gold holdings.",
+     "show": "GOLD TAX TRAP",
+     "figure": ""
+    },
+    {
+     "say": "Selling physical bullion without the original purchase invoice triggers severe rules in Italy.",
+     "show": "MISSING INVOICE",
+     "figure": "26%"
+    },
+    {
+     "say": "A 26% tax hits the entire gross proceeds rather than just capital gains.",
+     "show": "26% ON TOTAL",
+     "figure": "26%"
+    },
+    {
+     "say": "Financial ETCs bypass this issue and allow offsetting realized capital losses.",
+     "show": "ETC ADVANTAGE",
+     "figure": ""
+    },
+    {
+     "say": "Vehicle selection dictates your true net return. Follow for tomorrow's update.",
+     "show": "NET RETURNS",
+     "figure": ""
+    }
+   ],
+   "origin": "Marco Casario",
+   "source_video": "L'Oro Crolla e non Protegge: le Banche Centrali comprano ma non copiarle",
+   "narration": "Tax regulations can heavily penalize physical gold holdings. Selling physical bullion without the original purchase invoice triggers severe rules in Italy. A 26% tax hits the entire gross proceeds rather than just capital gains. Financial ETCs bypass this issue and allow offsetting realized capital losses. Vehicle selection dictates your true net return. Follow for tomorrow's update.",
+   "ticker": "GC=F",
+   "sentiment": "neutral",
+   "sources": [],
+   "caption": "Selling physical gold without invoices can trigger a 26% tax on gross sale proceeds.",
+   "hashtags": [
+    "#gold",
+    "#taxes",
+    "#investing",
+    "#wealth",
+    "#commodities"
+   ]
+  }
+ ],
+ "carousels": {
+  "it": {
+   "topic": "La guida al crollo dell'Oro",
+   "caption": "L'Oro scende ma resta la principale assicurazione di portafoglio. Ecco i numeri della correzione, i venditori sul mercato e le regole fiscali da conoscere. Segui per l'aggiornamento di domani.",
+   "sentiment": "neutral",
+   "ticker": "GC=F",
+   "slides": [
+    {
+     "title": "Oro a -33%: cosa fare adesso?",
+     "body": "La correzione dai massimi storici ha scosso il mercato. Ecco chi vende, come gestirlo e l'errore fiscale da evitare."
+    },
+    {
+     "title": "I numeri del ribasso",
+     "body": "L'Oro è sceso da 5.594 a 3.722 dollari per oncia, un calo del 33%. In euro la perdita si ferma al 26%."
+    },
+    {
+     "title": "Chi sta vendendo?",
+     "body": "Quattro forze al lavoro: speculatori colpiti da margin call, risparmiatori bisognosi di cassa e banche centrali che difendono la propria moneta."
+    },
+    {
+     "title": "La regola del 5-10%",
+     "body": "L'Oro va trattato come una polizza. Mantieni un'esposizione tra il 5 e il 10%, ribilanciando solo su scostamenti del 3-5%."
+    },
+    {
+     "title": "La trappola fiscale",
+     "body": "Senza fattura d'acquisto, la vendita di oro fisico sconta il 26% sull'intero incasso. Gli ETC consentono invece la compensazione."
+    },
+    {
+     "title": "Protezione di lungo periodo",
+     "body": "L'Oro difende il capitale dalle crisi valutarie nei decenni. Definisci quota e strumenti senza farti guidare dal panico. Segui per l'aggiornamento di domani."
+    }
+   ],
+   "hashtags": [
+    "#oro",
+    "#finanza",
+    "#investimenti",
+    "#portafoglio",
+    "#mercati",
+    "#tasse",
+    "#inflazione",
+    "#banchecentrali"
+   ]
+  },
+  "en": {
+   "topic": "Gold crash breakdown and strategy",
+   "caption": "Gold is correcting sharply, but its defensive nature remains intact. Here are the numbers, the sellers, and the rules to manage it. Follow for tomorrow's update.",
+   "sentiment": "neutral",
+   "ticker": "GC=F",
+   "slides": [
+    {
+     "title": "Gold down 33%: what now?",
+     "body": "The sharp drop from record highs has rattled investors. Here is who is selling, how to position, and key tax traps."
+    },
+    {
+     "title": "The correction in figures",
+     "body": "Prices dropped from $5,594 to $3,722 per ounce, losing 33%. For euro holders, the slide was limited to 26%."
+    },
+    {
+     "title": "Behind the selling pressure",
+     "body": "Four sellers dominate: leveraged speculators facing liquidations, retail seeking immediate cash, and central banks stabilizing their foreign exchange."
+    },
+    {
+     "title": "The 5-10% insurance rule",
+     "body": "Gold acts as portfolio insurance, not a growth engine. Target a 5-10% weight and rebalance only after 3-5% drift."
+    },
+    {
+     "title": "Vehicle and tax impact",
+     "body": "Uninvoiced physical gold sales face heavy tax hits on total value. Regulated ETCs offer clean tax loss offsetting."
+    },
+    {
+     "title": "Long-term capital shield",
+     "body": "Gold withstands multi-decade currency debasement. Stick to disciplined allocation rules rather than panic trading. Follow for tomorrow's update."
+    }
+   ],
+   "hashtags": [
+    "#gold",
+    "#investing",
+    "#portfolio",
+    "#markets",
+    "#wealth",
+    "#centralbanks",
+    "#hedging",
+    "#finance"
+   ]
+  }
+ }
+}

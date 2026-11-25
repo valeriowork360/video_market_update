@@ -1,0 +1,900 @@
+{
+ "it": [
+  {
+   "levels": [
+    6008.0
+   ],
+   "history": null,
+   "title": "S&P 500: il livello chiave 6.008 decide il trend",
+   "hook": "S&P 500 A 6.008",
+   "beats": [
+    {
+     "say": "S&P 500 si gioca l'intero recupero su quota 6.008.",
+     "show": "S&P 500 A 6.008",
+     "figure": "6.008"
+    },
+    {
+     "say": "I futures mostrano la massima concentrazione di volumi istituzionali esattamente su questa soglia.",
+     "show": "VOLUMI ISTITUZIONALI",
+     "figure": ""
+    },
+    {
+     "say": "Finché i prezzi scambiano sopra 6.008, la struttura rialzista rimane intatta.",
+     "show": "STRUTTURA RIALZISTA",
+     "figure": "6.008"
+    },
+    {
+     "say": "Una rottura al ribasso confermerebbe l'uscita delle mani forti, aprendo a una correzione profonda.",
+     "show": "RISCHIO CORREZIONE",
+     "figure": ""
+    },
+    {
+     "say": "Questo livello separa la prosecuzione del rally da una severa fase ribassista. Segui per l'aggiornamento.",
+     "show": "LIVELLO SPARTIACQUE",
+     "figure": "6.008"
+    }
+   ],
+   "origin": "Marco Casario EXTRA",
+   "source_video": "Il Mercato Riduce gli ECCESSI: che segnali guardare con @massimorea-quant-analys",
+   "narration": "S&P 500 si gioca l'intero recupero su quota 6.008. I futures mostrano la massima concentrazione di volumi istituzionali esattamente su questa soglia. Finché i prezzi scambiano sopra 6.008, la struttura rialzista rimane intatta. Una rottura al ribasso confermerebbe l'uscita delle mani forti, aprendo a una correzione profonda. Questo livello separa la prosecuzione del rally da una severa fase ribassista. Segui per l'aggiornamento.",
+   "ticker": "ES=F",
+   "sentiment": "neutral",
+   "sources": [],
+   "caption": "S&P 500 testa il nodo volumetrico di 6.008 punti. La tenuta di questa soglia è decisiva per il trend.",
+   "hashtags": [
+    "#SP500",
+    "#Trading",
+    "#Borsa",
+    "#Investimenti",
+    "#Volumi"
+   ]
+  },
+  {
+   "levels": [
+    3.0
+   ],
+   "history": null,
+   "title": "COR1M a 3: compiacenza record sui mercati",
+   "hook": "CORRELAZIONE A 3",
+   "beats": [
+    {
+     "say": "L'indice di correlazione implicita COR1M è crollato fino a 3.",
+     "show": "CORRELAZIONE A 3",
+     "figure": "3"
+    },
+    {
+     "say": "Questo indicatore misura la correlazione sulle opzioni dei primi 50 titoli dello S&P 500.",
+     "show": "TOP 50 TITOLI",
+     "figure": "50"
+    },
+    {
+     "say": "Valori vicini a 3 mostrano che il mercato ha smesso del tutto di coprirsi contro i ribassi.",
+     "show": "ZERO COPERTURE",
+     "figure": "3"
+    },
+    {
+     "say": "In passato, quando la compiacenza raggiunge questi estremi, basta un'inversione improvvisa per scatenare vendite a catena.",
+     "show": "PICCO DI VOLATILITÀ",
+     "figure": ""
+    },
+    {
+     "say": "L'assenza di coperture rende il mercato estremamente fragile. Segui per l'aggiornamento.",
+     "show": "MERCATO FRAGILE",
+     "figure": ""
+    }
+   ],
+   "origin": "Marco Casario EXTRA",
+   "source_video": "Il Mercato Riduce gli ECCESSI: che segnali guardare con @massimorea-quant-analys",
+   "narration": "L'indice di correlazione implicita COR1M è crollato fino a 3. Questo indicatore misura la correlazione sulle opzioni dei primi 50 titoli dello S&P 500. Valori vicini a 3 mostrano che il mercato ha smesso del tutto di coprirsi contro i ribassi. In passato, quando la compiacenza raggiunge questi estremi, basta un'inversione improvvisa per scatenare vendite a catena. L'assenza di coperture rende il mercato estremamente fragile. Segui per l'aggiornamento.",
+   "ticker": null,
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Il crollo dell'indice COR1M a quota 3 segnala una pericolosa assenza di coperture protettive.",
+   "hashtags": [
+    "#Volatilità",
+    "#Opzioni",
+    "#Borsa",
+    "#Rischio",
+    "#Finanza"
+   ]
+  },
+  {
+   "levels": [
+    30.0,
+    50.0
+   ],
+   "history": null,
+   "title": "VIX a 50: cosa accade l'anno successivo",
+   "hook": "VIX SOPRA 50",
+   "beats": [
+    {
+     "say": "Il VIX sopra quota 50 non preannuncia un collasso duraturo.",
+     "show": "VIX SOPRA 50",
+     "figure": "50"
+    },
+    {
+     "say": "Superare i 30 punti richiede prudenza, ma i picchi a 50 raccontano una storia diversa.",
+     "show": "SOGLIA 30 PUNTI",
+     "figure": "30"
+    },
+    {
+     "say": "Storicamente, nessun anno successivo a un'impennata del VIX a 50 si è chiuso in territorio negativo per lo S&P 500.",
+     "show": "RENDIMENTI STORICI",
+     "figure": "50"
+    },
+    {
+     "say": "Il panico estremo ripulisce gli eccessi e crea punti di ripartenza strutturali.",
+     "show": "RESET DEL PANICO",
+     "figure": ""
+    },
+    {
+     "say": "I picchi di volatilità offrono storicamente occasioni di acquisto. Segui per l'aggiornamento.",
+     "show": "OCCASIONE DI ACQUISTO",
+     "figure": ""
+    }
+   ],
+   "origin": "Marco Casario EXTRA",
+   "source_video": "Il Mercato Riduce gli ECCESSI: che segnali guardare con @massimorea-quant-analys",
+   "narration": "Il VIX sopra quota 50 non preannuncia un collasso duraturo. Superare i 30 punti richiede prudenza, ma i picchi a 50 raccontano una storia diversa. Storicamente, nessun anno successivo a un'impennata del VIX a 50 si è chiuso in territorio negativo per lo S&P 500. Il panico estremo ripulisce gli eccessi e crea punti di ripartenza strutturali. I picchi di volatilità offrono storicamente occasioni di acquisto. Segui per l'aggiornamento.",
+   "ticker": "^VIX",
+   "sentiment": "bullish",
+   "sources": [],
+   "caption": "I picchi del VIX a quota 50 hanno storicamente preceduto rendimenti positivi a 12 mesi per lo S&P 500.",
+   "hashtags": [
+    "#VIX",
+    "#Volatilità",
+    "#SP500",
+    "#Mercati",
+    "#Strategia"
+   ]
+  },
+  {
+   "levels": [
+    3000.0
+   ],
+   "history": null,
+   "title": "Gas naturale: compressione sui minimi volumetrici",
+   "hook": "GAS NATURALE COMPRIME",
+   "beats": [
+    {
+     "say": "Il gas naturale sta comprimendo la volatilità sui minimi ciclici pluriennali.",
+     "show": "GAS NATURALE COMPRIME",
+     "figure": ""
+    },
+    {
+     "say": "Le quotazioni stazionano nella parte inferiore dell'area di volume vicino a 3.000 punti.",
+     "show": "SUPPORTO A 3.000",
+     "figure": "3.000"
+    },
+    {
+     "say": "La contrazione del prezzo ricorda una molla caricata al massimo.",
+     "show": "MOLLA PRONTA",
+     "figure": ""
+    },
+    {
+     "say": "Una rottura confermata al di fuori dell'intervallo di compressione innescherà una forte espansione al rialzo.",
+     "show": "BREAKOUT RIALZISTA",
+     "figure": ""
+    },
+    {
+     "say": "I volumi indicano che il fondo potrebbe essere vicino. Segui per l'aggiornamento.",
+     "show": "ACCUMULAZIONE IN CORSO",
+     "figure": ""
+    }
+   ],
+   "origin": "Marco Casario EXTRA",
+   "source_video": "Il Mercato Riduce gli ECCESSI: che segnali guardare con @massimorea-quant-analys",
+   "narration": "Il gas naturale sta comprimendo la volatilità sui minimi ciclici pluriennali. Le quotazioni stazionano nella parte inferiore dell'area di volume vicino a 3.000 punti. La contrazione del prezzo ricorda una molla caricata al massimo. Una rottura confermata al di fuori dell'intervallo di compressione innescherà una forte espansione al rialzo. I volumi indicano che il fondo potrebbe essere vicino. Segui per l'aggiornamento.",
+   "ticker": "NG1!",
+   "sentiment": "bullish",
+   "sources": [],
+   "caption": "Il gas naturale mostra una forte compressione di prezzo sui minimi di volume: setup di rimbalzo in formazione.",
+   "hashtags": [
+    "#GasNaturale",
+    "#MateriePrime",
+    "#Trading",
+    "#Commodities",
+    "#Breakout"
+   ]
+  },
+  {
+   "levels": [],
+   "history": {
+    "symbol": "^GSPC",
+    "start": "2018-09",
+    "end": "2020-03"
+   },
+   "title": "I crolli storici si fermano sul Point of Control",
+   "hook": "CRASH COVID -32%",
+   "beats": [
+    {
+     "say": "Nel crash COVID del 2020 lo S&P 500 crollò del 32% in un mese.",
+     "show": "CRASH COVID -32%",
+     "figure": "-32%"
+    },
+    {
+     "say": "L'indice partì dal massimo di 3.380 punti a febbraio fino al minimo di 2.305 a marzo.",
+     "show": "DA 3.380 A 2.305",
+     "figure": "2.305"
+    },
+    {
+     "say": "Quella discesa rovinosa si fermò con precisione millimetrica sul Point of Control volumetrico.",
+     "show": "POINT OF CONTROL",
+     "figure": ""
+    },
+    {
+     "say": "Lo stesso schema si verificò a fine 2018 durante la correzione verso 2.470.",
+     "show": "TEST NEL 2018",
+     "figure": "2.470"
+    },
+    {
+     "say": "I nodi istituzionali di volume restano i veri argini nei momenti di panico. Segui per l'aggiornamento.",
+     "show": "VOLUMI DECISIVI",
+     "figure": ""
+    }
+   ],
+   "origin": "Marco Casario EXTRA",
+   "source_video": "Il Mercato Riduce gli ECCESSI: che segnali guardare con @massimorea-quant-analys",
+   "narration": "Nel crash COVID del 2020 lo S&P 500 crollò del 32% in un mese. L'indice partì dal massimo di 3.380 punti a febbraio fino al minimo di 2.305 a marzo. Quella discesa rovinosa si fermò con precisione millimetrica sul Point of Control volumetrico. Lo stesso schema si verificò a fine 2018 durante la correzione verso 2.470. I nodi istituzionali di volume restano i veri argini nei momenti di panico. Segui per l'aggiornamento.",
+   "ticker": "^GSPC",
+   "sentiment": "neutral",
+   "sources": [],
+   "caption": "Sia nel 2018 che nel crash del 2020 (-32%), lo S&P 500 ha arrestato la caduta esattamente sui massimi nodi di volume.",
+   "hashtags": [
+    "#SP500",
+    "#AnalisiTecnica",
+    "#CrashBorsa",
+    "#Volumi",
+    "#Finanza"
+   ]
+  },
+  {
+   "levels": [
+    200.0
+   ],
+   "history": {
+    "symbol": "SOX",
+    "start": "2000-01",
+    "end": "2026-03"
+   },
+   "title": "Semiconduttori: eccessi pari alla bolla del 2000",
+   "hook": "SOX AI MASSIMI",
+   "beats": [
+    {
+     "say": "L'indice dei semiconduttori SOX ha stampato il secondo miglior mese di sempre.",
+     "show": "SOX AI MASSIMI",
+     "figure": ""
+    },
+    {
+     "say": "I rendimenti mensili e la distanza dalla media mobile a 200 periodi eguagliano il picco delle dot-com.",
+     "show": "MEDIA A 200 PERIODI",
+     "figure": "200"
+    },
+    {
+     "say": "I titoli dei chip hanno sovraperformato persino le mega-cap tecnologiche.",
+     "show": "CHIP OLTRE LE BIG",
+     "figure": ""
+    },
+    {
+     "say": "Quando le metriche di ergodicità raggiungono queste fasce estreme, un ritracciamento ciclico diventa altamente probabile.",
+     "show": "RISCHIO RITRACCIAMENTO",
+     "figure": ""
+    },
+    {
+     "say": "Riconoscere l'eccesso statistico è vitale per proteggere il capitale. Segui per l'aggiornamento.",
+     "show": "GESTIONE RISCHIO",
+     "figure": ""
+    }
+   ],
+   "origin": "Marco Casario EXTRA",
+   "source_video": "Il Mercato Riduce gli ECCESSI: che segnali guardare con @massimorea-quant-analys",
+   "narration": "L'indice dei semiconduttori SOX ha stampato il secondo miglior mese di sempre. I rendimenti mensili e la distanza dalla media mobile a 200 periodi eguagliano il picco delle dot-com. I titoli dei chip hanno sovraperformato persino le mega-cap tecnologiche. Quando le metriche di ergodicità raggiungono queste fasce estreme, un ritracciamento ciclico diventa altamente probabile. Riconoscere l'eccesso statistico è vitale per proteggere il capitale. Segui per l'aggiornamento.",
+   "ticker": "SOX",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "I rendimenti dell'indice semiconduttori SOX e la distanza dalla media mobile a 200 mostrano eccessi simili al 2000.",
+   "hashtags": [
+    "#Semiconduttori",
+    "#SOX",
+    "#BollaDotCom",
+    "#Investimenti",
+    "#Tech"
+   ]
+  },
+  {
+   "levels": [
+    40000.0
+   ],
+   "history": {
+    "symbol": "BTC-USD",
+    "start": "2021-01",
+    "end": "2023-12"
+   },
+   "title": "Bitcoin: i drawdown si riducono a ogni ciclo",
+   "hook": "CROLLO Bitcoin -74%",
+   "beats": [
+    {
+     "say": "Nel mercato orso 2021-2022 Bitcoin è crollato del 74%.",
+     "show": "CROLLO Bitcoin -74%",
+     "figure": "-74%"
+    },
+    {
+     "say": "Il prezzo è sceso dal massimo di 64.950 dollari fino a 16.604 in 12 mesi.",
+     "show": "DA 64.950 A 16.604",
+     "figure": "16.604"
+    },
+    {
+     "say": "Nei cicli precedenti le correzioni superavano l'80 o il 90%.",
+     "show": "CORREZIONI PRECEDENTI",
+     "figure": "-90%"
+    },
+    {
+     "say": "Un eventuale test del supporto a 40.000 dollari comporterebbe un drawdown del 60%, il più contenuto di sempre.",
+     "show": "SUPPORTO A 40.000",
+     "figure": "40.000"
+    },
+    {
+     "say": "La maturità istituzionale di Bitcoin sta riducendo la severità delle discese. Segui per l'aggiornamento.",
+     "show": "MATURITÀ STRUTTURALE",
+     "figure": ""
+    }
+   ],
+   "origin": "Marco Casario EXTRA",
+   "source_video": "Il Mercato Riduce gli ECCESSI: che segnali guardare con @massimorea-quant-analys",
+   "narration": "Nel mercato orso 2021-2022 Bitcoin è crollato del 74%. Il prezzo è sceso dal massimo di 64.950 dollari fino a 16.604 in 12 mesi. Nei cicli precedenti le correzioni superavano l'80 o il 90%. Un eventuale test del supporto a 40.000 dollari comporterebbe un drawdown del 60%, il più contenuto di sempre. La maturità istituzionale di Bitcoin sta riducendo la severità delle discese. Segui per l'aggiornamento.",
+   "ticker": "BTC-USD",
+   "sentiment": "neutral",
+   "sources": [],
+   "caption": "La contrazione percentuale dei drawdown di Bitcoin evidenzia una progressiva maturazione dell'asset class.",
+   "hashtags": [
+    "#Bitcoin",
+    "#Criptovalute",
+    "#Drawdown",
+    "#AnalisiCiclica",
+    "#BTC"
+   ]
+  },
+  {
+   "levels": [],
+   "history": {
+    "symbol": "GC=F",
+    "start": "1980-01",
+    "end": "2024-01"
+   },
+   "title": "La Banca Centrale Cinese compra oro senza sosta",
+   "hook": "CINA ACCUMULA ORO",
+   "beats": [
+    {
+     "say": "La Banca Popolare Cinese accumula fino a 830.000 once d'oro al mese.",
+     "show": "CINA ACCUMULA ORO",
+     "figure": "830.000"
+    },
+    {
+     "say": "Gli acquisti mensili oscillano regolarmente tra 260.000 e 830.000 once.",
+     "show": "ACQUISTI COSTANTI",
+     "figure": "260.000"
+    },
+    {
+     "say": "Non si tratta di trading speculativo ma di una mossa geostrategica mirata.",
+     "show": "STRATEGIA GEOPOLITICA",
+     "figure": ""
+    },
+    {
+     "say": "La dedollarizzazione promossa dal blocco BRICS sostiene una domanda strutturale di metallo fisico.",
+     "show": "DEDOLLARIZZAZIONE",
+     "figure": ""
+    },
+    {
+     "say": "L'accumulo sovrano di oro rimane un pilastro macroeconomico a lungo termine. Segui per l'aggiornamento.",
+     "show": "PILASTRO SOVRANO",
+     "figure": ""
+    }
+   ],
+   "origin": "Marco Casario EXTRA",
+   "source_video": "Il Mercato Riduce gli ECCESSI: che segnali guardare con @massimorea-quant-analys",
+   "narration": "La Banca Popolare Cinese accumula fino a 830.000 once d'oro al mese. Gli acquisti mensili oscillano regolarmente tra 260.000 e 830.000 once. Non si tratta di trading speculativo ma di una mossa geostrategica mirata. La dedollarizzazione promossa dal blocco BRICS sostiene una domanda strutturale di metallo fisico. L'accumulo sovrano di oro rimane un pilastro macroeconomico a lungo termine. Segui per l'aggiornamento.",
+   "ticker": "GC=F",
+   "sentiment": "bullish",
+   "sources": [],
+   "caption": "La People's Bank of China aggiunge costantemente tra 260.000 e 830.000 once d'oro alle riserve per ridurre la dipendenza dal dollaro.",
+   "hashtags": [
+    "#Oro",
+    "#BancaCentrale",
+    "#Cina",
+    "#Dedollarizzazione",
+    "#BRICS"
+   ]
+  }
+ ],
+ "en": [
+  {
+   "levels": [
+    6008.0
+   ],
+   "history": null,
+   "title": "S&P 500: 6,008 Is the Line in the Sand",
+   "hook": "S&P 500 AT 6,008",
+   "beats": [
+    {
+     "say": "S&P 500 faces its ultimate test right at 6,008.",
+     "show": "S&P 500 AT 6,008",
+     "figure": "6,008"
+    },
+    {
+     "say": "Futures show the highest concentration of institutional volume anchored at this exact level.",
+     "show": "INSTITUTIONAL VOLUME",
+     "figure": ""
+    },
+    {
+     "say": "Holding above 6,008 keeps the structural recovery firmly in play.",
+     "show": "BULLISH STRUCTURE",
+     "figure": "6,008"
+    },
+    {
+     "say": "Losing 6,008 signals institutional selling and initiates a much deeper market correction.",
+     "show": "BREAKDOWN RISK",
+     "figure": ""
+    },
+    {
+     "say": "Watch 6,008 to see if buyers hold the line. Follow for updates.",
+     "show": "PIVOTAL SUPPORT",
+     "figure": "6,008"
+    }
+   ],
+   "origin": "Marco Casario EXTRA",
+   "source_video": "Il Mercato Riduce gli ECCESSI: che segnali guardare con @massimorea-quant-analys",
+   "narration": "S&P 500 faces its ultimate test right at 6,008. Futures show the highest concentration of institutional volume anchored at this exact level. Holding above 6,008 keeps the structural recovery firmly in play. Losing 6,008 signals institutional selling and initiates a much deeper market correction. Watch 6,008 to see if buyers hold the line. Follow for updates.",
+   "ticker": "ES=F",
+   "sentiment": "neutral",
+   "sources": [],
+   "caption": "S&P 500 volume profile highlights 6,008 as the make-or-break level for institutional investors.",
+   "hashtags": [
+    "#SP500",
+    "#StockMarket",
+    "#Trading",
+    "#Futures",
+    "#TechnicalAnalysis"
+   ]
+  },
+  {
+   "levels": [
+    3.0
+   ],
+   "history": null,
+   "title": "COR1M Drops to 3: Extreme Market Complacency",
+   "hook": "CORRELATION AT 3",
+   "beats": [
+    {
+     "say": "The COR1M implied correlation index just collapsed to 3.",
+     "show": "CORRELATION AT 3",
+     "figure": "3"
+    },
+    {
+     "say": "This metric tracks option-implied correlation among the top 50 S&P 500 components.",
+     "show": "TOP 50 STOCKS",
+     "figure": "50"
+    },
+    {
+     "say": "Dropping to 3 means investors have stopped buying downside hedging altogether.",
+     "show": "NO DOWNSIDE HEDGES",
+     "figure": "3"
+    },
+    {
+     "say": "Historically, this extreme complacency leaves the index vulnerable to sudden volatility shocks.",
+     "show": "VOLATILITY SHOCK",
+     "figure": ""
+    },
+    {
+     "say": "An unhedged market can unwind violently without warning. Follow for updates.",
+     "show": "FRAGILE MARKET",
+     "figure": ""
+    }
+   ],
+   "origin": "Marco Casario EXTRA",
+   "source_video": "Il Mercato Riduce gli ECCESSI: che segnali guardare con @massimorea-quant-analys",
+   "narration": "The COR1M implied correlation index just collapsed to 3. This metric tracks option-implied correlation among the top 50 S&P 500 components. Dropping to 3 means investors have stopped buying downside hedging altogether. Historically, this extreme complacency leaves the index vulnerable to sudden volatility shocks. An unhedged market can unwind violently without warning. Follow for updates.",
+   "ticker": null,
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "COR1M dropping near 3 reveals an unhedged market exposed to sharp drawdowns.",
+   "hashtags": [
+    "#Markets",
+    "#Volatility",
+    "#Options",
+    "#SP500",
+    "#Hedging"
+   ]
+  },
+  {
+   "levels": [
+    30.0,
+    50.0
+   ],
+   "history": null,
+   "title": "VIX Spikes to 50: What History Teaches",
+   "hook": "VIX ABOVE 50",
+   "beats": [
+    {
+     "say": "A VIX spike above 50 does not mean prolonged market destruction.",
+     "show": "VIX ABOVE 50",
+     "figure": "50"
+    },
+    {
+     "say": "Levels above 30 urge caution, but a surge to 50 has a unique track record.",
+     "show": "CAUTION OVER 30",
+     "figure": "30"
+    },
+    {
+     "say": "Historically, no year following a VIX spike to 50 has closed negative for the S&P 500.",
+     "show": "ZERO NEGATIVE YEARS",
+     "figure": "50"
+    },
+    {
+     "say": "Extreme fear purges market leverage, establishing durable long-term price bottoms.",
+     "show": "CYCLE RESET",
+     "figure": ""
+    },
+    {
+     "say": "Panic spikes create generational entry opportunities over time. Follow for updates.",
+     "show": "ENTRY WINDOW",
+     "figure": ""
+    }
+   ],
+   "origin": "Marco Casario EXTRA",
+   "source_video": "Il Mercato Riduce gli ECCESSI: che segnali guardare con @massimorea-quant-analys",
+   "narration": "A VIX spike above 50 does not mean prolonged market destruction. Levels above 30 urge caution, but a surge to 50 has a unique track record. Historically, no year following a VIX spike to 50 has closed negative for the S&P 500. Extreme fear purges market leverage, establishing durable long-term price bottoms. Panic spikes create generational entry opportunities over time. Follow for updates.",
+   "ticker": "^VIX",
+   "sentiment": "bullish",
+   "sources": [],
+   "caption": "Historically, the S&P 500 has never closed down in the 12 months following a VIX spike to 50.",
+   "hashtags": [
+    "#VIX",
+    "#Volatility",
+    "#StockMarket",
+    "#Investing",
+    "#SP500"
+   ]
+  },
+  {
+   "levels": [
+    3000.0
+   ],
+   "history": null,
+   "title": "Natural Gas Compresses at Multi-Year Lows",
+   "hook": "GAS SQUEEZE",
+   "beats": [
+    {
+     "say": "Natural gas is building a massive volatility squeeze at cyclical lows.",
+     "show": "GAS SQUEEZE",
+     "figure": ""
+    },
+    {
+     "say": "Prices sit right at the bottom of the multi-year volume profile near 3,000.",
+     "show": "VOLUME SUPPORT 3,000",
+     "figure": "3,000"
+    },
+    {
+     "say": "Price action and quantitative ranges are contracting like a tightly coiled spring.",
+     "show": "RANGE COMPRESSION",
+     "figure": ""
+    },
+    {
+     "say": "A confirmed breakout from this base sets up an explosive upward expansion.",
+     "show": "UPSIDE RELEASE",
+     "figure": ""
+    },
+    {
+     "say": "Volume points to strong accumulation at these levels. Follow for updates.",
+     "show": "BOTTOM FORMING",
+     "figure": ""
+    }
+   ],
+   "origin": "Marco Casario EXTRA",
+   "source_video": "Il Mercato Riduce gli ECCESSI: che segnali guardare con @massimorea-quant-analys",
+   "narration": "Natural gas is building a massive volatility squeeze at cyclical lows. Prices sit right at the bottom of the multi-year volume profile near 3,000. Price action and quantitative ranges are contracting like a tightly coiled spring. A confirmed breakout from this base sets up an explosive upward expansion. Volume points to strong accumulation at these levels. Follow for updates.",
+   "ticker": "NG1!",
+   "sentiment": "bullish",
+   "sources": [],
+   "caption": "Natural gas is coiling tightly at bottom volume support, setting up potential long opportunities.",
+   "hashtags": [
+    "#NaturalGas",
+    "#Commodities",
+    "#Energy",
+    "#TradingSetups",
+    "#Futures"
+   ]
+  },
+  {
+   "levels": [],
+   "history": {
+    "symbol": "^GSPC",
+    "start": "2018-09",
+    "end": "2020-03"
+   },
+   "title": "Why Crashes Stop at the Point of Control",
+   "hook": "COVID CRASH -32%",
+   "beats": [
+    {
+     "say": "In February 2020 the S&P 500 crashed 32% in just one month.",
+     "show": "COVID CRASH -32%",
+     "figure": "-32%"
+    },
+    {
+     "say": "The index plummeted from 3,380 in February down to 2,305 in March.",
+     "show": "FROM 3,380 TO 2,305",
+     "figure": "2,305"
+    },
+    {
+     "say": "That brutal selloff stopped precisely at the historical volume Point of Control.",
+     "show": "POINT OF CONTROL",
+     "figure": ""
+    },
+    {
+     "say": "The same structural floor caught the market during the severe 2018 selloff to 2,470.",
+     "show": "REPLAY FROM 2018",
+     "figure": "2,470"
+    },
+    {
+     "say": "Volume nodes remain the only reliable boundaries when panic strikes. Follow for updates.",
+     "show": "VOLUME RULES",
+     "figure": ""
+    }
+   ],
+   "origin": "Marco Casario EXTRA",
+   "source_video": "Il Mercato Riduce gli ECCESSI: che segnali guardare con @massimorea-quant-analys",
+   "narration": "In February 2020 the S&P 500 crashed 32% in just one month. The index plummeted from 3,380 in February down to 2,305 in March. That brutal selloff stopped precisely at the historical volume Point of Control. The same structural floor caught the market during the severe 2018 selloff to 2,470. Volume nodes remain the only reliable boundaries when panic strikes. Follow for updates.",
+   "ticker": "^GSPC",
+   "sentiment": "neutral",
+   "sources": [],
+   "caption": "During the 2020 COVID crash and the 2018 drop, S&P 500 bottomed exactly at institutional volume nodes.",
+   "hashtags": [
+    "#SP500",
+    "#StockCrash",
+    "#MarketHistory",
+    "#VolumeProfile",
+    "#Trading"
+   ]
+  },
+  {
+   "levels": [
+    200.0
+   ],
+   "history": {
+    "symbol": "SOX",
+    "start": "2000-01",
+    "end": "2026-03"
+   },
+   "title": "Semiconductor Excess Hits Dot-Com Bubble Levels",
+   "hook": "SOX RECORD MONTH",
+   "beats": [
+    {
+     "say": "The SOX semiconductor index recorded its second-highest performing month in history.",
+     "show": "SOX RECORD MONTH",
+     "figure": ""
+    },
+    {
+     "say": "Monthly returns and distance from the 200-period moving average match the 2000 tech bubble.",
+     "show": "200 PERIOD AVERAGE",
+     "figure": "200"
+    },
+    {
+     "say": "Chip stocks massively outpaced even the mega-cap tech giants during this push.",
+     "show": "CHIPS LEAD RALLY",
+     "figure": ""
+    },
+    {
+     "say": "Whenever quantitative metrics stretch into these upper bands, mean reversion tends to follow.",
+     "show": "REVERSION WARNING",
+     "figure": ""
+    },
+    {
+     "say": "Parabolic extensions demand strict capital protection. Follow for updates.",
+     "show": "RISK CONTROL",
+     "figure": ""
+    }
+   ],
+   "origin": "Marco Casario EXTRA",
+   "source_video": "Il Mercato Riduce gli ECCESSI: che segnali guardare con @massimorea-quant-analys",
+   "narration": "The SOX semiconductor index recorded its second-highest performing month in history. Monthly returns and distance from the 200-period moving average match the 2000 tech bubble. Chip stocks massively outpaced even the mega-cap tech giants during this push. Whenever quantitative metrics stretch into these upper bands, mean reversion tends to follow. Parabolic extensions demand strict capital protection. Follow for updates.",
+   "ticker": "SOX",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Semiconductor index SOX displays monthly returns and moving average stretches comparable to the dot-com peak.",
+   "hashtags": [
+    "#Semiconductors",
+    "#SOX",
+    "#TechStocks",
+    "#DotCom",
+    "#RiskManagement"
+   ]
+  },
+  {
+   "levels": [
+    40000.0
+   ],
+   "history": {
+    "symbol": "BTC-USD",
+    "start": "2021-01",
+    "end": "2023-12"
+   },
+   "title": "Bitcoin Cycle Drawdowns Are Shrinking Over Time",
+   "hook": "Bitcoin PLUNGE -74%",
+   "beats": [
+    {
+     "say": "Bitcoin plunged 74% during the 2021 to 2022 bear market.",
+     "show": "Bitcoin PLUNGE -74%",
+     "figure": "-74%"
+    },
+    {
+     "say": "Price sank from 64,950 dollars down to 16,604 across 12 months.",
+     "show": "64,950 TO 16,604",
+     "figure": "16,604"
+    },
+    {
+     "say": "Earlier market cycles saw catastrophic drawdowns between 77% and 90%.",
+     "show": "PAST CRASHES -90%",
+     "figure": "-90%"
+    },
+    {
+     "say": "A potential retest of 40,000 would mean a 60% drawdown, historically mild.",
+     "show": "SUPPORT AT 40,000",
+     "figure": "40,000"
+    },
+    {
+     "say": "Growing institutional liquidity continues to dampen downside percentage extremes. Follow for updates.",
+     "show": "MATURING ASSET",
+     "figure": ""
+    }
+   ],
+   "origin": "Marco Casario EXTRA",
+   "source_video": "Il Mercato Riduce gli ECCESSI: che segnali guardare con @massimorea-quant-analys",
+   "narration": "Bitcoin plunged 74% during the 2021 to 2022 bear market. Price sank from 64,950 dollars down to 16,604 across 12 months. Earlier market cycles saw catastrophic drawdowns between 77% and 90%. A potential retest of 40,000 would mean a 60% drawdown, historically mild. Growing institutional liquidity continues to dampen downside percentage extremes. Follow for updates.",
+   "ticker": "BTC-USD",
+   "sentiment": "neutral",
+   "sources": [],
+   "caption": "Bitcoin drawdowns are structurally contracting from 90% drops to roughly 60% as the asset class matures.",
+   "hashtags": [
+    "#Bitcoin",
+    "#Crypto",
+    "#BTC",
+    "#BearMarket",
+    "#OnChain"
+   ]
+  },
+  {
+   "levels": [],
+   "history": {
+    "symbol": "GC=F",
+    "start": "1980-01",
+    "end": "2024-01"
+   },
+   "title": "China's Central Bank Is Secretly Hoarding Gold",
+   "hook": "CHINA BUYS GOLD",
+   "beats": [
+    {
+     "say": "The People's Bank of China buys up to 830,000 ounces of gold monthly.",
+     "show": "CHINA BUYS GOLD",
+     "figure": "830,000"
+    },
+    {
+     "say": "Monthly official additions steadily range between 260,000 and 830,000 fine ounces.",
+     "show": "STEADY INFLOWS",
+     "figure": "260,000"
+    },
+    {
+     "say": "This buying spree represents a deliberate geopolitical pivot away from dollar reserves.",
+     "show": "GEOPOLITICAL PIVOT",
+     "figure": ""
+    },
+    {
+     "say": "BRICS dedollarization creates long-term structural demand beneath physical bullion prices.",
+     "show": "BRICS DEDOLLARIZATION",
+     "figure": ""
+    },
+    {
+     "say": "Sovereign reserves continue shifting toward gold as a monetary shield. Follow for updates.",
+     "show": "MONETARY SHIELD",
+     "figure": ""
+    }
+   ],
+   "origin": "Marco Casario EXTRA",
+   "source_video": "Il Mercato Riduce gli ECCESSI: che segnali guardare con @massimorea-quant-analys",
+   "narration": "The People's Bank of China buys up to 830,000 ounces of gold monthly. Monthly official additions steadily range between 260,000 and 830,000 fine ounces. This buying spree represents a deliberate geopolitical pivot away from dollar reserves. BRICS dedollarization creates long-term structural demand beneath physical bullion prices. Sovereign reserves continue shifting toward gold as a monetary shield. Follow for updates.",
+   "ticker": "GC=F",
+   "sentiment": "bullish",
+   "sources": [],
+   "caption": "China's central bank systematically accumulates hundreds of thousands of ounces of gold to de-dollarize reserves.",
+   "hashtags": [
+    "#Gold",
+    "#CentralBanks",
+    "#China",
+    "#Dedollarization",
+    "#PreciousMetals"
+   ]
+  }
+ ],
+ "carousels": {
+  "it": {
+   "topic": "S&P 500 tra volumi ed eccessi",
+   "caption": "I mercati evidenziano segnali contrastanti tra eccessi di compiacenza e tenuta dei volumi istituzionali. Analizziamo i livelli chiave e i precedenti storici. Segui per l'aggiornamento.",
+   "sentiment": "neutral",
+   "ticker": "^GSPC",
+   "slides": [
+    {
+     "title": "S&P 500: cosa nascondono i volumi",
+     "body": "Dalla soglia critica di 6.008 punti ai confronti con la bolla del 2000: ecco i numeri da monitorare."
+    },
+    {
+     "title": "S&P 500 a 6.008",
+     "body": "Il livello 6.008 racchiude la massima concentrazione volumetrica del 2024. Mantenerlo preserva la struttura rialzista; perderlo apre a una correzione."
+    },
+    {
+     "title": "Compiacenza record: COR1M a 3",
+     "body": "L'indice di correlazione implicita è sceso a 3. Gli investitori hanno azzerato le coperture: una vulnerabilità che espone a scossoni improvvisi."
+    },
+    {
+     "title": "La lezione del 2020",
+     "body": "Nel crash COVID lo S&P 500 perse il 32% fermandosi esattamente sul Point of Control a 2.305. I volumi guidano sempre i minimi."
+    },
+    {
+     "title": "Eccessi sui semiconduttori",
+     "body": "L'indice SOX ha segnato il secondo mese record della sua storia. La distanza dalla media a 200 eguaglia i picchi del 2000."
+    },
+    {
+     "title": "Disciplina e gestione del rischio",
+     "body": "In fasi di euforia e bassi volumi di protezione, ingressi scaglionati e controllo del peso degli asset preservano il portafoglio. Segui per l'aggiornamento."
+    }
+   ],
+   "hashtags": [
+    "#SP500",
+    "#Borsa",
+    "#Investimenti",
+    "#Trading",
+    "#Volumi",
+    "#Finanza",
+    "#Mercati"
+   ]
+  },
+  "en": {
+   "topic": "S&P 500 volume profile analysis",
+   "caption": "The S&P 500 faces major resistance and historical extremes across volume and correlation metrics. Here are the core levels to navigate market volatility. Follow for updates.",
+   "sentiment": "neutral",
+   "ticker": "^GSPC",
+   "slides": [
+    {
+     "title": "S&P 500: Volume Nodes at Risk",
+     "body": "From the pivotal 6,008 volume line to historic dot-com parallels, here is where true market support lies."
+    },
+    {
+     "title": "6,008 Is the Line",
+     "body": "The 6,008 zone holds the largest volume cluster of 2024. Holding it keeps the rally alive; losing it triggers deep distribution."
+    },
+    {
+     "title": "Implied Correlation at 3",
+     "body": "COR1M dropped to 3, showing investors have abandoned downside hedges. Extreme complacency historically precedes sudden volatility spikes."
+    },
+    {
+     "title": "The 2020 Crash Blueprint",
+     "body": "The 2020 crash plunged 32% from 3,380 to 2,305, bottoming precisely at the volume Point of Control. Volume dictates macro floors."
+    },
+    {
+     "title": "Dot-Com Excess in Tech",
+     "body": "Semiconductor monthly performance and stretch above the 200-period average match peaks seen right before the 2000 market unwind."
+    },
+    {
+     "title": "Risk Management Over Noise",
+     "body": "Staged entries and strict risk weighting protect capital when markets test critical volume barriers. Follow for updates."
+    }
+   ],
+   "hashtags": [
+    "#SP500",
+    "#StockMarket",
+    "#Investing",
+    "#Trading",
+    "#VolumeProfile",
+    "#Economy",
+    "#Finance"
+   ]
+  }
+ }
+}

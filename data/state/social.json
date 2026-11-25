@@ -647,21 +647,48 @@
   "done": true
  },
  "3F3ummtT5Nc": {
-  "sent": [],
-  "tries": 1,
+  "sent": [
+   "it:h",
+   "it:c",
+   "it:cv",
+   "en:h",
+   "en:c",
+   "en:cv"
+  ],
+  "tries": 2,
   "title": "This Market Collapse Is Setting Up The Biggest \"Double Bubble\" Ever",
-  "done": false
+  "done": true
  },
  "U6R0PXaN14Q": {
-  "sent": [],
-  "tries": 1,
+  "sent": [
+   "it:h",
+   "it:c",
+   "it:cv",
+   "en:h",
+   "en:c",
+   "en:cv"
+  ],
+  "tries": 2,
   "title": "L'Oro Crolla e non Protegge: le Banche Centrali comprano ma non copiarle",
-  "done": false
+  "done": true
  },
  "gy69HPJs8BA": {
   "sent": [],
   "tries": 1,
   "title": "Quando i Mercati SCENDONO: prima di Comprare guarda questi Segnali",
+  "done": true
+ },
+ "wRNskCaMmpA": {
+  "sent": [
+   "it:h",
+   "it:c",
+   "it:cv",
+   "en:h",
+   "en:c",
+   "en:cv"
+  ],
+  "tries": 1,
+  "title": "Il Mercato Riduce gli ECCESSI: che segnali guardare con @massimorea-quant-analys",
   "done": true
  }
 }

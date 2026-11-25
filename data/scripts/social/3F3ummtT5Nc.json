@@ -1,0 +1,496 @@
+{
+ "it": [
+  {
+   "levels": [
+    7200.0
+   ],
+   "history": null,
+   "title": "S&P 500: il test mancato apre la discesa",
+   "hook": "ALLARME S&P 500",
+   "beats": [
+    {
+     "say": "S&P 500 ha fallito l'estensione del 50%.",
+     "show": "ALLARME S&P 500",
+     "figure": "50%"
+    },
+    {
+     "say": "Il tentativo di rimbalzo dell'indice si è spento prima di confermare nuovi massimi.",
+     "show": "RIMBALZO FALLITO",
+     "figure": ""
+    },
+    {
+     "say": "La struttura tecnica indica la formazione di un massimo di periodo.",
+     "show": "MAX IN FORMAZIONE",
+     "figure": ""
+    },
+    {
+     "say": "Senza una reazione immediata, l'obiettivo naturale diventa il supporto di 7.200 punti.",
+     "show": "SUPPORTO A 7.200",
+     "figure": "7.200"
+    },
+    {
+     "say": "Finché la resistenza tiene, il rischio resta verso il basso. Segui per l'aggiornamento.",
+     "show": "RISCHIO RIBASSO",
+     "figure": ""
+    }
+   ],
+   "origin": "Jason Pizzino",
+   "source_video": "This Market Collapse Is Setting Up The Biggest \"Double Bubble\" Ever",
+   "narration": "S&P 500 ha fallito l'estensione del 50%. Il tentativo di rimbalzo dell'indice si è spento prima di confermare nuovi massimi. La struttura tecnica indica la formazione di un massimo di periodo. Senza una reazione immediata, l'obiettivo naturale diventa il supporto di 7.200 punti. Finché la resistenza tiene, il rischio resta verso il basso. Segui per l'aggiornamento.",
+   "ticker": "ES=F",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "S&P 500 fallisce l'estensione tecnica e punta al supporto chiave di 7.200 punti.",
+   "hashtags": [
+    "#SP500",
+    "#trading",
+    "#borse",
+    "#finanza",
+    "#indici",
+    "#investimenti"
+   ]
+  },
+  {
+   "levels": [
+    124.0
+   ],
+   "history": null,
+   "title": "Nvidia: volumi alti e crollo a 124 dollari",
+   "hook": "Nvidia A 124$",
+   "beats": [
+    {
+     "say": "Nvidia scivola a 124 dollari nonostante gli acquisti retail.",
+     "show": "Nvidia A 124$",
+     "figure": "124 $"
+    },
+    {
+     "say": "Il titolo ha fallito la tenuta del supporto precedente dopo un rimbalzo debole.",
+     "show": "SUPPORTO ROTTO",
+     "figure": ""
+    },
+    {
+     "say": "La chiusura ribassista è accompagnata da volumi particolarmente elevati.",
+     "show": "VOLUMI PESANTI",
+     "figure": ""
+    },
+    {
+     "say": "Comprare ogni ritracciamento su questo pattern aumenta il rischio di ulteriori perdite.",
+     "show": "COLTELLO CHE CADE",
+     "figure": ""
+    },
+    {
+     "say": "Il trend primario resta orientato al ribasso. Segui per l'aggiornamento.",
+     "show": "TREND RIBASSISTA",
+     "figure": ""
+    }
+   ],
+   "origin": "Jason Pizzino",
+   "source_video": "This Market Collapse Is Setting Up The Biggest \"Double Bubble\" Ever",
+   "narration": "Nvidia scivola a 124 dollari nonostante gli acquisti retail. Il titolo ha fallito la tenuta del supporto precedente dopo un rimbalzo debole. La chiusura ribassista è accompagnata da volumi particolarmente elevati. Comprare ogni ritracciamento su questo pattern aumenta il rischio di ulteriori perdite. Il trend primario resta orientato al ribasso. Segui per l'aggiornamento.",
+   "ticker": "NVDA",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Nvidia chiude sui minimi a 124 dollari con volumi in aumento, confermando la pressione ribassista.",
+   "hashtags": [
+    "#Nvidia",
+    "#NVDA",
+    "#tech",
+    "#azioni",
+    "#investimenti",
+    "#wallstreet"
+   ]
+  },
+  {
+   "levels": [
+    29200.0,
+    28300.0,
+    25000.0
+   ],
+   "history": null,
+   "title": "Nasdaq 100: respinto a 29.200 punti",
+   "hook": "STOP A 29.200",
+   "beats": [
+    {
+     "say": "Nasdaq 100 fallisce il retest a 29.200 punti.",
+     "show": "STOP A 29.200",
+     "figure": "29.200"
+    },
+    {
+     "say": "La struttura tecnica replica la fase distributiva vista su S&P 500.",
+     "show": "STRUTTURA DEBOLE",
+     "figure": ""
+    },
+    {
+     "say": "Se il minimo a 25.000 punti tiene, il primo obiettivo di recupero è 28.300.",
+     "show": "TARGET A 28.300",
+     "figure": "28.300"
+    },
+    {
+     "say": "Una rottura sotto 25.000 aprirebbe invece una correzione ben più severa.",
+     "show": "PIVOT A 25.000",
+     "figure": "25.000"
+    },
+    {
+     "say": "Sotto 29.200 il controllo resta saldamente dei venditori. Segui per l'aggiornamento.",
+     "show": "CONTROLLO ORSI",
+     "figure": ""
+    }
+   ],
+   "origin": "Jason Pizzino",
+   "source_video": "This Market Collapse Is Setting Up The Biggest \"Double Bubble\" Ever",
+   "narration": "Nasdaq 100 fallisce il retest a 29.200 punti. La struttura tecnica replica la fase distributiva vista su S&P 500. Se il minimo a 25.000 punti tiene, il primo obiettivo di recupero è 28.300. Una rottura sotto 25.000 aprirebbe invece una correzione ben più severa. Sotto 29.200 il controllo resta saldamente dei venditori. Segui per l'aggiornamento.",
+   "ticker": "NQ=F",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Nasdaq 100 respinto a 29.200 punti: monitorare la tenuta del supporto chiave a 25.000.",
+   "hashtags": [
+    "#Nasdaq",
+    "#indici",
+    "#borse",
+    "#trading",
+    "#tech",
+    "#finanza"
+   ]
+  },
+  {
+   "levels": [
+    56.0
+   ],
+   "history": null,
+   "title": "Settore AI: perso il supporto di 56 dollari",
+   "hook": "AI PERDE I 56$",
+   "beats": [
+    {
+     "say": "Il settore AI ha perso il livello chiave di 56 dollari.",
+     "show": "AI PERDE I 56$",
+     "figure": "56 $"
+    },
+    {
+     "say": "La rottura del supporto conferma una vulnerabilità strutturale nei titoli tecnologici.",
+     "show": "SUPPORTO CEDUTO",
+     "figure": ""
+    },
+    {
+     "say": "Per ripristinare forza serve superare il massimo di inizio settimana e recuperare 56.",
+     "show": "RECUPERO O MINIMI",
+     "figure": ""
+    },
+    {
+     "say": "Senza questo recupero, la probabilità di una nuova discesa rimane elevata.",
+     "show": "GAMBA RIBASSISTA",
+     "figure": ""
+    },
+    {
+     "say": "Evitare di anticipare i rimbalzi senza conferme. Segui per l'aggiornamento.",
+     "show": "ATTENDI CONFERME",
+     "figure": ""
+    }
+   ],
+   "origin": "Jason Pizzino",
+   "source_video": "This Market Collapse Is Setting Up The Biggest \"Double Bubble\" Ever",
+   "narration": "Il settore AI ha perso il livello chiave di 56 dollari. La rottura del supporto conferma una vulnerabilità strutturale nei titoli tecnologici. Per ripristinare forza serve superare il massimo di inizio settimana e recuperare 56. Senza questo recupero, la probabilità di una nuova discesa rimane elevata. Evitare di anticipare i rimbalzi senza conferme. Segui per l'aggiornamento.",
+   "ticker": "AI",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Il settore dell'intelligenza artificiale cede il supporto a 56 dollari e rischia una nuova discesa.",
+   "hashtags": [
+    "#AI",
+    "#intelligenzaartificiale",
+    "#azioni",
+    "#trading",
+    "#finanza",
+    "#borse"
+   ]
+  }
+ ],
+ "en": [
+  {
+   "levels": [
+    7200.0
+   ],
+   "history": null,
+   "title": "S&P 500: Failed Extension Targets 7,200",
+   "hook": "S&P 500 ALERT",
+   "beats": [
+    {
+     "say": "S&P 500 failed the 50% extension level.",
+     "show": "S&P 500 ALERT",
+     "figure": "50%"
+    },
+    {
+     "say": "The recent rally could not sustain momentum above key resistance.",
+     "show": "RALLY STALLS",
+     "figure": ""
+    },
+    {
+     "say": "This rejection signals a topping process rather than a healthy pause.",
+     "show": "TOPPING PATTERN",
+     "figure": ""
+    },
+    {
+     "say": "The immediate target on the downside sits at the 7,200 low.",
+     "show": "TEST OF 7,200",
+     "figure": "7,200"
+    },
+    {
+     "say": "Sellers remain in control below recent peaks. Follow for tomorrow's update.",
+     "show": "BEARISH BIAS",
+     "figure": ""
+    }
+   ],
+   "origin": "Jason Pizzino",
+   "source_video": "This Market Collapse Is Setting Up The Biggest \"Double Bubble\" Ever",
+   "narration": "S&P 500 failed the 50% extension level. The recent rally could not sustain momentum above key resistance. This rejection signals a topping process rather than a healthy pause. The immediate target on the downside sits at the 7,200 low. Sellers remain in control below recent peaks. Follow for tomorrow's update.",
+   "ticker": "ES=F",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "S&P 500 fails key 50% extension, opening the path for a retest of 7,200.",
+   "hashtags": [
+    "#SP500",
+    "#stockmarket",
+    "#trading",
+    "#stocks",
+    "#economy",
+    "#investing"
+   ]
+  },
+  {
+   "levels": [
+    124.0
+   ],
+   "history": null,
+   "title": "Nvidia Sinks to $124 on High Volume",
+   "hook": "Nvidia AT $124",
+   "beats": [
+    {
+     "say": "Nvidia dropped to $124 despite heavy retail dip buying.",
+     "show": "Nvidia AT $124",
+     "figure": "$124"
+    },
+    {
+     "say": "A failed bounce gave way to a lower close on rising volume.",
+     "show": "FAILED BOUNCE",
+     "figure": ""
+    },
+    {
+     "say": "Prior support levels have broken down decisively across the chart.",
+     "show": "SUPPORT LOST",
+     "figure": ""
+    },
+    {
+     "say": "Catching this falling knife carries elevated downside risk right now.",
+     "show": "DOWNSIDE RISK",
+     "figure": ""
+    },
+    {
+     "say": "Nvidia remains locked in a clear downtrend. Follow for tomorrow's update.",
+     "show": "BEAR TREND",
+     "figure": ""
+    }
+   ],
+   "origin": "Jason Pizzino",
+   "source_video": "This Market Collapse Is Setting Up The Biggest \"Double Bubble\" Ever",
+   "narration": "Nvidia dropped to $124 despite heavy retail dip buying. A failed bounce gave way to a lower close on rising volume. Prior support levels have broken down decisively across the chart. Catching this falling knife carries elevated downside risk right now. Nvidia remains locked in a clear downtrend. Follow for tomorrow's update.",
+   "ticker": "NVDA",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Nvidia breaks down to $124 on heavy volume as sellers overwhelm retail dip buyers.",
+   "hashtags": [
+    "#Nvidia",
+    "#NVDA",
+    "#stocks",
+    "#trading",
+    "#techstocks",
+    "#investing"
+   ]
+  },
+  {
+   "levels": [
+    29200.0,
+    28300.0,
+    25000.0
+   ],
+   "history": null,
+   "title": "Nasdaq 100: Rejection at 29,200",
+   "hook": "REJECTION AT 29,200",
+   "beats": [
+    {
+     "say": "Nasdaq 100 failed its retest at 29,200.",
+     "show": "REJECTION AT 29,200",
+     "figure": "29,200"
+    },
+    {
+     "say": "The tech index is carving out a major topping pattern.",
+     "show": "TOPPING PATTERN",
+     "figure": ""
+    },
+    {
+     "say": "If the 25,000 low holds, a relief rally can reach 28,300.",
+     "show": "TARGET 28,300",
+     "figure": "28,300"
+    },
+    {
+     "say": "Losing 25,000 exposes the market to a much steeper drawdown.",
+     "show": "PIVOT AT 25,000",
+     "figure": "25,000"
+    },
+    {
+     "say": "The broader trend remains defensive. Follow for tomorrow's update.",
+     "show": "STAY DEFENSIVE",
+     "figure": ""
+    }
+   ],
+   "origin": "Jason Pizzino",
+   "source_video": "This Market Collapse Is Setting Up The Biggest \"Double Bubble\" Ever",
+   "narration": "Nasdaq 100 failed its retest at 29,200. The tech index is carving out a major topping pattern. If the 25,000 low holds, a relief rally can reach 28,300. Losing 25,000 exposes the market to a much steeper drawdown. The broader trend remains defensive. Follow for tomorrow's update.",
+   "ticker": "NQ=F",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Nasdaq 100 gets rejected at 29,200, putting the critical 25,000 support level in focus.",
+   "hashtags": [
+    "#Nasdaq",
+    "#techstocks",
+    "#trading",
+    "#markets",
+    "#investing",
+    "#stocks"
+   ]
+  },
+  {
+   "levels": [
+    56.0
+   ],
+   "history": null,
+   "title": "AI Sector Breaks $56 Support Level",
+   "hook": "AI LOSES $56",
+   "beats": [
+    {
+     "say": "The AI sector lost its critical support at $56.",
+     "show": "AI LOSES $56",
+     "figure": "$56"
+    },
+    {
+     "say": "The breakdown highlights broad weakness across popular artificial intelligence names.",
+     "show": "SECTOR WEAKNESS",
+     "figure": ""
+    },
+    {
+     "say": "Bulls must reclaim Monday's high and $56 to reverse this pressure.",
+     "show": "MUST RECLAIM $56",
+     "figure": "$56"
+    },
+    {
+     "say": "Failing to do so opens the door to another leg down.",
+     "show": "NEXT LEG DOWN",
+     "figure": ""
+    },
+    {
+     "say": "Patience is key while the trend remains lower. Follow for tomorrow's update.",
+     "show": "WAIT FOR REVERSAL",
+     "figure": ""
+    }
+   ],
+   "origin": "Jason Pizzino",
+   "source_video": "This Market Collapse Is Setting Up The Biggest \"Double Bubble\" Ever",
+   "narration": "The AI sector lost its critical support at $56. The breakdown highlights broad weakness across popular artificial intelligence names. Bulls must reclaim Monday's high and $56 to reverse this pressure. Failing to do so opens the door to another leg down. Patience is key while the trend remains lower. Follow for tomorrow's update.",
+   "ticker": "AI",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "AI sector breaks key $56 support, signaling elevated risk of another downside leg.",
+   "hashtags": [
+    "#AI",
+    "#artificialintelligence",
+    "#stocks",
+    "#trading",
+    "#tech",
+    "#markets"
+   ]
+  }
+ ],
+ "carousels": {
+  "it": {
+   "topic": "I livelli tecnici di S&P 500 e tech",
+   "caption": "I principali indici e titoli tech mostrano chiari segnali distributivi. Monitorare i livelli tecnici chiave per gestire il rischio. Segui per l'aggiornamento di domani.",
+   "sentiment": "bearish",
+   "ticker": "^GSPC",
+   "slides": [
+    {
+     "title": "Mercati: la rottura dei livelli chiave",
+     "body": "Dall'S&P 500 a Nvidia, ecco i supporti e le resistenze da monitorare adesso."
+    },
+    {
+     "title": "S&P 500 verso 7.200",
+     "body": "L'indice ha fallito l'estensione del 50%. Senza un recupero rapido, il target naturale resta il test di 7.200 punti."
+    },
+    {
+     "title": "Nvidia sotto pressione",
+     "body": "Nvidia chiude sui minimi a 124 dollari con volumi elevati, segnalando vendite istituzionali superiori ai flussi retail."
+    },
+    {
+     "title": "Nasdaq respinto a 29.200",
+     "body": "Il mancato superamento di 29.200 mantiene la pressione oraria. Il livello pivot da difendere è 25.000 punti."
+    },
+    {
+     "title": "Settore AI a 56",
+     "body": "Perso il supporto a 56 dollari. Solo il recupero di quota 56 e dei massimi recenti potrà scongiurare nuovi minimi."
+    },
+    {
+     "title": "La regola fondamentale",
+     "body": "Evitare di comprare la discesa sui titoli deboli finché i livelli tecnici chiave non vengono recuperati. Segui per l'aggiornamento di domani."
+    }
+   ],
+   "hashtags": [
+    "#trading",
+    "#investimenti",
+    "#SP500",
+    "#Nasdaq",
+    "#Nvidia",
+    "#finanza",
+    "#borse",
+    "#azioni"
+   ]
+  },
+  "en": {
+   "topic": "Key Levels in Tech and S&P 500",
+   "caption": "Major US indices and leading tech names are breaking down through key technical levels. Protect capital and track these price zones. Follow for tomorrow's update.",
+   "sentiment": "bearish",
+   "ticker": "^GSPC",
+   "slides": [
+    {
+     "title": "Markets Break Key Technical Levels",
+     "body": "Here are the critical support and resistance lines defining the current market pullback."
+    },
+    {
+     "title": "S&P 500 Eyes 7,200",
+     "body": "A failed 50% extension confirms a topping pattern, pointing to a retest of the 7,200 low."
+    },
+    {
+     "title": "Nvidia Sinks to $124",
+     "body": "Nvidia closes near its low of $124 on elevated volume, showing institutional sellers overpowering retail dip buyers."
+    },
+    {
+     "title": "Nasdaq Rejected at 29,200",
+     "body": "The tech index failed to sustain its bounce above 29,200. The crucial level to protect sits at 25,000."
+    },
+    {
+     "title": "AI Sector Below $56",
+     "body": "Losing $56 support leaves artificial intelligence names vulnerable to an immediate leg down without quick reclamation."
+    },
+    {
+     "title": "Protect Your Capital",
+     "body": "Wait for technical confirmation rather than catching falling knives in weak momentum assets. Follow for tomorrow's update."
+    }
+   ],
+   "hashtags": [
+    "#trading",
+    "#stockmarket",
+    "#SP500",
+    "#Nasdaq",
+    "#Nvidia",
+    "#investing",
+    "#stocks",
+    "#economy"
+   ]
+  }
+ }
+}
