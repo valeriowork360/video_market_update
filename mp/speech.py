@@ -17,7 +17,8 @@ SAY = {
     "NVDA": "Nvidia", "TSLA": "Tesla", "AAPL": "Apple", "MSFT": "Microsoft", "GOOGL": "Alphabet",
     "GOOG": "Alphabet", "AMZN": "Amazon", "META": "Meta", "NFLX": "Netflix", "PLTR": "Palantir",
     "MSTR": "MicroStrategy", "COIN": "Coinbase", "INTC": "Intel", "AVGO": "Broadcom",
-    "SPX": "S and P 500", "SPY": "S and P 500", "NDX": "Nasdaq 100", "QQQ": "Nasdaq 100",
+    "SPX": {"it": "esse e pi cinquecento", "en": "ess and pee five hundred"},
+    "SPY": {"it": "esse e pi cinquecento", "en": "ess and pee five hundred"}, "NDX": "Nasdaq 100", "QQQ": "Nasdaq 100",
     "DJI": "Dow Jones", "DXY": "Dollar Index",
     "FTSE MIB": {"it": "Futsi Mib", "en": "Footsie MIB"},
     "YoY": {"it": "anno su anno", "en": "year over year"},
@@ -46,8 +47,11 @@ def speakable(text, lang):
     w = _W[lang]
     t = " " + text + " "
     t = re.sub(r"\s*\((?:(?:NASDAQ|NYSE|Nasdaq)\s*:\s*)?[A-Z]{1,5}(?:[-.][A-Z]{1,4})?\)", "", t)   # "(NVDA)"
-    t = re.sub(r"S\s?&\s?P\s?500", "S and P 500", t)
-    t = re.sub(r"S\s?&\s?P", "S and P", t)
+    # spelled out phonetically: the multilingual voices read "S&P" / "S and P" with a foreign
+    # (even French) accent, so the letters are written the way they sound in each language
+    sp = {"it": "esse e pi", "en": "ess and pee"}[lang]
+    t = re.sub(r"S\s?&\s?P\s?500", sp + (" cinquecento" if lang == "it" else " five hundred"), t)
+    t = re.sub(r"S\s?&\s?P", sp, t)
     for key in sorted(SAY, key=len, reverse=True):
         t = re.sub(rf"(?<![\w&]){re.escape(key)}(?![\w&])", lambda m: _say(key, lang), t)
     t = re.sub(r"\bQ([1-4])\b", lambda m: (f"{_ORD[lang][int(m.group(1)) - 1]} {w['q']}"), t)

@@ -363,10 +363,10 @@ def test_video_shorts():
 def test_speech():
     from mp import speech
     it = speech.speakable("L'S&P 500 chiude a 7.590 punti (-0,4%), BTC a $68.700 e ETH -6,6%. Conti del Q3 di Nvidia (NVDA).", "it")
-    assert it == ("L'S and P 500 chiude a 7.590 punti (meno 0,4 per cento), Bitcoin a 68.700 dollari e "
+    assert it == ("L'esse e pi cinquecento chiude a 7.590 punti (meno 0,4 per cento), Bitcoin a 68.700 dollari e "
                   "Ethereum meno 6,6 per cento. Conti del terzo trimestre di Nvidia."), it
     en = speech.speakable("The S&P 500 fell 0.4% and BTC hit $68,700; volume $5.6 billion.", "en")
-    assert en == "The S and P 500 fell 0.4 percent and Bitcoin hit 68,700 dollars; volume 5.6 billion dollars.", en
+    assert en == "The ess and pee five hundred fell 0.4 percent and Bitcoin hit 68,700 dollars; volume 5.6 billion dollars.", en
     assert speech.tidy("l's and p 500 sale dello 0,4 per cento, btc debole") == "l'S&P 500 sale dello 0,4%, BTC debole"
     written = "L'S&P 500 chiude a 7.590 punti (-0,4%) e BTC scende."
     said = speech.speakable(written, "it")
