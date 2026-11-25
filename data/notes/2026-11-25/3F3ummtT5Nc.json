@@ -1,0 +1,135 @@
+{
+ "market_relevance": 9,
+ "scope": "global",
+ "kind": "market update",
+ "summary": "Jason Pizzino examines recent market pullbacks, highlighting a potential double‑bubble scenario driven by technical failures in the S&P 500 and Nasdaq 100. He warns that retail buying the dip in weak tech stocks such as Nvidia and AMD may exacerbate declines, while emphasizing the need for key support levels to hold across assets like Micron, gold, and Bitcoin. Historical parallels to the 2008 gold crash are used to illustrate possible long‑term recovery patterns, and the overall outlook remains cautious amid high leverage and weak crypto signals. Investors are advised to focus on stronger stocks, monitor critical price levels, and avoid catching falling knives.",
+ "digest_it": "L'autore analizza i recenti cali di mercato, ipotizzando una possibile formazione di una 'doppia bolla' e sottolinea l'importanza dell'analisi tecnica per identificare i livelli chiave. Evidenzia la necessità di mantenere i supporti per asset come Micron, oro e Bitcoin, citando il paragone storico con il crollo dell'oro del 2008. Avverte contro l'acquisto del dip in titoli deboli come Nvidia e AMD, e segnala la debolezza del settore crypto e della dominanza USDT. Consiglia di concentrarsi su titoli più solidi, monitorare i livelli critici e attendere conferme prima di operare.",
+ "author_tone": "cautious",
+ "tone_evidence": "The author consistently highlights failed retests, topping processes, and the danger of buying the dip in weak stocks. He repeatedly emphasizes the need for confirmation and warns against catching falling knives, showing a guarded stance.",
+ "key_points": [
+  {
+   "point": "S&P 500 futures failed at 50% of the previous extension, signaling a likely retest of the low.",
+   "timestamp": "02:02"
+  },
+  {
+   "point": "Nasdaq 100 futures target 28,300, with 29,200 as a key level to watch.",
+   "timestamp": "07:13"
+  },
+  {
+   "point": "Nvidia's recent price action shows a failure to hold support, indicating continued weakness.",
+   "timestamp": "04:14"
+  },
+  {
+   "point": "Retail investors buying the dip in weak stocks like Nvidia often leads to further losses.",
+   "timestamp": "08:50"
+  },
+  {
+   "point": "AMD has broken below its Friday low, a weak signal, with a potential breakdown to 360.",
+   "timestamp": "11:43"
+  },
+  {
+   "point": "AI sector needs to reclaim Monday's high and the 56 support level to show strength.",
+   "timestamp": "09:37"
+  },
+  {
+   "point": "Micron (MU) needs to hold above its recent crash low and break the Monday high to show strength.",
+   "timestamp": "12:05"
+  },
+  {
+   "point": "Gold needs to close above the 50% decline level (4564) to set up for a significant bull market.",
+   "timestamp": "12:44"
+  }
+ ],
+ "moments": [
+  {
+   "timestamp": "00:00",
+   "topic": "S&P 500 technical analysis",
+   "claim": "The market is in a topping process and likely to retest previous lows.",
+   "details": "The author points to a failed retest at the 50% extension level of the previous rally. He argues this failure suggests the market will likely test the low around 7,200.",
+   "surprise": "The market failed at the 50% extension level.",
+   "kind": "setup",
+   "ticker": "ES=F",
+   "scenario": "If the market fails at the 50% extension, it will likely retest the 7,200 low.",
+   "conclusion": "The market is in a topping process.",
+   "levels": [
+    {
+     "value": 7200.0,
+     "label": "low"
+    }
+   ]
+  },
+  {
+   "timestamp": "04:14",
+   "topic": "Nvidia price action",
+   "claim": "Nvidia's failure to hold support levels indicates continued downside risk.",
+   "details": "Nvidia shows a lower close and high volume after a failed bounce. The author notes it failed to hold above previous support, suggesting the bubble has popped.",
+   "surprise": "Nvidia's price collapsed to 124 despite retail buying.",
+   "kind": "setup",
+   "ticker": "NVDA",
+   "conclusion": "The stock is in a downtrend.",
+   "levels": [
+    {
+     "value": 124.0,
+     "label": "low"
+    }
+   ]
+  },
+  {
+   "timestamp": "07:01",
+   "topic": "Nasdaq 100 technical outlook",
+   "claim": "Nasdaq 100 is showing a similar topping structure to the S&P 500.",
+   "details": "The author identifies a failed retest of the 29,200 level. He sets a target of 28,300 if the current low holds.",
+   "surprise": "The index failed to sustain the bounce above 29,200.",
+   "kind": "setup",
+   "ticker": "NQ=F",
+   "scenario": "If 25,000 holds, watch for a move toward 28,300.",
+   "conclusion": "The structure remains bearish.",
+   "levels": [
+    {
+     "value": 29200.0,
+     "label": "resistance"
+    },
+    {
+     "value": 28300.0,
+     "label": "target"
+    },
+    {
+     "value": 25000.0,
+     "label": "low"
+    }
+   ]
+  },
+  {
+   "timestamp": "09:35",
+   "topic": "AI sector analysis",
+   "claim": "The AI sector needs to reclaim key levels to avoid further downside.",
+   "details": "The author notes the sector failed to hold the 56 support level. He argues that a failure to reclaim Monday's high will lead to another leg down.",
+   "surprise": "The sector failed to hold the 56 support level.",
+   "kind": "setup",
+   "ticker": "AI",
+   "scenario": "Reclaim Monday's high and 56 to show strength; otherwise, expect another low.",
+   "conclusion": "The sector is in a weak position.",
+   "levels": [
+    {
+     "value": 56.0,
+     "label": "support"
+    }
+   ]
+  }
+ ],
+ "tickers": [],
+ "predictions": [],
+ "catalysts": [],
+ "rumors": [],
+ "curiosities": [],
+ "promo": false,
+ "video_id": "3F3ummtT5Nc",
+ "title": "This Market Collapse Is Setting Up The Biggest \"Double Bubble\" Ever",
+ "author": "Jason Pizzino",
+ "url": "https://www.youtube.com/watch?v=3F3ummtT5Nc",
+ "published": "2026-11-25T04:42:32+00:00",
+ "duration_min": 23,
+ "partial": false,
+ "analysed_at": "2026-11-25T14:10:15.914919+00:00",
+ "model": "gemini-3.1-flash-lite"
+}
