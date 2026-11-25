@@ -466,5 +466,23 @@
   "first_seen": "2026-11-25T14:06:25.404037+00:00",
   "tries": 1,
   "done_at": "2026-11-25T14:10:15.915288+00:00"
+ },
+ "AQczoZQvaTM": {
+  "status": "pending",
+  "attempts": 0,
+  "channel": "0xTalks",
+  "title": "LA CRISI DI SKY | Crypto Recap | 25 Novembre 2026",
+  "first_seen": "2026-11-25T22:56:36.207187+00:00",
+  "tries": 1,
+  "last_error": "Gemini non riesce ad aprire questo video adesso (live appena finita, video riservato o rimosso)"
+ },
+ "wRNskCaMmpA": {
+  "status": "done",
+  "attempts": 0,
+  "channel": "Marco Casario EXTRA",
+  "title": "Il Mercato Riduce gli ECCESSI: che segnali guardare con @massimorea-quant-analyst",
+  "first_seen": "2026-11-25T22:56:37.225749+00:00",
+  "tries": 1,
+  "done_at": "2026-11-25T22:58:24.653597+00:00"
  }
 }
