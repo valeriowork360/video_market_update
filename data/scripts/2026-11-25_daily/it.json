@@ -1,0 +1,176 @@
+{
+ "title": "Wall Street tra volumi bassi e dati PCE, Bitcoin cede i 60.000$",
+ "description": "Wall Street flette alla vigilia del Ringraziamento con il Nasdaq in calo dell'1,5% e il Dow Jones in rialzo. Bitcoin scende sotto i 59.000 dollari mentre Anthropic quota sotto il prezzo di IPO. Attesa per i dati su inflazione PCE e PIL USA.\nFonti e analisi: Michael Pizzino, MindTheChart, Marco Casario EXTRA.",
+ "tags": [
+  "S&P 500",
+  "Nasdaq",
+  "Bitcoin",
+  "Nvidia",
+  "Dell",
+  "Anthropic",
+  "Borsa USA",
+  "Inflazione PCE",
+  "Mercati finanziari",
+  "Criptovalute"
+ ],
+ "thumbnail_text": "Bitcoin SOTTO 60.000$",
+ "mood": "neutral",
+ "segments": [
+  {
+   "id": "s1",
+   "kind": "hook",
+   "heading": "Wall Street flette e Bitcoin cala",
+   "narration": "Wall Street scivola di nuovo con il Nasdaq a -1,5% e Bitcoin che torna sotto 60.000 dollari. Le posizioni sui giganti tecnologici si fanno delicate prima del Ringraziamento, mentre spuntano indiscrezioni su Nvidia ed emergenze di spionaggio nel settore dell'intelligenza artificiale.",
+   "bullets": [
+    "Nasdaq scende dell'1,5%",
+    "Bitcoin sotto 60.000 dollari",
+    "Nuovi nodi su Nvidia"
+   ],
+   "ticker": "^IXIC",
+   "sentiment": "bearish",
+   "sources": [
+    "Coin Ticker 360"
+   ]
+  },
+  {
+   "id": "s2",
+   "kind": "market",
+   "heading": "I numeri del giorno",
+   "narration": "Sui mercati azionari internazionali prevale una spiccata cautela. L'S&P 500 cede lo 0,5% e chiude a 7.201 punti. Il Nasdaq Composite perde l'1,5% a quota 23.733, appesantito dalle nuove vendite sul settore dei semiconduttori. In controtendenza il Dow Jones, che sale dello 0,8% a 50.019 punti grazie alla forte rotazione verso i titoli difensivi. In Europa il FTSE MIB cede l'1,8% chiudendo a 48.121 punti. Nel comparto delle materie prime, l'oro arretra del 2,6% a 3.555 dollari l'oncia, mentre il petrolio WTI guadagna lo 0,7% a 80,75 dollari al barile. Sul fronte dei cambi, il tasso euro dollaro si stabilizza a 1,09.",
+   "bullets": [
+    "S&P 500 a 7.201 punti (-0,5%)",
+    "Nasdaq Composite a 23.733 (-1,5%)",
+    "Dow Jones in rialzo a 50.019 (+0,8%)",
+    "Oro in calo a 3.555 dollari (-2,6%)"
+   ],
+   "ticker": "^GSPC",
+   "sentiment": "bearish",
+   "sources": [
+    "Coin Ticker 360"
+   ]
+  },
+  {
+   "id": "s3",
+   "kind": "topic",
+   "heading": "Mercati fragili e bassi volumi",
+   "narration": "La fase di correzione sui listini americani non mostra ancora segnali definitivi di conclusione. La pressione dei venditori resta evidente e i volumi operativi risultano in forte calo per via della imminente festività del Ringraziamento. I volumi ridotti rappresentano un fattore di rischio, poiché i rimbalzi di breve periodo rischiano di generare falsi segnali di ripartenza senza una reale liquidità a supporto. Per l'S&P 500 la soglia fondamentale da recuperare per stabilizzare la struttura di prezzo si trova a 7.300 punti. Al contrario, un eventuale cedimento dell'area di supporto a 7.100 punti riaprirebbe la strada a estensioni ribassiste. La situazione del Nasdaq appare ancora più delicata, trovandosi sotto la soglia di ritracciamento del 50% dai minimi di marzo. Senza conferme di prezzo sopra i livelli chiave, la volatilità rimarrà elevata.",
+   "bullets": [
+    "Volumi in calo per festività USA",
+    "S&P 500 prova la tenuta di 7.100",
+    "Nasdaq sotto i livelli chiave"
+   ],
+   "ticker": "^GSPC",
+   "sentiment": "bearish",
+   "sources": [
+    "Michael Pizzino",
+    "MindTheChart"
+   ]
+  },
+  {
+   "id": "s4",
+   "kind": "topic",
+   "heading": "Semiconduttori tra scosse e dati",
+   "narration": "Il comparto dei semiconduttori continua ad attraversare fasi di forte volatilità. Su Nvidia pesano ancora gli strascichi legati alla governance, uniti alle recenti indiscrezioni politiche relative a possibili interventi governativi americani o concessioni di grazia per la dirigenza. Dal punto di vista grafico, il titolo mostra la possibilità di testare la fascia di prezzo compresa tra 190 e 200 dollari. Segnali opposti giungono da Dell, che ha superato le aspettative di fatturato spinta dalla forte domanda di server per l'intelligenza artificiale, annunciando anche un programma di riacquisto azionario da 25 miliardi di dollari. Nonostante la forza di alcuni trimestrali, l'incertezza generale del settore tech continua a riflettersi negativamente sui listini asiatici e sui mercati globali.",
+   "bullets": [
+    "Nvidia verso test a 190-200 dollari",
+    "Dell annuncia riacquisto da 25 miliardi",
+    "Vendite diffuse sui chip in Asia"
+   ],
+   "ticker": "NVDA",
+   "sentiment": "neutral",
+   "sources": [
+    "MindTheChart",
+    "CNBC",
+    "Investing.com"
+   ]
+  },
+  {
+   "id": "s5",
+   "kind": "topic",
+   "heading": "Anthropic sotto il prezzo IPO",
+   "narration": "Meno di una settimana dopo il debutto sul Nasdaq, le azioni di Anthropic sono scese sotto il prezzo di quotazione iniziale di 83 dollari. Il titolo, che aveva toccato un massimo di apertura a 111,50 dollari il 19 novembre, riflette il ridimensionamento delle valutazioni nel settore dell'intelligenza artificiale. Questa contrazione sta favorendo un evidente spostamento di capitali verso asset difensivi e titoli a grande capitalizzazione con flussi di cassa più stabili, come dimostrato dalla tenuta del Dow Jones. Negli scenari attuali, la corretta gestione del rischio e delle coperture di portafoglio diventa prioritaria per affrontare fasi in cui gli ingenti investimenti delle Big Tech necessitano di tempo prima di tradursi in effettivi rendimenti.",
+   "bullets": [
+    "Anthropic scende sotto 83 dollari",
+    "Rotazione su settori difensivi",
+    "Gestione del rischio in primo piano"
+   ],
+   "ticker": "NDX",
+   "sentiment": "bearish",
+   "sources": [
+    "Marco Casario EXTRA",
+    "MarketWatch",
+    "CNBC"
+   ]
+  },
+  {
+   "id": "s6",
+   "kind": "topic",
+   "heading": "Bitcoin sotto 60.000 dollari",
+   "narration": "Il mercato delle criptovalute mostra difficoltà nel seguire i tentativi di recupero. Bitcoin cede il 3,4% e scende a 59.125 dollari, confermando una debolezza diffusa della propensione al rischio. La perdita del livello psicologico dei 60.000 dollari mantiene aperto il rischio di ulteriori estensioni al ribasso verso i supporti a 52.000 o 49.000 dollari prima della costruzione di una base solida. Anche Ethereum arretra del 3,0% attestandosi a 1.658 dollari. Aumenta la pressione derivante dalle liquidazioni e dalle vendite di asset per far fronte al debito da parte di alcune tesorerie aziendali, con vendite recenti di 27.300 Ether per un controvalore di 43 milioni di dollari.",
+   "bullets": [
+    "Bitcoin quota 59.125 dollari (-3,4%)",
+    "Ethereum scende a 1.658 dollari (-3,0%)",
+    "Vendite istituzionali di Ether per debiti"
+   ],
+   "ticker": "BTC-USD",
+   "sentiment": "bearish",
+   "sources": [
+    "Michael Pizzino",
+    "MindTheChart",
+    "Yahoo Finance"
+   ]
+  },
+  {
+   "id": "s7",
+   "kind": "ahead",
+   "heading": "Dati macro in arrivo oggi",
+   "narration": "La giornata di oggi prevede appuntamenti macroeconomici decisivi prima della pausa festiva negli Stati Uniti. Alle 14:30 ora italiana verranno pubblicati i dati relativi all'indice dei prezzi PCE, indicatore chiave monitorato dalla Federal Reserve per valutare le pressioni inflazionistiche, atteso allo 0,3% su base mensile. In contemporanea saranno diffusi i dati preliminari sul Prodotto Interno Lordo statunitense del terzo trimestre, con stime posizionate al 3,5%. Eventuali scostamenti rispetto ai valori previsti potrebbero influenzare le aspettative sui tassi di interesse e condizionare l'andamento dei mercati nelle prossime sedute.",
+   "bullets": [
+    "PCE USA oggi alle 14:30 ora italiana",
+    "PIL trimestrale USA stimato al 3,5%",
+    "Chiusura mercati USA domani"
+   ],
+   "ticker": null,
+   "sentiment": "neutral",
+   "sources": [
+    "Forex Factory",
+    "MindTheChart"
+   ]
+  },
+  {
+   "id": "s8",
+   "kind": "curious",
+   "heading": "Cimice nella sede di OpenAI",
+   "narration": "Negli Stati Uniti è stato incriminato un cittadino saudita accusato di aver posizionato un dispositivo di microspionaggio all'interno di una sala riunioni dirigenziale presso la sede principale di OpenAI. L'episodio mette in luce il crescente livello di attenzione e i rischi di spionaggio industriale legati alle aziende leader nello sviluppo delle tecnologie di intelligenza artificiale.",
+   "bullets": [
+    "Dispositivo spia in OpenAI",
+    "Cittadino arrestato negli USA",
+    "Rischio spionaggio nell'intelligenza artificiale"
+   ],
+   "ticker": null,
+   "sentiment": "neutral",
+   "sources": [
+    "CNBC"
+   ]
+  },
+  {
+   "id": "s9",
+   "kind": "outro",
+   "heading": "Aggiornamento Coin Ticker 360",
+   "narration": "Le informazioni contenute in questo video hanno finalità puramente informative e non costituiscono consulenza finanziaria. Segui per l'aggiornamento di domani.",
+   "bullets": [
+    "Contenuti informativi",
+    "Segui per il prossimo aggiornamento"
+   ],
+   "ticker": null,
+   "sentiment": "neutral",
+   "sources": [
+    "Coin Ticker 360"
+   ]
+  }
+ ],
+ "words": 769,
+ "model": "gemini-3.6-flash",
+ "n_notes": 3,
+ "n_news": 353
+}

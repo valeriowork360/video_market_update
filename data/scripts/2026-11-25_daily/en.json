@@ -1,0 +1,174 @@
+{
+ "title": "S&P 500 Slips as Tech Sinks Anthropic Below IPO and Bitcoin Hits $59K",
+ "description": "Wall Street diverges as technology stocks face fresh pressure ahead of key inflation data.\nNvidia faces governance headlines while Dell bucks the chip downturn with record revenue.\nBitcoin struggles near support while macroeconomic catalysts loom before Thanksgiving.\nSources: Michael Pizzino, MindTheChart, Marco Casario EXTRA, CNBC, Bloomberg, Investing.com",
+ "tags": [
+  "S&P 500",
+  "Nasdaq",
+  "Nvidia",
+  "Bitcoin",
+  "Dell",
+  "Anthropic",
+  "Stock Market",
+  "Crypto News",
+  "Inflation PCE",
+  "Market Analysis"
+ ],
+ "thumbnail_text": "TECH DROPS Bitcoin $59K",
+ "mood": "neutral",
+ "segments": [
+  {
+   "id": "s1",
+   "kind": "hook",
+   "heading": "Tech Volatility & Policy Shifts",
+   "narration": "Tech stocks face renewed pressure as national political comments surround Nvidia, while artificial intelligence software pioneer Anthropic slides below its initial public offering price. Meanwhile, Dell delivers strong earnings, and Wall Street prepares for key economic data ahead of the holiday shortened week.",
+   "bullets": [
+    "Tech stocks slip under political scrutiny",
+    "Anthropic drops below $83 IPO price",
+    "Dell surging on strong AI server sales"
+   ],
+   "ticker": null,
+   "sentiment": "bearish",
+   "sources": [
+    "CNBC",
+    "Investing.com"
+   ]
+  },
+  {
+   "id": "s2",
+   "kind": "market",
+   "heading": "Wall Street Diverges Under Pressure",
+   "narration": "U.S. equities are showing sharp divergence as heavy technology weakness weighs on major benchmarks. The Nasdaq Composite fell 1.5% to 23,734, while the S&P 500 dropped 0.5% to 7,201. Conversely, the Dow Jones gained 0.8%, rising above 50,019. The VIX volatility index settled lower at 26.4, remaining elevated compared to historic averages. In commodities, Gold dropped 2.6% to $3,555 per ounce, and Crude Oil WTI edged up 0.7% to $81. Digital assets remain under pressure. Bitcoin slipped 3.4% to $59,125, while Ethereum fell 3.0% to $1,658. Capital is rotating into defensive sectors as investors await incoming economic releases.",
+   "bullets": [
+    "S&P 500 drops 0.5% to 7,201",
+    "Nasdaq falls 1.5% to 23,734",
+    "Dow Jones gains 0.8% above 50,019",
+    "Bitcoin slips 3.4% to $59,125"
+   ],
+   "ticker": "^GSPC",
+   "sentiment": "bearish",
+   "sources": [
+    "Yahoo Finance"
+   ]
+  },
+  {
+   "id": "s3",
+   "kind": "topic",
+   "heading": "Nvidia Headlines & Hardware Moves",
+   "narration": "The semiconductor sector remains in focus amidst new corporate and policy headlines. Floating the idea of taking a government equity stake in Nvidia, national policy discussions are increasingly targeting key hardware supply chains. At the same time, Nvidia management informed staff that no formal succession plan is required. The broader hardware pullback hit Asian tech shares overnight, sending SoftBank down 15% in Tokyo trading. However, enterprise demand yields mixed signals across the supply chain. Dell bucked the chip downturn, posting quarterly revenue that more than doubled on strong AI server orders and authorizing a $25 billion stock buyback program. Capital expenditures across mega-cap tech firms remain projected to reach nearly $800 billion by 2026, maintaining long-term financial pressure on balance sheets.",
+   "bullets": [
+    "Policy floats state stake in Nvidia",
+    "SoftBank drops 15% in Asian tech rout",
+    "Dell revenue doubles with $25B buyback",
+    "Tech Capex path targets $800 billion"
+   ],
+   "ticker": "NVDA",
+   "sentiment": "neutral",
+   "sources": [
+    "CNBC",
+    "Investing.com",
+    "Marco Casario EXTRA"
+   ]
+  },
+  {
+   "id": "s4",
+   "kind": "topic",
+   "heading": "Index Levels & Holiday Volume",
+   "narration": "Major stock indexes continue to trade in delicate technical structures following recent sharp drawdowns. The S&P 500 sits near its midpoint from its March bottom to record highs, but needs to reclaim the 7,300 breakdown zone to confirm a durable bottom. The Nasdaq Composite trades below its 50% retracement level at 27,300, reflecting persistent relative weakness in growth assets. Small-cap stocks in the Russell 2000 remain significantly below their 2,750 midpoint, painting a challenging picture for broader market breadth. Trading volume is dropping sharply ahead of the Thanksgiving holiday, which frequently creates false breakouts and misleading signals. Without confirmed price action above key resistance levels, short-term market bounces remain vulnerable to fast reversals.",
+   "bullets": [
+    "S&P 500 key breakdown zone at 7,300",
+    "Nasdaq stays below 50% retracement level",
+    "Low holiday volume risks false signals"
+   ],
+   "ticker": "^GSPC",
+   "sentiment": "bearish",
+   "sources": [
+    "Michael Pizzino",
+    "MindTheChart"
+   ]
+  },
+  {
+   "id": "s5",
+   "kind": "topic",
+   "heading": "Risk Management & Drawdown Math",
+   "narration": "Market drawdowns highlight the steep mathematical asymmetry of portfolio recovery. A 56.5% decline in asset value requires a massive 130% gain just to return to break-even. Historical market shocks demonstrate that recovery windows can stretch over extended multi-year periods if portfolio risk is unmanaged. Systematic hedging strategies, such as options-based structures, protect portfolios against deeper market drawdowns ranging from 10% to 40%. Maintaining cash reserves covering 18 months of living expenses prevents forced liquidations of core holdings during market downturns. Structured position sizing and systematic risk rules remove emotional decision-making when volatility spikes across global markets.",
+   "bullets": [
+    "56.5% portfolio loss needs 130% bounce",
+    "Option hedges protect against drawdowns",
+    "18-month liquidity buffer guards capital"
+   ],
+   "ticker": null,
+   "sentiment": "neutral",
+   "sources": [
+    "Marco Casario EXTRA"
+   ]
+  },
+  {
+   "id": "s6",
+   "kind": "topic",
+   "heading": "Crypto Liquidity & IPO Slump",
+   "narration": "Digital assets and newly public technology stocks are struggling to hold support levels. Bitcoin fell 3.4% to $59,125, continuing to show weak participation in broader equity market rebounds. The current crypto bear market cycle extended to 411 days from its all-time high, with potential downside levels lying near $52,000 or $49,000 before a stronger recovery can take shape. Corporate crypto treasuries face strain, with public firm BTCS selling $43 million in Ether to pay down outstanding debt. In public equity markets, Anthropic broke below its $83 initial public offering price less than a week after listing on the Nasdaq, signaling tight risk appetite for high-valuation software offerings.",
+   "bullets": [
+    "Bitcoin slides 3.4% down to $59,125",
+    "BTCS sells $43M Ether for debt paydown",
+    "Anthropic breaks below $83 IPO price"
+   ],
+   "ticker": "BTC-USD",
+   "sentiment": "bearish",
+   "sources": [
+    "Michael Pizzino",
+    "MindTheChart",
+    "Yahoo Finance",
+    "MarketWatch"
+   ]
+  },
+  {
+   "id": "s7",
+   "kind": "ahead",
+   "heading": "Key Economic Releases Ahead",
+   "narration": "Macroeconomic data will dictate market direction before U.S. trading halts for the holiday. On Wednesday, November 25, at 08:30 Eastern Time, the U.S. government releases the Core PCE Price Index alongside preliminary Gross Domestic Product numbers. Core PCE inflation is forecast at 0.3% month-over-month, while annualized GDP growth is expected at 3.5%. The Federal Reserve will also publish its Beige Book later in the session. U.S. financial markets will be closed on Thursday, November 26, for Thanksgiving, leading to reduced liquidity and potential volatility during Friday's shortened trading session.",
+   "bullets": [
+    "Core PCE inflation out Wed 08:30 ET",
+    "US Prelim GDP forecast at 3.5%",
+    "US markets closed Thursday for holiday"
+   ],
+   "ticker": null,
+   "sentiment": "neutral",
+   "sources": [
+    "Forex Factory",
+    "MindTheChart"
+   ]
+  },
+  {
+   "id": "s8",
+   "kind": "curious",
+   "heading": "OpenAI Security Breach Case",
+   "narration": "In an unusual corporate espionage case, a Saudi national charged with bugging an executive conference room at OpenAI headquarters is being released on a $1 million bond. The defendant was accused of secretly planting an audio recording device inside the artificial intelligence firm's offices.",
+   "bullets": [
+    "Saudi national charged in OpenAI bugging",
+    "Defendant released on $1 million bond"
+   ],
+   "ticker": null,
+   "sentiment": "neutral",
+   "sources": [
+    "CNBC"
+   ]
+  },
+  {
+   "id": "s9",
+   "kind": "outro",
+   "heading": "Final Thoughts",
+   "narration": "This video is for informational purposes only and is not financial advice. Follow for tomorrow's update.",
+   "bullets": [
+    "Informational purposes only",
+    "Follow for tomorrow's update"
+   ],
+   "ticker": null,
+   "sentiment": "neutral",
+   "sources": []
+  }
+ ],
+ "words": 727,
+ "model": "gemini-3.6-flash",
+ "n_notes": 3,
+ "n_news": 284
+}
