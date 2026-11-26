@@ -1,0 +1,410 @@
+{
+ "it": [
+  {
+   "levels": [
+    58500.0,
+    63000.0,
+    76000.0,
+    94000.0
+   ],
+   "history": null,
+   "title": "Bitcoin bloccato nel megafono settimanale",
+   "hook": "TRAPPOLA Bitcoin",
+   "beats": [
+    {
+     "say": "Bitcoin è intrappolato in un pattern a megafono sul grafico settimanale.",
+     "show": "TRAPPOLA Bitcoin",
+     "figure": ""
+    },
+    {
+     "say": "La volatilità si allarga senza stabilire una chiara direzione strutturale.",
+     "show": "VOLATILITÀ RECORD",
+     "figure": ""
+    },
+    {
+     "say": "La media mobile esponenziale a 200 mesi blocca i tentativi a 63.000 dollari.",
+     "show": "MURO 63.000",
+     "figure": "63.000 $"
+    },
+    {
+     "say": "Il supporto fondamentale alla base della figura transita a 58.500 dollari.",
+     "show": "BASE 58.500",
+     "figure": "58.500 $"
+    },
+    {
+     "say": "Solo un superamento di 76.000 dollari aprirà la strada verso 94.000.",
+     "show": "TARGET 94.000",
+     "figure": "76.000 $"
+    },
+    {
+     "say": "Fino alla rottura dei livelli la compressione continuerà. Segui per aggiornamenti.",
+     "show": "FASE LATERALE",
+     "figure": ""
+    }
+   ],
+   "origin": "MindTheChart",
+   "source_video": "ATTENZIONE! VI STO AVVISANDO ADESSO",
+   "narration": "Bitcoin è intrappolato in un pattern a megafono sul grafico settimanale. La volatilità si allarga senza stabilire una chiara direzione strutturale. La media mobile esponenziale a 200 mesi blocca i tentativi a 63.000 dollari. Il supporto fondamentale alla base della figura transita a 58.500 dollari. Solo un superamento di 76.000 dollari aprirà la strada verso 94.000. Fino alla rottura dei livelli la compressione continuerà. Segui per aggiornamenti.",
+   "ticker": "BTC-USD",
+   "sentiment": "neutral",
+   "sources": [],
+   "caption": "Bitcoin resta compresso all'interno di un pattern a megafono sul grafico settimanale. Livelli chiave a 58.500 e 76.000 dollari.",
+   "hashtags": [
+    "#Bitcoin",
+    "#BTC",
+    "#AnalisiTecnica",
+    "#Crypto",
+    "#Trading"
+   ]
+  },
+  {
+   "levels": [
+    58500.0,
+    61000.0
+   ],
+   "history": null,
+   "title": "Bitcoin: il livello da non perdere a 58.500",
+   "hook": "ALLARME RIMBALZO",
+   "beats": [
+    {
+     "say": "Il recente rimbalzo di Bitcoin nasconde una grave debolezza strutturale.",
+     "show": "ALLARME RIMBALZO",
+     "figure": ""
+    },
+    {
+     "say": "I grafici mensili e annuali restano negativi con perdite a doppia cifra.",
+     "show": "TREND RIBASSISTA",
+     "figure": ""
+    },
+    {
+     "say": "La prima resistenza tecnica blocca le quotazioni a 61.000 dollari.",
+     "show": "RESISTENZA 61.000",
+     "figure": "61.000 $"
+    },
+    {
+     "say": "L'area di difesa critica si concentra tra 58.500 e 59.000 dollari.",
+     "show": "AREA CRITICA",
+     "figure": "58.500 $"
+    },
+    {
+     "say": "Una chiusura giornaliera sotto 58.500 dollari attiverà una nuova accelerazione ribassista.",
+     "show": "RISCHIO CROLLO",
+     "figure": "58.500 $"
+    },
+    {
+     "say": "I rimbalzi tecnici senza volumi non annullano il trend primario. Segui per aggiornamenti.",
+     "show": "OCCHIO AI LIVELLI",
+     "figure": ""
+    }
+   ],
+   "origin": "MindTheChart",
+   "source_video": "ATTENZIONE! VI STO AVVISANDO ADESSO",
+   "narration": "Il recente rimbalzo di Bitcoin nasconde una grave debolezza strutturale. I grafici mensili e annuali restano negativi con perdite a doppia cifra. La prima resistenza tecnica blocca le quotazioni a 61.000 dollari. L'area di difesa critica si concentra tra 58.500 e 59.000 dollari. Una chiusura giornaliera sotto 58.500 dollari attiverà una nuova accelerazione ribassista. I rimbalzi tecnici senza volumi non annullano il trend primario. Segui per aggiornamenti.",
+   "ticker": "BTC-USD",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Bitcoin mostra segnali di rimbalzo ma il livello di 58.500 dollari rimane l'ultimo baluardo contro un'ulteriore discesa.",
+   "hashtags": [
+    "#Bitcoin",
+    "#Criptovalute",
+    "#Supporti",
+    "#BTCUSD",
+    "#Mercati"
+   ]
+  },
+  {
+   "levels": [],
+   "history": null,
+   "title": "Quattro dati macro pronti a scuotere i tassi",
+   "hook": "SETTIMANA CRUCIALE",
+   "beats": [
+    {
+     "say": "Quattro dati macroeconomici statunitensi decideranno la prossima mossa sui tassi.",
+     "show": "SETTIMANA CRUCIALE",
+     "figure": ""
+    },
+    {
+     "say": "In calendario ci sono ISM manifatturiero, occupazione ADP, servizi e occupazione ufficiale.",
+     "show": "CALENDARIO MACRO",
+     "figure": ""
+    },
+    {
+     "say": "Un mercato del lavoro ancora forte prolungherà la politica restrittiva della Fed.",
+     "show": "STRETTA FED",
+     "figure": ""
+    },
+    {
+     "say": "Il report occupazionale di venerdì sarà il vero spartiacque per i tassi.",
+     "show": "TEST DI VENERDÌ",
+     "figure": ""
+    },
+    {
+     "say": "I dati sull'occupazione guideranno la liquidità su tutti i mercati. Segui per aggiornamenti.",
+     "show": "IMPULSO MERCATI",
+     "figure": ""
+    }
+   ],
+   "origin": "MindTheChart",
+   "source_video": "ATTENZIONE! VI STO AVVISANDO ADESSO",
+   "narration": "Quattro dati macroeconomici statunitensi decideranno la prossima mossa sui tassi. In calendario ci sono ISM manifatturiero, occupazione ADP, servizi e occupazione ufficiale. Un mercato del lavoro ancora forte prolungherà la politica restrittiva della Fed. Il report occupazionale di venerdì sarà il vero spartiacque per i tassi. I dati sull'occupazione guideranno la liquidità su tutti i mercati. Segui per aggiornamenti.",
+   "ticker": null,
+   "sentiment": "neutral",
+   "sources": [],
+   "caption": "Settimana decisiva per la politica monetaria della Federal Reserve: ISM manifatturiero, ADP e dati sull'occupazione sotto osservazione.",
+   "hashtags": [
+    "#Macroeconomia",
+    "#FederalReserve",
+    "#Tassi",
+    "#Borsa",
+    "#Economia"
+   ]
+  }
+ ],
+ "en": [
+  {
+   "levels": [
+    58500.0,
+    63000.0,
+    76000.0,
+    94000.0
+   ],
+   "history": null,
+   "title": "Bitcoin Trapped in Weekly Megaphone Pattern",
+   "hook": "Bitcoin TRAPPED",
+   "beats": [
+    {
+     "say": "Bitcoin is trapped inside a weekly megaphone pattern.",
+     "show": "Bitcoin TRAPPED",
+     "figure": ""
+    },
+    {
+     "say": "Price volatility is expanding without establishing a clear direction.",
+     "show": "EXPANDING RANGE",
+     "figure": ""
+    },
+    {
+     "say": "The 200-month exponential moving average caps the upside near $63,000.",
+     "show": "KEY RESISTANCE",
+     "figure": "$63,000"
+    },
+    {
+     "say": "Critical support at the base of this formation sits at $58,500.",
+     "show": "CRITICAL SUPPORT",
+     "figure": "$58,500"
+    },
+    {
+     "say": "Breaking above $76,000 is required to target the upper bound at $94,000.",
+     "show": "TARGET $94,000",
+     "figure": "$76,000"
+    },
+    {
+     "say": "Until a breakout occurs the price remains locked. Follow for updates.",
+     "show": "LOCKED RANGE",
+     "figure": ""
+    }
+   ],
+   "origin": "MindTheChart",
+   "source_video": "ATTENZIONE! VI STO AVVISANDO ADESSO",
+   "narration": "Bitcoin is trapped inside a weekly megaphone pattern. Price volatility is expanding without establishing a clear direction. The 200-month exponential moving average caps the upside near $63,000. Critical support at the base of this formation sits at $58,500. Breaking above $76,000 is required to target the upper bound at $94,000. Until a breakout occurs the price remains locked. Follow for updates.",
+   "ticker": "BTC-USD",
+   "sentiment": "neutral",
+   "sources": [],
+   "caption": "Bitcoin remains trapped inside a weekly megaphone pattern. The crucial levels to watch are $58,500 and $76,000.",
+   "hashtags": [
+    "#Bitcoin",
+    "#BTC",
+    "#Crypto",
+    "#PriceAction",
+    "#Trading"
+   ]
+  },
+  {
+   "levels": [
+    58500.0,
+    61000.0
+   ],
+   "history": null,
+   "title": "Bitcoin: The Critical $58,500 Line in the Sand",
+   "hook": "BOUNCE WARNING",
+   "beats": [
+    {
+     "say": "The latest Bitcoin bounce hides deep underlying weakness.",
+     "show": "BOUNCE WARNING",
+     "figure": ""
+    },
+    {
+     "say": "Monthly and yearly charts remain negative with double-digit losses.",
+     "show": "DOWNTREND INTACT",
+     "figure": ""
+    },
+    {
+     "say": "Immediate overhead resistance is capping the price at $61,000.",
+     "show": "STALLED AT $61,000",
+     "figure": "$61,000"
+    },
+    {
+     "say": "The critical defense zone sits between $58,500 and $59,000.",
+     "show": "DEFENSE ZONE",
+     "figure": "$58,500"
+    },
+    {
+     "say": "A daily close below $58,500 will trigger a much deeper decline.",
+     "show": "BREAKDOWN LEVEL",
+     "figure": "$58,500"
+    },
+    {
+     "say": "Short-term technical bounces do not confirm a reversal. Follow for updates.",
+     "show": "WATCH SUPPORT",
+     "figure": ""
+    }
+   ],
+   "origin": "MindTheChart",
+   "source_video": "ATTENZIONE! VI STO AVVISANDO ADESSO",
+   "narration": "The latest Bitcoin bounce hides deep underlying weakness. Monthly and yearly charts remain negative with double-digit losses. Immediate overhead resistance is capping the price at $61,000. The critical defense zone sits between $58,500 and $59,000. A daily close below $58,500 will trigger a much deeper decline. Short-term technical bounces do not confirm a reversal. Follow for updates.",
+   "ticker": "BTC-USD",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Bitcoin faces stiff resistance at $61,000 while $58,500 remains the critical daily support to avoid further breakdowns.",
+   "hashtags": [
+    "#Bitcoin",
+    "#BTC",
+    "#CryptoMarkets",
+    "#SupportLevels",
+    "#Trading"
+   ]
+  },
+  {
+   "levels": [],
+   "history": null,
+   "title": "Four US Macro Reports That Will Move Rates",
+   "hook": "MACRO CATALYSTS",
+   "beats": [
+    {
+     "say": "Four major US economic reports will dictate upcoming interest rate decisions.",
+     "show": "MACRO CATALYSTS",
+     "figure": ""
+    },
+    {
+     "say": "The schedule features ISM manufacturing, ADP jobs, services, and official payrolls.",
+     "show": "DATA CALENDAR",
+     "figure": ""
+    },
+    {
+     "say": "Labor market resilience and rising wages will reinforce a restrictive Fed stance.",
+     "show": "FED TIGHTENING",
+     "figure": ""
+    },
+    {
+     "say": "Friday's jobs report represents the definitive test for monetary expectations.",
+     "show": "FRIDAY JOBS",
+     "figure": ""
+    },
+    {
+     "say": "These numbers will dictate liquidity across all asset classes. Follow for updates.",
+     "show": "LIQUIDITY TEST",
+     "figure": ""
+    }
+   ],
+   "origin": "MindTheChart",
+   "source_video": "ATTENZIONE! VI STO AVVISANDO ADESSO",
+   "narration": "Four major US economic reports will dictate upcoming interest rate decisions. The schedule features ISM manufacturing, ADP jobs, services, and official payrolls. Labor market resilience and rising wages will reinforce a restrictive Fed stance. Friday's jobs report represents the definitive test for monetary expectations. These numbers will dictate liquidity across all asset classes. Follow for updates.",
+   "ticker": null,
+   "sentiment": "neutral",
+   "sources": [],
+   "caption": "Key US employment and ISM reports this week will directly impact Federal Reserve interest rate policy and market liquidity.",
+   "hashtags": [
+    "#Economy",
+    "#FederalReserve",
+    "#InterestRates",
+    "#Macro",
+    "#Finance"
+   ]
+  }
+ ],
+ "carousels": {
+  "it": {
+   "topic": "Bitcoin e macro tra livelli decisivi",
+   "caption": "Bitcoin affronta una compressione chiave mentre i dati macroeconomici statunitensi incombono sui tassi d'interesse. Segui per l'aggiornamento di domani.",
+   "sentiment": "neutral",
+   "ticker": "BTC-USD",
+   "slides": [
+    {
+     "title": "Bitcoin e macro: i livelli decisivi",
+     "body": "Una compressione grafica su Bitcoin e quattro dati macroeconomici chiave determineranno la tendenza delle prossime settimane."
+    },
+    {
+     "title": "Il megafono settimanale",
+     "body": "Sul grafico settimanale Bitcoin disegna un megafono. La media mobile mensile a 63.000 dollari e la resistenza a 76.000 limitano i rialzi verso 94.000."
+    },
+    {
+     "title": "Supporto chiave a 58.500",
+     "body": "Il rimbalzo di breve termine non cancella i cali mensili. Una chiusura giornaliera sotto 58.500 dollari confermerà la prosecuzione della correzione."
+    },
+    {
+     "title": "I catalizzatori macroeconomici",
+     "body": "In arrivo ISM manifatturiero, stima ADP e servizi. La resilienza dei salari e dell'occupazione rischia di prolungare la politica restrittiva della Fed."
+    },
+    {
+     "title": "Il test di venerdì",
+     "body": "Il report ufficiale sul lavoro fornirà la risposta definitiva sulle decisioni della Fed e indirizzerà la liquidità globale."
+    },
+    {
+     "title": "Il quadro complessivo",
+     "body": "La tenuta di 58.500 dollari e i dati sul lavoro decideranno il prossimo trend. Segui per l'aggiornamento di domani."
+    }
+   ],
+   "hashtags": [
+    "#Bitcoin",
+    "#BTC",
+    "#FederalReserve",
+    "#Macroeconomia",
+    "#AnalisiTecnica",
+    "#Criptovalute",
+    "#MercatiFinanziari",
+    "#Trading"
+   ]
+  },
+  "en": {
+   "topic": "Bitcoin Levels and Macro catalysts",
+   "caption": "Bitcoin remains locked in technical compression while high-impact US macro data approaches. Follow for tomorrow's update.",
+   "sentiment": "neutral",
+   "ticker": "BTC-USD",
+   "slides": [
+    {
+     "title": "Bitcoin: Key Levels Under Pressure",
+     "body": "A weekly chart pattern and decisive US economic reports are converging to determine market direction."
+    },
+    {
+     "title": "Weekly Megaphone Setup",
+     "body": "Bitcoin trades inside an expanding weekly megaphone. Resistance at $63,000 and $76,000 blocks any upside trajectory toward $94,000."
+    },
+    {
+     "title": "Support at $58,500",
+     "body": "Recent bounces have not repaired higher timeframe trends. A daily close below $58,500 will confirm an extended downward move."
+    },
+    {
+     "title": "Crucial Macro Catalysts",
+     "body": "ISM manufacturing, ADP employment, and ISM services precede the jobs data. Persistent labor strength keeps interest rate risks active."
+    },
+    {
+     "title": "The Friday Employment Test",
+     "body": "The official nonfarm payroll report will directly influence Federal Reserve monetary policy and cross-asset liquidity."
+    },
+    {
+     "title": "The Takeaway",
+     "body": "Market direction hinges on holding $58,500 support and Friday's labor numbers. Follow for tomorrow's update."
+    }
+   ],
+   "hashtags": [
+    "#Bitcoin",
+    "#BTC",
+    "#Macroeconomics",
+    "#FederalReserve",
+    "#TechnicalAnalysis",
+    "#Crypto",
+    "#Markets",
+    "#Trading"
+   ]
+  }
+ }
+}
