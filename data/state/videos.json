@@ -490,7 +490,7 @@
   "attempts": 0,
   "channel": "Financial Education 2",
   "title": "Biggest Move since 2000!",
-  "done_at": "2026-11-26T04:42:40.927971+00:00",
+  "done_at": "2026-11-26T05:17:41.334076+00:00",
   "duplicate": true,
   "tries": 1
  },
@@ -499,17 +499,17 @@
   "attempts": 0,
   "channel": "Jason Pizzino",
   "title": "The Shocking Gold & Silver Collapse: Worst in 50 Years",
-  "first_seen": "2026-11-26T04:32:46.408097+00:00",
+  "first_seen": "2026-11-26T05:14:40.263016+00:00",
   "tries": 1,
-  "done_at": "2026-11-26T04:36:06.079249+00:00"
+  "done_at": "2026-11-26T05:15:37.611031+00:00"
  },
  "si6gJiOA0qg": {
   "status": "done",
   "attempts": 0,
   "channel": "Michael Pizzino",
   "title": "The Market Is Struggling... But Something Is Quietly Developing",
-  "first_seen": "2026-11-26T04:36:06.079934+00:00",
+  "first_seen": "2026-11-26T05:15:37.611704+00:00",
   "tries": 1,
-  "done_at": "2026-11-26T04:38:28.223026+00:00"
+  "done_at": "2026-11-26T05:16:10.748829+00:00"
  }
 }
