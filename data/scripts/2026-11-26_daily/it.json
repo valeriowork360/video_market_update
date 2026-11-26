@@ -1,0 +1,139 @@
+{
+ "title": "Mercati in bilico: il punto del 26 novembre",
+ "description": "Analisi dei movimenti di Wall Street e del comparto tecnologico. Focus su Bitcoin e i livelli tecnici di S&P 500. Segui per l'aggiornamento di domani.",
+ "tags": [
+  "Wall Street",
+  "Bitcoin",
+  "Nvidia",
+  "S&P 500",
+  "Finanza",
+  "Investimenti",
+  "Mercati",
+  "Tech",
+  "Nasdaq"
+ ],
+ "thumbnail_text": "Mercati in bilico",
+ "mood": "neutral",
+ "segments": [
+  {
+   "id": "s1",
+   "kind": "hook",
+   "heading": "Mercati in fase delicata",
+   "narration": "Wall Street affronta una fase di incertezza tra dati macroeconomici e nuove proposte sui dazi. Il settore tecnologico resta sotto osservazione dopo la volatilità recente. Analizziamo oggi la tenuta dei supporti chiave per l'S&P 500 e le prospettive per Bitcoin in un contesto di volumi ridotti.",
+   "bullets": [
+    "Wall Street tra incertezza e dazi",
+    "Focus sui supporti S&P 500",
+    "Bitcoin cerca stabilità"
+   ],
+   "ticker": null,
+   "sentiment": "neutral",
+   "sources": [
+    "Yahoo Finance",
+    "CNBC"
+   ]
+  },
+  {
+   "id": "s2",
+   "kind": "market",
+   "heading": "I numeri di oggi",
+   "narration": "I listini chiudono una sessione complessa. L'S&P 500 scambia a 7.183 punti, in calo dello 0,3%. Il Nasdaq cede lo 0,6% a 23.586 punti. Il Dow Jones mostra resilienza con un rialzo dello 0,3% a 50.183 punti. L'indice di volatilità VIX sale a 28 punti, riflettendo una cautela diffusa tra gli investitori. Sul fronte obbligazionario, il rendimento del decennale statunitense scende a 4,8%.",
+   "bullets": [
+    "S&P 500 a 7.183",
+    "Nasdaq a 23.586",
+    "VIX in rialzo a 28"
+   ],
+   "ticker": "^GSPC",
+   "sentiment": "neutral",
+   "sources": [
+    "Yahoo Finance"
+   ]
+  },
+  {
+   "id": "s3",
+   "kind": "topic",
+   "heading": "La situazione di Nvidia",
+   "narration": "Nvidia rimane al centro dell'attenzione dopo le recenti fluttuazioni. L'agenzia di rating S&P Global ha segnalato un possibile declassamento del merito di credito, citando rischi crescenti legati alla gestione e alla governance aziendale. Nonostante il ritorno di Jensen Huang alla guida, il titolo sconta la pressione delle nuove proposte sui dazi e i dati sull'inflazione. Gli investitori monitorano il comportamento degli acquisti retail, che in fasi di alta volatilità tendono a liquidare rapidamente le posizioni aperte sui rimbalzi tecnici.",
+   "bullets": [
+    "S&P valuta downgrade su Nvidia",
+    "Pressione da dazi e inflazione",
+    "Attenzione alla governance aziendale"
+   ],
+   "ticker": "NVDA",
+   "sentiment": "bearish",
+   "sources": [
+    "CNBC",
+    "MarketWatch"
+   ]
+  },
+  {
+   "id": "s4",
+   "kind": "topic",
+   "heading": "Bitcoin e criptovalute",
+   "narration": "Bitcoin scambia a 60.898 dollari, mostrando un tentativo di recupero dell'1,9% nelle ultime ore. Il prezzo rimane confinato sotto la resistenza dei 62.000 dollari. Senza un superamento deciso di questo livello, il rischio di una discesa verso l'area compresa tra 49.000 e 52.000 dollari rimane concreto. Ethereum segue con un rialzo dell'1,3% a 1.699 dollari. La liquidità sui mercati crittografici appare limitata, rendendo i movimenti attuali più sensibili a repentine variazioni di volume.",
+   "bullets": [
+    "Bitcoin a 60.898 dollari",
+    "Resistenza chiave a 62.000",
+    "Supporti critici verso 49.000"
+   ],
+   "ticker": "BTC-USD",
+   "sentiment": "neutral",
+   "sources": [
+    "Yahoo Finance",
+    "Michael Pizzino"
+   ]
+  },
+  {
+   "id": "s5",
+   "kind": "topic",
+   "heading": "Oro e materie prime",
+   "narration": "L'oro registra un rimbalzo dell'1,7% a 3.621 dollari l'oncia, cercando di stabilizzarsi dopo le recenti correzioni. Le banche centrali continuano a detenere una quota significativa delle riserve globali, ma la pressione dei venditori istituzionali e dei mercati speculativi ha pesato sulle quotazioni negli ultimi mesi. Il petrolio WTI sale a 84 dollari al barile, mantenendo una fase di moderata crescita. Le dinamiche di mercato indicano che per l'oro è necessaria una fase prolungata di consolidamento prima di poter confermare una ripresa strutturale di lungo periodo.",
+   "bullets": [
+    "Oro recupera a 3.621 dollari",
+    "Petrolio WTI a 84 dollari",
+    "Necessario consolidamento per l'oro"
+   ],
+   "ticker": "GC=F",
+   "sentiment": "neutral",
+   "sources": [
+    "Yahoo Finance",
+    "Marco Casario"
+   ]
+  },
+  {
+   "id": "s6",
+   "kind": "ahead",
+   "heading": "Prospettive per dicembre",
+   "narration": "Il mese di dicembre si preannuncia complesso per gli investitori. Le strategie di ottimizzazione fiscale, note come tax-loss harvesting, potrebbero generare pressioni in vendita su diversi titoli tecnologici che hanno registrato ampi guadagni nell'anno. Gli operatori osservano con attenzione l'andamento dei rendimenti obbligazionari e la tenuta dei supporti tecnici sugli indici principali. La volatilità rimane un elemento centrale, specialmente in assenza di volumi sostenuti durante le festività. Ogni decisione di investimento richiede una valutazione rigorosa della gestione del rischio e dei fondamentali aziendali, evitando di inseguire eccessi speculativi in un contesto di incertezza macroeconomica.",
+   "bullets": [
+    "Dicembre tra tax-loss harvesting",
+    "Attenzione alla volatilità",
+    "Focus su gestione del rischio"
+   ],
+   "ticker": null,
+   "sentiment": "neutral",
+   "sources": [
+    "Jeremy Lefebvre",
+    "Yahoo Finance"
+   ]
+  },
+  {
+   "id": "s7",
+   "kind": "outro",
+   "heading": "Aggiornamento quotidiano",
+   "narration": "Queste informazioni non costituiscono consulenza finanziaria. Segui il canale per l'aggiornamento di domani.",
+   "bullets": [
+    "Non è consulenza finanziaria",
+    "Segui per il prossimo briefing"
+   ],
+   "ticker": null,
+   "sentiment": "neutral",
+   "sources": [
+    "Coin Ticker 360"
+   ]
+  }
+ ],
+ "words": 453,
+ "model": "gemini-3.1-flash-lite",
+ "n_notes": 7,
+ "n_news": 246
+}
