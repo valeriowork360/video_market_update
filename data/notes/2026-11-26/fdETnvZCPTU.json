@@ -1,0 +1,116 @@
+{
+ "market_relevance": 10,
+ "scope": "global",
+ "kind": "market update",
+ "summary": "The author reviews recent market sessions during the US holiday closure, analyzing the weekly performance of major indices like S&P 500 and Nasdaq 100 alongside crypto movements. He highlights Michael Burry's position shift to long as a potential driver for the recent rebound from oversold conditions. Key upcoming macro data on employment and ISM manufacturing are identified as potential catalysts that could influence Federal Reserve rate decisions. Finally, crypto charts are examined for megaphone patterns and key moving average resistance levels.",
+ "digest_it": "Il mercato azionario e crypto mostra segnali di rimbalzo tecnico dopo il forte stress settimanale, sostenuto anche dal cambio di posizionamento long di Michael Burry. Tuttavia, la cautela resta alta in vista dei prossimi dati macroeconomici sul lavoro e l'inflazione.",
+ "author_tone": "cautious",
+ "tone_evidence": "The author repeatedly stresses that despite the recent rebound, underlying fundamentals remain weak and macroeconomic pressures persist.",
+ "key_points": [
+  {
+   "point": "Bitcoin forms a megaphone pattern on the weekly timeframe, indicating pure indecision.",
+   "timestamp": "02:15"
+  },
+  {
+   "point": "Michael Burry shifts to predominantly long positions, which likely contributed to the market rebound from oversold conditions.",
+   "timestamp": "01:14"
+  },
+  {
+   "point": "Upcoming US employment report, ISM manufacturing and services data, and JOLTS job openings are critical catalysts.",
+   "timestamp": "03:48"
+  },
+  {
+   "point": "Bitcoin needs to hold support at 58,000 to 59,000 dollars to avoid deeper downside scenarios.",
+   "timestamp": "04:28"
+  }
+ ],
+ "moments": [
+  {
+   "timestamp": "00:34",
+   "topic": "Bitcoin weekly chart and megaphone pattern",
+   "claim": "Bitcoin is locked inside a megaphone pattern on the weekly chart, reflecting extreme indecision among traders.",
+   "details": "The speaker analyzes the weekly Bitcoin chart which shows a megaphone consolidation pattern. The 200-period monthly EMA acts as a resistance barrier around 63,000 dollars, with upper resistance near 76,000 dollars. A drop below current levels could keep the asset trapped within this pattern for an extended period.",
+   "surprise": "Bitcoin is forming a megaphone pattern that creates pure indecision for market participants.",
+   "kind": "setup",
+   "ticker": "BTC-USD",
+   "scenario": "If Bitcoin stays inside the megaphone, it may test lower bounds before any potential recovery towards 94,000 dollars.",
+   "conclusion": "The setup remains indecisive and requires close monitoring of key moving averages.",
+   "levels": [
+    {
+     "value": 63000.0,
+     "label": "resistance"
+    },
+    {
+     "value": 76000.0,
+     "label": "resistance"
+    },
+    {
+     "value": 58500.0,
+     "label": "support"
+    }
+   ]
+  },
+  {
+   "timestamp": "03:47",
+   "topic": "Macro calendar and employment data",
+   "claim": "Upcoming US employment and ISM data will determine if the Federal Reserve maintains a restrictive stance.",
+   "details": "The upcoming week features ISM manufacturing on Tuesday, ADP employment on Wednesday, ISM services on Thursday, and the crucial jobs report on Friday. Strong labor data and rising wages could reinforce restrictive monetary policy expectations.",
+   "surprise": "The employment report on Friday serves as the definitive test for future rate expectations.",
+   "kind": "news",
+   "conclusion": "Macroeconomic resilience complicates the Fed's job and keeps interest rate risks alive."
+  },
+  {
+   "timestamp": "04:22",
+   "topic": "Crypto market bounce and risk levels",
+   "claim": "Crypto assets experience a technical rebound, but the broader monthly and yearly trend remains weak.",
+   "details": "Bitcoin shows a short-term rebound, but weekly and monthly charts remain heavily negative. The critical monitoring level for Bitcoin is between 58,500 and 59,000 dollars, and a daily close below 58,500 could trigger a deeper descent.",
+   "surprise": "Despite daily gains, most crypto assets remain down in double digits on the monthly and yearly timeframe.",
+   "kind": "setup",
+   "ticker": "BTC-USD",
+   "scenario": "If Bitcoin breaks below 58,500 dollars, deeper downside targets come into play.",
+   "conclusion": "Caution is warranted as technical bounces do not confirm fundamental improvements.",
+   "levels": [
+    {
+     "value": 58500.0,
+     "label": "support"
+    },
+    {
+     "value": 61000.0,
+     "label": "resistance"
+    }
+   ]
+  }
+ ],
+ "tickers": [
+  "BTC-USD",
+  "^GSPC",
+  "^IXIC",
+  "SMH"
+ ],
+ "predictions": [
+  "Bitcoin may remain inside the megaphone pattern until a decisive break of 58,500 or 76,000 dollars occurs."
+ ],
+ "catalysts": [
+  "ISM manufacturing on Tuesday",
+  "ADP employment on Wednesday",
+  "ISM services on Thursday",
+  "US employment report on Friday"
+ ],
+ "rumors": [
+  "Michael Burry has closed his short tech positions and is now predominantly long."
+ ],
+ "curiosities": [
+  "Orange juice prices hit multi-year lows compared to 2021 levels."
+ ],
+ "promo": true,
+ "language": "it",
+ "video_id": "fdETnvZCPTU",
+ "title": "ATTENZIONE! VI STO AVVISANDO ADESSO",
+ "author": "MindTheChart",
+ "url": "https://www.youtube.com/watch?v=fdETnvZCPTU",
+ "published": "2026-11-26T17:01:25+00:00",
+ "duration_min": 7,
+ "partial": false,
+ "analysed_at": "2026-11-26T23:12:12.254714+00:00",
+ "model": "gemini-3.5-flash-lite"
+}

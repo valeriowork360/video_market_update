@@ -511,5 +511,14 @@
   "first_seen": "2026-11-26T05:15:37.611704+00:00",
   "tries": 1,
   "done_at": "2026-11-26T05:16:10.748829+00:00"
+ },
+ "fdETnvZCPTU": {
+  "status": "done",
+  "attempts": 0,
+  "channel": "MindTheChart",
+  "title": "ATTENZIONE! VI STO AVVISANDO ADESSO",
+  "first_seen": "2026-11-26T23:12:00.704508+00:00",
+  "tries": 1,
+  "done_at": "2026-11-26T23:12:12.254945+00:00"
  }
 }
