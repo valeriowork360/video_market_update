@@ -468,13 +468,13 @@
   "done_at": "2026-11-25T14:10:15.915288+00:00"
  },
  "AQczoZQvaTM": {
-  "status": "pending",
+  "status": "done",
   "attempts": 0,
   "channel": "0xTalks",
   "title": "LA CRISI DI SKY | Crypto Recap | 25 Novembre 2026",
   "first_seen": "2026-11-25T22:56:36.207187+00:00",
-  "tries": 2,
-  "last_error": "Gemini non riesce ad aprire questo video adesso (live appena finita, video riservato o rimosso)"
+  "tries": 3,
+  "done_at": "2026-11-26T14:32:19.923721+00:00"
  },
  "wRNskCaMmpA": {
   "status": "done",

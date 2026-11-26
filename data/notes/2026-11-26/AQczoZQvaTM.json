@@ -1,0 +1,467 @@
+{
+ "market_relevance": 9,
+ "scope": "global",
+ "kind": "crypto",
+ "summary": "The author opens a crypto-focused review covering major market news, token metrics, and DeFi protocol developments, starting with the FTSE MIB and Bitcoin trends. He then dives into the recent liquidity crisis of the Sky protocol, formerly MakerDAO, analyzing the financial mechanisms behind stUSDS, the risks of founder-led debt positions by Rune Christensen, and the USDS Peg Stability Module bank run. Later, he evaluates stablecoin supply contractions, cross-protocol contagion risks via Morpho, and compares current market corrections with historical NASDAQ crashes from 2000 and 2008. Finally, he examines on-chain metrics for Bitcoin, protocol revenue multiples, and token charts to assess whether current valuation anomalies resemble prior cyclical extremes.",
+ "digest_it": "L'autore analizza l'andamento del FTSE MIB e di Bitcoin, approfondendo poi la crisi di liquidità e il bank run sul protocollo Sky (ex MakerDAO), con particolare attenzione al debito di Rune Christensen e ai rischi di contagio tramite Morpho. Vengono inoltre esaminate la contrazione dell'offerta di stablecoin, le metriche on-chain di Bitcoin e i multipli di ricavo dei protocolli DeFi.",
+ "author_tone": "cautious",
+ "tone_evidence": "He expresses concern over the lack of risk management and notes that current market signals are far from promising, maintaining an analytical reservation regarding protocol revenue sustainability and macro headwinds.",
+ "key_points": [
+  {
+   "point": "FTSE MIB index is currently trading at double the COVID crash low of 22,000.",
+   "timestamp": ""
+  },
+  {
+   "point": "Sky protocol (formerly MakerDAO) is facing a liquidity crisis driven by protocol design flaws and founder debt.",
+   "timestamp": ""
+  },
+  {
+   "point": "Rune Christensen holds $77M in debt against staked SKY collateral within the lending engine.",
+   "timestamp": ""
+  },
+  {
+   "point": "On November 19, 2026, a single address converted 1.49 billion USDS into USDC within 9 minutes.",
+   "timestamp": ""
+  },
+  {
+   "point": "The borrowing utilization rate on Morpho for BTC/USDC and USDS markets reached 99.3% during the stress event.",
+   "timestamp": ""
+  },
+  {
+   "point": "Stablecoin supply declined by roughly twenty billion since October 1, dropping from 300 billion to 280 billion.",
+   "timestamp": ""
+  },
+  {
+   "point": "Bitcoin UTXO block P/L count ratio model shows extreme capital loss levels similar to previous major market crashes.",
+   "timestamp": ""
+  },
+  {
+   "point": "11.4 million Bitcoin are currently underwater, exceeding levels seen during prior macro bottoms.",
+   "timestamp": ""
+  }
+ ],
+ "moments": [
+  {
+   "timestamp": "02:28",
+   "topic": "FTSE MIB Index Analysis",
+   "claim": "The Italian stock market index sits at twice its COVID crash low, though current technical setups appear bearish.",
+   "details": "The author reviews the FTSE MIB weekly chart, marking the COVID crash low at 22,000. He observes that despite the index trading at double that level, the recent price action shows downward pressure.",
+   "surprise": "The index remains twice as high as its pandemic crash low.",
+   "kind": "setup",
+   "ticker": "^FTSEMIB",
+   "scenario": "If the bearish price action continues, the market may retest lower support levels before any meaningful recovery.",
+   "conclusion": "The broader market trend requires caution and will be re-evaluated later in the week.",
+   "levels": [
+    {
+     "value": 22000.0,
+     "label": "low"
+    }
+   ]
+  },
+  {
+   "timestamp": "03:00",
+   "topic": "Bitcoin Daily Trend",
+   "claim": "Bitcoin exhibits a bearish structure across all timeframes with potential for a double bottom.",
+   "details": "Examining Bitcoin price action, the author notes that short-term charts remain weak. He suggests a possible bottoming formation around current support zones, though overall market signals lack bullish momentum.",
+   "surprise": "All major timeframes continue to display persistent bearish momentum.",
+   "kind": "setup",
+   "ticker": "BTC-USD",
+   "scenario": "Price action may form a double bottom in the current zone before attempting any recovery.",
+   "conclusion": "Market signals remain unconvincing, and further analysis is scheduled for Friday."
+  },
+  {
+   "timestamp": "07:20",
+   "topic": "Sky Protocol Liquidity Crisis",
+   "claim": "Sky protocol faces a structural liquidity crisis stemming from design flaws and founder debt exposure.",
+   "details": "The author analyzes the mechanics of Sky (formerly MakerDAO), focusing on the relationship between USDs, stUSDS, and staked SKY collateral. He criticizes the protocol's risk framework and founder financial practices.",
+   "surprise": "The protocol's founder holds massive debt collateralized by the platform's own governance token.",
+   "kind": "news",
+   "conclusion": "Poor risk management and structural mismatches have left the protocol vulnerable to cascading liquidations."
+  },
+  {
+   "timestamp": "10:20",
+   "topic": "Rune Christensen Debt Position",
+   "claim": "Founder Rune Christensen accumulated $77 million in debt backed by staked SKY tokens.",
+   "details": "Reviewing on-chain data, the author highlights that Rune Christensen alone accounts for $77 million of debt in the protocol. Despite minor repayments, the exposure remains extremely high and heavily reliant on the token's valuation.",
+   "surprise": "The protocol creator is simultaneously the largest debtor backed by the platform's native asset.",
+   "kind": "opinion",
+   "conclusion": "This creates a dangerous combination of related-party lending and wrong-way risk."
+  },
+  {
+   "timestamp": "11:30",
+   "topic": "Crisis Timeline and Projections",
+   "claim": "Debt accumulation began in May 2025, leading to potential liquidation risks extending into late 2026.",
+   "details": "The timeline shows the wallet associated with Rune starting extensive borrowing without repayments in May 2025. By late 2025, specific lending configurations were adopted, with critical vulnerabilities flagged for late 2026.",
+   "surprise": "A continuous sequence of unreturned borrows spans over a year and a half.",
+   "kind": "history",
+   "conclusion": "The protocol faces severe structural stress as maturity mismatches materialize.",
+   "history": {
+    "symbol": "",
+    "start": "2025-05",
+    "end": "2026-11",
+    "story": "Continuous debt accumulation through 25 borrowing operations without repayment, leading to potential liquidation thresholds.",
+    "parallel": "Highlights the recurring structural vulnerabilities in decentralized finance lending models."
+   }
+  },
+  {
+   "timestamp": "12:00",
+   "topic": "Analisi del tetto di prezzo e grafici",
+   "claim": "Il protocollo ha imposto un tetto conservativo al prezzo dell'oracolo per limitare il valore massimo del collaterale.",
+   "details": "L'autore mostra la piattaforma CoinGecko esaminando lo storico del token SKY. Spiega che il limite massimo fissato a 0,025 dollari riduce la leva e protegge il sistema, sebbene il prezzo di mercato attuale sia inferiore.",
+   "surprise": "Il tetto massimo imposto dal protocollo è significativamente inferiore ai picchi storici del token.",
+   "kind": "setup",
+   "ticker": "SKY",
+   "scenario": "Se il prezzo scende sotto le soglie stabilite, il sistema attiva meccanismi protettivi di liquidazione.",
+   "conclusion": "La mossa è conservativa ma evidenzia i limiti operativi del collaterale in fasi di mercato avverse.",
+   "levels": [
+    {
+     "value": 0.025,
+     "label": "resistance"
+    }
+   ]
+  },
+  {
+   "timestamp": "13:23",
+   "topic": "Evoluzione della crisi e vulnerabilità",
+   "claim": "A ottobre 2026 emergono i primi segnali di vulnerabilità con un pool che satura la liquidità disponibile.",
+   "details": "Vengono analizzati i dati dei depositi e prestiti: su circa 287 milioni di depositi e 160 milioni di prestiti, restano solo 47 milioni disponibili. Tra il 10 e il 13 novembre l'utilizzo tocca il 100% e i depositanti non riescono più a riscattare USDS.",
+   "surprise": "L'esaurimento totale della liquidità residua blocca improvvisamente le uscite dei depositanti.",
+   "kind": "news",
+   "ticker": "SKY",
+   "conclusion": "La scarsità di liquidità innesca una corsa ai prelievi e costringe i depositanti a uscire rapidamente."
+  },
+  {
+   "timestamp": "16:00",
+   "topic": "Intervento di Rune e concentrazione del debito",
+   "claim": "Rune interviene rimborsando una parte del debito, ma la concentrazione dello stesso su pochissimi indirizzi resta critica.",
+   "details": "Il 23 novembre Rune annuncia il rimborso di 3 milioni di USDS e dichiara 77 milioni di debito residuo, cercando acquirenti istituzionali per SKY. L'indagine mostra che il 73% del debito è concentrato in soli due indirizzi.",
+   "surprise": "Il 73% del debito totale fa capo a due soli debitori.",
+   "kind": "news",
+   "ticker": "SKY",
+   "conclusion": "La forte concentrazione del debito aumenta esponenzialmente la vulnerabilità sistemica del protocollo."
+  },
+  {
+   "timestamp": "17:31",
+   "topic": "Disabilitazione delle liquidazioni e riflessività",
+   "claim": "Il blocco delle liquidazioni e il divario tra floor price e prezzo di mercato alimentano il wrong-way risk.",
+   "details": "L'autore spiega perché le liquidazioni sono state disabilitate e analizza il concetto di floor price interno inferiore a quello di mercato. Questo crea un circolo vizioso tra calo del prezzo del collaterale, aumento del bad debt e perdita di fiducia.",
+   "surprise": "Il prezzo di riferimento interno (floor price) della dashboard ufficiale è inferiore al prezzo di mercato.",
+   "kind": "opinion",
+   "ticker": "SKY",
+   "conclusion": "Il sistema soffre di un grave problema di riflessività e di errata contabilizzazione degli interessi.",
+   "history": {
+    "symbol": "LUNA",
+    "start": "2022-05",
+    "end": "2022-05",
+    "story": "Il collaterale a garanzia di UST è crollato rapidamente azzerando il valore dell'ecosistema.",
+    "parallel": "Come Terra-Luna, la perdita di valore del collaterale innesca una spirale distruttiva per l'intero protocollo."
+   }
+  },
+  {
+   "timestamp": "20:47",
+   "topic": "Inefficacia dell'aumento dei tassi",
+   "claim": "Innalzare i tassi al 50% non risolve il problema strutturale della mancanza di liquidità.",
+   "details": "L'aumento dei tassi di prestito serve a incentivare il rimborso ma penalizza i debitori senza garantire afflussi reali di cassa. Se i debitori non pagano e gli interessi vengono capitalizzati, la qualità del credito peggiora ulteriormente.",
+   "surprise": "Un rendimento APY elevato non riflette un effettivo incasso di cassa ma un accumulo di debito.",
+   "kind": "opinion",
+   "ticker": "SKY",
+   "conclusion": "Alzare i tassi è un palliativo inefficace che non corregge i problemi fondamentali di solvibilità."
+  },
+  {
+   "timestamp": "24:00",
+   "topic": "USDS Peg Stability Module Analysis",
+   "claim": "The Peg Stability Module allowed massive USDC redemptions during the bank run without breaking the USDS peg.",
+   "details": "The speaker explains how the PSM permits 1-to-1 conversions between USDS and USDC, pointing out that large illicit fund flows linked to North Korea raised freeze risks on Circle's reserves.",
+   "surprise": "Over 518 million dollars in transactions were linked to illicit actors.",
+   "kind": "news",
+   "conclusion": "The system processed the stress test successfully without permanent depeg of USDS."
+  },
+  {
+   "timestamp": "25:56",
+   "topic": "Sky Bank Run Reserves Timeline",
+   "claim": "USDC reserves in the PSM experienced a sharp drawdown before partially recovering.",
+   "details": "The speaker reviews reserve snapshots from November 19 showing a drop from 2.51 billion dollars down to 808 million dollars at the minimum, recovering to 1.86 billion by November 25.",
+   "surprise": "A single address swapped 1.49 billion USDS in under ten minutes.",
+   "kind": "history",
+   "conclusion": "The system demonstrated high solvency despite severe liquidity pressure.",
+   "history": {
+    "symbol": "",
+    "start": "2026-11",
+    "end": "2026-11",
+    "story": "USDC reserves dropped over 68% during the panic before stabilizing.",
+    "parallel": "Shows extreme resilience during a severe bank run scenario."
+   }
+  },
+  {
+   "timestamp": "29:38",
+   "topic": "Cross-Protocol Contagion via Morpho",
+   "claim": "Borrowing rates on Morpho and Base spiked as users scrambled for liquidity.",
+   "details": "The speaker highlights that utilization rates on Morpho reached 99.3% on November 19, forcing borrowers using stUSDS as collateral into high borrowing costs.",
+   "surprise": "Utilization hit nearly 99.3% on the primary borrowing markets.",
+   "kind": "news",
+   "conclusion": "Composability in DeFi created secondary contagion channels across lending protocols."
+  },
+  {
+   "timestamp": "33:05",
+   "topic": "Recovery Proposals and Future Scenarios",
+   "claim": "Protocol governance is considering OTC token sales to recapitalize reserves.",
+   "details": "The speaker evaluates potential solutions, including selling 40 to 50 million dollars of governance tokens OTC to clear bad debt, alongside three distinct stress scenarios ranging from orderly resolution to prolonged liquidity crises.",
+   "surprise": "A 40-50 million token sale is proposed to absorb protocol bad debt.",
+   "kind": "opinion",
+   "conclusion": "Governance decisions will determine whether stUSDS maintains its liquidity long-term."
+  },
+  {
+   "timestamp": "36:00",
+   "topic": "Sky ecosystem stats and stUSD pool crisis",
+   "claim": "The stUSD pool in the Sky ecosystem operates at 99.99% utilization with negative available liquidity.",
+   "details": "The speaker examines the dashboard showing a capital net pool of $158.3M, an APY of 50%, and an extremely tight liquidity situation with negative available balance. He also reviews the USDC reserve PSM target of $1.63B and a 30.5% supply share.",
+   "surprise": "Utilization is at 99.99% with negative available liquidity.",
+   "kind": "news",
+   "ticker": "SKY-USD",
+   "conclusion": "The current metrics signal a severe stress test for the Sky protocol."
+  },
+  {
+   "timestamp": "37:40",
+   "topic": "Sky token exchange volume and liquidity depth",
+   "claim": "Sky token daily volume across major exchanges reaches about $73 million, but liquidity depth varies significantly.",
+   "details": "The speaker checks CoinGecko markets for Sky, estimating daily volume by multiplying top exchange figures. He notes that Coinbase provides better order book depth relative to its volume compared to other platforms like OKX or Bybit.",
+   "surprise": "Coinbase has superior order book depth relative to volume despite lower trading activity.",
+   "kind": "market update",
+   "ticker": "SKY-USD",
+   "conclusion": "Trading Sky during market crises remains highly risky due to thin liquidity on many pairs."
+  },
+  {
+   "timestamp": "42:15",
+   "topic": "Ether.fi new features and cashback program",
+   "claim": "Ether.fi has introduced payment links and family cards allowing users to earn cashback on shared expenses.",
+   "details": "The speaker reviews Ether.fi's new product updates, highlighting payment links for easier transfers and physical or virtual family cards. These cards enable users and their relatives to spend from a common balance while earning cashback rewards.",
+   "surprise": "Virtual family cards cost $10 and allow cashback accumulation on family spending.",
+   "kind": "news",
+   "conclusion": "These new features provide strong user incentives to remain active within the Ether.fi ecosystem."
+  },
+  {
+   "timestamp": "48:15",
+   "topic": "Phantom volume analysis",
+   "claim": "Phantom protocol shows notable daily transaction volume figures.",
+   "details": "The speaker checks DefiLlama to evaluate Phantom's historical volume metrics and protocol revenue generation. He points out the magnitude of daily transactions and discusses protocol fee income.",
+   "surprise": "Phantom recorded substantial daily volume despite prevailing market conditions.",
+   "kind": "news",
+   "ticker": "FTM-USD",
+   "conclusion": "Volume metrics indicate active protocol usage despite broader market uncertainties."
+  },
+  {
+   "timestamp": "53:25",
+   "topic": "Stablecoin supply and interest rates",
+   "claim": "Global stablecoin supply is constrained by high risk-free interest rates.",
+   "details": "Using a chart from Lorenzo Valente, the speaker explains that stablecoins rely on low borrowing costs. When risk-free rates are high, stablecoin supply growth faces headwinds because capital seeks safer yield alternatives.",
+   "surprise": "High risk-free rates directly compress stablecoin expansion across crypto markets.",
+   "kind": "opinion",
+   "ticker": "USDT-USD",
+   "conclusion": "Lower interest rates are necessary for stablecoin supply to experience explosive expansion again."
+  },
+  {
+   "timestamp": "59:40",
+   "topic": "Historical stablecoin supply drawdown",
+   "claim": "Stablecoin supply experienced massive reductions during previous cycle contractions.",
+   "details": "The speaker reviews historical stablecoin data from 2021 onwards, noting a drawdown of roughly 35 billion dollars from peak levels to cycle lows during the bear market.",
+   "surprise": "Stablecoin supply dropped by approximately 35 billion dollars over the cycle contraction.",
+   "kind": "history",
+   "ticker": "USDC-USD",
+   "conclusion": "Cycle contraction phases consistently drain stablecoin liquidity from decentralized finance systems.",
+   "history": {
+    "symbol": "USDT-USD",
+    "start": "2021-05",
+    "end": "2022-12",
+    "story": "Stablecoin supply fell from roughly 158 billion down to 124 billion dollars, representing a 35 billion reduction.",
+    "parallel": "Current stablecoin supply metrics reflect similar cycle-dependent contractions during restrictive monetary conditions."
+   }
+  },
+  {
+   "timestamp": "60:00",
+   "topic": "Stablecoin supply contraction",
+   "claim": "Stablecoin supply has seen a notable decline recently, resembling a recessionary environment.",
+   "details": "The speaker points out that stablecoin supply dropped from 300 billion on October 1 to 280 billion, representing a loss of twenty billion or two-thirds of the capital accumulated throughout 2023.",
+   "surprise": "Twenty billion left the stablecoin supply in just two months.",
+   "kind": "setup",
+   "scenario": "If stablecoin supply continues to contract, the systemic impact resembles an ongoing recession.",
+   "conclusion": "The drop in stablecoin supply is a cautious signal for the broader crypto market.",
+   "levels": [
+    {
+     "value": 300000000000.0,
+     "label": "high"
+    },
+    {
+     "value": 280000000000.0,
+     "label": "low"
+    }
+   ]
+  },
+  {
+   "timestamp": "64:21",
+   "topic": "Historical DCA in Nasdaq 2007-2009",
+   "claim": "Dollar-cost averaging during the 2007-2009 financial crisis achieved profitability much faster than peak purchases.",
+   "details": "Purchasing weekly through the 2007-2009 financial crisis led to a much quicker breakeven point because the average cost landed near the mid-1600s, turning profitable by 2009.",
+   "surprise": "DCA during the 2008 crisis reached profit much faster than dot-com purchases.",
+   "kind": "history",
+   "conclusion": "Accumulating during a market correction yields much faster recovery than buying exact historical peaks.",
+   "history": {
+    "symbol": "^IXIC",
+    "start": "2007-01",
+    "end": "2009-12",
+    "story": "The index dropped significantly during the global financial crisis before recovering.",
+    "parallel": "Comparing crisis accumulation strategies to current market conditions."
+   }
+  },
+  {
+   "timestamp": "67:05",
+   "topic": "Historical DCA in Nasdaq 1999-2001",
+   "claim": "DCA weekly at the exact peak of the 1999-2001 dot-com bubble required ten years to reach breakeven.",
+   "details": "Starting weekly DCA at the peak of the dot-com bubble meant the portfolio remained deeply underwater, requiring approximately ten years after the final purchase to cross breakeven around February 2012.",
+   "surprise": "It took ten full years to break even when buying the exact dot-com top.",
+   "kind": "history",
+   "conclusion": "Buying at macro bubbles requires extreme patience and long horizons to recover.",
+   "history": {
+    "symbol": "^IXIC",
+    "start": "1999-01",
+    "end": "2012-02",
+    "story": "The index crashed from its peak and took a decade to recover to the average cost basis.",
+    "parallel": "Demonstrates the extreme duration required to recover from top-tier bubble accumulation."
+   }
+  },
+  {
+   "timestamp": "75:25",
+   "topic": "Bitcoin on-chain valuation and holder metrics",
+   "claim": "On-chain valuation metrics like MVRV and holder profit/loss ratios are crucial for assessing coin fundamentals.",
+   "details": "The speaker explains how MVRV divides market capitalization by realized capitalization, comparing coin prices against their last-movement value. He observes that short-term and long-term holder metrics indicate extreme readings that help contextualize overall market cycles.",
+   "surprise": "MVRV metrics have occasionally dropped to extremely low levels during cycle bottoms.",
+   "kind": "opinion",
+   "ticker": "BTC-USD",
+   "conclusion": "These on-chain tools provide essential clarity on network value compared to purely speculative price action."
+  },
+  {
+   "timestamp": "78:42",
+   "topic": "Bitcoin UTXO block profit/loss ratio model",
+   "claim": "Bitcoin investors are sitting on underwater capital levels comparable to major historical lows.",
+   "details": "Examining the UTXO block P/L count ratio model from CryptoQuant, the speaker highlights that current valuation metrics indicate severe cyclical stress. He notes that while past bottoms like 2018, 2020, and late 2022 saw similar capitulation phases, current readings require careful monitoring for duration.",
+   "surprise": "Current investor losses match the depth seen during the 2022 FTX collapse and the 2020 COVID crash.",
+   "kind": "history",
+   "ticker": "BTC-USD",
+   "conclusion": "Capitulation on-chain often precedes structural recoveries, but time-based duration remains uncertain.",
+   "levels": [
+    {
+     "value": 100000.0,
+     "label": "resistance"
+    }
+   ],
+   "history": {
+    "symbol": "BTC-USD",
+    "start": "2018-12",
+    "end": "2023-01",
+    "story": "Previous market bottoms in 2018, 2020, and late 2022 experienced heavy on-chain capitulation phases with extreme USD losses.",
+    "parallel": "The current period reflects comparable structural stress to those historical washout phases."
+   }
+  },
+  {
+   "timestamp": "82:41",
+   "topic": "Bitcoin loss statistics and holder supply",
+   "claim": "Over 11.4 million bitcoins are currently in loss, representing a record level of unrealized capital contraction.",
+   "details": "Reviewing data on holder positions, the speaker notes that 11.4 million BTC are sitting at a loss, exceeding the levels recorded during previous macro crashes. He discusses how these metrics underscore the depth of the current market retracement.",
+   "surprise": "Over eleven million coins are currently underwater, surpassing prior post-FTX crash metrics.",
+   "kind": "news",
+   "ticker": "BTC-USD",
+   "conclusion": "Such extreme supply-in-loss metrics typically indicate late-stage cyclical distress rather than immediate strength."
+  },
+  {
+   "timestamp": "84:00",
+   "topic": "Crypto protocol revenue multiples",
+   "claim": "Crypto protocols trade at significantly higher revenue multiples compared to traditional stocks.",
+   "details": "The speaker reviews a post comparing crypto protocols against tech giants like Microsoft, pointing out that valuation multiples are based on 12-month revenue rather than earnings. He notes that high valuations make it difficult to purchase tokens like Derive despite strong fundamentals.",
+   "surprise": "Some crypto protocols trade at massive revenue multiples relative to traditional tech stocks.",
+   "kind": "opinion",
+   "conclusion": "High valuations make purchasing certain protocol tokens prohibitive for investors."
+  },
+  {
+   "timestamp": "86:12",
+   "topic": "Derive token price chart analysis",
+   "claim": "Derive experienced a sharp correction after reaching its high.",
+   "details": "Looking at the Derive token chart on CoinGecko, the speaker notes it touched 0.53 before dropping to 0.23, representing roughly a 60 percent decline. He discusses whether the token can recover from this drop.",
+   "surprise": "Derive dropped by about 60 percent from its peak of 0.53.",
+   "kind": "setup",
+   "ticker": "DRV",
+   "scenario": "Price peaked at 0.53, dropped to 0.23, and faces uncertainty regarding a full recovery.",
+   "conclusion": "The token suffered a major drawdown from its highs.",
+   "levels": [
+    {
+     "value": 0.53,
+     "label": "high"
+    },
+    {
+     "value": 0.23,
+     "label": "low"
+    }
+   ]
+  },
+  {
+   "timestamp": "87:05",
+   "topic": "Protocol cash card spend growth",
+   "claim": "Cash card spend metrics for protocols show extraordinary growth projections extending into 2026.",
+   "details": "The speaker examines a Blockworks chart showing cumulative cash card spend volume scaling significantly month over month. He highlights that projected activity through 2026 indicates strong adoption despite occasional monthly slowdowns.",
+   "surprise": "Projected cash card spend scales aggressively through 2026.",
+   "kind": "news",
+   "conclusion": "On-chain metrics and card spending indicate healthy underlying product usage."
+  },
+  {
+   "timestamp": "88:51",
+   "topic": "Decade-long secular bull market thesis",
+   "claim": "Tokens might be entering a decade-long secular bull market after five years in a brutal bear market.",
+   "details": "The speaker analyzes a post arguing that many tokens have endured a severe five-year bear market and could be entering a long-term secular expansion. While finding the thesis fascinating, he expresses doubt about whether it can be entirely verified.",
+   "surprise": "Tokens have spent five years in a brutal bear market before potentially entering a secular bull cycle.",
+   "kind": "opinion",
+   "conclusion": "The long-term market thesis makes sense from certain angles but remains unproven."
+  }
+ ],
+ "tickers": [
+  "BTC-USD",
+  "SKY",
+  "LUNA",
+  "SKY-USD",
+  "FTM-USD",
+  "USDT-USD",
+  "USDC-USD",
+  "^IXIC",
+  "NVDA",
+  "DRV"
+ ],
+ "predictions": [
+  "Bitcoin may form a double bottom in the current support zone before attempting a recovery.",
+  "Il protocollo rischia il collasso se non vengono ripristinati i flussi di liquidità e ridotti i debiti concentrati.",
+  "Stablecoin supply will resume aggressive growth only when risk-free interest rates decrease.",
+  "Expect further cyclical volatility before any sustained long-term market recovery."
+ ],
+ "catalysts": [
+  "Friday live stream for detailed macroeconomic and multi-timeframe crypto analysis.",
+  "Nessun catalizzatore specifico futuro menzionato oltre alle scadenze di novembre 2026."
+ ],
+ "rumors": [
+  "Non è del tutto chiaro da quali indirizzi provengano esattamente i fondi utilizzati da Rune per i rimborsi."
+ ],
+ "curiosities": [
+  "The protocol founder maintains a $77 million personal debt position collateralized by the platform's own governance token.",
+  "Il 73% del debito totale del protocollo è riconducibile a soli due soggetti.",
+  "A single address converted 1.49 billion USDS in 9 minutes during the peak of the panic.",
+  "The speaker uses DeFiLlama data to cross-examine protocol revenue models in real time.",
+  "The speaker uses a satirical example of a fictional token called Pearl to mock aggressive venture-backed tokenomics.",
+  "A 5-year Bitcoin holding period has only resulted in negative USD returns on 11 trading days out of a 4,000-day history."
+ ],
+ "promo": false,
+ "language": "it",
+ "video_id": "AQczoZQvaTM",
+ "title": "LA CRISI DI SKY | Crypto Recap | 25 Novembre 2026",
+ "author": "0xTalks",
+ "url": "https://www.youtube.com/watch?v=AQczoZQvaTM",
+ "published": "2026-11-26T06:35:04+00:00",
+ "duration_min": 90,
+ "partial": false,
+ "analysed_at": "2026-11-26T14:32:19.922927+00:00",
+ "model": "gemini-3.5-flash-lite"
+}
