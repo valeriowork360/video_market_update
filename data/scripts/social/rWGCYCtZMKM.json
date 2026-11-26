@@ -1,0 +1,860 @@
+{
+ "it": [
+  {
+   "levels": [],
+   "history": {
+    "symbol": "^GSPC",
+    "start": "1989-01",
+    "end": "2023-11"
+   },
+   "title": "S&P 500 da 281 a oltre 7.000 punti: la lezione della storia",
+   "hook": "S&P 500 RECORD",
+   "beats": [
+    {
+     "say": "L'S&P 500 è passato da 281 punti a oltre 7.000.",
+     "show": "S&P 500 RECORD",
+     "figure": "7.000"
+    },
+    {
+     "say": "Dal 1989 ad oggi il mercato ha affrontato ogni tipo di crisi finanziaria.",
+     "show": "STORIA MERCATO",
+     "figure": "1989"
+    },
+    {
+     "say": "Nel 2021 l'indice ha toccato 4.766 punti prima di crollare a 3.583 nell'ottobre 2022.",
+     "show": "CROLLO 2022",
+     "figure": "-25%"
+    },
+    {
+     "say": "Una flessione del 25% durata 9 mesi che ha premiato chi ha continuato ad acquistare.",
+     "show": "9 MESI CRISI",
+     "figure": "9"
+    },
+    {
+     "say": "Storicamente ogni correzione dell'S&P 500 ha aperto opportunità di lungo termine. Segui per l'aggiornamento di domani.",
+     "show": "ORIZZONTE LUNGO",
+     "figure": ""
+    }
+   ],
+   "origin": "Jeremy Lefebvre",
+   "source_video": "Biggest Move since 2000!",
+   "narration": "L'S&P 500 è passato da 281 punti a oltre 7.000. Dal 1989 ad oggi il mercato ha affrontato ogni tipo di crisi finanziaria. Nel 2021 l'indice ha toccato 4.766 punti prima di crollare a 3.583 nell'ottobre 2022. Una flessione del 25% durata 9 mesi che ha premiato chi ha continuato ad acquistare. Storicamente ogni correzione dell'S&P 500 ha aperto opportunità di lungo termine. Segui per l'aggiornamento di domani.",
+   "ticker": "^GSPC",
+   "sentiment": "bullish",
+   "sources": [],
+   "caption": "L'analisi storica dell'S&P 500 mostra come le correzioni abbiano sempre preceduto nuovi massimi.",
+   "hashtags": [
+    "#SP500",
+    "#Borsa",
+    "#Investimenti",
+    "#MercatiFinanziari",
+    "#Finanza"
+   ]
+  },
+  {
+   "levels": [],
+   "history": {
+    "symbol": "^IXIC",
+    "start": "2013-12",
+    "end": "2023-12"
+   },
+   "title": "Nasdaq a dicembre: la stagionalità contro i ribassi del 36%",
+   "hook": "DICEMBRE Nasdaq",
+   "beats": [
+    {
+     "say": "Il Nasdaq ha chiuso in positivo 7 Dicembri negli ultimi 10 anni.",
+     "show": "DICEMBRE Nasdaq",
+     "figure": "7/10"
+    },
+    {
+     "say": "Dicembre è storicamente un mese rialzista ma l'assetto attuale presenta forte volatilità.",
+     "show": "STAGIONALITÀ",
+     "figure": ""
+    },
+    {
+     "say": "Nel ciclo 2021-2022 il Nasdaq è sceso da 16.057 a 10.321 punti.",
+     "show": "MASSIMO 16.057",
+     "figure": "16.057"
+    },
+    {
+     "say": "Quel crollo del 36% in 11 mesi dimostra che la pressione di vendita può dominare.",
+     "show": "CROLLO 36%",
+     "figure": "-36%"
+    },
+    {
+     "say": "Le vendite per minusvalenze fiscali possono stravolgere la stagionalità storica. Segui per l'aggiornamento di domani.",
+     "show": "TAX LOSSING",
+     "figure": ""
+    }
+   ],
+   "origin": "Jeremy Lefebvre",
+   "source_video": "Biggest Move since 2000!",
+   "narration": "Il Nasdaq ha chiuso in positivo 7 Dicembri negli ultimi 10 anni. Dicembre è storicamente un mese rialzista ma l'assetto attuale presenta forte volatilità. Nel ciclo 2021-2022 il Nasdaq è sceso da 16.057 a 10.321 punti. Quel crollo del 36% in 11 mesi dimostra che la pressione di vendita può dominare. Le vendite per minusvalenze fiscali possono stravolgere la stagionalità storica. Segui per l'aggiornamento di domani.",
+   "ticker": "^IXIC",
+   "sentiment": "neutral",
+   "sources": [],
+   "caption": "Nonostante la stagionalità favorevole di dicembre, i cicli ribassisti del Nasdaq richiedono prudenza.",
+   "hashtags": [
+    "#Nasdaq",
+    "#Borsa",
+    "#Dicembre",
+    "#Investimenti",
+    "#Finanza"
+   ]
+  },
+  {
+   "levels": [],
+   "history": null,
+   "title": "Nasdaq prima del Ringraziamento: evitato un calo del 4%",
+   "hook": "SCHIVATO CROLLO",
+   "beats": [
+    {
+     "say": "Il Nasdaq evita un crollo storico prima del Ringraziamento.",
+     "show": "SCHIVATO CROLLO",
+     "figure": "-0,6%"
+    },
+    {
+     "say": "L'indice rischiava il peggior calo della sua storia alla vigilia della festa americana.",
+     "show": "RISCHIO STORICO",
+     "figure": ""
+    },
+    {
+     "say": "Nel 2000 il Nasdaq crollò del 4% nello stesso identico giorno.",
+     "show": "PRECEDENTE 2000",
+     "figure": "-4%"
+    },
+    {
+     "say": "Il recupero sul finale di seduta ha contenuto le perdite allo 0,6%.",
+     "show": "RECUPERO FINALE",
+     "figure": "0,6%"
+    },
+    {
+     "say": "Il disastro è stato evitato ma il mercato resta in territorio negativo. Segui per l'aggiornamento di domani.",
+     "show": "MERCATO ROSSO",
+     "figure": ""
+    }
+   ],
+   "origin": "Jeremy Lefebvre",
+   "source_video": "Biggest Move since 2000!",
+   "narration": "Il Nasdaq evita un crollo storico prima del Ringraziamento. L'indice rischiava il peggior calo della sua storia alla vigilia della festa americana. Nel 2000 il Nasdaq crollò del 4% nello stesso identico giorno. Il recupero sul finale di seduta ha contenuto le perdite allo 0,6%. Il disastro è stato evitato ma il mercato resta in territorio negativo. Segui per l'aggiornamento di domani.",
+   "ticker": "^IXIC",
+   "sentiment": "neutral",
+   "sources": [],
+   "caption": "Il Nasdaq ha recuperato terreno nel finale evitando un crollo storico pre-festivo.",
+   "hashtags": [
+    "#Nasdaq",
+    "#Borsa",
+    "#WallStreet",
+    "#Mercati",
+    "#Finanza"
+   ]
+  },
+  {
+   "levels": [],
+   "history": null,
+   "title": "Crollo semiconduttori: Oracle -57% e Nvidia -33% da giugno",
+   "hook": "CROLLO TECH",
+   "beats": [
+    {
+     "say": "I titoli tecnologici subiscono crolli fino al 57% da giugno.",
+     "show": "CROLLO TECH",
+     "figure": "-57%"
+    },
+    {
+     "say": "I settori dei semiconduttori e dell'intelligenza artificiale affrontano pesanti vendite.",
+     "show": "SETTORE CHIP",
+     "figure": ""
+    },
+    {
+     "say": "Nvidia perde il 33% e AMD cala del 22% rispetto ai massimi recenti.",
+     "show": "Nvidia AMD",
+     "figure": "-33%"
+    },
+    {
+     "say": "Micron segna meno 44% e Oracle sprofonda del 57% in pochi mesi.",
+     "show": "ORACLE MICRON",
+     "figure": "-44%"
+    },
+    {
+     "say": "Il sovraffollamento dei mesi scorsi sta scatenando un'ondata di liquidazioni. Segui per l'aggiornamento di domani.",
+     "show": "LIQUIDAZIONI",
+     "figure": ""
+    }
+   ],
+   "origin": "Jeremy Lefebvre",
+   "source_video": "Biggest Move since 2000!",
+   "narration": "I titoli tecnologici subiscono crolli fino al 57% da giugno. I settori dei semiconduttori e dell'intelligenza artificiale affrontano pesanti vendite. Nvidia perde il 33% e AMD cala del 22% rispetto ai massimi recenti. Micron segna meno 44% e Oracle sprofonda del 57% in pochi mesi. Il sovraffollamento dei mesi scorsi sta scatenando un'ondata di liquidazioni. Segui per l'aggiornamento di domani.",
+   "ticker": "NVDA",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Forte contrazione per i principali titoli legati all'intelligenza artificiale e ai chip da inizio estate.",
+   "hashtags": [
+    "#Nvidia",
+    "#AMD",
+    "#Oracle",
+    "#Tech",
+    "#Borsa"
+   ]
+  },
+  {
+   "levels": [],
+   "history": null,
+   "title": "Tax-loss harvesting a dicembre: pressione di vendita sui deboli",
+   "hook": "VENDITE DICEMBRE",
+   "beats": [
+    {
+     "say": "Le vendite di dicembre rischiano di travolgere i titoli deboli.",
+     "show": "VENDITE DICEMBRE",
+     "figure": ""
+    },
+    {
+     "say": "Gli investitori istituzionali stanno smobilitando le posizioni in perdita prima di fine anno.",
+     "show": "MINUSVALENZE",
+     "figure": ""
+    },
+    {
+     "say": "Il tax-loss harvesting spinge a vendere proprio le azioni già penalizzate.",
+     "show": "PRESSIONE TAX",
+     "figure": ""
+    },
+    {
+     "say": "Le vendite fiscali amplificano i ribassi sui titoli privi di supporto fondamentale.",
+     "show": "SUPPORTI DEBOLI",
+     "figure": ""
+    },
+    {
+     "say": "Conservare liquidità permette di cogliere le opportunità create dai saldi forzati. Segui per l'aggiornamento di domani.",
+     "show": "LIQUIDITÀ PRONTA",
+     "figure": ""
+    }
+   ],
+   "origin": "Jeremy Lefebvre",
+   "source_video": "Biggest Move since 2000!",
+   "narration": "Le vendite di dicembre rischiano di travolgere i titoli deboli. Gli investitori istituzionali stanno smobilitando le posizioni in perdita prima di fine anno. Il tax-loss harvesting spinge a vendere proprio le azioni già penalizzate. Le vendite fiscali amplificano i ribassi sui titoli privi di supporto fondamentale. Conservare liquidità permette di cogliere le opportunità create dai saldi forzati. Segui per l'aggiornamento di domani.",
+   "ticker": null,
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Il riequilibrio fiscale di fine anno genera vendite concentrate sulle azioni già in calo.",
+   "hashtags": [
+    "#Tasse",
+    "#Borsa",
+    "#Dicembre",
+    "#Investimenti",
+    "#Finanza"
+   ]
+  },
+  {
+   "levels": [],
+   "history": null,
+   "title": "SoftBank crolla del 14%: agitazione nei mercati asiatici",
+   "hook": "SOFTBANK -14%",
+   "beats": [
+    {
+     "say": "SoftBank crolla del 14% dopo la quotazione di Anthropic.",
+     "show": "SOFTBANK -14%",
+     "figure": "-14%"
+    },
+    {
+     "say": "L'instabilità nei mercati asiatici mette sotto pressione il settore tech globale.",
+     "show": "ASSETTO ASIA",
+     "figure": ""
+    },
+    {
+     "say": "I colossi dei chip come Samsung e SK Hynix mostrano segni di debolezza.",
+     "show": "SEMICONDUTTORI",
+     "figure": "-14%"
+    },
+    {
+     "say": "Il bilancio di SoftBank e il settore intelligenza artificiale restano interconnessi.",
+     "show": "RISCHIO AI",
+     "figure": ""
+    },
+    {
+     "say": "Senza stabilità nei listini asiatici il clima globale rimane incerto. Segui per l'aggiornamento di domani.",
+     "show": "MERCATI ASIA",
+     "figure": ""
+    }
+   ],
+   "origin": "Jeremy Lefebvre",
+   "source_video": "Biggest Move since 2000!",
+   "narration": "SoftBank crolla del 14% dopo la quotazione di Anthropic. L'instabilità nei mercati asiatici mette sotto pressione il settore tech globale. I colossi dei chip come Samsung e SK Hynix mostrano segni di debolezza. Il bilancio di SoftBank e il settore intelligenza artificiale restano interconnessi. Senza stabilità nei listini asiatici il clima globale rimane incerto. Segui per l'aggiornamento di domani.",
+   "ticker": null,
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "La caduta di SoftBank e l'instabilità dei chip in Asia frenano la fiducia del settore tech.",
+   "hashtags": [
+    "#SoftBank",
+    "#Asia",
+    "#Tech",
+    "#Borsa",
+    "#Finanza"
+   ]
+  },
+  {
+   "levels": [],
+   "history": null,
+   "title": "Gestione della liquidità: il vero segreto nei mercati ribassisti",
+   "hook": "FLUSSO DI CASSA",
+   "beats": [
+    {
+     "say": "Il controllo delle spese conta più della selezione dei titoli.",
+     "show": "FLUSSO DI CASSA",
+     "figure": ""
+    },
+    {
+     "say": "Gestire le entrate personali permette di affrontare i crolli con una mentalità offensiva.",
+     "show": "ENTRATE SPESE",
+     "figure": ""
+    },
+    {
+     "say": "I multipli di bilancio diventano secondari se manca la liquidità per acquistare nei cali.",
+     "show": "MULTIPLI E CASSA",
+     "figure": ""
+    },
+    {
+     "say": "L'assenza di entrate attive costringe a decisioni difensive durante le fasi ribassiste.",
+     "show": "ERRORE DIFENSIVO",
+     "figure": ""
+    },
+    {
+     "say": "Il margine tra entrate e uscite è la vera base di ogni strategia di investimento. Segui per l'aggiornamento di domani.",
+     "show": "SOLIDEZZA",
+     "figure": ""
+    }
+   ],
+   "origin": "Jeremy Lefebvre",
+   "source_video": "Biggest Move since 2000!",
+   "narration": "Il controllo delle spese conta più della selezione dei titoli. Gestire le entrate personali permette di affrontare i crolli con una mentalità offensiva. I multipli di bilancio diventano secondari se manca la liquidità per acquistare nei cali. L'assenza di entrate attive costringe a decisioni difensive durante le fasi ribassiste. Il margine tra entrate e uscite è la vera base di ogni strategia di investimento. Segui per l'aggiornamento di domani.",
+   "ticker": null,
+   "sentiment": "neutral",
+   "sources": [],
+   "caption": "Il controllo del flusso di cassa personale è il fattore determinante per sostenere le correzioni.",
+   "hashtags": [
+    "#FinanzaPersonale",
+    "#Investimenti",
+    "#Risparmio",
+    "#Borsa",
+    "#Strategia"
+   ]
+  },
+  {
+   "levels": [],
+   "history": null,
+   "title": "Acquisti strategici: SoFi, Netflix e American Express nei ribassi",
+   "hook": "ACQUISTI AZIONI",
+   "beats": [
+    {
+     "say": "Acquisizioni strategiche su American Express, SoFi e Netflix.",
+     "show": "ACQUISTI AZIONI",
+     "figure": ""
+    },
+    {
+     "say": "Le recenti correzioni hanno creato punti d'ingresso su aziende con fondamentali solidi.",
+     "show": "PUNTI INGRESSO",
+     "figure": ""
+    },
+    {
+     "say": "SoFi si posiziona per una crescita pluriennale nel settore dei servizi finanziari.",
+     "show": "CRESCITA SOFI",
+     "figure": ""
+    },
+    {
+     "say": "Netflix offre opportunità interessanti sfruttando la pressione del tax-loss harvesting.",
+     "show": "NETFLIX TAX",
+     "figure": ""
+    },
+    {
+     "say": "Concentrarsi sul valore decennale permette di superare la volatilità di breve termine. Segui per l'aggiornamento di domani.",
+     "show": "VALORE LUNGO",
+     "figure": ""
+    }
+   ],
+   "origin": "Jeremy Lefebvre",
+   "source_video": "Biggest Move since 2000!",
+   "narration": "Acquisizioni strategiche su American Express, SoFi e Netflix. Le recenti correzioni hanno creato punti d'ingresso su aziende con fondamentali solidi. SoFi si posiziona per una crescita pluriennale nel settore dei servizi finanziari. Netflix offre opportunità interessanti sfruttando la pressione del tax-loss harvesting. Concentrarsi sul valore decennale permette di superare la volatilità di breve termine. Segui per l'aggiornamento di domani.",
+   "ticker": "SOFI",
+   "sentiment": "bullish",
+   "sources": [],
+   "caption": "Gli acquisti mirati in fasi di debolezza offrono prospettive di rendimento pluriennale.",
+   "hashtags": [
+    "#SoFi",
+    "#Netflix",
+    "#AmericanExpress",
+    "#Borsa",
+    "#Investimenti"
+   ]
+  }
+ ],
+ "en": [
+  {
+   "levels": [],
+   "history": {
+    "symbol": "^GSPC",
+    "start": "1989-01",
+    "end": "2023-11"
+   },
+   "title": "S&P 500 from 281 to over 7,000: lessons from market history",
+   "hook": "S&P 500 RECORD",
+   "beats": [
+    {
+     "say": "S&P 500 jumped from 281 points to over 7,000.",
+     "show": "S&P 500 RECORD",
+     "figure": "7,000"
+    },
+    {
+     "say": "Since 1989 the market has absorbed every major financial crisis.",
+     "show": "MARKET HISTORY",
+     "figure": "1989"
+    },
+    {
+     "say": "In 2021 the index peaked at 4,766 before falling to 3,583 in October 2022.",
+     "show": "2022 DROP",
+     "figure": "-25%"
+    },
+    {
+     "say": "That was a 25% drop over 9 months that rewarded disciplined buyers.",
+     "show": "9 MONTHS CRASH",
+     "figure": "9"
+    },
+    {
+     "say": "Historically every S&P 500 crash has created multi-year upside. Follow for tomorrow's update.",
+     "show": "LONG TERM",
+     "figure": ""
+    }
+   ],
+   "origin": "Jeremy Lefebvre",
+   "source_video": "Biggest Move since 2000!",
+   "narration": "S&P 500 jumped from 281 points to over 7,000. Since 1989 the market has absorbed every major financial crisis. In 2021 the index peaked at 4,766 before falling to 3,583 in October 2022. That was a 25% drop over 9 months that rewarded disciplined buyers. Historically every S&P 500 crash has created multi-year upside. Follow for tomorrow's update.",
+   "ticker": "^GSPC",
+   "sentiment": "bullish",
+   "sources": [],
+   "caption": "Historical data shows that every major S&P 500 correction eventually led to higher market highs.",
+   "hashtags": [
+    "#SP500",
+    "#StockMarket",
+    "#Investing",
+    "#Finance",
+    "#Stocks"
+   ]
+  },
+  {
+   "levels": [],
+   "history": {
+    "symbol": "^IXIC",
+    "start": "2013-12",
+    "end": "2023-12"
+   },
+   "title": "Nasdaq December trends: historical gains vs 36% drawdowns",
+   "hook": "Nasdaq DECEMBER",
+   "beats": [
+    {
+     "say": "Nasdaq closed positive in 7 of the last 10 Decembers.",
+     "show": "Nasdaq DECEMBER",
+     "figure": "7/10"
+    },
+    {
+     "say": "December is usually strong but current market conditions point to high volatility.",
+     "show": "SEASONALITY",
+     "figure": ""
+    },
+    {
+     "say": "In the 2021 cycle the Nasdaq fell from 16,057 down to 10,321.",
+     "show": "PEAK 16,057",
+     "figure": "16,057"
+    },
+    {
+     "say": "A 36% decline over 11 months shows how severe seasonal pressure can get.",
+     "show": "36% DROP",
+     "figure": "-36%"
+    },
+    {
+     "say": "Tax-loss harvesting in December can easily disrupt historical patterns. Follow for tomorrow's update.",
+     "show": "TAX SELLING",
+     "figure": ""
+    }
+   ],
+   "origin": "Jeremy Lefebvre",
+   "source_video": "Biggest Move since 2000!",
+   "narration": "Nasdaq closed positive in 7 of the last 10 Decembers. December is usually strong but current market conditions point to high volatility. In the 2021 cycle the Nasdaq fell from 16,057 down to 10,321. A 36% decline over 11 months shows how severe seasonal pressure can get. Tax-loss harvesting in December can easily disrupt historical patterns. Follow for tomorrow's update.",
+   "ticker": "^IXIC",
+   "sentiment": "neutral",
+   "sources": [],
+   "caption": "Seasonal patterns in December often clash with tax-loss selling pressure on the Nasdaq.",
+   "hashtags": [
+    "#Nasdaq",
+    "#StockMarket",
+    "#December",
+    "#Investing",
+    "#Markets"
+   ]
+  },
+  {
+   "levels": [],
+   "history": null,
+   "title": "Nasdaq dodges historic 4% drop before Thanksgiving",
+   "hook": "CRASH AVERTED",
+   "beats": [
+    {
+     "say": "Nasdaq avoids a historic pre-Thanksgiving breakdown.",
+     "show": "CRASH AVERTED",
+     "figure": "-0.6%"
+    },
+    {
+     "say": "The index was heading towards its worst pre-holiday decline on record.",
+     "show": "HISTORIC RISK",
+     "figure": ""
+    },
+    {
+     "say": "Back in 2000 the Nasdaq plummeted 4% on that exact same day.",
+     "show": "YEAR 2000",
+     "figure": "-4%"
+    },
+    {
+     "say": "A late-day rally capped the daily loss at just 0.6%.",
+     "show": "LATE RALLY",
+     "figure": "0.6%"
+    },
+    {
+     "say": "A major breakdown was averted but technical risk remains elevated. Follow for tomorrow's update.",
+     "show": "RED CLOSE",
+     "figure": ""
+    }
+   ],
+   "origin": "Jeremy Lefebvre",
+   "source_video": "Biggest Move since 2000!",
+   "narration": "Nasdaq avoids a historic pre-Thanksgiving breakdown. The index was heading towards its worst pre-holiday decline on record. Back in 2000 the Nasdaq plummeted 4% on that exact same day. A late-day rally capped the daily loss at just 0.6%. A major breakdown was averted but technical risk remains elevated. Follow for tomorrow's update.",
+   "ticker": "^IXIC",
+   "sentiment": "neutral",
+   "sources": [],
+   "caption": "A late-session rebound kept the Nasdaq from experiencing its worst pre-Thanksgiving crash in history.",
+   "hashtags": [
+    "#Nasdaq",
+    "#WallStreet",
+    "#StockMarket",
+    "#Finance",
+    "#Trading"
+   ]
+  },
+  {
+   "levels": [],
+   "history": null,
+   "title": "Tech selloff deepens: Oracle down 57% and Nvidia off 33%",
+   "hook": "TECH TUMBLE",
+   "beats": [
+    {
+     "say": "Major tech stocks tumble up to 57% since June.",
+     "show": "TECH TUMBLE",
+     "figure": "-57%"
+    },
+    {
+     "say": "Semiconductor and artificial intelligence leaders face heavy selling pressure.",
+     "show": "CHIP SECTOR",
+     "figure": ""
+    },
+    {
+     "say": "Nvidia dropped 33% while AMD fell 22% from recent highs.",
+     "show": "Nvidia AMD",
+     "figure": "-33%"
+    },
+    {
+     "say": "Micron lost 44% and Oracle crashed by 57% over the same stretch.",
+     "show": "ORACLE MICRON",
+     "figure": "-44%"
+    },
+    {
+     "say": "Overcrowded positioning earlier this year is now unwinding rapidly. Follow for tomorrow's update.",
+     "show": "POSITIONING",
+     "figure": ""
+    }
+   ],
+   "origin": "Jeremy Lefebvre",
+   "source_video": "Biggest Move since 2000!",
+   "narration": "Major tech stocks tumble up to 57% since June. Semiconductor and artificial intelligence leaders face heavy selling pressure. Nvidia dropped 33% while AMD fell 22% from recent highs. Micron lost 44% and Oracle crashed by 57% over the same stretch. Overcrowded positioning earlier this year is now unwinding rapidly. Follow for tomorrow's update.",
+   "ticker": "NVDA",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Popular semiconductor and AI stocks are undergoing a sharp unwind after months of crowded trades.",
+   "hashtags": [
+    "#Nvidia",
+    "#AMD",
+    "#Oracle",
+    "#TechStocks",
+    "#Investing"
+   ]
+  },
+  {
+   "levels": [],
+   "history": null,
+   "title": "December tax-loss selling threatens underperforming stocks",
+   "hook": "DECEMBER SELLING",
+   "beats": [
+    {
+     "say": "December tax-loss selling threatens struggling stocks.",
+     "show": "DECEMBER SELLING",
+     "figure": ""
+    },
+    {
+     "say": "Investors are liquidating losing positions to offset capital gains before year-end.",
+     "show": "TAX HARVESTING",
+     "figure": ""
+    },
+    {
+     "say": "This seasonal practice forces further selling on stocks already down.",
+     "show": "EXTRA PRESSURE",
+     "figure": ""
+    },
+    {
+     "say": "Selling pressure can trigger sharp drawdowns regardless of corporate news.",
+     "show": "SHARP DROPS",
+     "figure": ""
+    },
+    {
+     "say": "Holding cash during tax selling creates opportunities to buy quality dips. Follow for tomorrow's update.",
+     "show": "CASH STRATEGY",
+     "figure": ""
+    }
+   ],
+   "origin": "Jeremy Lefebvre",
+   "source_video": "Biggest Move since 2000!",
+   "narration": "December tax-loss selling threatens struggling stocks. Investors are liquidating losing positions to offset capital gains before year-end. This seasonal practice forces further selling on stocks already down. Selling pressure can trigger sharp drawdowns regardless of corporate news. Holding cash during tax selling creates opportunities to buy quality dips. Follow for tomorrow's update.",
+   "ticker": null,
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Year-end tax-loss harvesting accelerates downside pressure on underperforming market sectors.",
+   "hashtags": [
+    "#TaxLoss",
+    "#StockMarket",
+    "#December",
+    "#Investing",
+    "#Finance"
+   ]
+  },
+  {
+   "levels": [],
+   "history": null,
+   "title": "SoftBank falls 14% as Asian tech stability faces pressure",
+   "hook": "SOFTBANK SLUMP",
+   "beats": [
+    {
+     "say": "SoftBank shares fall 14% following Anthropic listing.",
+     "show": "SOFTBANK SLUMP",
+     "figure": "-14%"
+    },
+    {
+     "say": "Asian market volatility is spilling over into global tech sentiment.",
+     "show": "ASIA SPILLOVER",
+     "figure": ""
+    },
+    {
+     "say": "Key semiconductor suppliers Samsung and SK Hynix face renewed selling pressure.",
+     "show": "CHIP MAKERS",
+     "figure": "-14%"
+    },
+    {
+     "say": "Weakness in major holding companies affects capital flows into artificial intelligence.",
+     "show": "AI SENTIMENT",
+     "figure": ""
+    },
+    {
+     "say": "Global markets need stability in Asian tech leaders before recovering. Follow for tomorrow's update.",
+     "show": "GLOBAL TECH",
+     "figure": ""
+    }
+   ],
+   "origin": "Jeremy Lefebvre",
+   "source_video": "Biggest Move since 2000!",
+   "narration": "SoftBank shares fall 14% following Anthropic listing. Asian market volatility is spilling over into global tech sentiment. Key semiconductor suppliers Samsung and SK Hynix face renewed selling pressure. Weakness in major holding companies affects capital flows into artificial intelligence. Global markets need stability in Asian tech leaders before recovering. Follow for tomorrow's update.",
+   "ticker": null,
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Volatility in Asian tech giants like SoftBank and Samsung adds uncertainty to global risk sentiment.",
+   "hashtags": [
+    "#SoftBank",
+    "#AsiaMarkets",
+    "#Tech",
+    "#Stocks",
+    "#Investing"
+   ]
+  },
+  {
+   "levels": [],
+   "history": null,
+   "title": "Personal cash flow: the real key during market pullbacks",
+   "hook": "CASH FLOW FIRST",
+   "beats": [
+    {
+     "say": "Controlling personal cash flow matters more than stock picking.",
+     "show": "CASH FLOW FIRST",
+     "figure": ""
+    },
+    {
+     "say": "Higher personal income than expenses allows investors to stay aggressive in drawdowns.",
+     "show": "INCOME VS SPEND",
+     "figure": ""
+    },
+    {
+     "say": "Valuation metrics fail if an investor lacks fresh cash to buy market dips.",
+     "show": "VALUATION LIMIT",
+     "figure": ""
+    },
+    {
+     "say": "Lacking active cash flow forces defensive selling at the worst possible time.",
+     "show": "DEFENSIVE TRAP",
+     "figure": ""
+    },
+    {
+     "say": "Maintaining positive cash flow provides the foundation for surviving bear markets. Follow for tomorrow's update.",
+     "show": "STAY OFFENSIVE",
+     "figure": ""
+    }
+   ],
+   "origin": "Jeremy Lefebvre",
+   "source_video": "Biggest Move since 2000!",
+   "narration": "Controlling personal cash flow matters more than stock picking. Higher personal income than expenses allows investors to stay aggressive in drawdowns. Valuation metrics fail if an investor lacks fresh cash to buy market dips. Lacking active cash flow forces defensive selling at the worst possible time. Maintaining positive cash flow provides the foundation for surviving bear markets. Follow for tomorrow's update.",
+   "ticker": null,
+   "sentiment": "neutral",
+   "sources": [],
+   "caption": "Personal cash flow management dictates investment performance more than complex stock analysis.",
+   "hashtags": [
+    "#PersonalFinance",
+    "#Investing",
+    "#CashFlow",
+    "#StockMarket",
+    "#Wealth"
+   ]
+  },
+  {
+   "levels": [],
+   "history": null,
+   "title": "Strategic purchases: SoFi, Netflix and American Express setups",
+   "hook": "NEW PORTFOLIO BUYS",
+   "beats": [
+    {
+     "say": "Strategic buys executed in American Express, SoFi and Netflix.",
+     "show": "NEW PORTFOLIO BUYS",
+     "figure": ""
+    },
+    {
+     "say": "Recent market weakness created lower entry points for high growth companies.",
+     "show": "ENTRY POINTS",
+     "figure": ""
+    },
+    {
+     "say": "SoFi shows potential for multi-year expansion in financial services.",
+     "show": "SOFI OUTLOOK",
+     "figure": ""
+    },
+    {
+     "say": "Netflix presents compelling upside as seasonal tax selling depresses short-term prices.",
+     "show": "NETFLIX SETUP",
+     "figure": ""
+    },
+    {
+     "say": "Focusing on ten-year growth outcomes outweighs short-term portfolio fluctuations. Follow for tomorrow's update.",
+     "show": "TEN YEAR PLAN",
+     "figure": ""
+    }
+   ],
+   "origin": "Jeremy Lefebvre",
+   "source_video": "Biggest Move since 2000!",
+   "narration": "Strategic buys executed in American Express, SoFi and Netflix. Recent market weakness created lower entry points for high growth companies. SoFi shows potential for multi-year expansion in financial services. Netflix presents compelling upside as seasonal tax selling depresses short-term prices. Focusing on ten-year growth outcomes outweighs short-term portfolio fluctuations. Follow for tomorrow's update.",
+   "ticker": "SOFI",
+   "sentiment": "bullish",
+   "sources": [],
+   "caption": "Exploiting short-term selling pressure allows long-term investors to build high-conviction holdings.",
+   "hashtags": [
+    "#SoFi",
+    "#Netflix",
+    "#AmericanExpress",
+    "#Stocks",
+    "#Investing"
+   ]
+  }
+ ],
+ "carousels": {
+  "it": {
+   "topic": "Analisi Nasdaq e strategie di dicembre",
+   "caption": "Dalla volatilità pre-festiva alle vendite fiscali di fine anno: ecco i fattori chiave per orientarsi nei mercati. Segui per l'aggiornamento di domani.",
+   "sentiment": "neutral",
+   "ticker": "^IXIC",
+   "slides": [
+    {
+     "title": "Nasdaq evita il crollo del 4%",
+     "body": "Il recupero prima del Ringraziamento ha evitato il peggior calo storico alla vigilia delle festività."
+    },
+    {
+     "title": "La storia dell'S&P 500",
+     "body": "Nel 2022 l'indice è sceso del 25% in 9 mesi prima di risalire da 3.583 a oltre 7.000 punti."
+    },
+    {
+     "title": "Semiconduttori sotto pressione",
+     "body": "Da giugno Oracle perde il 57% e Nvidia il 33% a causa del ridimensionamento dei posizionamenti."
+    },
+    {
+     "title": "Pressing del tax-loss harvesting",
+     "body": "A dicembre le vendite fiscali per minusvalenze spingono ulteriormente al ribasso i titoli già deboli."
+    },
+    {
+     "title": "La regola del flusso di cassa",
+     "body": "Mantenere le entrate superiori alle spese conta più dei multipli di bilancio per comprare sui ribassi."
+    },
+    {
+     "title": "Focus sul valore decennale",
+     "body": "La volatilità di breve periodo va sfruttata per accumulare aziende leader con prospettive pluriennali. Segui per l'aggiornamento di domani."
+    }
+   ],
+   "hashtags": [
+    "#Borsa",
+    "#Nasdaq",
+    "#Investimenti",
+    "#Finanza",
+    "#SP500",
+    "#MercatiFinanziari",
+    "#Economia",
+    "#Trading"
+   ]
+  },
+  "en": {
+   "topic": "Nasdaq analysis and December market strategy",
+   "caption": "From pre-holiday volatility to year-end tax selling: key market drivers and structural opportunities explained. Follow for tomorrow's update.",
+   "sentiment": "neutral",
+   "ticker": "^IXIC",
+   "slides": [
+    {
+     "title": "Nasdaq avoids 4% crash",
+     "body": "A late-day rally before Thanksgiving prevented the worst pre-holiday breakdown in history."
+    },
+    {
+     "title": "S&P 500 market history",
+     "body": "In 2022 the index dropped 25% over 9 months before rebounding from 3,583 to over 7,000."
+    },
+    {
+     "title": "Semiconductor selloff",
+     "body": "Since June Oracle crashed 57% and Nvidia lost 33% as crowded trades unwound."
+    },
+    {
+     "title": "December tax loss pressure",
+     "body": "Year-end tax-loss harvesting creates strong selling pressure on underperforming stocks."
+    },
+    {
+     "title": "Cash flow rules",
+     "body": "Keeping personal income above expenses matters more than financial ratios when buying dips."
+    },
+    {
+     "title": "Focus on ten-year growth",
+     "body": "Short-term portfolio drawdowns create clear buying opportunities in quality companies. Follow for tomorrow's update."
+    }
+   ],
+   "hashtags": [
+    "#StockMarket",
+    "#Nasdaq",
+    "#Investing",
+    "#Finance",
+    "#SP500",
+    "#Markets",
+    "#Trading",
+    "#Wealth"
+   ]
+  }
+ }
+}

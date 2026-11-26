@@ -1,0 +1,374 @@
+{
+ "it": [
+  {
+   "levels": [
+    7125.0,
+    7300.0
+   ],
+   "history": null,
+   "title": "S&P 500: il supporto critico",
+   "hook": "Supporto 7.125 punti",
+   "beats": [
+    {
+     "say": "7.125 punti è il livello chiave dell'indice S&P 500.",
+     "show": "Supporto 7.125 punti",
+     "figure": "7.125"
+    },
+    {
+     "say": "Il mercato oscilla sopra il suo punto medio di marzo.",
+     "show": "Mercato in bilico",
+     "figure": ""
+    },
+    {
+     "say": "Il rimbalzo attuale non conferma ancora un cambio di tendenza.",
+     "show": "Nessuna conferma",
+     "figure": ""
+    },
+    {
+     "say": "Solo sopra 7.300 punti si potrà ipotizzare una vera accumulazione.",
+     "show": "Target 7.300 punti",
+     "figure": "7.300"
+    },
+    {
+     "say": "Monitoriamo la tenuta del supporto. Segui per l'aggiornamento di domani.",
+     "show": "Segui il trend",
+     "figure": ""
+    }
+   ],
+   "origin": "Michael Pizzino",
+   "source_video": "The Market Is Struggling... But Something Is Quietly Developing",
+   "narration": "7.125 punti è il livello chiave dell'indice S&P 500. Il mercato oscilla sopra il suo punto medio di marzo. Il rimbalzo attuale non conferma ancora un cambio di tendenza. Solo sopra 7.300 punti si potrà ipotizzare una vera accumulazione. Monitoriamo la tenuta del supporto. Segui per l'aggiornamento di domani.",
+   "ticker": "^GSPC",
+   "sentiment": "neutral",
+   "sources": [],
+   "caption": "L'S&P 500 resta sopra il supporto a 7.125 punti. La conferma del trend arriverà solo sopra quota 7.300.",
+   "hashtags": [
+    "#SP500",
+    "#Mercati",
+    "#Trading"
+   ]
+  },
+  {
+   "levels": [
+    51500.0,
+    28000.0
+   ],
+   "history": null,
+   "title": "Dow Jones e Nasdaq a confronto",
+   "hook": "Dow Jones 51.500",
+   "beats": [
+    {
+     "say": "51.500 punti è la resistenza del Dow Jones.",
+     "show": "Dow Jones 51.500",
+     "figure": "51.500"
+    },
+    {
+     "say": "L'indice sta testando i massimi di febbraio con forza.",
+     "show": "Forza relativa",
+     "figure": ""
+    },
+    {
+     "say": "Il Nasdaq invece resta bloccato sotto i suoi massimi.",
+     "show": "Nasdaq in ritardo",
+     "figure": ""
+    },
+    {
+     "say": "Il settore tecnologico deve superare 28.000 per riprendersi.",
+     "show": "Nasdaq 28.000",
+     "figure": "28.000"
+    },
+    {
+     "say": "La divergenza tra indici richiede prudenza. Segui per l'aggiornamento di domani.",
+     "show": "Prudenza operativa",
+     "figure": ""
+    }
+   ],
+   "origin": "Michael Pizzino",
+   "source_video": "The Market Is Struggling... But Something Is Quietly Developing",
+   "narration": "51.500 punti è la resistenza del Dow Jones. L'indice sta testando i massimi di febbraio con forza. Il Nasdaq invece resta bloccato sotto i suoi massimi. Il settore tecnologico deve superare 28.000 per riprendersi. La divergenza tra indici richiede prudenza. Segui per l'aggiornamento di domani.",
+   "ticker": "DJI",
+   "sentiment": "neutral",
+   "sources": [],
+   "caption": "Il Dow Jones sfida i massimi di febbraio mentre il Nasdaq resta indietro. Divergenze evidenti tra i settori.",
+   "hashtags": [
+    "#DowJones",
+    "#Nasdaq",
+    "#Borsa"
+   ]
+  },
+  {
+   "levels": [
+    62000.0,
+    67000.0,
+    52000.0,
+    49000.0
+   ],
+   "history": null,
+   "title": "Bitcoin: la lotta per la tenuta",
+   "hook": "Resistenza 62.000",
+   "beats": [
+    {
+     "say": "62.000 dollari è la resistenza che Bitcoin non supera.",
+     "show": "Resistenza 62.000",
+     "figure": "62.000"
+    },
+    {
+     "say": "Il prezzo è bloccato in un trend ribassista da mesi.",
+     "show": "Trend ribassista",
+     "figure": ""
+    },
+    {
+     "say": "Senza un recupero di 67.000 dollari, il rischio aumenta.",
+     "show": "Sotto 67.000",
+     "figure": "67.000"
+    },
+    {
+     "say": "Possibili ribassi verso 52.000 o 49.000 dollari sono concreti.",
+     "show": "Target 52.000",
+     "figure": "52.000"
+    },
+    {
+     "say": "La pressione in vendita resta alta. Segui per l'aggiornamento di domani.",
+     "show": "Segui il mercato",
+     "figure": ""
+    }
+   ],
+   "origin": "Michael Pizzino",
+   "source_video": "The Market Is Struggling... But Something Is Quietly Developing",
+   "narration": "62.000 dollari è la resistenza che Bitcoin non supera. Il prezzo è bloccato in un trend ribassista da mesi. Senza un recupero di 67.000 dollari, il rischio aumenta. Possibili ribassi verso 52.000 o 49.000 dollari sono concreti. La pressione in vendita resta alta. Segui per l'aggiornamento di domani.",
+   "ticker": "BTC-USD",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Bitcoin resta sotto pressione. La mancanza di forza sopra 62.000 dollari apre la strada a nuovi ribassi.",
+   "hashtags": [
+    "#Bitcoin",
+    "#Crypto",
+    "#BTC"
+   ]
+  }
+ ],
+ "en": [
+  {
+   "levels": [
+    7125.0,
+    7300.0
+   ],
+   "history": null,
+   "title": "S&P 500: The Critical Support",
+   "hook": "Support 7,125 points",
+   "beats": [
+    {
+     "say": "7,125 points is the key level for the S&P 500.",
+     "show": "Support 7,125 points",
+     "figure": "7,125"
+    },
+    {
+     "say": "The index is holding above its March midpoint support.",
+     "show": "Market in balance",
+     "figure": ""
+    },
+    {
+     "say": "Current buying does not yet confirm a trend change.",
+     "show": "No confirmation yet",
+     "figure": ""
+    },
+    {
+     "say": "Only above 7,300 points can we expect true accumulation.",
+     "show": "Target 7,300 points",
+     "figure": "7,300"
+    },
+    {
+     "say": "Watch the support closely. Follow for tomorrow's update.",
+     "show": "Follow for updates",
+     "figure": ""
+    }
+   ],
+   "origin": "Michael Pizzino",
+   "source_video": "The Market Is Struggling... But Something Is Quietly Developing",
+   "narration": "7,125 points is the key level for the S&P 500. The index is holding above its March midpoint support. Current buying does not yet confirm a trend change. Only above 7,300 points can we expect true accumulation. Watch the support closely. Follow for tomorrow's update.",
+   "ticker": "^GSPC",
+   "sentiment": "neutral",
+   "sources": [],
+   "caption": "The S&P 500 holds above 7,125. A breakout above 7,300 is needed to confirm a new trend.",
+   "hashtags": [
+    "#SP500",
+    "#Markets",
+    "#Trading"
+   ]
+  },
+  {
+   "levels": [
+    51500.0,
+    28000.0
+   ],
+   "history": null,
+   "title": "Dow Jones vs Nasdaq Divergence",
+   "hook": "Dow Jones 51,500",
+   "beats": [
+    {
+     "say": "51,500 points is the Dow Jones resistance level.",
+     "show": "Dow Jones 51,500",
+     "figure": "51,500"
+    },
+    {
+     "say": "The index is testing February highs with relative strength.",
+     "show": "Relative strength",
+     "figure": ""
+    },
+    {
+     "say": "Meanwhile, the Nasdaq remains stuck below its own highs.",
+     "show": "Nasdaq lagging",
+     "figure": ""
+    },
+    {
+     "say": "Tech needs to clear 28,000 points to regain momentum.",
+     "show": "Nasdaq 28,000",
+     "figure": "28,000"
+    },
+    {
+     "say": "Divergence between indices requires caution. Follow for tomorrow's update.",
+     "show": "Watch the divergence",
+     "figure": ""
+    }
+   ],
+   "origin": "Michael Pizzino",
+   "source_video": "The Market Is Struggling... But Something Is Quietly Developing",
+   "narration": "51,500 points is the Dow Jones resistance level. The index is testing February highs with relative strength. Meanwhile, the Nasdaq remains stuck below its own highs. Tech needs to clear 28,000 points to regain momentum. Divergence between indices requires caution. Follow for tomorrow's update.",
+   "ticker": "DJI",
+   "sentiment": "neutral",
+   "sources": [],
+   "caption": "Dow Jones is testing February peaks while Nasdaq struggles. Sector divergence is clear.",
+   "hashtags": [
+    "#DowJones",
+    "#Nasdaq",
+    "#Markets"
+   ]
+  },
+  {
+   "levels": [
+    62000.0,
+    67000.0,
+    52000.0,
+    49000.0
+   ],
+   "history": null,
+   "title": "Bitcoin Under Selling Pressure",
+   "hook": "Resistance 62,000",
+   "beats": [
+    {
+     "say": "62,000 dollars is the resistance Bitcoin cannot clear.",
+     "show": "Resistance 62,000",
+     "figure": "62,000"
+    },
+    {
+     "say": "The price remains trapped in a long-term bear structure.",
+     "show": "Bearish trend",
+     "figure": ""
+    },
+    {
+     "say": "Without reclaiming 67,000 dollars, downside risk remains high.",
+     "show": "Below 67,000",
+     "figure": "67,000"
+    },
+    {
+     "say": "Targets of 52,000 or 49,000 dollars are now in play.",
+     "show": "Target 52,000",
+     "figure": "52,000"
+    },
+    {
+     "say": "Selling pressure is still in control. Follow for tomorrow's update.",
+     "show": "Follow for updates",
+     "figure": ""
+    }
+   ],
+   "origin": "Michael Pizzino",
+   "source_video": "The Market Is Struggling... But Something Is Quietly Developing",
+   "narration": "62,000 dollars is the resistance Bitcoin cannot clear. The price remains trapped in a long-term bear structure. Without reclaiming 67,000 dollars, downside risk remains high. Targets of 52,000 or 49,000 dollars are now in play. Selling pressure is still in control. Follow for tomorrow's update.",
+   "ticker": "BTC-USD",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Bitcoin is struggling to reclaim 62,000 dollars. Watch for potential downside to 52,000.",
+   "hashtags": [
+    "#Bitcoin",
+    "#Crypto",
+    "#BTC"
+   ]
+  }
+ ],
+ "carousels": {
+  "it": {
+   "topic": "Panoramica mercati e trend",
+   "caption": "Ecco i livelli chiave per orientarsi tra indici e Bitcoin. La prudenza resta la priorità in questa fase di incertezza. Segui per l'aggiornamento di domani.",
+   "sentiment": "neutral",
+   "ticker": null,
+   "slides": [
+    {
+     "title": "Mercati: cosa succede davvero",
+     "body": "Analizziamo i livelli critici di indici e Bitcoin dopo l'ultima volatilità."
+    },
+    {
+     "title": "S&P 500: il punto chiave",
+     "body": "L'indice tiene il supporto a 7.125 punti, ma serve il superamento di 7.300 per la conferma del trend."
+    },
+    {
+     "title": "Dow Jones vs Nasdaq",
+     "body": "Il Dow Jones sfida i massimi a 51.500 punti, mentre il Nasdaq resta debole sotto quota 28.000."
+    },
+    {
+     "title": "Bitcoin: la zona di rischio",
+     "body": "Bitcoin fatica sotto 62.000 dollari; il mancato recupero di 67.000 espone il prezzo a ribassi verso 52.000."
+    },
+    {
+     "title": "Oro e Dollaro",
+     "body": "L'oro resta in difficoltà sotto i livelli chiave, mentre il dollaro mostra debolezza a 103,5."
+    },
+    {
+     "title": "La sintesi operativa",
+     "body": "La mancanza di forza uniforme suggerisce cautela in attesa di conferme. Segui per l'aggiornamento di domani."
+    }
+   ],
+   "hashtags": [
+    "#Mercati",
+    "#Trading",
+    "#AnalisiTecnica"
+   ]
+  },
+  "en": {
+   "topic": "Market Trends and Levels",
+   "caption": "Here are the key levels for indices and Bitcoin. Caution remains the priority during this uncertainty. Follow for tomorrow's update.",
+   "sentiment": "neutral",
+   "ticker": null,
+   "slides": [
+    {
+     "title": "Market Trends: What Now",
+     "body": "We break down the critical levels for major indices and Bitcoin after recent volatility."
+    },
+    {
+     "title": "S&P 500 Support",
+     "body": "The index is holding 7,125 points support, but needs to break 7,300 for a clear trend confirmation."
+    },
+    {
+     "title": "Dow Jones vs Nasdaq",
+     "body": "The Dow is testing 51,500 points, while the Nasdaq lags behind below 28,000 points."
+    },
+    {
+     "title": "Bitcoin Risk Zone",
+     "body": "Bitcoin struggles below 62,000 dollars; failure to reclaim 67,000 risks a drop toward 52,000."
+    },
+    {
+     "title": "Gold and Dollar",
+     "body": "Gold remains weak below key levels, while the dollar shows short-term softness at 103.5."
+    },
+    {
+     "title": "Key Takeaway",
+     "body": "Lack of sector confluence suggests caution until trends are confirmed. Follow for tomorrow's update."
+    }
+   ],
+   "hashtags": [
+    "#Markets",
+    "#Trading",
+    "#Analysis"
+   ]
+  }
+ }
+}
