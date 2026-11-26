@@ -1,0 +1,191 @@
+{
+ "market_relevance": 10,
+ "scope": "global",
+ "kind": "market update",
+ "summary": "The analyst reviews major indices, commodities, and Bitcoin following a recent sharp sell-off and subsequent partial recovery. He highlights that while some short-term optimism and oversold bounces have occurred, most markets remain below key midpoints and old highs. The S&P 500 holds above support around 7125, but other indices like the Nasdaq and Russell are weaker. Bitcoin remains constrained in a bearish range under 62,000 dollars, with potential downside toward 52,000 to 49,000 dollars if buyers do not step in. Ultimately, the video concludes with a sign-off directing viewers to description links for further perspective.",
+ "digest_it": "L'autore analizza i mercati azionari, le materie prime e Bitcoin dopo il recente ribasso e il successivo rimbalzo. Sottolinea che, nonostante qualche segnale di ottimismo a breve termine, la maggior parte degli indici si trova sotto i livelli chiave e richiede conferme di trend prima di invertire la rotta. Il video si conclude con i saluti finali e l'invito a controllare i link in descrizione.",
+ "author_tone": "cautious",
+ "tone_evidence": "He repeatedly emphasizes waiting for clear trend confirmation and re-accumulation above key levels rather than chasing short-term bounces.",
+ "key_points": [
+  {
+   "point": "S&P 500 is holding above its midpoint support level around 7125 and its January all-time high.",
+   "timestamp": "01:36"
+  },
+  {
+   "point": "Dow Jones is testing its February peak area around 51,500 points after turning its short-term trend up.",
+   "timestamp": "03:13"
+  },
+  {
+   "point": "Nasdaq needs to break back above midpoint and trendline resistance around 28,000 points.",
+   "timestamp": "03:44"
+  },
+  {
+   "point": "Gold remains in a downtrend below the 50 percent level, eyeing potential support near 3900 dollars.",
+   "timestamp": "05:57"
+  },
+  {
+   "point": "Bitcoin is trading below resistance around 62,000 dollars, with downside targets at 52,000 to 49,000 dollars.",
+   "timestamp": "08:52"
+  },
+  {
+   "point": "The presenter wraps up the market update and directs viewers to the description for more information.",
+   "timestamp": "12:00"
+  }
+ ],
+ "moments": [
+  {
+   "timestamp": "01:13",
+   "topic": "S&P 500 technical structure and support",
+   "claim": "The S&P 500 has bounced from recent sell-offs and is holding above its midpoint support level.",
+   "details": "The index sits above the 7125 midpoint from the March to October run-up and above its previous January all-time high. While short-term short covering and buying are visible, the market has not yet established higher highs and higher lows to confirm a major trend change.",
+   "surprise": "The S&P 500 is maintaining support at the 7125 midpoint despite broad market weakness.",
+   "kind": "setup",
+   "ticker": "^GSPC",
+   "scenario": "If the S&P 500 consolidates above 7300 points with higher highs and higher lows, it signals accumulation, whereas failing to hold midpoint support risks further contraction.",
+   "conclusion": "Awaiting clear confirmation of trend change above key resistance before calling for sustainable upward continuation.",
+   "levels": [
+    {
+     "value": 7125.0,
+     "label": "support"
+    },
+    {
+     "value": 7300.0,
+     "label": "target"
+    }
+   ]
+  },
+  {
+   "timestamp": "02:36",
+   "topic": "Dow Jones and Nasdaq index comparison",
+   "claim": "The Dow Jones shows relative strength by testing its February peak, while the Nasdaq lags below old highs.",
+   "details": "The Dow Jones has recorded consecutive up days from its low and is retesting the 51,500 points February peak. In contrast, the Nasdaq and Russell remain below their midpoints and old highs, showing a lack of uniform strength across US sectors.",
+   "surprise": "The Dow Jones has turned its trend up and is retesting its February peak ahead of other indices.",
+   "kind": "setup",
+   "ticker": "DJI",
+   "scenario": "If the Dow holds above 51,500 points, it could suggest a market low, while the Nasdaq needs to clear 28,000 points to regain strength.",
+   "conclusion": "Lack of confluence across sectors suggests caution for the broader tech-heavy market.",
+   "levels": [
+    {
+     "value": 51500.0,
+     "label": "resistance"
+    },
+    {
+     "value": 28000.0,
+     "label": "resistance"
+    }
+   ]
+  },
+  {
+   "timestamp": "05:18",
+   "topic": "Gold futures and trend analysis",
+   "claim": "Gold has seen a minor bounce but remains in a weak downtrend below 50 percent levels.",
+   "details": "Gold is failing to break its primary downtrend despite a recent session reversal. The analyst highlights 3900 dollars per ounce as the next important level to watch if the downtrend continues toward the psychological 3000 dollars level.",
+   "surprise": "Gold remains weak below key 50 percent levels despite recent short-term bounce attempts.",
+   "kind": "setup",
+   "ticker": "GC=F",
+   "scenario": "If gold holds above 3900 dollars and forms higher lows, it could retest older resistance; otherwise, it risks sliding toward 3000 dollars.",
+   "conclusion": "Awaiting consolidation in strong ground before expecting a sustained recovery toward 3900 dollars.",
+   "levels": [
+    {
+     "value": 3900.0,
+     "label": "support"
+    },
+    {
+     "value": 3000.0,
+     "label": "target"
+    }
+   ]
+  },
+  {
+   "timestamp": "06:44",
+   "topic": "US Dollar and Crude Oil correlation",
+   "claim": "The US dollar shows minor short-term weakness, while crude oil attempts to rally from recent lows.",
+   "details": "The US dollar experienced two red days below 103.5, though no major trend change has occurred yet. Crude oil is rallying away from its 24 November low, but needs to sustain closes above 88 to 93 dollars to challenge overhead resistance at 100 dollars.",
+   "surprise": "Crude oil is rallying from recent lows without immediate confirmation from a weakening dollar.",
+   "kind": "setup",
+   "ticker": "CL=F",
+   "scenario": "If the dollar breaks below 103.5 and crude oil clears 93 dollars, it could provide a favorable environment for risk assets.",
+   "conclusion": "Both markets are at critical inflection points requiring trend confirmation.",
+   "levels": [
+    {
+     "value": 103.5,
+     "label": "resistance"
+    },
+    {
+     "value": 93.0,
+     "label": "support"
+    },
+    {
+     "value": 100.0,
+     "label": "resistance"
+    }
+   ]
+  },
+  {
+   "timestamp": "08:38",
+   "topic": "Bitcoin price action and support zones",
+   "claim": "Bitcoin remains in a weak bear market structure below the 62,000 dollars resistance zone.",
+   "details": "Bitcoin has failed to reclaim the 62,000 dollars breakdown zone, which previously served as support in July and August. Bears remain in control of the 400-day-old bear market, with downside targets pointing toward 52,000 to 49,000 dollars if buying pressure does not emerge.",
+   "surprise": "Bitcoin has been unable to reclaim the 62,000 dollars resistance level after its recent dump.",
+   "kind": "setup",
+   "ticker": "BTC-USD",
+   "scenario": "If Bitcoin consolidates above 67,000 dollars, it would signal re-accumulation; otherwise, it risks sliding toward the 52,000 to 49,000 dollars range.",
+   "conclusion": "High risk of failure exists below 67,000 dollars until higher timeframe confirmation is achieved.",
+   "levels": [
+    {
+     "value": 62000.0,
+     "label": "resistance"
+    },
+    {
+     "value": 52000.0,
+     "label": "target"
+    },
+    {
+     "value": 49000.0,
+     "label": "target"
+    },
+    {
+     "value": 67000.0,
+     "label": "resistance"
+    }
+   ]
+  },
+  {
+   "timestamp": "12:00",
+   "topic": "Video conclusion and sign-off",
+   "claim": "The presenter concludes the update and wishes the audience well.",
+   "details": "The speaker encourages viewers to check the links in the description for his current market views and wishes everyone health, wealth, and happiness until the next update.",
+   "surprise": "None",
+   "kind": "opinion",
+   "conclusion": "End of video."
+  }
+ ],
+ "tickers": [
+  "^GSPC",
+  "DJI",
+  "GC=F",
+  "CL=F",
+  "BTC-USD"
+ ],
+ "predictions": [
+  "S&P 500 may consolidate above 7125 support before any major low confirmation",
+  "Bitcoin could test 52,000 to 49,000 dollars if it fails to reclaim 62,000 dollars",
+  "Gold could slide toward 3000 dollars if support at 3900 dollars fails"
+ ],
+ "catalysts": [
+  "Thanksgiving holiday market closure and volume drop"
+ ],
+ "rumors": [],
+ "curiosities": [],
+ "promo": true,
+ "language": "en",
+ "video_id": "si6gJiOA0qg",
+ "title": "The Market Is Struggling... But Something Is Quietly Developing",
+ "author": "Michael Pizzino",
+ "url": "https://www.youtube.com/watch?v=si6gJiOA0qg",
+ "published": "2026-11-26T02:12:13+00:00",
+ "duration_min": 12,
+ "partial": false,
+ "analysed_at": "2026-11-26T04:38:28.222598+00:00",
+ "model": "gemini-3.5-flash-lite"
+}

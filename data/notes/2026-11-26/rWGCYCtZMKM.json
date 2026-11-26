@@ -1,0 +1,246 @@
+{
+ "market_relevance": 9,
+ "scope": "global",
+ "kind": "market update",
+ "summary": "L'autore analizza l'andamento del mercato, focalizzandosi sull'inversione di tendenza del Nasdaq prima del Ringraziamento e sulle prospettive per un mese di dicembre volatile a causa del tax-loss harvesting. Esamina la performance di vari titoli tecnologici e legati all'intelligenza artificiale, sottolineando l'importanza di concentrarsi sui fondamentali a lungo termine piuttosto che sulle fluttuazioni a breve termine. Condivide inoltre le proprie strategie di gestione finanziaria e rivela recenti acquisti azionari in aziende come SoFi, Netflix e American Express. Infine, incoraggia gli investitori a mantenere una mentalità offensiva basata sul controllo del flusso di cassa e sulla crescita pluriennale.",
+ "author_tone": "cautious",
+ "tone_evidence": "The author emphasizes the importance of looking past short-term volatility and focusing on long-term fundamentals while preparing for a shaky, messy December.",
+ "key_points": [
+  {
+   "point": "The Nasdaq experienced a significant reversal before Thanksgiving, finishing down 0.6% instead of a potential 4% drop.",
+   "timestamp": "00:10"
+  },
+  {
+   "point": "Investors should evaluate if a stock's decline is due to market perception or deteriorating company fundamentals.",
+   "timestamp": "08:31"
+  },
+  {
+   "point": "The S&P 500 has grown from the 300s at his birth in 1989 to over 7,000 today without a single structural correction where holding and buying proved wrong.",
+   "timestamp": "12:13"
+  },
+  {
+   "point": "Managing income versus expenses is the number one key to becoming a successful investor.",
+   "timestamp": "17:10"
+  },
+  {
+   "point": "Several major tech and AI stocks have seen significant declines since June 1st.",
+   "timestamp": "24:32"
+  },
+  {
+   "point": "Tax-loss harvesting is expected to create selling pressure throughout December.",
+   "timestamp": "25:06"
+  },
+  {
+   "point": "The author purchased American Express, SoFi, and Netflix for his portfolios.",
+   "timestamp": "34:45"
+  }
+ ],
+ "moments": [
+  {
+   "timestamp": "00:10",
+   "topic": "Nasdaq pre-Thanksgiving market reversal",
+   "claim": "The Nasdaq experienced a notable reversal, avoiding a potential historic decline.",
+   "details": "The Nasdaq was on track for its worst pre-Thanksgiving performance but managed to limit the decline to 0.6%. Several stocks, including Meta, showed significant gains despite earlier market fears.",
+   "surprise": "The Nasdaq avoided a potential 4% drop, which would have been the worst in its history.",
+   "kind": "news",
+   "ticker": "^IXIC",
+   "conclusion": "The market avoided a disaster, though it still closed in the red.",
+   "history": {
+    "symbol": "^IXIC",
+    "start": "2000-11",
+    "end": "2000-11",
+    "story": "In 2000, the Nasdaq dropped 4.04% on the day before Thanksgiving.",
+    "parallel": "Today's market was on pace to exceed this historic decline before a late-day reversal."
+   }
+  },
+  {
+   "timestamp": "07:00",
+   "topic": "The cost of doing business in markets",
+   "claim": "Market volatility is an inherent cost of maintaining a long-term investment portfolio.",
+   "details": "The author uses his public account history since 2018 to illustrate that significant drawdowns are a normal part of the investment process. He notes that the Nasdaq experienced a 23% drop in 2018 and a 35% decline in 2022.",
+   "surprise": "The portfolio has endured multiple double-digit percentage drops over the past few years.",
+   "kind": "opinion",
+   "conclusion": "Investors must accept these fluctuations as part of the long-term growth process."
+  },
+  {
+   "timestamp": "08:31",
+   "topic": "Evaluating stock fundamentals during downturns",
+   "claim": "Investors should distinguish between market-driven declines and fundamental business deterioration.",
+   "details": "When a stock drops significantly, the author advises checking if the company's balance sheet, income statement, or business prospects have actually changed. He argues that selling based solely on price action is often a mistake.",
+   "surprise": "Many investors panic sell without verifying if the underlying business has truly weakened.",
+   "kind": "opinion",
+   "conclusion": "Focus on the company's long-term value rather than short-term price movements."
+  },
+  {
+   "timestamp": "12:08",
+   "topic": "Historical S&P 500 growth and corrections",
+   "claim": "Every market correction throughout history has ultimately rewarded those who held their positions and bought the dip.",
+   "details": "He shows an S&P 500 chart starting from his birth year 1989 when the index was in the 300s compared to over 7,000 today. He challenges viewers to find a single historical correction where holding and buying did not make sense.",
+   "surprise": "The S&P 500 grew from the 300s in 1989 to over 7,000 today.",
+   "kind": "history",
+   "ticker": "^GSPC",
+   "conclusion": "Market corrections are buying opportunities for long-term investors with steady income.",
+   "history": {
+    "symbol": "^GSPC",
+    "start": "1989-01",
+    "end": "2023-11",
+    "story": "The index rose from the 300s in 1989 to over 7,000, absorbing multiple crashes including 2022 where it fell to 3,600 before recovering.",
+    "parallel": "Every correction, including the 2022 drop, eventually led to higher levels, proving that holding and buying through crashes is the optimal strategy."
+   }
+  },
+  {
+   "timestamp": "17:08",
+   "topic": "The irrelevance of short-term portfolio ego",
+   "claim": "Short-term fluctuations in portfolio value are meaningless ego numbers for long-term investors.",
+   "details": "He explains that whether an account sits at 3.6 million, 4.6 million, or 5.6 million today is irrelevant if the investor is not cashing out. Worrying about short-term drops stems from ego and damages long-term returns.",
+   "surprise": "Account value fluctuations in the short term do not matter for multi-decade investing horizons.",
+   "kind": "opinion",
+   "conclusion": "Investors must ignore short-term portfolio numbers and focus on the decades-long horizon."
+  },
+  {
+   "timestamp": "21:08",
+   "topic": "Income versus expenses as the primary key",
+   "claim": "The single most important factor for investment success is managing income versus expenses.",
+   "details": "P/E ratios, financial statements, and stock picking methods come secondary to controlling personal cash flow. Having higher income than expenses maintains an offensive mindset during market downturns.",
+   "surprise": "Income versus expenses matters far more than traditional fundamental metrics for individual investors.",
+   "kind": "opinion",
+   "conclusion": "Mastering personal income and expenses is the absolute foundation before analyzing complex financial charts."
+  },
+  {
+   "timestamp": "22:23",
+   "topic": "Personal experience of defensive mindset",
+   "claim": "Having zero active income during a four-year career break forced defensive financial decision-making.",
+   "details": "After the birth of his first son in 2014, he took a full year off work without business income, which left him unable to buy market dips effectively. This period taught him the psychological danger of lacking active income during downturns.",
+   "surprise": "Taking a career break without ongoing income induced defensive decisions that hindered smart investing.",
+   "kind": "opinion",
+   "conclusion": "Consistent income generation prevents defensive panicking when markets pull back."
+  },
+  {
+   "timestamp": "24:26",
+   "topic": "Performance of major tech stocks since June",
+   "claim": "Major AI and semiconductor stocks have experienced substantial losses since June 1st.",
+   "details": "The author displays a chart showing significant declines: Nvidia down 33%, AMD down 22%, and others like Micron and Oracle down 44% and 57% respectively. He notes that these stocks were highly popular and overcrowded trades earlier in the year.",
+   "surprise": "Some stocks like Iran are down as much as 80%.",
+   "kind": "news",
+   "conclusion": "The market is facing a difficult situation with these stocks due to previous overcrowding and current selling pressure."
+  },
+  {
+   "timestamp": "25:05",
+   "topic": "Impact of tax-loss harvesting in December",
+   "claim": "Tax-loss harvesting will likely cause significant selling pressure in December.",
+   "details": "He explains that investors are selling losing positions to offset capital gains, which will negatively impact stocks that have performed poorly this year. He avoids making short-term predictions, acknowledging that many factors could influence the market.",
+   "surprise": "He is personally preparing for a shaky and messy December.",
+   "kind": "opinion",
+   "conclusion": "He is holding cash to buy potential dips, regardless of whether the market goes up or down."
+  },
+  {
+   "timestamp": "27:00",
+   "topic": "Asia market stability concerns",
+   "claim": "Instability in SoftBank and the South Korean market remains a key concern.",
+   "details": "He links these issues to broader market instability, mentioning Anthropic and semiconductor chip plays like Samsung and SK Hynix. He believes stability in these areas is necessary for overall market comfort.",
+   "surprise": "SoftBank fell 14.48% following the Anthropic IPO.",
+   "kind": "news",
+   "conclusion": "These issues need to be resolved to improve overall market sentiment."
+  },
+  {
+   "timestamp": "27:41",
+   "topic": "Anthropic IPO and AI trade",
+   "claim": "Anthropic's poor IPO performance is creating messiness in the AI trade.",
+   "details": "He describes the stock as messy and notes that it is critical to the AI sector. Until it shows stability, it will be difficult to feel confident about the broader market.",
+   "surprise": "The stock is considered a key face of the AI trade.",
+   "kind": "opinion",
+   "ticker": "ANT",
+   "conclusion": "He is waiting for stability in this stock before becoming more optimistic about the market."
+  },
+  {
+   "timestamp": "31:59",
+   "topic": "Historical December performance",
+   "claim": "While December is historically positive, the current year's setup is different.",
+   "details": "He reviews the last 10 years of Nasdaq data, noting that 7 out of 10 years were positive. However, he warns that tax-loss selling makes a positive outcome this year more difficult.",
+   "surprise": "5 out of the last 10 years saw huge moves in December.",
+   "kind": "history",
+   "ticker": "^IXIC",
+   "conclusion": "He expects a volatile month and is prepared for any outcome.",
+   "history": {
+    "symbol": "^IXIC",
+    "start": "2013-12",
+    "end": "2023-12",
+    "story": "The Nasdaq has been positive in 7 of the last 10 years, with 5 years showing significant gains.",
+    "parallel": "He uses this to show that December is often volatile and can produce large moves in either direction."
+   }
+  },
+  {
+   "timestamp": "34:44",
+   "topic": "Recent stock purchases",
+   "claim": "The author bought American Express, SoFi, and Netflix.",
+   "details": "He invested over $50,000 in each portfolio. He bought 22 shares of AXP at $306, 1111 shares of SoFi at $12.50, and 556 shares of NFLX at $577.",
+   "surprise": "He believes SoFi could become a financial giant over the next decade.",
+   "kind": "stock pick",
+   "ticker": "AXP",
+   "conclusion": "He views these as long-term investments that could outperform the market."
+  },
+  {
+   "timestamp": "36:00",
+   "topic": "Investment thesis for SoFi and Netflix",
+   "claim": "The author believes these companies have strong long-term growth potential.",
+   "details": "He explains that he invests in SoFi with the expectation that it will grow significantly over the next decade, provided the company does not become over-leveraged. He also views Netflix as a tax-loss harvesting opportunity, planning to take advantage of potential sell-offs in December.",
+   "surprise": "He expects a $100,000 investment in SoFi to grow to over $1 million in the next decade.",
+   "kind": "opinion",
+   "ticker": "SOFI",
+   "conclusion": "He remains bullish on both companies for the long term."
+  },
+  {
+   "timestamp": "36:46",
+   "topic": "Private portfolio stock purchases",
+   "claim": "The author reveals his recent stock purchases in a private portfolio.",
+   "details": "He details his purchases of American Express, Celsius, Wynn Resorts, RH, and Amazon. He explains his reasoning for each, highlighting his focus on long-term growth and market trends.",
+   "surprise": "He attributes the positive performance of RH to the decline in the 10-year Treasury yield, which he believes signals a potential recovery in the housing market.",
+   "kind": "stock pick",
+   "ticker": "AMZN",
+   "conclusion": "He continues to view Amazon as a strong long-term buy."
+  }
+ ],
+ "tickers": [
+  "META",
+  "ORCL",
+  "MU",
+  "NVDA",
+  "^IXIC",
+  "^GSPC",
+  "AMD",
+  "ANT",
+  "AXP",
+  "SOFI"
+ ],
+ "predictions": [
+  "The S&P 500 will trade significantly higher over the next 5, 10, and 20 years compared to current levels.",
+  "Expects a shaky and messy December due to tax-loss harvesting.",
+  "Expects SoFi to grow significantly over the next decade.",
+  "Anticipates potential sell-offs for Netflix in December."
+ ],
+ "catalysts": [
+  "Thanksgiving holiday",
+  "Tax-loss harvesting throughout December",
+  "December sell-offs for tax-loss harvesting",
+  "10-year Treasury yield trends"
+ ],
+ "rumors": [],
+ "curiosities": [
+  "The author compares the irrationality of stock market pricing to the more stable valuation process of real estate.",
+  "The speaker was born in 1989 when the S&P 500 was in the 300s.",
+  "The author holds $400,000 in cash ready to deploy if the market drops significantly.",
+  "The author claims his home outdoor projects are almost finished, despite what people might think."
+ ],
+ "promo": true,
+ "language": "en",
+ "digest_it": "",
+ "video_id": "rWGCYCtZMKM",
+ "title": "Biggest Move since 2000!",
+ "author": "Jeremy Lefebvre Makes Money",
+ "url": "https://www.youtube.com/watch?v=rWGCYCtZMKM",
+ "published": "2026-11-26T01:01:35+00:00",
+ "duration_min": 39,
+ "partial": false,
+ "analysed_at": "2026-11-26T04:42:40.927486+00:00",
+ "model": "gemini-3.1-flash-lite"
+}

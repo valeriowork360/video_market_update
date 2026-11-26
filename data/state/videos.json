@@ -473,7 +473,7 @@
   "channel": "0xTalks",
   "title": "LA CRISI DI SKY | Crypto Recap | 25 Novembre 2026",
   "first_seen": "2026-11-25T22:56:36.207187+00:00",
-  "tries": 1,
+  "tries": 2,
   "last_error": "Gemini non riesce ad aprire questo video adesso (live appena finita, video riservato o rimosso)"
  },
  "wRNskCaMmpA": {
@@ -484,5 +484,32 @@
   "first_seen": "2026-11-25T22:56:37.225749+00:00",
   "tries": 1,
   "done_at": "2026-11-25T22:58:24.653597+00:00"
+ },
+ "rWGCYCtZMKM": {
+  "status": "done",
+  "attempts": 0,
+  "channel": "Financial Education 2",
+  "title": "Biggest Move since 2000!",
+  "done_at": "2026-11-26T04:42:40.927971+00:00",
+  "duplicate": true,
+  "tries": 1
+ },
+ "Zi_8bc0d6Xg": {
+  "status": "done",
+  "attempts": 0,
+  "channel": "Jason Pizzino",
+  "title": "The Shocking Gold & Silver Collapse: Worst in 50 Years",
+  "first_seen": "2026-11-26T04:32:46.408097+00:00",
+  "tries": 1,
+  "done_at": "2026-11-26T04:36:06.079249+00:00"
+ },
+ "si6gJiOA0qg": {
+  "status": "done",
+  "attempts": 0,
+  "channel": "Michael Pizzino",
+  "title": "The Market Is Struggling... But Something Is Quietly Developing",
+  "first_seen": "2026-11-26T04:36:06.079934+00:00",
+  "tries": 1,
+  "done_at": "2026-11-26T04:38:28.223026+00:00"
  }
 }
