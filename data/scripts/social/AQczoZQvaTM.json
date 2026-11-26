@@ -1,0 +1,1854 @@
+{
+ "it": [
+  {
+   "levels": [
+    22000.0
+   ],
+   "history": null,
+   "title": "FTSE MIB raddoppiato dal crash COVID ma sotto pressione",
+   "hook": "FTSE MIB 22.000",
+   "beats": [
+    {
+     "say": "Il FTSE MIB quota al doppio del minimo del crash COVID a 22.000 punti.",
+     "show": "FTSE MIB 22.000",
+     "figure": "22.000"
+    },
+    {
+     "say": "Il grafico settimanale mostra una chiara pressione ribassista nell'azione dei prezzi.",
+     "show": "Pressione Ribassista",
+     "figure": ""
+    },
+    {
+     "say": "La forza di lungo periodo non evita correzioni di breve termine.",
+     "show": "Rischio Correzione",
+     "figure": ""
+    },
+    {
+     "say": "Se il trend ribassista continua, l'indice testerà i supporti inferiori.",
+     "show": "Test Supporti",
+     "figure": ""
+    },
+    {
+     "say": "Il livello chiave da monitorare resta il minimo storico a 22.000 punti.",
+     "show": "Supporto 22.000",
+     "figure": "22.000"
+    },
+    {
+     "say": "Il quadro generale richiede prudenza nelle prossime sessioni.",
+     "show": "Quadro di Mercato",
+     "figure": ""
+    },
+    {
+     "say": "Segui per l'aggiornamento di domani.",
+     "show": "Segui Coin Ticker",
+     "figure": ""
+    }
+   ],
+   "origin": "0xTalks",
+   "source_video": "LA CRISI DI SKY | Crypto Recap | 25 Novembre 2026",
+   "narration": "Il FTSE MIB quota al doppio del minimo del crash COVID a 22.000 punti. Il grafico settimanale mostra una chiara pressione ribassista nell'azione dei prezzi. La forza di lungo periodo non evita correzioni di breve termine. Se il trend ribassista continua, l'indice testerà i supporti inferiori. Il livello chiave da monitorare resta il minimo storico a 22.000 punti. Il quadro generale richiede prudenza nelle prossime sessioni. Segui per l'aggiornamento di domani.",
+   "ticker": "^FTSEMIB",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Il FTSE MIB mantiene il doppio dei valori del crash COVID a 22.000 punti, ma la struttura di breve periodo mostra pressione ribassista.",
+   "hashtags": [
+    "#FTSEMIB",
+    "#BorsaItaliana",
+    "#Mercati",
+    "#Trading",
+    "#Azioni",
+    "#Finanza"
+   ]
+  },
+  {
+   "levels": [],
+   "history": null,
+   "title": "Bitcoin mostra debolezza ma rischia un doppio minimo",
+   "hook": "Bitcoin Debole",
+   "beats": [
+    {
+     "say": "Bitcoin mostra una struttura ribassista su tutti i timeframe principali.",
+     "show": "Bitcoin Debole",
+     "figure": ""
+    },
+    {
+     "say": "I grafici di breve periodo continuano a scambiare senza slancio rialzista.",
+     "show": "Grafici Deboli",
+     "figure": ""
+    },
+    {
+     "say": "La pressione di vendita nasconde una possibile formazione di accumulo.",
+     "show": "Possibile Accumulo",
+     "figure": ""
+    },
+    {
+     "say": "Un eventuale doppio minimo nella zona di supporto attuale deciderà il trend.",
+     "show": "Doppio Minimo",
+     "figure": ""
+    },
+    {
+     "say": "Senza una conferma rialzista il mercato resta esposto a nuovi cali.",
+     "show": "Rischio Discesa",
+     "figure": ""
+    },
+    {
+     "say": "La tenuta del supporto resta l'unico fattore decisivo per il rimbalzo.",
+     "show": "Tenuta Supporto",
+     "figure": ""
+    },
+    {
+     "say": "Segui per l'aggiornamento di domani.",
+     "show": "Segui Coin Ticker",
+     "figure": ""
+    }
+   ],
+   "origin": "0xTalks",
+   "source_video": "LA CRISI DI SKY | Crypto Recap | 25 Novembre 2026",
+   "narration": "Bitcoin mostra una struttura ribassista su tutti i timeframe principali. I grafici di breve periodo continuano a scambiare senza slancio rialzista. La pressione di vendita nasconde una possibile formazione di accumulo. Un eventuale doppio minimo nella zona di supporto attuale deciderà il trend. Senza una conferma rialzista il mercato resta esposto a nuovi cali. La tenuta del supporto resta l'unico fattore decisivo per il rimbalzo. Segui per l'aggiornamento di domani.",
+   "ticker": "BTC-USD",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Bitcoin mantiene una struttura ribassista su tutti i timeframe con la possibilità di formare un doppio minimo di supporto.",
+   "hashtags": [
+    "#Bitcoin",
+    "#Crypto",
+    "#BTC",
+    "#Trading",
+    "#AnalisiTecnica",
+    "#Mercati"
+   ]
+  },
+  {
+   "levels": [],
+   "history": {
+    "symbol": "",
+    "start": "2025-05",
+    "end": "2026-11"
+   },
+   "title": "Accumulo di debito nel protocollo Sky dal 2025 al 2026",
+   "hook": "Sky 7.812 $",
+   "beats": [
+    {
+     "say": "Il picco del token Sky a 7.812 dollari è sceso a 6.910.",
+     "show": "Sky 7.812 $",
+     "figure": "7.812 $"
+    },
+    {
+     "say": "Tra maggio 2025 e novembre 2026 si sono susseguite 25 operazioni di prestito senza rimborsi.",
+     "show": "25 Prestiti",
+     "figure": "25"
+    },
+    {
+     "say": "Un calo del -12% in un solo mese ha accelerato i rischi di liquidazione.",
+     "show": "Calo -12%",
+     "figure": "-12%"
+    },
+    {
+     "say": "Il valore del token è passato da 5.687 dollari iniziali a 7.183 a fine periodo.",
+     "show": "Da 5.687 a 7.183 $",
+     "figure": "7.183 $"
+    },
+    {
+     "say": "La rigidità dei rimborsi minaccia la stabilità finanziaria della piattaforma.",
+     "show": "Rischio Liquidazione",
+     "figure": ""
+    },
+    {
+     "say": "Le scadenze del 2026 determineranno la solvibilità dell'intero ecosistema.",
+     "show": "Scadenze 2026",
+     "figure": "2026"
+    },
+    {
+     "say": "Segui per l'aggiornamento di domani.",
+     "show": "Segui Coin Ticker",
+     "figure": ""
+    }
+   ],
+   "origin": "0xTalks",
+   "source_video": "LA CRISI DI SKY | Crypto Recap | 25 Novembre 2026",
+   "narration": "Il picco del token Sky a 7.812 dollari è sceso a 6.910. Tra maggio 2025 e novembre 2026 si sono susseguite 25 operazioni di prestito senza rimborsi. Un calo del -12% in un solo mese ha accelerato i rischi di liquidazione. Il valore del token è passato da 5.687 dollari iniziali a 7.183 a fine periodo. La rigidità dei rimborsi minaccia la stabilità finanziaria della piattaforma. Le scadenze del 2026 determineranno la solvibilità dell'intero ecosistema. Segui per l'aggiornamento di domani.",
+   "ticker": "SKY",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "La sequenza di 25 prestiti non rimborsati tra maggio 2025 e novembre 2026 mette sotto stress la liquidità del protocollo Sky.",
+   "hashtags": [
+    "#Sky",
+    "#DeFi",
+    "#Crypto",
+    "#MakerDAO",
+    "#Altcoin",
+    "#Finanza"
+   ]
+  },
+  {
+   "levels": [
+    0.025
+   ],
+   "history": null,
+   "title": "Tetto all'oracolo del token Sky fissato a 0,025 dollari",
+   "hook": "Tetto 0,025 $",
+   "beats": [
+    {
+     "say": "Sky fissa il tetto massimo dell'oracolo a 0,025 dollari.",
+     "show": "Tetto 0,025 $",
+     "figure": "0,025 $"
+    },
+    {
+     "say": "Il limite riduce la leva disponibile sulla valutazione del collaterale.",
+     "show": "Leva Limitata",
+     "figure": ""
+    },
+    {
+     "say": "La protezione del sistema limita la crescita teorica dei prestiti.",
+     "show": "Protezione Sistema",
+     "figure": ""
+    },
+    {
+     "say": "Se il prezzo scende sotto la soglia, scattano le liquidazioni automatiche.",
+     "show": "Soglia Liquidazione",
+     "figure": ""
+    },
+    {
+     "say": "Il livello di resistenza a 0,025 dollari resta il valore massimo conteggiato.",
+     "show": "Resistenza 0,025 $",
+     "figure": "0,025 $"
+    },
+    {
+     "say": "La misura conservativa protegge il protocollo durante le fasi di ribasso.",
+     "show": "Misura Conservativa",
+     "figure": ""
+    },
+    {
+     "say": "Segui per l'aggiornamento di domani.",
+     "show": "Segui Coin Ticker",
+     "figure": ""
+    }
+   ],
+   "origin": "0xTalks",
+   "source_video": "LA CRISI DI SKY | Crypto Recap | 25 Novembre 2026",
+   "narration": "Sky fissa il tetto massimo dell'oracolo a 0,025 dollari. Il limite riduce la leva disponibile sulla valutazione del collaterale. La protezione del sistema limita la crescita teorica dei prestiti. Se il prezzo scende sotto la soglia, scattano le liquidazioni automatiche. Il livello di resistenza a 0,025 dollari resta il valore massimo conteggiato. La misura conservativa protegge il protocollo durante le fasi di ribasso. Segui per l'aggiornamento di domani.",
+   "ticker": "SKY",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Il protocollo Sky applica un limite prudenziale all'oracolo a 0,025 dollari per contenere la leva finanziaria del collaterale.",
+   "hashtags": [
+    "#Sky",
+    "#DeFi",
+    "#Crypto",
+    "#Altcoin",
+    "#Blockchain",
+    "#Trading"
+   ]
+  },
+  {
+   "levels": [],
+   "history": {
+    "symbol": "LUNA",
+    "start": "2022-05",
+    "end": "2022-05"
+   },
+   "title": "Sospensione liquidazioni in Sky e confronto con Terra Luna",
+   "hook": "Confronto Terra Luna",
+   "beats": [
+    {
+     "say": "Il blocco delle liquidazioni evoca la crisi di Terra Luna del maggio 2022.",
+     "show": "Confronto Terra Luna",
+     "figure": "2022"
+    },
+    {
+     "say": "Nel maggio 2022 il crollo del collaterale azzerò l'intero ecosistema Terra.",
+     "show": "Crollo Terra 2022",
+     "figure": "2022"
+    },
+    {
+     "say": "Il prezzo interno di Sky risulta inferiore alle quotazioni reali di mercato.",
+     "show": "Divario Prezzi",
+     "figure": ""
+    },
+    {
+     "say": "Il calo della garanzia e l'aumento del debito creano un circolo di svalutazione.",
+     "show": "Spirale Ribassista",
+     "figure": ""
+    },
+    {
+     "say": "La riflessività negativa aumenta la sfiducia degli utenti nel protocollo.",
+     "show": "Perdita di Fiducia",
+     "figure": ""
+    },
+    {
+     "say": "L'assenza di liquidazioni trasforma il bad debt in una vulnerabilità strutturale.",
+     "show": "Vulnerabilità De Fi",
+     "figure": ""
+    },
+    {
+     "say": "Segui per l'aggiornamento di domani.",
+     "show": "Segui Coin Ticker",
+     "figure": ""
+    }
+   ],
+   "origin": "0xTalks",
+   "source_video": "LA CRISI DI SKY | Crypto Recap | 25 Novembre 2026",
+   "narration": "Il blocco delle liquidazioni evoca la crisi di Terra Luna del maggio 2022. Nel maggio 2022 il crollo del collaterale azzerò l'intero ecosistema Terra. Il prezzo interno di Sky risulta inferiore alle quotazioni reali di mercato. Il calo della garanzia e l'aumento del debito creano un circolo di svalutazione. La riflessività negativa aumenta la sfiducia degli utenti nel protocollo. L'assenza di liquidazioni trasforma il bad debt in una vulnerabilità strutturale. Segui per l'aggiornamento di domani.",
+   "ticker": "SKY",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "La sospensione delle liquidazioni su Sky e le discrepanze di prezzo ricordano le dinamiche di riflessività viste su Terra Luna nel 2022.",
+   "hashtags": [
+    "#Sky",
+    "#TerraLuna",
+    "#DeFi",
+    "#Crypto",
+    "#Rischio",
+    "#Finanza"
+   ]
+  },
+  {
+   "levels": [],
+   "history": {
+    "symbol": "",
+    "start": "2026-11",
+    "end": "2026-11"
+   },
+   "title": "Corsa agli sportelli su Sky e crollo delle riserve USDC",
+   "hook": "Crollo Riserve -68%",
+   "beats": [
+    {
+     "say": "Le riserve USDC nel protocollo sono crollate di oltre il -68%.",
+     "show": "Crollo Riserve -68%",
+     "figure": "-68%"
+    },
+    {
+     "say": "Nel novembre 2026 la cassa è scesa da 2,51 miliardi a 808 milioni di dollari.",
+     "show": "Da 2,51 B a 808 M",
+     "figure": "808 M $"
+    },
+    {
+     "say": "Una singola transazione ha convertito 1,49 miliardi di USDS in dieci minuti.",
+     "show": "1,49 Miliardi Swappati",
+     "figure": "1,49 B $"
+    },
+    {
+     "say": "Le riserve si sono poi riprese fino a 1,86 miliardi di dollari.",
+     "show": "Ripresa 1,86 B $",
+     "figure": "1,86 B $"
+    },
+    {
+     "say": "Il sistema ha superato il test di stress senza perdere il peg.",
+     "show": "Peg Mantenuto",
+     "figure": ""
+    },
+    {
+     "say": "La liquidità residua ha dimostrato solidità di fronte al panico bancario.",
+     "show": "Test Solvibilità",
+     "figure": ""
+    },
+    {
+     "say": "Segui per l'aggiornamento di domani.",
+     "show": "Segui Coin Ticker",
+     "figure": ""
+    }
+   ],
+   "origin": "0xTalks",
+   "source_video": "LA CRISI DI SKY | Crypto Recap | 25 Novembre 2026",
+   "narration": "Le riserve USDC nel protocollo sono crollate di oltre il -68%. Nel novembre 2026 la cassa è scesa da 2,51 miliardi a 808 milioni di dollari. Una singola transazione ha convertito 1,49 miliardi di USDS in dieci minuti. Le riserve si sono poi riprese fino a 1,86 miliardi di dollari. Il sistema ha superato il test di stress senza perdere il peg. La liquidità residua ha dimostrato solidità di fronte al panico bancario. Segui per l'aggiornamento di domani.",
+   "ticker": "USDC-USD",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Nel novembre 2026 le riserve USDC del Peg Stability Module sono scese di oltre il 68% durante una forte corsa ai prelievi.",
+   "hashtags": [
+    "#USDC",
+    "#Sky",
+    "#Stablecoin",
+    "#DeFi",
+    "#Crypto",
+    "#Finanza"
+   ]
+  },
+  {
+   "levels": [],
+   "history": {
+    "symbol": "USDT-USD",
+    "start": "2021-05",
+    "end": "2022-12"
+   },
+   "title": "Contrazione di 35 miliardi dell'offerta di stablecoin",
+   "hook": "Calo 35 Miliardi",
+   "beats": [
+    {
+     "say": "L'offerta di stablecoin ha perso 35 miliardi durante la fase ribassista.",
+     "show": "Calo 35 Miliardi",
+     "figure": "35 B $"
+    },
+    {
+     "say": "Tra maggio 2021 e dicembre 2022 l'offerta è scesa da 158 a 124 miliardi.",
+     "show": "Da 158 a 124 B",
+     "figure": "124 B $"
+    },
+    {
+     "say": "Il prezzo ha mantenuto la parità a 1 dollaro per 18 mesi.",
+     "show": "Peg a 1 $",
+     "figure": "1 $"
+    },
+    {
+     "say": "Il deflusso di capitale prosciuga la liquidità disponibile nella DeFi.",
+     "show": "Deflusso DeFi",
+     "figure": ""
+    },
+    {
+     "say": "Le fasi di contrazione monetaria riducono la liquidità di tutto il settore.",
+     "show": "Contrazione Monetaria",
+     "figure": ""
+    },
+    {
+     "say": "La ripresa del mercato richiede il ritorno della crescita della massa monetaria.",
+     "show": "Ripresa Massa Monetaria",
+     "figure": ""
+    },
+    {
+     "say": "Segui per l'aggiornamento di domani.",
+     "show": "Segui Coin Ticker",
+     "figure": ""
+    }
+   ],
+   "origin": "0xTalks",
+   "source_video": "LA CRISI DI SKY | Crypto Recap | 25 Novembre 2026",
+   "narration": "L'offerta di stablecoin ha perso 35 miliardi durante la fase ribassista. Tra maggio 2021 e dicembre 2022 l'offerta è scesa da 158 a 124 miliardi. Il prezzo ha mantenuto la parità a 1 dollaro per 18 mesi. Il deflusso di capitale prosciuga la liquidità disponibile nella DeFi. Le fasi di contrazione monetaria riducono la liquidità di tutto il settore. La ripresa del mercato richiede il ritorno della crescita della massa monetaria. Segui per l'aggiornamento di domani.",
+   "ticker": "USDT-USD",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "La contrazione ciclica tra il 2021 e il 2022 ha prosciugato 35 miliardi di dollari in stablecoin dal mercato crypto.",
+   "hashtags": [
+    "#Stablecoin",
+    "#USDT",
+    "#DeFi",
+    "#Crypto",
+    "#Mercati",
+    "#Finanza"
+   ]
+  },
+  {
+   "levels": [
+    300000000000.0,
+    280000000000.0
+   ],
+   "history": null,
+   "title": "Crollo di 20 miliardi nella massa di stablecoin",
+   "hook": "Crollo 20 Miliardi",
+   "beats": [
+    {
+     "say": "Venticinque miliardi di stablecoin sono spariti dal mercato in due mesi.",
+     "show": "Crollo 20 Miliardi",
+     "figure": "20 B $"
+    },
+    {
+     "say": "L'offerta globale è scesa da 300 miliardi a 280 miliardi di dollari.",
+     "show": "Da 300 B a 280 B",
+     "figure": "280 B $"
+    },
+    {
+     "say": "Il calo ha bruciato due terzi del capitale accumulato nel 2023.",
+     "show": "Capitale Bruciato",
+     "figure": ""
+    },
+    {
+     "say": "Se la contrazione prosegue, l'impatto sul mercato assomiglia a una recessione.",
+     "show": "Impatto Recessivo",
+     "figure": ""
+    },
+    {
+     "say": "I livelli di 300 miliardi e 280 miliardi segnano il range attuale.",
+     "show": "Range 300-280 B",
+     "figure": "280 B $"
+    },
+    {
+     "say": "La diminuzione della massa monetaria invita alla cautela generale.",
+     "show": "Segnale Cautela",
+     "figure": ""
+    },
+    {
+     "say": "Segui per l'aggiornamento di domani.",
+     "show": "Segui Coin Ticker",
+     "figure": ""
+    }
+   ],
+   "origin": "0xTalks",
+   "source_video": "LA CRISI DI SKY | Crypto Recap | 25 Novembre 2026",
+   "narration": "Venticinque miliardi di stablecoin sono spariti dal mercato in due mesi. L'offerta globale è scesa da 300 miliardi a 280 miliardi di dollari. Il calo ha bruciato due terzi del capitale accumulato nel 2023. Se la contrazione prosegue, l'impatto sul mercato assomiglia a una recessione. I livelli di 300 miliardi e 280 miliardi segnano il range attuale. La diminuzione della massa monetaria invita alla cautela generale. Segui per l'aggiornamento di domani.",
+   "ticker": "USDC-USD",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "L'offerta totale di stablecoin scende da 300 a 280 miliardi di dollari, cancellando la maggior parte dei flussi in entrata del 2023.",
+   "hashtags": [
+    "#Stablecoin",
+    "#USDC",
+    "#Crypto",
+    "#Mercati",
+    "#DeFi",
+    "#Finanza"
+   ]
+  },
+  {
+   "levels": [],
+   "history": {
+    "symbol": "^IXIC",
+    "start": "2007-01",
+    "end": "2009-12"
+   },
+   "title": "Piano di accumulo sul Nasdaq nella crisi 2007-2009",
+   "hook": "Nasdaq -54%",
+   "beats": [
+    {
+     "say": "Il Nasdaq ha perso il -54% durante la crisi del 2008.",
+     "show": "Nasdaq -54%",
+     "figure": "-54%"
+    },
+    {
+     "say": "L'indice è sceso dal picco di 2.810 punti a 1.294 nel marzo 2009.",
+     "show": "Da 2.810 a 1.294",
+     "figure": "1.294"
+    },
+    {
+     "say": "Il crollo si è svolto nell'arco di 16 mesi di forte volatilita.",
+     "show": "Crollo 16 Mesi",
+     "figure": "16"
+    },
+    {
+     "say": "L'accumulo settimanale ha portato il prezzo medio di carico a circa 1.600 punti.",
+     "show": "Medio 1.600 Punti",
+     "figure": "1.600"
+    },
+    {
+     "say": "L'indice è passato da 2.434 punti iniziali a 2.269 a fine 2009.",
+     "show": "Inizio 2.434 Fine 2.269",
+     "figure": "2.269"
+    },
+    {
+     "say": "Accumulare durante un crollo riduce enormemente i tempi di recupero del capitale.",
+     "show": "Tempi di Recupero",
+     "figure": ""
+    },
+    {
+     "say": "Segui per l'aggiornamento di domani.",
+     "show": "Segui Coin Ticker",
+     "figure": ""
+    }
+   ],
+   "origin": "0xTalks",
+   "source_video": "LA CRISI DI SKY | Crypto Recap | 25 Novembre 2026",
+   "narration": "Il Nasdaq ha perso il -54% durante la crisi del 2008. L'indice è sceso dal picco di 2.810 punti a 1.294 nel marzo 2009. Il crollo si è svolto nell'arco di 16 mesi di forte volatilita. L'accumulo settimanale ha portato il prezzo medio di carico a circa 1.600 punti. L'indice è passato da 2.434 punti iniziali a 2.269 a fine 2009. Accumulare durante un crollo riduce enormemente i tempi di recupero del capitale. Segui per l'aggiornamento di domani.",
+   "ticker": "^IXIC",
+   "sentiment": "neutral",
+   "sources": [],
+   "caption": "Nel crollo del 2007-2009 il Nasdaq ha ceduto il 54%, ma un piano di accumulo ha permesso di tornare in utile già nel 2009.",
+   "hashtags": [
+    "#Nasdaq",
+    "#Borsa",
+    "#Finanza",
+    "#DCA",
+    "#Investimenti",
+    "#Economia"
+   ]
+  },
+  {
+   "levels": [],
+   "history": {
+    "symbol": "^IXIC",
+    "start": "1999-01",
+    "end": "2012-02"
+   },
+   "title": "Dieci anni per recuperare dal picco delle dot-com sul Nasdaq",
+   "hook": "Bolla Dot-Com -77%",
+   "beats": [
+    {
+     "say": "Il Nasdaq è crollato del -77% dopo il bolla dot-com del 2000.",
+     "show": "Bolla Dot-Com -77%",
+     "figure": "-77%"
+    },
+    {
+     "say": "L'indice è precipitato da 5.047 punti a 1.163 in 31 mesi.",
+     "show": "Da 5.047 a 1.163",
+     "figure": "1.163"
+    },
+    {
+     "say": "Acquistare al picco ha richiesto dieci anni per tornare a pareggio.",
+     "show": "10 Anni Pareggio",
+     "figure": "10"
+    },
+    {
+     "say": "Il livello iniziale di 2.326 punti è tornato a 2.989 solo nel febbraio 2012.",
+     "show": "Recupero a 2.989",
+     "figure": "2.989"
+    },
+    {
+     "say": "L'accumulo sulle bolle speculative richiede orizzonti temporali molto estesi.",
+     "show": "Orizzonte Temporale",
+     "figure": ""
+    },
+    {
+     "say": "Comprare i massimi storici espone a lunghi periodi di sofferenza sul capitale.",
+     "show": "Rischio Picco",
+     "figure": ""
+    },
+    {
+     "say": "Segui per l'aggiornamento di domani.",
+     "show": "Segui Coin Ticker",
+     "figure": ""
+    }
+   ],
+   "origin": "0xTalks",
+   "source_video": "LA CRISI DI SKY | Crypto Recap | 25 Novembre 2026",
+   "narration": "Il Nasdaq è crollato del -77% dopo il bolla dot-com del 2000. L'indice è precipitato da 5.047 punti a 1.163 in 31 mesi. Acquistare al picco ha richiesto dieci anni per tornare a pareggio. Il livello iniziale di 2.326 punti è tornato a 2.989 solo nel febbraio 2012. L'accumulo sulle bolle speculative richiede orizzonti temporali molto estesi. Comprare i massimi storici espone a lunghi periodi di sofferenza sul capitale. Segui per l'aggiornamento di domani.",
+   "ticker": "^IXIC",
+   "sentiment": "neutral",
+   "sources": [],
+   "caption": "Comprare al massimo della bolla dot-com sul Nasdaq ha richiesto ben dieci anni di accumulo per raggiungere il punto di pareggio.",
+   "hashtags": [
+    "#Nasdaq",
+    "#DotCom",
+    "#Borsa",
+    "#Investimenti",
+    "#Finanza",
+    "#Trading"
+   ]
+  },
+  {
+   "levels": [
+    100000.0
+   ],
+   "history": {
+    "symbol": "BTC-USD",
+    "start": "2018-12",
+    "end": "2023-01"
+   },
+   "title": "Mettriche on-chain di Bitcoin simili ai minimi del 2022",
+   "hook": "Capitolazione On-Chain",
+   "beats": [
+    {
+     "say": "Bitcoin registra una capitolazione sui dati in-catena pari al crash del 2022.",
+     "show": "Capitolazione On-Chain",
+     "figure": ""
+    },
+    {
+     "say": "Nel ciclo 2021-2022 il prezzo è sceso da 65.467 a 16.292 dollari con un calo del -75%.",
+     "show": "Da 65.467 a 16.292 $",
+     "figure": "-75%"
+    },
+    {
+     "say": "Il movimento si è sviluppato in 12 mesi tra fine 2018 e inizio 2023.",
+     "show": "Durata 12 Mesi",
+     "figure": "12"
+    },
+    {
+     "say": "La resistenza psicologica resta posizionata a 100.000 dollari.",
+     "show": "Resistenza 100.000 $",
+     "figure": "100.000 $"
+    },
+    {
+     "say": "Le perdite attuali ricalcano la fase finale dei mercati ribassisti del passato.",
+     "show": "Fase Finale Bear",
+     "figure": ""
+    },
+    {
+     "say": "La durata del periodo di pulizia in-catena determina la formazione del minimo.",
+     "show": "Formazione Minimo",
+     "figure": ""
+    },
+    {
+     "say": "Segui per l'aggiornamento di domani.",
+     "show": "Segui Coin Ticker",
+     "figure": ""
+    }
+   ],
+   "origin": "0xTalks",
+   "source_video": "LA CRISI DI SKY | Crypto Recap | 25 Novembre 2026",
+   "narration": "Bitcoin registra una capitolazione sui dati in-catena pari al crash del 2022. Nel ciclo 2021-2022 il prezzo è sceso da 65.467 a 16.292 dollari con un calo del -75%. Il movimento si è sviluppato in 12 mesi tra fine 2018 e inizio 2023. La resistenza psicologica resta posizionata a 100.000 dollari. Le perdite attuali ricalcano la fase finale dei mercati ribassisti del passato. La durata del periodo di pulizia in-catena determina la formazione del minimo. Segui per l'aggiornamento di domani.",
+   "ticker": "BTC-USD",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "L'indicatore di profitto/perdita dei blocchi Bitcoin mostra livelli di stress sui portafogli simili ai minimi del 2018, 2020 e 2022.",
+   "hashtags": [
+    "#Bitcoin",
+    "#BTC",
+    "#Crypto",
+    "#OnChain",
+    "#Trading",
+    "#Mercati"
+   ]
+  },
+  {
+   "levels": [
+    0.53,
+    0.23
+   ],
+   "history": null,
+   "title": "Derive subisce un crollo del 60% dal massimo",
+   "hook": "Derive -60%",
+   "beats": [
+    {
+     "say": "Derive è crollato del 60% subito dopo aver toccato il massimo.",
+     "show": "Derive -60%",
+     "figure": "-60%"
+    },
+    {
+     "say": "Il token è passato da un picco di 0,53 dollari a 0,23.",
+     "show": "Da 0,53 a 0,23 $",
+     "figure": "0,23 $"
+    },
+    {
+     "say": "La correzione ha annullato la maggior parte del rally di quotazione.",
+     "show": "Rally Annullato",
+     "figure": ""
+    },
+    {
+     "say": "Se non tiene 0,23 dollari il prezzo rischia ulteriori ribassi.",
+     "show": "Supporto 0,23 $",
+     "figure": "0,23 $"
+    },
+    {
+     "say": "Il massimo di 0,53 dollari rappresenta la principale resistenza da superare.",
+     "show": "Resistenza 0,53 $",
+     "figure": "0,53 $"
+    },
+    {
+     "say": "I forti ritracciamenti evidenziano l'elevata volatilita dei nuovi token.",
+     "show": "Alta Volatilita",
+     "figure": ""
+    },
+    {
+     "say": "Segui per l'aggiornamento di domani.",
+     "show": "Segui Coin Ticker",
+     "figure": ""
+    }
+   ],
+   "origin": "0xTalks",
+   "source_video": "LA CRISI DI SKY | Crypto Recap | 25 Novembre 2026",
+   "narration": "Derive è crollato del 60% subito dopo aver toccato il massimo. Il token è passato da un picco di 0,53 dollari a 0,23. La correzione ha annullato la maggior parte del rally di quotazione. Se non tiene 0,23 dollari il prezzo rischia ulteriori ribassi. Il massimo di 0,53 dollari rappresenta la principale resistenza da superare. I forti ritracciamenti evidenziano l'elevata volatilita dei nuovi token. Segui per l'aggiornamento di domani.",
+   "ticker": "DRV",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Il token Derive registra un ritracciamento del 60% scendendo dal picco di 0,53 dollari al minimo di 0,23 dollari.",
+   "hashtags": [
+    "#Derive",
+    "#Crypto",
+    "#Altcoin",
+    "#DeFi",
+    "#Trading",
+    "#Mercati"
+   ]
+  },
+  {
+   "levels": [],
+   "history": null,
+   "title": "Crisi di liquidita nel protocollo Sky",
+   "hook": "Crisi Sky",
+   "beats": [
+    {
+     "say": "Sky affronta una grave crisi strutturale di liquidita.",
+     "show": "Crisi Sky",
+     "figure": ""
+    },
+    {
+     "say": "I difetti di progettazione e le posizioni del fondatore appesantiscono il sistema.",
+     "show": "Difetti Sistema",
+     "figure": ""
+    },
+    {
+     "say": "La garanzia in token nativi aumenta la vulnerabilita in caso di ribasso.",
+     "show": "Rischio Collaterale",
+     "figure": ""
+    },
+    {
+     "say": "Il persistere delle uscite di cassa rischia di innescare liquidazioni a catena.",
+     "show": "Rischio Liquidazione",
+     "figure": ""
+    },
+    {
+     "say": "Segui per l'aggiornamento di domani.",
+     "show": "Segui Coin Ticker",
+     "figure": ""
+    }
+   ],
+   "origin": "0xTalks",
+   "source_video": "LA CRISI DI SKY | Crypto Recap | 25 Novembre 2026",
+   "narration": "Sky affronta una grave crisi strutturale di liquidita. I difetti di progettazione e le posizioni del fondatore appesantiscono il sistema. La garanzia in token nativi aumenta la vulnerabilita in caso di ribasso. Il persistere delle uscite di cassa rischia di innescare liquidazioni a catena. Segui per l'aggiornamento di domani.",
+   "ticker": "SKY",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Il protocollo Sky mostra fragilita strutturali dovute a problemi di gestione del rischio e posizioni di debito collegate.",
+   "hashtags": [
+    "#Sky",
+    "#DeFi",
+    "#Crypto",
+    "#MakerDAO",
+    "#Finanza"
+   ]
+  },
+  {
+   "levels": [],
+   "history": null,
+   "title": "77 milioni di debito per il fondatore di Sky",
+   "hook": "Debito 77 M $",
+   "beats": [
+    {
+     "say": "Il fondatore di Sky ha accumulato 77 milioni di dollari di debito.",
+     "show": "Debito 77 M $",
+     "figure": "77 M $"
+    },
+    {
+     "say": "Il prestito risulta garantito dai token nativi della stessa piattaforma.",
+     "show": "Garanzia Token",
+     "figure": ""
+    },
+    {
+     "say": "Piccoli rimborsi parziali non riducono in modo significativo l'esposizione.",
+     "show": "Rimborsi Minimi",
+     "figure": ""
+    },
+    {
+     "say": "La dipendenza dal valore del token espone il protocollo a forti rischi.",
+     "show": "Rischio Concentrato",
+     "figure": ""
+    },
+    {
+     "say": "Segui per l'aggiornamento di domani.",
+     "show": "Segui Coin Ticker",
+     "figure": ""
+    }
+   ],
+   "origin": "0xTalks",
+   "source_video": "LA CRISI DI SKY | Crypto Recap | 25 Novembre 2026",
+   "narration": "Il fondatore di Sky ha accumulato 77 milioni di dollari di debito. Il prestito risulta garantito dai token nativi della stessa piattaforma. Piccoli rimborsi parziali non riducono in modo significativo l'esposizione. La dipendenza dal valore del token espone il protocollo a forti rischi. Segui per l'aggiornamento di domani.",
+   "ticker": "SKY",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "L'accumulo di 77 milioni di dollari di debito da parte del fondatore di Sky crea un'elevata concentrazione di rischio nel protocollo.",
+   "hashtags": [
+    "#Sky",
+    "#DeFi",
+    "#Crypto",
+    "#MakerDAO",
+    "#Finanza"
+   ]
+  },
+  {
+   "levels": [],
+   "history": null,
+   "title": "Saturazione della liquidita nei pool di Sky",
+   "hook": "Utilizzo 100%",
+   "beats": [
+    {
+     "say": "Il pool di prestiti ha raggiunto il 100% di utilizzo della liquidita.",
+     "show": "Utilizzo 100%",
+     "figure": "100%"
+    },
+    {
+     "say": "Su 287 milioni depositati ne restano solo 47 disponibili.",
+     "show": "Solo 47 M Liberi",
+     "figure": "47 M $"
+    },
+    {
+     "say": "L'esaurimento della cassa impedisce agli utenti di riscattare la stablecoin.",
+     "show": "Riscatti Bloccati",
+     "figure": ""
+    },
+    {
+     "say": "Il blocco improvviso dei prelievi innesca una veloce corsa ai riscatti.",
+     "show": "Corsa ai Prelievi",
+     "figure": ""
+    },
+    {
+     "say": "Segui per l'aggiornamento di domani.",
+     "show": "Segui Coin Ticker",
+     "figure": ""
+    }
+   ],
+   "origin": "0xTalks",
+   "source_video": "LA CRISI DI SKY | Crypto Recap | 25 Novembre 2026",
+   "narration": "Il pool di prestiti ha raggiunto il 100% di utilizzo della liquidita. Su 287 milioni depositati ne restano solo 47 disponibili. L'esaurimento della cassa impedisce agli utenti di riscattare la stablecoin. Il blocco improvviso dei prelievi innesca una veloce corsa ai riscatti. Segui per l'aggiornamento di domani.",
+   "ticker": "SKY",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "La saturazione al 100% dei pool di liquidita su Sky blocca i riscatti degli utenti, provocando forti tensioni sul sistema.",
+   "hashtags": [
+    "#Sky",
+    "#DeFi",
+    "#Crypto",
+    "#Stablecoin",
+    "#Finanza"
+   ]
+  }
+ ],
+ "en": [
+  {
+   "levels": [
+    22000.0
+   ],
+   "history": null,
+   "title": "FTSE MIB doubles COVID crash low but faces sell pressure",
+   "hook": "FTSE MIB 22,000",
+   "beats": [
+    {
+     "say": "The FTSE MIB trades at twice its COVID crash low of 22,000 points.",
+     "show": "FTSE MIB 22,000",
+     "figure": "22,000"
+    },
+    {
+     "say": "Weekly technical setups currently display persistent downward pressure.",
+     "show": "Downward Pressure",
+     "figure": ""
+    },
+    {
+     "say": "Holding high levels does not prevent a temporary technical retracement.",
+     "show": "Retracement Risk",
+     "figure": ""
+    },
+    {
+     "say": "If bearish action persists, the index will test lower support levels.",
+     "show": "Lower Supports",
+     "figure": ""
+    },
+    {
+     "say": "The primary level to monitor remains the pandemic low at 22,000.",
+     "show": "Level 22,000",
+     "figure": "22,000"
+    },
+    {
+     "say": "The broader market trend calls for cautious observation this week.",
+     "show": "Market Trend",
+     "figure": ""
+    },
+    {
+     "say": "Follow for tomorrow's update.",
+     "show": "Follow Coin Ticker",
+     "figure": ""
+    }
+   ],
+   "origin": "0xTalks",
+   "source_video": "LA CRISI DI SKY | Crypto Recap | 25 Novembre 2026",
+   "narration": "The FTSE MIB trades at twice its COVID crash low of 22,000 points. Weekly technical setups currently display persistent downward pressure. Holding high levels does not prevent a temporary technical retracement. If bearish action persists, the index will test lower support levels. The primary level to monitor remains the pandemic low at 22,000. The broader market trend calls for cautious observation this week. Follow for tomorrow's update.",
+   "ticker": "^FTSEMIB",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "FTSE MIB remains double its pandemic low of 22,000 points, but technical charts show mounting bearish momentum.",
+   "hashtags": [
+    "#FTSEMIB",
+    "#StockMarket",
+    "#Trading",
+    "#Finance",
+    "#MarketAnalysis",
+    "#Stocks"
+   ]
+  },
+  {
+   "levels": [],
+   "history": null,
+   "title": "Bitcoin displays weak setup with double bottom potential",
+   "hook": "Bearish Bitcoin",
+   "beats": [
+    {
+     "say": "Bitcoin displays a bearish structure across all major timeframes.",
+     "show": "Bearish Bitcoin",
+     "figure": ""
+    },
+    {
+     "say": "Short-term charts fail to generate convincing upward buying volume.",
+     "show": "Low Volume",
+     "figure": ""
+    },
+    {
+     "say": "Persistent weakness may hide a base building pattern near key zones.",
+     "show": "Base Building",
+     "figure": ""
+    },
+    {
+     "say": "Price action could form a double bottom before establishing any recovery.",
+     "show": "Double Bottom",
+     "figure": ""
+    },
+    {
+     "say": "Failing to hold current support opens the path to lower price levels.",
+     "show": "Lower Price",
+     "figure": ""
+    },
+    {
+     "say": "Confirmation remains necessary before confirming any trend reversal.",
+     "show": "Trend Reversal",
+     "figure": ""
+    },
+    {
+     "say": "Follow for tomorrow's update.",
+     "show": "Follow Coin Ticker",
+     "figure": ""
+    }
+   ],
+   "origin": "0xTalks",
+   "source_video": "LA CRISI DI SKY | Crypto Recap | 25 Novembre 2026",
+   "narration": "Bitcoin displays a bearish structure across all major timeframes. Short-term charts fail to generate convincing upward buying volume. Persistent weakness may hide a base building pattern near key zones. Price action could form a double bottom before establishing any recovery. Failing to hold current support opens the path to lower price levels. Confirmation remains necessary before confirming any trend reversal. Follow for tomorrow's update.",
+   "ticker": "BTC-USD",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Bitcoin trades under broad timeframe weakness while forming a potential double bottom pattern at current support levels.",
+   "hashtags": [
+    "#Bitcoin",
+    "#Crypto",
+    "#BTC",
+    "#TechnicalAnalysis",
+    "#Trading",
+    "#Markets"
+   ]
+  },
+  {
+   "levels": [],
+   "history": {
+    "symbol": "",
+    "start": "2025-05",
+    "end": "2026-11"
+   },
+   "title": "Sky protocol debt accumulation timeline from 2025 to 2026",
+   "hook": "Peak 7,812",
+   "beats": [
+    {
+     "say": "The peak for Sky token at 7,812 dropped to 6,910.",
+     "show": "Peak 7,812",
+     "figure": "7,812"
+    },
+    {
+     "say": "Between May 2025 and November 2026, 25 continuous borrows occurred without repayment.",
+     "show": "25 Unpaid Borrows",
+     "figure": "25"
+    },
+    {
+     "say": "A -12% fall in just one month heightened protocol liquidation risks.",
+     "show": "Fall -12%",
+     "figure": "-12%"
+    },
+    {
+     "say": "The asset moved from 5,687 at the start to 7,183 at the end.",
+     "show": "Start 5,687 End 7,183",
+     "figure": "7,183"
+    },
+    {
+     "say": "Maturity mismatches directly expose decentralized lending models to systemic stress.",
+     "show": "Systemic Stress",
+     "figure": ""
+    },
+    {
+     "say": "Unresolved debt positions will test collateral stability in late 2026.",
+     "show": "Collateral Stress",
+     "figure": "2026"
+    },
+    {
+     "say": "Follow for tomorrow's update.",
+     "show": "Follow Coin Ticker",
+     "figure": ""
+    }
+   ],
+   "origin": "0xTalks",
+   "source_video": "LA CRISI DI SKY | Crypto Recap | 25 Novembre 2026",
+   "narration": "The peak for Sky token at 7,812 dropped to 6,910. Between May 2025 and November 2026, 25 continuous borrows occurred without repayment. A -12% fall in just one month heightened protocol liquidation risks. The asset moved from 5,687 at the start to 7,183 at the end. Maturity mismatches directly expose decentralized lending models to systemic stress. Unresolved debt positions will test collateral stability in late 2026. Follow for tomorrow's update.",
+   "ticker": "SKY",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Continuous borrowing without repayments over 18 months creates severe structural stress for the Sky protocol ecosystem.",
+   "hashtags": [
+    "#Sky",
+    "#DeFi",
+    "#Crypto",
+    "#MakerDAO",
+    "#CryptoNews",
+    "#Finance"
+   ]
+  },
+  {
+   "levels": [
+    0.025
+   ],
+   "history": null,
+   "title": "Sky protocol caps oracle price ceiling at 0.025 dollars",
+   "hook": "Cap 0.025",
+   "beats": [
+    {
+     "say": "Sky sets its conservative oracle price cap at 0.025 dollars.",
+     "show": "Cap 0.025",
+     "figure": "0.025"
+    },
+    {
+     "say": "The restriction limits borrowing leverage against native token collateral.",
+     "show": "Limited Leverage",
+     "figure": ""
+    },
+    {
+     "say": "System safety mechanisms restrict maximum allowable collateral valuations.",
+     "show": "Collateral Limit",
+     "figure": ""
+    },
+    {
+     "say": "If price action drops below protective bounds, automatic liquidations trigger.",
+     "show": "Automatic Liquidations",
+     "figure": ""
+    },
+    {
+     "say": "The resistance level at 0.025 dollars caps maximum recognized value.",
+     "show": "Resistance 0.025",
+     "figure": "0.025"
+    },
+    {
+     "say": "Conservative parameters highlight operational constraints during adverse markets.",
+     "show": "Market Constraints",
+     "figure": ""
+    },
+    {
+     "say": "Follow for tomorrow's update.",
+     "show": "Follow Coin Ticker",
+     "figure": ""
+    }
+   ],
+   "origin": "0xTalks",
+   "source_video": "LA CRISI DI SKY | Crypto Recap | 25 Novembre 2026",
+   "narration": "Sky sets its conservative oracle price cap at 0.025 dollars. The restriction limits borrowing leverage against native token collateral. System safety mechanisms restrict maximum allowable collateral valuations. If price action drops below protective bounds, automatic liquidations trigger. The resistance level at 0.025 dollars caps maximum recognized value. Conservative parameters highlight operational constraints during adverse markets. Follow for tomorrow's update.",
+   "ticker": "SKY",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Sky caps its internal oracle ceiling at 0.025 dollars to control leverage and safeguard platform collateral liquidity.",
+   "hashtags": [
+    "#Sky",
+    "#DeFi",
+    "#Crypto",
+    "#CryptoNews",
+    "#Blockchain",
+    "#Trading"
+   ]
+  },
+  {
+   "levels": [],
+   "history": {
+    "symbol": "LUNA",
+    "start": "2022-05",
+    "end": "2022-05"
+   },
+   "title": "Sky liquidations freeze echoes 2022 Terra Luna collapse",
+   "hook": "Terra Luna Parallel",
+   "beats": [
+    {
+     "say": "Freezing liquidations echoes the Terra Luna collapse of May 2022.",
+     "show": "Terra Luna Parallel",
+     "figure": "2022"
+    },
+    {
+     "say": "In May 2022 collateral values crashed to zero during systemic panic.",
+     "show": "Terra Crash 2022",
+     "figure": "2022"
+    },
+    {
+     "say": "Internal floor prices currently trail behind real public exchange quotes.",
+     "show": "Price Discrepancy",
+     "figure": ""
+    },
+    {
+     "say": "Falling collateral values and bad debt create a reflexivity loop.",
+     "show": "Reflexivity Loop",
+     "figure": ""
+    },
+    {
+     "say": "Disabling liquidations leaves systemic debts uncleared across the platform.",
+     "show": "Uncleared Debt",
+     "figure": ""
+    },
+    {
+     "say": "Collateral impairment threatens long-term solvency without fast intervention.",
+     "show": "Solvency Risk",
+     "figure": ""
+    },
+    {
+     "say": "Follow for tomorrow's update.",
+     "show": "Follow Coin Ticker",
+     "figure": ""
+    }
+   ],
+   "origin": "0xTalks",
+   "source_video": "LA CRISI DI SKY | Crypto Recap | 25 Novembre 2026",
+   "narration": "Freezing liquidations echoes the Terra Luna collapse of May 2022. In May 2022 collateral values crashed to zero during systemic panic. Internal floor prices currently trail behind real public exchange quotes. Falling collateral values and bad debt create a reflexivity loop. Disabling liquidations leaves systemic debts uncleared across the platform. Collateral impairment threatens long-term solvency without fast intervention. Follow for tomorrow's update.",
+   "ticker": "SKY",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Disabling liquidations and pricing discrepancies in Sky create negative reflexivity dynamics reminiscent of Terra Luna in 2022.",
+   "hashtags": [
+    "#Sky",
+    "#TerraLuna",
+    "#DeFi",
+    "#Crypto",
+    "#CryptoNews",
+    "#Risk"
+   ]
+  },
+  {
+   "levels": [],
+   "history": {
+    "symbol": "",
+    "start": "2026-11",
+    "end": "2026-11"
+   },
+   "title": "Sky bank run drains USDC reserves over 68%",
+   "hook": "Reserves Down -68%",
+   "beats": [
+    {
+     "say": "USDC reserves inside the module dropped over -68% during panic.",
+     "show": "Reserves Down -68%",
+     "figure": "-68%"
+    },
+    {
+     "say": "In November 2026 reserves fell from 2.51 billion to 808 million dollars.",
+     "show": "808 Million Low",
+     "figure": "$808 M"
+    },
+    {
+     "say": "A single wallet swapped 1.49 billion USDS in under ten minutes.",
+     "show": "$1.49 B Swapped",
+     "figure": "$1.49 B"
+    },
+    {
+     "say": "Liquid reserves later recovered back to 1.86 billion dollars.",
+     "show": "$1.86 B Recovery",
+     "figure": "$1.86 B"
+    },
+    {
+     "say": "The conversion module processed massive redemptions without breaking parity.",
+     "show": "Peg Maintained",
+     "figure": ""
+    },
+    {
+     "say": "Extreme liquidity drawdowns test decentralized stablecoin resilience under panic.",
+     "show": "Bank Run Stress",
+     "figure": ""
+    },
+    {
+     "say": "Follow for tomorrow's update.",
+     "show": "Follow Coin Ticker",
+     "figure": ""
+    }
+   ],
+   "origin": "0xTalks",
+   "source_video": "LA CRISI DI SKY | Crypto Recap | 25 Novembre 2026",
+   "narration": "USDC reserves inside the module dropped over -68% during panic. In November 2026 reserves fell from 2.51 billion to 808 million dollars. A single wallet swapped 1.49 billion USDS in under ten minutes. Liquid reserves later recovered back to 1.86 billion dollars. The conversion module processed massive redemptions without breaking parity. Extreme liquidity drawdowns test decentralized stablecoin resilience under panic. Follow for tomorrow's update.",
+   "ticker": "USDC-USD",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "During November 2026, USDC reserves dropped by over 68% before stabilizing, proving high system redemptions under panic.",
+   "hashtags": [
+    "#USDC",
+    "#Sky",
+    "#Stablecoin",
+    "#DeFi",
+    "#Crypto",
+    "#Finance"
+   ]
+  },
+  {
+   "levels": [],
+   "history": {
+    "symbol": "USDT-USD",
+    "start": "2021-05",
+    "end": "2022-12"
+   },
+   "title": "Historical stablecoin supply drawdown of 35 billion dollars",
+   "hook": "Supply Down $35 B",
+   "beats": [
+    {
+     "say": "Stablecoin supply shrank by 35 billion dollars during the contraction.",
+     "show": "Supply Down $35 B",
+     "figure": "$35 B"
+    },
+    {
+     "say": "From May 2021 to December 2022 supply fell from 158 to 124 billion.",
+     "show": "158 B to 124 B",
+     "figure": "$124 B"
+    },
+    {
+     "say": "The price maintained parity at 1 dollar throughout the 18-month duration.",
+     "show": "$1 Parity Held",
+     "figure": "$1"
+    },
+    {
+     "say": "Capital outflows directly drain liquidity across decentralized protocols.",
+     "show": "DeFi Liquidity Drain",
+     "figure": ""
+    },
+    {
+     "say": "Restrictive monetary conditions consistently pressure crypto expansion dynamics.",
+     "show": "Macro Pressure",
+     "figure": ""
+    },
+    {
+     "say": "Sustained market rallies require expanding stablecoin supply metrics.",
+     "show": "Supply Expansion",
+     "figure": ""
+    },
+    {
+     "say": "Follow for tomorrow's update.",
+     "show": "Follow Coin Ticker",
+     "figure": ""
+    }
+   ],
+   "origin": "0xTalks",
+   "source_video": "LA CRISI DI SKY | Crypto Recap | 25 Novembre 2026",
+   "narration": "Stablecoin supply shrank by 35 billion dollars during the contraction. From May 2021 to December 2022 supply fell from 158 to 124 billion. The price maintained parity at 1 dollar throughout the 18-month duration. Capital outflows directly drain liquidity across decentralized protocols. Restrictive monetary conditions consistently pressure crypto expansion dynamics. Sustained market rallies require expanding stablecoin supply metrics. Follow for tomorrow's update.",
+   "ticker": "USDT-USD",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Historical data shows a $35 billion stablecoin contraction from 2021 to 2022, highlighting macro liquidity cycles in crypto.",
+   "hashtags": [
+    "#Stablecoin",
+    "#USDT",
+    "#DeFi",
+    "#Crypto",
+    "#Macro",
+    "#Finance"
+   ]
+  },
+  {
+   "levels": [
+    300000000000.0,
+    280000000000.0
+   ],
+   "history": null,
+   "title": "Stablecoin supply contracts by 20 billion in two months",
+   "hook": "Drop $20 Billion",
+   "beats": [
+    {
+     "say": "Twenty billion dollars left stablecoin supply in just two months.",
+     "show": "Drop $20 Billion",
+     "figure": "$20 B"
+    },
+    {
+     "say": "Global supply dropped from 300 billion down to 280 billion dollars.",
+     "show": "300 B to 280 B",
+     "figure": "$280 B"
+    },
+    {
+     "say": "The drawdown erased two-thirds of all liquidity gains made in 2023.",
+     "show": "Erased Capital",
+     "figure": ""
+    },
+    {
+     "say": "If supply continues contracting, systemic effects resemble an ongoing recession.",
+     "show": "Recessionary Risk",
+     "figure": ""
+    },
+    {
+     "say": "The range between 300 billion and 280 billion defines key thresholds.",
+     "show": "Range 300B-280B",
+     "figure": "$280 B"
+    },
+    {
+     "say": "Shrinking liquidity signals prolonged caution across digital asset markets.",
+     "show": "Market Caution",
+     "figure": ""
+    },
+    {
+     "say": "Follow for tomorrow's update.",
+     "show": "Follow Coin Ticker",
+     "figure": ""
+    }
+   ],
+   "origin": "0xTalks",
+   "source_video": "LA CRISI DI SKY | Crypto Recap | 25 Novembre 2026",
+   "narration": "Twenty billion dollars left stablecoin supply in just two months. Global supply dropped from 300 billion down to 280 billion dollars. The drawdown erased two-thirds of all liquidity gains made in 2023. If supply continues contracting, systemic effects resemble an ongoing recession. The range between 300 billion and 280 billion defines key thresholds. Shrinking liquidity signals prolonged caution across digital asset markets. Follow for tomorrow's update.",
+   "ticker": "USDC-USD",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Stablecoin supply contracts from $300B to $280B in sixty days, wiping out two-thirds of recent capital inflows.",
+   "hashtags": [
+    "#Stablecoin",
+    "#USDC",
+    "#Crypto",
+    "#DeFi",
+    "#Markets",
+    "#Finance"
+   ]
+  },
+  {
+   "levels": [],
+   "history": {
+    "symbol": "^IXIC",
+    "start": "2007-01",
+    "end": "2009-12"
+   },
+   "title": "Nasdaq DCA strategy efficiency during 2007-2009 crisis",
+   "hook": "Nasdaq Drop -54%",
+   "beats": [
+    {
+     "say": "The Nasdaq fell -54% during the 2008 financial crisis.",
+     "show": "Nasdaq Drop -54%",
+     "figure": "-54%"
+    },
+    {
+     "say": "The index crashed from a top of 2,810 down to 1,294 in March 2009.",
+     "show": "Peak 2,810 Low 1,294",
+     "figure": "1,294"
+    },
+    {
+     "say": "The entire contraction unfolded over a grueling 16-month bear market.",
+     "show": "16-Month Bear Market",
+     "figure": "16"
+    },
+    {
+     "say": "Weekly dollar-cost averaging brought average costs near the mid-1600s.",
+     "show": "Cost Basis ~1,600",
+     "figure": "1,600"
+    },
+    {
+     "say": "Levels moved from 2,434 at start to 2,269 by late 2009.",
+     "show": "Start 2,434 End 2,269",
+     "figure": "2,269"
+    },
+    {
+     "say": "Accumulating through corrections yields vastly faster breakeven times than buying tops.",
+     "show": "Faster Breakeven",
+     "figure": ""
+    },
+    {
+     "say": "Follow for tomorrow's update.",
+     "show": "Follow Coin Ticker",
+     "figure": ""
+    }
+   ],
+   "origin": "0xTalks",
+   "source_video": "LA CRISI DI SKY | Crypto Recap | 25 Novembre 2026",
+   "narration": "The Nasdaq fell -54% during the 2008 financial crisis. The index crashed from a top of 2,810 down to 1,294 in March 2009. The entire contraction unfolded over a grueling 16-month bear market. Weekly dollar-cost averaging brought average costs near the mid-1600s. Levels moved from 2,434 at start to 2,269 by late 2009. Accumulating through corrections yields vastly faster breakeven times than buying tops. Follow for tomorrow's update.",
+   "ticker": "^IXIC",
+   "sentiment": "neutral",
+   "sources": [],
+   "caption": "Dollar-cost averaging during the 54% Nasdaq crash of 2007-2009 enabled portfolios to achieve breakeven by late 2009.",
+   "hashtags": [
+    "#Nasdaq",
+    "#DCA",
+    "#StockMarket",
+    "#Investing",
+    "#Finance",
+    "#Economy"
+   ]
+  },
+  {
+   "levels": [],
+   "history": {
+    "symbol": "^IXIC",
+    "start": "1999-01",
+    "end": "2012-02"
+   },
+   "title": "Ten-year recovery path buying Nasdaq dot-com bubble peak",
+   "hook": "Dot-Com Crash -77%",
+   "beats": [
+    {
+     "say": "The Nasdaq crashed -77% following the 2000 dot-com peak.",
+     "show": "Dot-Com Crash -77%",
+     "figure": "-77%"
+    },
+    {
+     "say": "The index plunged from 5,047 to 1,163 across 31 months.",
+     "show": "5,047 to 1,163",
+     "figure": "1,163"
+    },
+    {
+     "say": "Buying the exact bubble top required ten full years to reach breakeven.",
+     "show": "10 Years Breakeven",
+     "figure": "10"
+    },
+    {
+     "say": "Starting from 2,326, the index only reclaimed 2,989 by February 2012.",
+     "show": "2,989 in 2012",
+     "figure": "2,989"
+    },
+    {
+     "say": "Macro bubble accumulation demands long horizons and systematic discipline.",
+     "show": "Long Horizons",
+     "figure": ""
+    },
+    {
+     "say": "Purchasing market extremes exposes capital to multi-year recovery periods.",
+     "show": "Recovery Risk",
+     "figure": ""
+    },
+    {
+     "say": "Follow for tomorrow's update.",
+     "show": "Follow Coin Ticker",
+     "figure": ""
+    }
+   ],
+   "origin": "0xTalks",
+   "source_video": "LA CRISI DI SKY | Crypto Recap | 25 Novembre 2026",
+   "narration": "The Nasdaq crashed -77% following the 2000 dot-com peak. The index plunged from 5,047 to 1,163 across 31 months. Buying the exact bubble top required ten full years to reach breakeven. Starting from 2,326, the index only reclaimed 2,989 by February 2012. Macro bubble accumulation demands long horizons and systematic discipline. Purchasing market extremes exposes capital to multi-year recovery periods. Follow for tomorrow's update.",
+   "ticker": "^IXIC",
+   "sentiment": "neutral",
+   "sources": [],
+   "caption": "Starting DCA at the exact 2000 dot-com peak required ten years to break even as the Nasdaq fell 77% over 31 months.",
+   "hashtags": [
+    "#Nasdaq",
+    "#DotCom",
+    "#Investing",
+    "#StockMarket",
+    "#Finance",
+    "#Trading"
+   ]
+  },
+  {
+   "levels": [
+    100000.0
+   ],
+   "history": {
+    "symbol": "BTC-USD",
+    "start": "2018-12",
+    "end": "2023-01"
+   },
+   "title": "Bitcoin on-chain loss metrics match prior bear market lows",
+   "hook": "Holder Losses High",
+   "beats": [
+    {
+     "say": "Bitcoin holder loss ratios match levels seen in the 2022 crash.",
+     "show": "Holder Losses High",
+     "figure": ""
+    },
+    {
+     "say": "The 2021-2022 drawdown saw price fall -75% from 65,467 to 16,292 dollars.",
+     "show": "Drop -75%",
+     "figure": "-75%"
+    },
+    {
+     "say": "That cycle contraction spanned 12 months between December 2018 and January 2023.",
+     "show": "12-Month Duration",
+     "figure": "12"
+    },
+    {
+     "say": "Major overhead resistance sits firmly at the 100,000 dollar level.",
+     "show": "Resistance 100,000",
+     "figure": "100,000"
+    },
+    {
+     "say": "Severe unrealized loss metrics historically point to late-stage market bottoms.",
+     "show": "Late-Stage Bottom",
+     "figure": ""
+    },
+    {
+     "say": "On-chain capitulation signals often precede long-term structural recoveries.",
+     "show": "On-Chain Bottom",
+     "figure": ""
+    },
+    {
+     "say": "Follow for tomorrow's update.",
+     "show": "Follow Coin Ticker",
+     "figure": ""
+    }
+   ],
+   "origin": "0xTalks",
+   "source_video": "LA CRISI DI SKY | Crypto Recap | 25 Novembre 2026",
+   "narration": "Bitcoin holder loss ratios match levels seen in the 2022 crash. The 2021-2022 drawdown saw price fall -75% from 65,467 to 16,292 dollars. That cycle contraction spanned 12 months between December 2018 and January 2023. Major overhead resistance sits firmly at the 100,000 dollar level. Severe unrealized loss metrics historically point to late-stage market bottoms. On-chain capitulation signals often precede long-term structural recoveries. Follow for tomorrow's update.",
+   "ticker": "BTC-USD",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Bitcoin UTXO profit/loss models reflect cyclical stress comparable to historical capitulation phases in 2018, 2020, and 2022.",
+   "hashtags": [
+    "#Bitcoin",
+    "#BTC",
+    "#Crypto",
+    "#OnChain",
+    "#Trading",
+    "#Markets"
+   ]
+  },
+  {
+   "levels": [
+    0.53,
+    0.23
+   ],
+   "history": null,
+   "title": "Derive token drops 60% from peak of 0.53 dollars",
+   "hook": "Derive Down 60%",
+   "beats": [
+    {
+     "say": "Derive token crashed 60% following its peak price level.",
+     "show": "Derive Down 60%",
+     "figure": "-60%"
+    },
+    {
+     "say": "Price plunged from a high of 0.53 down to 0.23 dollars.",
+     "show": "High 0.53 Low 0.23",
+     "figure": "0.23"
+    },
+    {
+     "say": "The sharp drop erased most gains from the initial trading expansion.",
+     "show": "Gains Erased",
+     "figure": ""
+    },
+    {
+     "say": "Losing key support at 0.23 dollars exposes the token to further weakness.",
+     "show": "Support 0.23",
+     "figure": "0.23"
+    },
+    {
+     "say": "The peak level at 0.53 dollars stands as major overhead resistance.",
+     "show": "Resistance 0.53",
+     "figure": "0.53"
+    },
+    {
+     "say": "Extreme drawdowns demonstrate the high risk profile of newly listed assets.",
+     "show": "High Volatility",
+     "figure": ""
+    },
+    {
+     "say": "Follow for tomorrow's update.",
+     "show": "Follow Coin Ticker",
+     "figure": ""
+    }
+   ],
+   "origin": "0xTalks",
+   "source_video": "LA CRISI DI SKY | Crypto Recap | 25 Novembre 2026",
+   "narration": "Derive token crashed 60% following its peak price level. Price plunged from a high of 0.53 down to 0.23 dollars. The sharp drop erased most gains from the initial trading expansion. Losing key support at 0.23 dollars exposes the token to further weakness. The peak level at 0.53 dollars stands as major overhead resistance. Extreme drawdowns demonstrate the high risk profile of newly listed assets. Follow for tomorrow's update.",
+   "ticker": "DRV",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Derive token suffers a 60% drop from 0.53 dollars to 0.23 dollars, testing investor confidence at key support zones.",
+   "hashtags": [
+    "#Derive",
+    "#Crypto",
+    "#Altcoin",
+    "#DeFi",
+    "#Trading",
+    "#Markets"
+   ]
+  },
+  {
+   "levels": [],
+   "history": null,
+   "title": "Sky protocol faces severe liquidity crisis",
+   "hook": "Sky Liquidity Crisis",
+   "beats": [
+    {
+     "say": "Sky protocol enters a severe structural liquidity crisis.",
+     "show": "Sky Liquidity Crisis",
+     "figure": ""
+    },
+    {
+     "say": "Design flaws and founder debt exposure heavily burden the ecosystem.",
+     "show": "Founder Debt",
+     "figure": ""
+    },
+    {
+     "say": "Using platform tokens as collateral amplifies contagion risk during selloffs.",
+     "show": "Contagion Risk",
+     "figure": ""
+    },
+    {
+     "say": "Continued outflows threaten to trigger cascading platform liquidations.",
+     "show": "Cascading Liquidations",
+     "figure": ""
+    },
+    {
+     "say": "Follow for tomorrow's update.",
+     "show": "Follow Coin Ticker",
+     "figure": ""
+    }
+   ],
+   "origin": "0xTalks",
+   "source_video": "LA CRISI DI SKY | Crypto Recap | 25 Novembre 2026",
+   "narration": "Sky protocol enters a severe structural liquidity crisis. Design flaws and founder debt exposure heavily burden the ecosystem. Using platform tokens as collateral amplifies contagion risk during selloffs. Continued outflows threaten to trigger cascading platform liquidations. Follow for tomorrow's update.",
+   "ticker": "SKY",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Sky protocol struggles with structural liquidity challenges driven by internal lending mechanics and collateral design.",
+   "hashtags": [
+    "#Sky",
+    "#DeFi",
+    "#Crypto",
+    "#MakerDAO",
+    "#Finance"
+   ]
+  },
+  {
+   "levels": [],
+   "history": null,
+   "title": "Sky founder holds 77 million dollars in platform debt",
+   "hook": "Founder Debt 77 M",
+   "beats": [
+    {
+     "say": "Sky founder accumulated 77 million dollars in total platform debt.",
+     "show": "Founder Debt 77 M",
+     "figure": "$77 M"
+    },
+    {
+     "say": "The borrowing position relies entirely on staked native governance tokens.",
+     "show": "Staked SKY Collateral",
+     "figure": ""
+    },
+    {
+     "say": "Minor partial repayments have not reduced the overall systemic risk exposure.",
+     "show": "High Exposure",
+     "figure": ""
+    },
+    {
+     "say": "High reliance on token prices creates dangerous wrong-way risk for lenders.",
+     "show": "Wrong-Way Risk",
+     "figure": ""
+    },
+    {
+     "say": "Follow for tomorrow's update.",
+     "show": "Follow Coin Ticker",
+     "figure": ""
+    }
+   ],
+   "origin": "0xTalks",
+   "source_video": "LA CRISI DI SKY | Crypto Recap | 25 Novembre 2026",
+   "narration": "Sky founder accumulated 77 million dollars in total platform debt. The borrowing position relies entirely on staked native governance tokens. Minor partial repayments have not reduced the overall systemic risk exposure. High reliance on token prices creates dangerous wrong-way risk for lenders. Follow for tomorrow's update.",
+   "ticker": "SKY",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "On-chain data reveals $77 million of debt backed by platform tokens, generating significant concentration risk for Sky.",
+   "hashtags": [
+    "#Sky",
+    "#DeFi",
+    "#Crypto",
+    "#MakerDAO",
+    "#Finance"
+   ]
+  },
+  {
+   "levels": [],
+   "history": null,
+   "title": "Sky borrowing pool hits 100% liquidity utilization",
+   "hook": "Utilization 100%",
+   "beats": [
+    {
+     "say": "Sky borrowing pool reached 100% total liquidity utilization.",
+     "show": "Utilization 100%",
+     "figure": "100%"
+    },
+    {
+     "say": "Out of 287 million deposited, only 47 million remains available.",
+     "show": "47 Million Left",
+     "figure": "$47 M"
+    },
+    {
+     "say": "Complete liquidity depletion prevents depositors from redeeming stablecoin funds.",
+     "show": "Redemptions Blocked",
+     "figure": ""
+    },
+    {
+     "say": "Sudden withdrawal constraints trigger immediate liquidity runs across users.",
+     "show": "Withdrawal Panic",
+     "figure": ""
+    },
+    {
+     "say": "Follow for tomorrow's update.",
+     "show": "Follow Coin Ticker",
+     "figure": ""
+    }
+   ],
+   "origin": "0xTalks",
+   "source_video": "LA CRISI DI SKY | Crypto Recap | 25 Novembre 2026",
+   "narration": "Sky borrowing pool reached 100% total liquidity utilization. Out of 287 million deposited, only 47 million remains available. Complete liquidity depletion prevents depositors from redeeming stablecoin funds. Sudden withdrawal constraints trigger immediate liquidity runs across users. Follow for tomorrow's update.",
+   "ticker": "SKY",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Sky liquidity reserves hit 100% utilization, trapping depositor funds and sparking immediate withdrawal pressure.",
+   "hashtags": [
+    "#Sky",
+    "#DeFi",
+    "#Crypto",
+    "#Stablecoin",
+    "#Finance"
+   ]
+  }
+ ],
+ "carousels": {
+  "it": {
+   "topic": "Crisi Sky e Mercati Crypto",
+   "caption": "Dalla crisi di liquidita di Sky all'analisi tecnica su Bitcoin e FTSE MIB, scopri tutti i numeri chiave nell'aggiornamento di oggi. Segui per l'aggiornamento di domani.",
+   "sentiment": "bearish",
+   "ticker": "SKY",
+   "slides": [
+    {
+     "title": "La Crisi di Sky e i Mercati",
+     "body": "Analizziamo la tensione di liquidita nel protocollo Sky, i livelli tecnici di Bitcoin e i confronti storici del mercato."
+    },
+    {
+     "title": "FTSE MIB a 22.000 Punti",
+     "body": "L'indice italiano scambia al doppio del minimo COVID di 22.000 punti, ma evidenzia segnali tecnici di debolezza di breve periodo."
+    },
+    {
+     "title": "77 Miliardi di Debito Sky",
+     "body": "Il fondatore di Sky detiene 77 milioni di dollari di debito in-protocollo con il 73% del debito totale concentrato in due soli portafogli."
+    },
+    {
+     "title": "Corsa ai Prelievi USDC",
+     "body": "Le riserve USDC del Peg Stability Module sono scese da 2,51 miliardi a 808 milioni prima di recuperare a 1,86 miliardi."
+    },
+    {
+     "title": "Contrazione Stablecoin 20 B",
+     "body": "La massa di stablecoin si riduce di 20 miliardi in sessanta giorni scendendo da 300 a 280 miliardi di dollari totali."
+    },
+    {
+     "title": "Bitcoin On-Chain in Perdita",
+     "body": "Oltre 11,4 milioni di Bitcoin risultano in perdita non realizzata, segnando valori simili ai minimi di mercato del 2022."
+    },
+    {
+     "title": "Implicazioni e Scenari",
+     "body": "Le tensioni sul debito DeFi e la contrazione della massa monetaria impongono prudenza operativa. Segui per l'aggiornamento di domani."
+    }
+   ],
+   "hashtags": [
+    "#Sky",
+    "#Bitcoin",
+    "#FTSEMIB",
+    "#DeFi",
+    "#Crypto",
+    "#Mercati",
+    "#Finanza",
+    "#Trading"
+   ]
+  },
+  "en": {
+   "topic": "Sky Protocol Crisis & Market Recap",
+   "caption": "From Sky's liquidity bank run to technical setups on Bitcoin and FTSE MIB, review the vital metrics driving digital assets today. Follow for tomorrow's update.",
+   "sentiment": "bearish",
+   "ticker": "SKY",
+   "slides": [
+    {
+     "title": "Sky Crisis and Market Trends",
+     "body": "Examining Sky protocol's liquidity bank run, key Bitcoin technical setups, and macro market comparisons."
+    },
+    {
+     "title": "FTSE MIB Double COVID Low",
+     "body": "The Italian benchmark trades at twice its 22,000 pandemic crash low, though short-term setups display downward pressure."
+    },
+    {
+     "title": "$77 Million Sky Debt",
+     "body": "Sky founder accounts for $77 million in debt collateralized by native tokens, with 73% of total debt held by two addresses."
+    },
+    {
+     "title": "USDC PSM Bank Run",
+     "body": "Peg Stability Module reserves dropped from $2.51 billion to $808 million before stabilizing back to $1.86 billion."
+    },
+    {
+     "title": "$20B Stablecoin Outflow",
+     "body": "Global stablecoin supply contracted from $300 billion to $280 billion in two months, reflecting macro liquidity headwinds."
+    },
+    {
+     "title": "11.4M Bitcoin in Loss",
+     "body": "Over 11.4 million BTC sit at an unrealized loss, matching structural capitulation levels seen during past bear market bottoms."
+    },
+    {
+     "title": "Key Takeaway",
+     "body": "DeFi liquidity stress and contracting stablecoin supply urge market caution across crypto assets. Follow for tomorrow's update."
+    }
+   ],
+   "hashtags": [
+    "#Sky",
+    "#Bitcoin",
+    "#FTSEMIB",
+    "#DeFi",
+    "#Crypto",
+    "#Markets",
+    "#Finance",
+    "#Trading"
+   ]
+  }
+ }
+}
