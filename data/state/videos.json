@@ -520,5 +520,14 @@
   "first_seen": "2026-11-26T23:12:00.704508+00:00",
   "tries": 1,
   "done_at": "2026-11-26T23:12:12.254945+00:00"
+ },
+ "mwXkMRTdd9k": {
+  "status": "done",
+  "attempts": 0,
+  "channel": "Jason Pizzino",
+  "title": "Bitcoin: This Is Why Price ISN'T Going Up (Double Bluff Low)",
+  "first_seen": "2026-11-27T04:32:53.535946+00:00",
+  "tries": 1,
+  "done_at": "2026-11-27T04:33:49.621739+00:00"
  }
 }
