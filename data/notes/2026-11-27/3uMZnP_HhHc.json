@@ -1,0 +1,337 @@
+{
+ "market_relevance": 9,
+ "scope": "global",
+ "kind": "market update",
+ "summary": "Marco Casario e Damiano analizzano i recenti ribassi dei mercati tecnologici e dei semiconduttori utilizzando gli strumenti di intelligenza artificiale di Quantaste. Esaminano la natura tecnica della correzione, mostrando come i cali siano concentrati in titoli specifici mentre l'S&P 500 mantiene una maggiore forza quantitativa. Vengono confrontati i dati attuali con la bolla dot-com del 2000, evidenziando che le valutazioni odierne dell'intelligenza artificiale sono supportate da utili reali. Infine, la discussione si sposta sulla costruzione di portafogli in stile Core-Satellite, l'uso di indicatori macroeconomici come il Risk On / Risk Off e l'integrazione di assistenti AI tramite server MCP.",
+ "digest_it": "Gli autori analizzano il recente crollo dei mercati tecnologici con l'ausilio dell'AI di Quantaste, esaminando la rotazione settoriale, i dati macroeconomici e la costruzione di un portafoglio Core-Satellite.",
+ "author_tone": "cautious",
+ "tone_evidence": "The speaker analyzes market mechanics and volatility without panic, pointing out that current drops are concentrated in specific tech sectors and advising caution.",
+ "key_points": [
+  {
+   "point": "Nasdaq, Nvidia and semiconductor ETFs experienced heavy drops of 20 to 49 percent from their recent highs.",
+   "timestamp": ""
+  },
+  {
+   "point": "Quantaste rates SPY at 96 for S&P 500 while Nasdaq sits at 32 and semiconductor ETF at 33.",
+   "timestamp": ""
+  },
+  {
+   "point": "VIX spiked above 35 to nearly 40 during late November market volatility.",
+   "timestamp": ""
+  },
+  {
+   "point": "Marvell Technology Group leads US large-cap tech losses with a 44.0 percent drop over the past month.",
+   "timestamp": ""
+  },
+  {
+   "point": "The Risk On / Risk Off macro indicator moved from 50 (neutral) on October 1 to 20 (Risk-Off extreme) on November 27.",
+   "timestamp": ""
+  },
+  {
+   "point": "Consumer Staples and Utilities lead sector performance rankings, while Information Technology ranks last with a median Smart Quant score of 46.",
+   "timestamp": ""
+  },
+  {
+   "point": "Nasdaq 100 P/E in 2000 reached 75.8x compared to 16.3x for current AI leaders.",
+   "timestamp": ""
+  },
+  {
+   "point": "A core-satellite portfolio model uses 70% in a global equity ETF and 30% in tactical sector rotation.",
+   "timestamp": ""
+  }
+ ],
+ "moments": [
+  {
+   "timestamp": "02:33",
+   "topic": "Recent market declines and semiconductor charts",
+   "claim": "Tech indices and semiconductor stocks experienced severe localized drops from recent highs.",
+   "details": "The speaker reviews charts for Nasdaq, Nvidia, and semiconductor ETFs, pointing out losses ranging from 20 to 49 percent from their peaks. He stresses that high market volatility acts as fuel for both upward and downward movements.",
+   "surprise": "Nvidia fell nearly 49 percent from its previous peak.",
+   "kind": "setup",
+   "ticker": "NVDA",
+   "scenario": "High volatility creates sharp drops followed by aggressive rebounds across tech indices.",
+   "conclusion": "Market pullbacks are highly concentrated in tech and semiconductors rather than representing a general market crash.",
+   "levels": [
+    {
+     "value": 132.72,
+     "label": "resistance"
+    }
+   ]
+  },
+  {
+   "timestamp": "04:10",
+   "topic": "Comparing S&P 500, Nasdaq and semiconductors via Quantaste",
+   "claim": "Quantitative scores reveal starkly different stories across US equity indexes over the past month.",
+   "details": "Quantaste gives the S&P 500 a strong buy score of 96 with a 6.36 percent monthly loss, whereas Nasdaq sits at 32 and semiconductor ETF at 33 with a 22 percent loss. The speaker explains that decile scoring shows the S&P 500 outperforming other asset classes.",
+   "surprise": "The S&P 500 maintains a high quantitative score of 96 despite a 6 percent monthly decline.",
+   "kind": "opinion",
+   "ticker": "^GSPC",
+   "conclusion": "The broader S&P 500 remains significantly stronger in quantitative ranking than the tech-heavy Nasdaq and semiconductor sectors."
+  },
+  {
+   "timestamp": "07:23",
+   "topic": "Mechanics of market selloffs and gamma hedging",
+   "claim": "Gamma negative positioning and volatility thresholds force institutional funds into automated selling.",
+   "details": "The speaker explains the four-stage engineering of market drops: negative gamma market maker positioning, delta hedging as underlying prices fall, VIX breaching volatility limits, and algorithmic trend-following funds automatically liquidating positions.",
+   "surprise": "The VIX volatility index surged past 35 and neared 40 in late November.",
+   "kind": "opinion",
+   "conclusion": "Systemic risk management rules force large institutional funds to halve their equity exposure when volatility doubles."
+  },
+  {
+   "timestamp": "11:38",
+   "topic": "Worst-performing large-cap US tech stocks",
+   "claim": "Twelve mega-cap US tech companies lost over 100 billion dollars each in the preceding month.",
+   "details": "A chart displays the twelve worst tech stocks losing significant value, led by Marvel Technology down 44 percent, Intel down 39.8 percent, Dell down 34.4 percent, and Micron down 33.9 percent. All twelve worst performers in this basket belong to the technology sector.",
+   "surprise": "Marvel Technology dropped 44 percent over the course of a single month.",
+   "kind": "opinion",
+   "conclusion": "Massive capital destruction has been heavily concentrated in top-tier technology and semiconductor corporations."
+  },
+  {
+   "timestamp": "12:08",
+   "topic": "Worst performing US tech stocks",
+   "claim": "Marvell and Intel are among the worst 12 technology stocks in the US with market caps over 100 billion dollars.",
+   "details": "The chart presents Marvell down 44.0 percent and Intel down 39.8 percent over the past month. The speakers use Quantaste to screen and organize these tech laggards into a readable table with capitalization and performance data.",
+   "surprise": "Marvell dropped 44.0 percent in just one month.",
+   "kind": "news",
+   "ticker": "MRVL",
+   "conclusion": "Quantitative screening helps investors quickly evaluate losses across major technology names."
+  },
+  {
+   "timestamp": "17:23",
+   "topic": "SMH semiconductor ETF exit rule",
+   "claim": "Quantaste exited semiconductor holdings when the score dropped from 80 to 60, avoiding subsequent major losses.",
+   "details": "The speaker reviews the SMH semiconductor ETF chart, noting that the quantitative model entered when the score reached 80 and exited when it fell to 60. This rule successfully bypassed the subsequent sharp sell-off in chips.",
+   "surprise": "The model avoided the worst of the semiconductor decline by strictly following numerical exit rules.",
+   "kind": "setup",
+   "ticker": "SMH",
+   "scenario": "Enter when score hits 80, exit when score falls to 60.",
+   "conclusion": "Quantitative discipline protects portfolios from emotional decision-making during sector corrections.",
+   "levels": [
+    {
+     "value": 80.0,
+     "label": "target"
+    },
+    {
+     "value": 60.0,
+     "label": "low"
+    }
+   ]
+  },
+  {
+   "timestamp": "19:47",
+   "topic": "Risk On / Risk Off indicator shift",
+   "claim": "The macroeconomic Risk On / Risk Off indicator dropped from 50 on October 1 to 20 on November 27.",
+   "details": "The dashboard shows the macro indicator shifting from a neutral 50 to an extreme Risk-Off 20. Suggested asset allocation shifted from 50 percent equities and 30 percent bonds to 25 percent equities and 35 percent bonds, with cash increasing to 40 percent.",
+   "surprise": "Equity allocation was halved from 50 to 25 percent as the macro indicator deteriorated.",
+   "kind": "opinion",
+   "conclusion": "Macro indicators signaled a defensive posture well before the worst market pressure materialized.",
+   "levels": [
+    {
+     "value": 50.0,
+     "label": "high"
+    },
+    {
+     "value": 20.0,
+     "label": "low"
+    }
+   ]
+  },
+  {
+   "timestamp": "23:05",
+   "topic": "Sector rotation and defensive leadership",
+   "claim": "Consumer Staples and Utilities lead sector rankings, while Information Technology lags behind.",
+   "details": "Quantaste sector rankings show Consumer Staples with a median Smart Quant score near 70 and Utilities at 62, whereas Information Technology sits at the bottom with a score of 46. Defensive sectors attract safe-haven flows during tech weakness.",
+   "surprise": "Consumer Staples outperformed tech with 33 percent of its stocks trading above the entry threshold.",
+   "kind": "news",
+   "conclusion": "Capital rotates toward defensive sectors when technology experiences prolonged drawdowns.",
+   "levels": [
+    {
+     "value": 80.0,
+     "label": "resistance"
+    }
+   ]
+  },
+  {
+   "timestamp": "24:04",
+   "topic": "Apple quant profile and checklist",
+   "claim": "Apple maintains a top-tier Smart Quant score supported by strong fundamentals and positive trend indicators.",
+   "details": "The analysis shows Apple at 99 on Smart Quant, rated Strong Buy with high momentum and positive trend alignment across short, medium, and long terms. Valuation stands at fair value with risk assessed as less volatile than the sector.",
+   "surprise": "Apple achieves a near-perfect 99 score on the Smart Quant metric.",
+   "kind": "setup",
+   "ticker": "AAPL",
+   "scenario": "Price near the upper valuation band with strong momentum and fair value positioning.",
+   "conclusion": "Apple remains in a solid position within its sector despite broader market fluctuations.",
+   "levels": [
+    {
+     "value": 299.5,
+     "label": "target"
+    }
+   ]
+  },
+  {
+   "timestamp": "28:48",
+   "topic": "Micron and Nvidia comparative analysis",
+   "claim": "Both Micron and Nvidia trigger sell signals on Smart Quant due to weakening trends and elevated risk metrics.",
+   "details": "Micron scores 58 and Nvidia 41 on Smart Quant, with both positioned below the exit threshold of 60. Micron displays strong momentum at 89 but weak trend indicators, while Nvidia shows weaker momentum at 43 and negative trend readings.",
+   "surprise": "Both high-flying semiconductor giants trigger sell recommendations based on quant thresholds.",
+   "kind": "setup",
+   "ticker": "MU",
+   "scenario": "Both assets drop below the 60 threshold, indicating exit zones while maintaining divergent momentum metrics.",
+   "conclusion": "Quantitative screening helps identify internal sector rotation and risks before broad pullbacks.",
+   "levels": [
+    {
+     "value": 60.0,
+     "label": "target"
+    },
+    {
+     "value": 1243.27,
+     "label": "target"
+    }
+   ]
+  },
+  {
+   "timestamp": "30:35",
+   "topic": "Dot-com bubble comparison with AI",
+   "claim": "Current AI sector valuations feature solid earnings support unlike the speculative excess of the 2000 dot-com bubble.",
+   "details": "The speaker contrasts the Nasdaq P/E ratio of 75.8x in 2000 - with Cisco at 130x and Oracle at 120x - against today's AI leaders averaging 16.3x P/E. He notes that the AI cycle gained 116% four years after launch compared to 283% for the dot-com bubble.",
+   "surprise": "Current AI tech leaders trade at an average P/E of 16.3x, a fraction of the 75.8x seen in March 2000.",
+   "kind": "history",
+   "ticker": "^NDX",
+   "conclusion": "While risks exist, the fundamental earnings backing today's market leaders make it a structurally different environment.",
+   "history": {
+    "symbol": "^NDX",
+    "start": "2000-03",
+    "end": "2002-10",
+    "story": "The dot-com bubble peaked in March 2000 with a Nasdaq P/E above 75x before experiencing a severe crash exceeding 50% over the following two years.",
+    "parallel": "Today's AI momentum shows lower percentage gains after four years and is backed by tangible earnings, limiting downside risk compared to 2000."
+   }
+  },
+  {
+   "timestamp": "36:00",
+   "topic": "AI limitations in financial analysis",
+   "claim": "Artificial intelligence struggles to properly contextualize complex multi-variable macroeconomic scenarios.",
+   "details": "The speaker argues that AI tools search web databases broadly but lack the historical quantitative frameworks needed for nuanced investment decisions. Prompting AI with complex what-if economic scenarios yields generic or flawed outputs because real financial data is costly and proprietary.",
+   "surprise": "AI cannot reliably handle complex multi-conditional financial scenarios compared to proprietary quantitative models.",
+   "kind": "opinion",
+   "conclusion": "Financial analysis requires dedicated quantitative algorithms and reliable weighted data sources rather than generic AI prompts."
+  },
+  {
+   "timestamp": "39:18",
+   "topic": "Quantaste US stock screening",
+   "claim": "Quantaste identifies US stocks with high Smart Quant scores and market capitalization above 10 billion dollars.",
+   "details": "The screener filters for US equities with Smart Quant scores above 80 and market caps exceeding 10 billion dollars. Results show different sector distributions between the US and Europe, highlighting defensive positioning in US energy and healthcare.",
+   "surprise": "Over 761 US stocks meet the strict high Smart Quant criteria during current market conditions.",
+   "kind": "market update",
+   "conclusion": "Sector performance varies significantly between geographies depending on prevailing macroeconomic regimes."
+  },
+  {
+   "timestamp": "46:10",
+   "topic": "Comparing Veralto and Thermo Fisher",
+   "claim": "Veralto and Thermo Fisher both achieve a 97 Smart Quant score but operate in different momentum phases.",
+   "details": "Veralto (VLTO) shows an acceleration of plus 16 percent over the last month with strong short and medium-term bullish trends. Thermo Fisher Scientific (TMO) has stronger fundamentals at 67 versus 53 for Veralto, but its price has remained flat over the past month.",
+   "surprise": "Despite identical Smart Quant scores of 97, Veralto shows strong price acceleration while Thermo Fisher is paused.",
+   "kind": "stock pick",
+   "ticker": "VLTO",
+   "scenario": "Compare VLTO and TMO momentum and fundamental pillars to determine positioning suitability.",
+   "conclusion": "Both stocks offer high quantitative potential, but investors must weigh Veralto's price acceleration against Thermo Fisher's stronger fundamentals.",
+   "levels": [
+    {
+     "value": 109.58,
+     "label": "support"
+    },
+    {
+     "value": 128.3,
+     "label": "resistance"
+    }
+   ]
+  },
+  {
+   "timestamp": "48:28",
+   "topic": "Core-Satellite Portfolio Strategy",
+   "claim": "Portfolio construction should balance a core global asset with diversified satellite positions rather than chasing single opportunities.",
+   "details": "The speaker explains that having a multi-asset global portfolio makes it extremely limiting to hunt for single opportunities. Building a balanced portfolio requires rules for asset allocation and rebalancing, which will be the main topic of the upcoming Monday webinar.",
+   "surprise": "Treating portfolio building like a Swiss knife ensures balanced risk rather than random stock picking.",
+   "kind": "opinion",
+   "conclusion": "A disciplined core-satellite approach is essential for long-term portfolio management."
+  },
+  {
+   "timestamp": "49:17",
+   "topic": "Quantaste Portfolio Prompt",
+   "claim": "Advanced prompts in Quantaste automate regime detection, asset selection, and rebalancing rules.",
+   "details": "The prompt instructs the AI to check the On/Off score for macro risk, select top S&P 500 sectors in a stagflation regime, allocate 70% to a global UCITS ETF and 30% to sector rotation, and park cash in Treasury or money market ETFs when macro brakes are active.",
+   "surprise": "The automated prompt handles complex multi-step asset allocation and risk rules in seconds.",
+   "kind": "opinion",
+   "conclusion": "Automated prompts streamline the creation of rules-based portfolio models."
+  },
+  {
+   "timestamp": "52:39",
+   "topic": "Black Friday Subscription Discount",
+   "claim": "The 50% discount on annual Quantaste subscriptions is available during Black Friday promotions.",
+   "details": "The speakers clarify that the 50% price reduction applies exclusively to annual plans, as monthly rates are already discounted as much as possible. They remind viewers to use the discount code provided in the Telegram channel and video description.",
+   "surprise": "The steep discount applies only to yearly commitments due to high ongoing data and AI call costs.",
+   "kind": "opinion",
+   "conclusion": "Annual subscriptions offer significant savings during promotional periods."
+  },
+  {
+   "timestamp": "56:03",
+   "topic": "AI Assistant Integration via MCP",
+   "claim": "Quantaste can connect directly with external AI interfaces like Claude, ChatGPT, and Cursor using simple setup commands.",
+   "details": "Users can link Quantaste to their preferred AI environment in three simple steps by copying the MCP server configuration string. The connection allows the AI to read portfolio data and screening metrics while maintaining security by not allowing trading execution or password access.",
+   "surprise": "The integration lets users run custom portfolio queries directly inside advanced coding and chat assistants.",
+   "kind": "opinion",
+   "conclusion": "MCP integration bridges platform data with personal AI assistants seamlessly."
+  },
+  {
+   "timestamp": "57:31",
+   "topic": "Scalable Capital Portfolio Analysis",
+   "claim": "Connecting Quantaste to a Scalable Capital portfolio automatically generates news impact summaries and risk alerts.",
+   "details": "The AI scans portfolio holdings and highlights four key events: expected Fed rate discussions affecting long-term Treasuries, Nvidia and Nasdaq exposure warnings regarding regulatory news, Bitcoin drawdown trends, and Bank of Japan policy shifts impacting JPY short positions.",
+   "surprise": "The AI instantly synthesizes portfolio-specific news alerts from a list of over thirty holdings.",
+   "kind": "opinion",
+   "ticker": "NVDA",
+   "conclusion": "Automated portfolio news summaries help investors stay informed on critical risk exposures."
+  },
+  {
+   "timestamp": "60:00",
+   "topic": "Stream wrap-up and final announcements",
+   "claim": "The hosts conclude the session and remind viewers of upcoming content.",
+   "details": "They announce the next broadcast for Monday, mention the contact email for plan information, and highlight Damiano's dedicated channels.",
+   "surprise": "None",
+   "kind": "opinion",
+   "conclusion": "The broadcast ends with wishes for a good weekend."
+  }
+ ],
+ "tickers": [
+  "NVDA",
+  "^GSPC",
+  "MRVL",
+  "INTC",
+  "DELL",
+  "MU",
+  "PBR",
+  "ARM",
+  "STX",
+  "SCCO"
+ ],
+ "predictions": [],
+ "catalysts": [
+  "Fed rate announcements",
+  "Bank of Japan monetary policy decisions"
+ ],
+ "rumors": [],
+ "curiosities": [
+  "The creator plans to include successful AI prompts directly within the Quantaste University section for subscribers.",
+  "The AI assistant can read portfolio structures and provide customized news reports without having permission to execute trades."
+ ],
+ "promo": true,
+ "language": "it",
+ "video_id": "3uMZnP_HhHc",
+ "title": "Dopo il CROLLO: quali Opportunità con l'AI di Quantaste",
+ "author": "Marco Casario EXTRA",
+ "url": "https://www.youtube.com/watch?v=3uMZnP_HhHc",
+ "published": "2026-11-27T16:37:17+00:00",
+ "duration_min": 62,
+ "partial": false,
+ "analysed_at": "2026-11-27T23:15:16.821595+00:00",
+ "model": "gemini-3.5-flash-lite"
+}

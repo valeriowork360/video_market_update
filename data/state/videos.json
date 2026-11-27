@@ -556,5 +556,50 @@
   "first_seen": "2026-11-27T14:52:13.429241+00:00",
   "tries": 1,
   "last_error": "Gemini non riesce ad aprire questo video adesso (live appena finita, video riservato o rimosso)"
+ },
+ "3uMZnP_HhHc": {
+  "status": "done",
+  "attempts": 0,
+  "channel": "Marco Casario EXTRA",
+  "title": "Dopo il CROLLO: quali Opportunità con l'AI di Quantaste",
+  "first_seen": "2026-11-27T23:13:37.893805+00:00",
+  "tries": 1,
+  "done_at": "2026-11-27T23:15:16.822247+00:00"
+ },
+ "W3kw1SGge_M": {
+  "status": "pending",
+  "attempts": 0,
+  "channel": "0xTalks",
+  "title": "ALT IN SALDO? | 0xFriday | 27 Novembre 2026",
+  "first_seen": "2026-11-27T23:15:16.823380+00:00",
+  "tries": 1,
+  "last_error": "Gemini non riesce ad aprire questo video adesso (live appena finita, video riservato o rimosso)"
+ },
+ "RunXZnmIsR0": {
+  "status": "pending",
+  "attempts": 0,
+  "channel": "Jeremy Lefebvre Clips",
+  "title": "I Just Bought The DIP! EASY MONEYYYYY",
+  "first_seen": "2026-11-27T23:15:16.987322+00:00",
+  "tries": 1,
+  "last_error": "Gemini non riesce ad aprire questo video adesso (live appena finita, video riservato o rimosso)"
+ },
+ "HWarJI1dKrk": {
+  "status": "pending",
+  "attempts": 0,
+  "channel": "Jeremy Lefebvre Clips",
+  "title": "MARKET RALLY or MARKET CRASH? Big Moves Ahead!",
+  "first_seen": "2026-11-27T23:15:24.006841+00:00",
+  "tries": 1,
+  "last_error": "Gemini non riesce ad aprire questo video adesso (live appena finita, video riservato o rimosso)"
+ },
+ "4Sl5SIyTpc4": {
+  "status": "pending",
+  "attempts": 0,
+  "channel": "Jeremy Lefebvre Clips",
+  "title": "TOP 5 STOCKS TO BUY in December 2026!",
+  "first_seen": "2026-11-27T23:15:31.039867+00:00",
+  "tries": 1,
+  "last_error": "Gemini non riesce ad aprire questo video adesso (live appena finita, video riservato o rimosso)"
  }
 }
