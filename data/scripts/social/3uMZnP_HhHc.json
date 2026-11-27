@@ -1,0 +1,1190 @@
+{
+ "it": [
+  {
+   "levels": [],
+   "history": {
+    "symbol": "^NDX",
+    "start": "2000-03",
+    "end": "2002-10"
+   },
+   "title": "Nasdaq a 4.692 punti: il confronto 2000",
+   "hook": "Nasdaq -83%",
+   "beats": [
+    {
+     "say": "Nasdaq in calo del 83% nel crash del 2000.",
+     "show": "Nasdaq -83%",
+     "figure": "-83%"
+    },
+    {
+     "say": "Tra marzo 2000 e settembre 2002 l'indice è sceso da 4.692 a 815 punti in 30 mesi.",
+     "show": "Crollo Dot-Com",
+     "figure": "4.692"
+    },
+    {
+     "say": "All'epoca il rapporto prezzo utili sfiorava 75,8 volte mentre oggi le aziende AI scambiano a 16,3 volte.",
+     "show": "P/E 16,3x",
+     "figure": "16,3x"
+    },
+    {
+     "say": "I profitti reali del settore tecnologico sostengono le valutazioni attuali rispetto al 2000.",
+     "show": "Utili Reali",
+     "figure": ""
+    },
+    {
+     "say": "Il supporto fondamentale limita i rischi di un crollo strutturale. Segui per l'aggiornamento di domani.",
+     "show": "Limite Rischio",
+     "figure": ""
+    }
+   ],
+   "origin": "Marco Casario EXTRA",
+   "source_video": "Dopo il CROLLO: quali Opportunità con l'AI di Quantaste",
+   "narration": "Nasdaq in calo del 83% nel crash del 2000. Tra marzo 2000 e settembre 2002 l'indice è sceso da 4.692 a 815 punti in 30 mesi. All'epoca il rapporto prezzo utili sfiorava 75,8 volte mentre oggi le aziende AI scambiano a 16,3 volte. I profitti reali del settore tecnologico sostengono le valutazioni attuali rispetto al 2000. Il supporto fondamentale limita i rischi di un crollo strutturale. Segui per l'aggiornamento di domani.",
+   "ticker": "^NDX",
+   "sentiment": "neutral",
+   "sources": [],
+   "caption": "Il confronto tra la bolla del 2000 e il settore AI evidenzia valutazioni sbarcate su utili reali.",
+   "hashtags": [
+    "#Nasdaq",
+    "#Borsa",
+    "#Investimenti",
+    "#Trading",
+    "#Finanza",
+    "#AI"
+   ]
+  },
+  {
+   "levels": [
+    132.72
+   ],
+   "history": null,
+   "title": "Nvidia -49%: resistenza a 132,72 dollari",
+   "hook": "Nvidia -49%",
+   "beats": [
+    {
+     "say": "Nvidia perde il 49% dal suo massimo storico.",
+     "show": "Nvidia -49%",
+     "figure": "-49%"
+    },
+    {
+     "say": "La volatilità sui semiconduttori ha spinto il titolo in una correzione profonda.",
+     "show": "Correzione Tech",
+     "figure": ""
+    },
+    {
+     "say": "Il ribasso resta concentrato sui chip mentre il mercato ampio tiene.",
+     "show": "Settore Chip",
+     "figure": ""
+    },
+    {
+     "say": "Se il prezzo supera la resistenza a 132,72 dollari la struttura rialzista riprende forza.",
+     "show": "Resistenza 132,72",
+     "figure": "132,72"
+    },
+    {
+     "say": "La tenuta dei livelli chiave determinerà il prossimo movimento. Segui per l'aggiornamento di domani.",
+     "show": "Livello Chiave",
+     "figure": ""
+    }
+   ],
+   "origin": "Marco Casario EXTRA",
+   "source_video": "Dopo il CROLLO: quali Opportunità con l'AI di Quantaste",
+   "narration": "Nvidia perde il 49% dal suo massimo storico. La volatilità sui semiconduttori ha spinto il titolo in una correzione profonda. Il ribasso resta concentrato sui chip mentre il mercato ampio tiene. Se il prezzo supera la resistenza a 132,72 dollari la struttura rialzista riprende forza. La tenuta dei livelli chiave determinerà il prossimo movimento. Segui per l'aggiornamento di domani.",
+   "ticker": "NVDA",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Nvidia registra una contrazione del 49% con resistenza posizionata a 132,72 dollari.",
+   "hashtags": [
+    "#Nvidia",
+    "#NVDA",
+    "#Semiconduttori",
+    "#Trading",
+    "#Borsa",
+    "#Finanza"
+   ]
+  },
+  {
+   "levels": [
+    80.0,
+    60.0
+   ],
+   "history": null,
+   "title": "SMH a quota 60: scatta la regola d'uscita",
+   "hook": "ETF Chips -22%",
+   "beats": [
+    {
+     "say": "ETF Semiconduttori giù del 22% nell'ultimo mese.",
+     "show": "ETF Chips -22%",
+     "figure": "-22%"
+    },
+    {
+     "say": "Il punteggio quantitativo dell'ETF SMH è entrato a livello 80 ed è sceso fino a 60.",
+     "show": "Soglia 80",
+     "figure": "80"
+    },
+    {
+     "say": "La regola sanziona l'uscita quando il punteggio scende a 60 evitando perdite maggiori.",
+     "show": "Uscita a 60",
+     "figure": "60"
+    },
+    {
+     "say": "Se il punteggio non torna sopra 60 il settore resta in fase difensiva.",
+     "show": "Stop Disciplina",
+     "figure": ""
+    },
+    {
+     "say": "La disciplina numerica protegge il capitale dai ribassi di settore. Segui per l'aggiornamento di domani.",
+     "show": "Protezione Capitale",
+     "figure": ""
+    }
+   ],
+   "origin": "Marco Casario EXTRA",
+   "source_video": "Dopo il CROLLO: quali Opportunità con l'AI di Quantaste",
+   "narration": "ETF Semiconduttori giù del 22% nell'ultimo mese. Il punteggio quantitativo dell'ETF SMH è entrato a livello 80 ed è sceso fino a 60. La regola sanziona l'uscita quando il punteggio scende a 60 evitando perdite maggiori. Se il punteggio non torna sopra 60 il settore resta in fase difensiva. La disciplina numerica protegge il capitale dai ribassi di settore. Segui per l'aggiornamento di domani.",
+   "ticker": "SMH",
+   "sentiment": "neutral",
+   "sources": [],
+   "caption": "L'uscita automatica a quota 60 sull'ETF SMH protegge il capitale durante la correzione dei chip.",
+   "hashtags": [
+    "#SMH",
+    "#ETF",
+    "#Semiconduttori",
+    "#Trading",
+    "#Borsa",
+    "#Finanza"
+   ]
+  },
+  {
+   "levels": [
+    299.5
+   ],
+   "history": null,
+   "title": "Apple a quota 99: target a 299,50 dollari",
+   "hook": "Apple Punteggio 99",
+   "beats": [
+    {
+     "say": "Apple registra un punteggio quantitativo di 99.",
+     "show": "Apple Punteggio 99",
+     "figure": "99"
+    },
+    {
+     "say": "Il titolo mantiene una forza quantitativa elevata nonostante la debolezza del settore tech.",
+     "show": "Trend Rialzista",
+     "figure": ""
+    },
+    {
+     "say": "La valutazione resta coerente con i profitti reali e l'inerzia di breve termine.",
+     "show": "Valore Congruo",
+     "figure": ""
+    },
+    {
+     "say": "Se il trend prosegue la fascia superiore del canale posiziona il target a 299,50 dollari.",
+     "show": "Target 299,50 $",
+     "figure": "299,50"
+    },
+    {
+     "say": "La solidità fondamentale sostiene la stabilità del prezzo. Segui per l'aggiornamento di domani.",
+     "show": "Forza Relativa",
+     "figure": ""
+    }
+   ],
+   "origin": "Marco Casario EXTRA",
+   "source_video": "Dopo il CROLLO: quali Opportunità con l'AI di Quantaste",
+   "narration": "Apple registra un punteggio quantitativo di 99. Il titolo mantiene una forza quantitativa elevata nonostante la debolezza del settore tech. La valutazione resta coerente con i profitti reali e l'inerzia di breve termine. Se il trend prosegue la fascia superiore del canale posiziona il target a 299,50 dollari. La solidità fondamentale sostiene la stabilità del prezzo. Segui per l'aggiornamento di domani.",
+   "ticker": "AAPL",
+   "sentiment": "bullish",
+   "sources": [],
+   "caption": "Apple ottiene un punteggio di 99 con target di valutazione superiore a 299,50 dollari.",
+   "hashtags": [
+    "#Apple",
+    "#AAPL",
+    "#Borsa",
+    "#Investimenti",
+    "#Trading",
+    "#Finanza"
+   ]
+  },
+  {
+   "levels": [
+    60.0,
+    1243.27
+   ],
+   "history": null,
+   "title": "Micron sotto quota 60: scatta l'uscita",
+   "hook": "Micron -33,9%",
+   "beats": [
+    {
+     "say": "Micron perde il 33,9% in un solo mese.",
+     "show": "Micron -33,9%",
+     "figure": "-33,9%"
+    },
+    {
+     "say": "Il punteggio quantitativo di Micron è sceso a 58 mentre Nvidia si ferma a 41.",
+     "show": "Punteggio 58",
+     "figure": "58"
+    },
+    {
+     "say": "Entrambi i colossi del chip hanno infranto al ribasso la soglia critica di 60.",
+     "show": "Sotto 60",
+     "figure": "60"
+    },
+    {
+     "say": "Se l'indice prosegue la fase correttiva la resistenza a 1243,27 segna il limite superiore.",
+     "show": "Livello 1243,27",
+     "figure": "1243,27"
+    },
+    {
+     "say": "L'uscita sistematica segnala la rotazione fuori dai chip. Segui per l'aggiornamento di domani.",
+     "show": "Rotazione Settore",
+     "figure": ""
+    }
+   ],
+   "origin": "Marco Casario EXTRA",
+   "source_video": "Dopo il CROLLO: quali Opportunità con l'AI di Quantaste",
+   "narration": "Micron perde il 33,9% in un solo mese. Il punteggio quantitativo di Micron è sceso a 58 mentre Nvidia si ferma a 41. Entrambi i colossi del chip hanno infranto al ribasso la soglia critica di 60. Se l'indice prosegue la fase correttiva la resistenza a 1243,27 segna il limite superiore. L'uscita sistematica segnala la rotazione fuori dai chip. Segui per l'aggiornamento di domani.",
+   "ticker": "MU",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Micron e Nvidia rompono al ribasso la soglia quantitativa 60 evidenziando pressione sul comparto chip.",
+   "hashtags": [
+    "#Micron",
+    "#MU",
+    "#Nvidia",
+    "#Borsa",
+    "#Trading",
+    "#Finanza"
+   ]
+  },
+  {
+   "levels": [
+    109.58,
+    128.3
+   ],
+   "history": null,
+   "title": "Veralto a quota 97: accelerazione del 16%",
+   "hook": "Veralto +16%",
+   "beats": [
+    {
+     "say": "Veralto accelera del 16% nell'ultimo mese.",
+     "show": "Veralto +16%",
+     "figure": "+16%"
+    },
+    {
+     "say": "Il titolo raggiunge un punteggio quantitativo di 97 pari a Thermo Fisher.",
+     "show": "Punteggio 97",
+     "figure": "97"
+    },
+    {
+     "say": "Veralto mostra una spinta sui prezzi superiore pur avendo fondamentali leggermente inferiori.",
+     "show": "Momento Prezzo",
+     "figure": ""
+    },
+    {
+     "say": "Se il supporto a 109,58 tiene la resistenza a 128,30 dollari rimane l'obiettivo principale.",
+     "show": "Resistenza 128,30",
+     "figure": "128,30"
+    },
+    {
+     "say": "Il confronto tra momento e fondamentali guida la selezione dei titoli. Segui per l'aggiornamento di domani.",
+     "show": "Selezione Titoli",
+     "figure": ""
+    }
+   ],
+   "origin": "Marco Casario EXTRA",
+   "source_video": "Dopo il CROLLO: quali Opportunità con l'AI di Quantaste",
+   "narration": "Veralto accelera del 16% nell'ultimo mese. Il titolo raggiunge un punteggio quantitativo di 97 pari a Thermo Fisher. Veralto mostra una spinta sui prezzi superiore pur avendo fondamentali leggermente inferiori. Se il supporto a 109,58 tiene la resistenza a 128,30 dollari rimane l'obiettivo principale. Il confronto tra momento e fondamentali guida la selezione dei titoli. Segui per l'aggiornamento di domani.",
+   "ticker": "VLTO",
+   "sentiment": "bullish",
+   "sources": [],
+   "caption": "Veralto corre del 16% nell'ultimo mese mantenendo un punteggio quantitativo di 97.",
+   "hashtags": [
+    "#Veralto",
+    "#VLTO",
+    "#Borsa",
+    "#Investimenti",
+    "#Trading",
+    "#Finanza"
+   ]
+  },
+  {
+   "levels": [],
+   "history": null,
+   "title": "S&P 500 a quota 96: stacco dal Nasdaq -22%",
+   "hook": "S&P 500 Score 96",
+   "beats": [
+    {
+     "say": "L'S&P 500 registra un punteggio di 96 nonostante il calo.",
+     "show": "S&P 500 Score 96",
+     "figure": "96"
+    },
+    {
+     "say": "L'indice perde solo il 6,4% a fronte del crollo del 22% sui semiconduttori.",
+     "show": "S&P 500 -6,4%",
+     "figure": "-6,4%"
+    },
+    {
+     "say": "Il Nasdaq si ferma a punteggio 32 evidenziando una profonda debolezza tecnologica.",
+     "show": "Nasdaq Score 32",
+     "figure": "32"
+    },
+    {
+     "say": "Se la forza dell'S&P 500 tiene il mercato ampio evita un crollo generalizzato.",
+     "show": "Forza Mercato",
+     "figure": ""
+    },
+    {
+     "say": "La divergenza tra indici conferma una correzione concentrata. Segui per l'aggiornamento di domani.",
+     "show": "Divergenza Indici",
+     "figure": ""
+    }
+   ],
+   "origin": "Marco Casario EXTRA",
+   "source_video": "Dopo il CROLLO: quali Opportunità con l'AI di Quantaste",
+   "narration": "L'S&P 500 registra un punteggio di 96 nonostante il calo. L'indice perde solo il 6,4% a fronte del crollo del 22% sui semiconduttori. Il Nasdaq si ferma a punteggio 32 evidenziando una profonda debolezza tecnologica. Se la forza dell'S&P 500 tiene il mercato ampio evita un crollo generalizzato. La divergenza tra indici conferma una correzione concentrata. Segui per l'aggiornamento di domani.",
+   "ticker": "^GSPC",
+   "sentiment": "neutral",
+   "sources": [],
+   "caption": "L'S&P 500 mantiene una valutazione quantitativa di 96 dimostrando resilienza rispetto al Nasdaq.",
+   "hashtags": [
+    "#SP500",
+    "#Nasdaq",
+    "#Borsa",
+    "#Investimenti",
+    "#Trading",
+    "#Finanza"
+   ]
+  },
+  {
+   "levels": [],
+   "history": null,
+   "title": "VIX a quota 40: vendite automatiche",
+   "hook": "VIX a 40",
+   "beats": [
+    {
+     "say": "Il VIX vola a 40 scatenando le vendite automatiche.",
+     "show": "VIX a 40",
+     "figure": "40"
+    },
+    {
+     "say": "Il superamento di quota 35 attiva la copertura delta dei market maker in gamma negativo.",
+     "show": "Soglia 35",
+     "figure": "35"
+    },
+    {
+     "say": "I fondi algoritmici dimezzano l'esposizione azionaria quando la volatilità raddoppia.",
+     "show": "Vendite Algoritmi",
+     "figure": ""
+    },
+    {
+     "say": "Se il VIX resta sopra 30 i flussi sistematici continuano a vendere.",
+     "show": "VIX Sopra 30",
+     "figure": "30"
+    },
+    {
+     "say": "La gestione del rischio istituzionale accelera le fasi di ribasso. Segui per l'aggiornamento di domani.",
+     "show": "Rischio Algoritmico",
+     "figure": ""
+    }
+   ],
+   "origin": "Marco Casario EXTRA",
+   "source_video": "Dopo il CROLLO: quali Opportunità con l'AI di Quantaste",
+   "narration": "Il VIX vola a 40 scatenando le vendite automatiche. Il superamento di quota 35 attiva la copertura delta dei market maker in gamma negativo. I fondi algoritmici dimezzano l'esposizione azionaria quando la volatilità raddoppia. Se il VIX resta sopra 30 i flussi sistematici continuano a vendere. La gestione del rischio istituzionale accelera le fasi di ribasso. Segui per l'aggiornamento di domani.",
+   "ticker": "^VIX",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "L'impennata del VIX verso quota 40 innesca vendite sistematiche da parte dei fondi algoritmici.",
+   "hashtags": [
+    "#VIX",
+    "#Volatilità",
+    "#Borsa",
+    "#Trading",
+    "#Finanza",
+    "#Mercati"
+   ]
+  },
+  {
+   "levels": [],
+   "history": null,
+   "title": "Marvell -44%: crollo dei mega-cap tech",
+   "hook": "Marvell -44%",
+   "beats": [
+    {
+     "say": "Marvell cade del 44% in soli trenta giorni.",
+     "show": "Marvell -44%",
+     "figure": "-44%"
+    },
+    {
+     "say": "Dodici colossi tecnologici statunitensi hanno perso oltre 100 miliardi ciascuno.",
+     "show": "Persi 100Mld $",
+     "figure": "100"
+    },
+    {
+     "say": "Intel segna meno 39,8% e Micron cede il 33,9% nello stesso intervallo.",
+     "show": "Intel -39,8%",
+     "figure": "-39,8%"
+    },
+    {
+     "say": "Se la pressione sui semiconduttori continua la distruzione di capitale aumenta.",
+     "show": "Pressione Chip",
+     "figure": ""
+    },
+    {
+     "say": "I dati quantitativi evidenziano una forte concentrazione del ribasso. Segui per l'aggiornamento di domani.",
+     "show": "Valutazione Rischio",
+     "figure": ""
+    }
+   ],
+   "origin": "Marco Casario EXTRA",
+   "source_video": "Dopo il CROLLO: quali Opportunità con l'AI di Quantaste",
+   "narration": "Marvell cade del 44% in soli trenta giorni. Dodici colossi tecnologici statunitensi hanno perso oltre 100 miliardi ciascuno. Intel segna meno 39,8% e Micron cede il 33,9% nello stesso intervallo. Se la pressione sui semiconduttori continua la distruzione di capitale aumenta. I dati quantitativi evidenziano una forte concentrazione del ribasso. Segui per l'aggiornamento di domani.",
+   "ticker": "MRVL",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Marvell trascina i mega-cap tecnologici statunitensi con un calo mensile del 44%.",
+   "hashtags": [
+    "#Marvell",
+    "#MRVL",
+    "#Intel",
+    "#Micron",
+    "#Borsa",
+    "#Finanza"
+   ]
+  },
+  {
+   "levels": [],
+   "history": null,
+   "title": "Rischio Macro a quota 20: azioni al 25%",
+   "hook": "Rischio Macro 20",
+   "beats": [
+    {
+     "say": "Indicatore macro crolla da 50 a quota 20.",
+     "show": "Rischio Macro 20",
+     "figure": "20"
+    },
+    {
+     "say": "L'indicatore di rischio è passato da neutrale a un contesto di avversione al rischio.",
+     "show": "Risk-Off Estremo",
+     "figure": ""
+    },
+    {
+     "say": "L'asset allocation riduce le azioni dal 50% al 25% aumentando la liquidità al 40%.",
+     "show": "Azioni al 25%",
+     "figure": "25%"
+    },
+    {
+     "say": "Se l'indice macro resta sotto 30 la posizione di portafoglio rimane difensiva.",
+     "show": "Soglia 30",
+     "figure": "30"
+    },
+    {
+     "say": "I segnali macro prevenuti consentono di proteggere il capitale prima dei ribassi. Segui per l'aggiornamento di domani.",
+     "show": "Difesa Capitale",
+     "figure": ""
+    }
+   ],
+   "origin": "Marco Casario EXTRA",
+   "source_video": "Dopo il CROLLO: quali Opportunità con l'AI di Quantaste",
+   "narration": "Indicatore macro crolla da 50 a quota 20. L'indicatore di rischio è passato da neutrale a un contesto di avversione al rischio. L'asset allocation riduce le azioni dal 50% al 25% aumentando la liquidità al 40%. Se l'indice macro resta sotto 30 la posizione di portafoglio rimane difensiva. I segnali macro prevenuti consentono di proteggere il capitale prima dei ribassi. Segui per l'aggiornamento di domani.",
+   "ticker": null,
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "L'indicatore macro scende a quota 20 determinando la riduzione della quota azionaria al 25%.",
+   "hashtags": [
+    "#Macroeconomia",
+    "#AssetAllocation",
+    "#Borsa",
+    "#Investimenti",
+    "#Trading",
+    "#Finanza"
+   ]
+  },
+  {
+   "levels": [],
+   "history": null,
+   "title": "Beni di Consumo a quota 70: rotazione tech",
+   "hook": "Consumi Score 70",
+   "beats": [
+    {
+     "say": "Beni di Consumo guidano con punteggio quantitativo 70.",
+     "show": "Consumi Score 70",
+     "figure": "70"
+    },
+    {
+     "say": "I settori difensivi superano la tecnologia rimasta in fondo a quota 46.",
+     "show": "Tech a 46",
+     "figure": "46"
+    },
+    {
+     "say": "Le Utilities registrano un punteggio di 62 attirando flussi protettivi dal mercato.",
+     "show": "Utilities 62",
+     "figure": "62"
+    },
+    {
+     "say": "Se il tecnologico resta sotto quota 50 i settori difensivi mantengono la leadership.",
+     "show": "Leadership Difensiva",
+     "figure": ""
+    },
+    {
+     "say": "La rotazione dei capitali privilegia i comparti a bassa volatilità. Segui per l'aggiornamento di domani.",
+     "show": "Rotazione Capitale",
+     "figure": ""
+    }
+   ],
+   "origin": "Marco Casario EXTRA",
+   "source_video": "Dopo il CROLLO: quali Opportunità con l'AI di Quantaste",
+   "narration": "Beni di Consumo guidano con punteggio quantitativo 70. I settori difensivi superano la tecnologia rimasta in fondo a quota 46. Le Utilities registrano un punteggio di 62 attirando flussi protettivi dal mercato. Se il tecnologico resta sotto quota 50 i settori difensivi mantengono la leadership. La rotazione dei capitali privilegia i comparti a bassa volatilità. Segui per l'aggiornamento di domani.",
+   "ticker": null,
+   "sentiment": "neutral",
+   "sources": [],
+   "caption": "I settori difensivi guadagnano la leadership di mercato mentre la tecnologia scende a quota 46.",
+   "hashtags": [
+    "#RotazioneSettoriale",
+    "#Borsa",
+    "#Investimenti",
+    "#Trading",
+    "#Finanza",
+    "#Mercati"
+   ]
+  }
+ ],
+ "en": [
+  {
+   "levels": [],
+   "history": {
+    "symbol": "^NDX",
+    "start": "2000-03",
+    "end": "2002-10"
+   },
+   "title": "Nasdaq at 4,692: The 2000 Crash Parallel",
+   "hook": "Nasdaq -83%",
+   "beats": [
+    {
+     "say": "Nasdaq dropped 83% during the 2000 crash.",
+     "show": "Nasdaq -83%",
+     "figure": "-83%"
+    },
+    {
+     "say": "From March 2000 to September 2002 the index fell from 4,692 to 815 in 30 months.",
+     "show": "Dot-Com Crash",
+     "figure": "4,692"
+    },
+    {
+     "say": "Back then the P/E ratio reached 75.8x while today AI tech trades at 16.3x.",
+     "show": "P/E 16.3x",
+     "figure": "16.3x"
+    },
+    {
+     "say": "Real earnings backing today's market giants create a completely different floor.",
+     "show": "Real Earnings",
+     "figure": ""
+    },
+    {
+     "say": "Solid fundamentals reduce the probability of an extended structural collapse. Follow for tomorrow's update.",
+     "show": "Structural Floor",
+     "figure": ""
+    }
+   ],
+   "origin": "Marco Casario EXTRA",
+   "source_video": "Dopo il CROLLO: quali Opportunità con l'AI di Quantaste",
+   "narration": "Nasdaq dropped 83% during the 2000 crash. From March 2000 to September 2002 the index fell from 4,692 to 815 in 30 months. Back then the P/E ratio reached 75.8x while today AI tech trades at 16.3x. Real earnings backing today's market giants create a completely different floor. Solid fundamentals reduce the probability of an extended structural collapse. Follow for tomorrow's update.",
+   "ticker": "^NDX",
+   "sentiment": "neutral",
+   "sources": [],
+   "caption": "Comparing the 2000 dot-com bubble to current AI market dynamics.",
+   "hashtags": [
+    "#Nasdaq",
+    "#Stocks",
+    "#Investing",
+    "#Trading",
+    "#Finance",
+    "#AI"
+   ]
+  },
+  {
+   "levels": [
+    132.72
+   ],
+   "history": null,
+   "title": "Nvidia Drops 49%: Resistance at 132.72",
+   "hook": "Nvidia -49%",
+   "beats": [
+    {
+     "say": "Nvidia down 49% from its record high.",
+     "show": "Nvidia -49%",
+     "figure": "-49%"
+    },
+    {
+     "say": "High volatility fueled a sharp pullback across the semiconductor space.",
+     "show": "Tech Pullback",
+     "figure": ""
+    },
+    {
+     "say": "This decline is concentrated in hardware stocks rather than broad markets.",
+     "show": "Chip Rotation",
+     "figure": ""
+    },
+    {
+     "say": "If price reclaims resistance at 132.72 dollars the bullish structure recovers momentum.",
+     "show": "Resistance 132.72",
+     "figure": "132.72"
+    },
+    {
+     "say": "Key level reactions will decide the short term trend direction. Follow for tomorrow's update.",
+     "show": "Trend Direction",
+     "figure": ""
+    }
+   ],
+   "origin": "Marco Casario EXTRA",
+   "source_video": "Dopo il CROLLO: quali Opportunità con l'AI di Quantaste",
+   "narration": "Nvidia down 49% from its record high. High volatility fueled a sharp pullback across the semiconductor space. This decline is concentrated in hardware stocks rather than broad markets. If price reclaims resistance at 132.72 dollars the bullish structure recovers momentum. Key level reactions will decide the short term trend direction. Follow for tomorrow's update.",
+   "ticker": "NVDA",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Nvidia corrects 49% from peaks with technical resistance at 132.72 dollars.",
+   "hashtags": [
+    "#Nvidia",
+    "#NVDA",
+    "#Semiconductors",
+    "#Trading",
+    "#Stocks",
+    "#Finance"
+   ]
+  },
+  {
+   "levels": [
+    80.0,
+    60.0
+   ],
+   "history": null,
+   "title": "SMH at Score 60: Systematic Exit Signal",
+   "hook": "Chip ETF -22%",
+   "beats": [
+    {
+     "say": "Semiconductor ETF drops 22% in thirty days.",
+     "show": "Chip ETF -22%",
+     "figure": "-22%"
+    },
+    {
+     "say": "The quantitative model entered SMH at score 80 before declining down to 60.",
+     "show": "Entry Score 80",
+     "figure": "80"
+    },
+    {
+     "say": "Crossing below 60 triggered an automatic exit that bypassed the worst selloff.",
+     "show": "Exit Score 60",
+     "figure": "60"
+    },
+    {
+     "say": "Until the score recovers above 60 the semiconductor sector stays in defensive mode.",
+     "show": "Defensive Mode",
+     "figure": ""
+    },
+    {
+     "say": "Numerical exit rules remove emotion during aggressive sector corrections. Follow for tomorrow's update.",
+     "show": "System Rules",
+     "figure": ""
+    }
+   ],
+   "origin": "Marco Casario EXTRA",
+   "source_video": "Dopo il CROLLO: quali Opportunità con l'AI di Quantaste",
+   "narration": "Semiconductor ETF drops 22% in thirty days. The quantitative model entered SMH at score 80 before declining down to 60. Crossing below 60 triggered an automatic exit that bypassed the worst selloff. Until the score recovers above 60 the semiconductor sector stays in defensive mode. Numerical exit rules remove emotion during aggressive sector corrections. Follow for tomorrow's update.",
+   "ticker": "SMH",
+   "sentiment": "neutral",
+   "sources": [],
+   "caption": "Systematic exit signal at score 60 shields portfolios during semiconductor selloffs.",
+   "hashtags": [
+    "#SMH",
+    "#ETF",
+    "#Semiconductors",
+    "#Trading",
+    "#Stocks",
+    "#Finance"
+   ]
+  },
+  {
+   "levels": [
+    299.5
+   ],
+   "history": null,
+   "title": "Apple at Score 99: Target at 299.50",
+   "hook": "Apple Score 99",
+   "beats": [
+    {
+     "say": "Apple scores 99 on quantitative metrics.",
+     "show": "Apple Score 99",
+     "figure": "99"
+    },
+    {
+     "say": "The stock displays maximum quant rating despite broader tech sector turmoil.",
+     "show": "Tech Strength",
+     "figure": ""
+    },
+    {
+     "say": "Positive trend alignment holds across short and long timeframes at fair value.",
+     "show": "Trend Alignment",
+     "figure": ""
+    },
+    {
+     "say": "If upward momentum continues the upper valuation target stands at 299.50 dollars.",
+     "show": "Target 299.50",
+     "figure": "299.50"
+    },
+    {
+     "say": "Relative strength keeps Apple insulated from wider market selloffs. Follow for tomorrow's update.",
+     "show": "Relative Strength",
+     "figure": ""
+    }
+   ],
+   "origin": "Marco Casario EXTRA",
+   "source_video": "Dopo il CROLLO: quali Opportunità con l'AI di Quantaste",
+   "narration": "Apple scores 99 on quantitative metrics. The stock displays maximum quant rating despite broader tech sector turmoil. Positive trend alignment holds across short and long timeframes at fair value. If upward momentum continues the upper valuation target stands at 299.50 dollars. Relative strength keeps Apple insulated from wider market selloffs. Follow for tomorrow's update.",
+   "ticker": "AAPL",
+   "sentiment": "bullish",
+   "sources": [],
+   "caption": "Apple shows top relative strength with quantitative score 99 and target at 299.50 dollars.",
+   "hashtags": [
+    "#Apple",
+    "#AAPL",
+    "#Stocks",
+    "#Investing",
+    "#Trading",
+    "#Finance"
+   ]
+  },
+  {
+   "levels": [
+    60.0,
+    1243.27
+   ],
+   "history": null,
+   "title": "Micron Drops Below 60 Score: Exit Signal",
+   "hook": "Micron -33.9%",
+   "beats": [
+    {
+     "say": "Micron plunged 33.9% in thirty days.",
+     "show": "Micron -33.9%",
+     "figure": "-33.9%"
+    },
+    {
+     "say": "Micron score fell to 58 while Nvidia dropped to 41 on momentum data.",
+     "show": "Score Drops",
+     "figure": "58"
+    },
+    {
+     "say": "Both semiconductor leaders crossed below the 60 threshold triggering exit signals.",
+     "show": "Score Below 60",
+     "figure": "60"
+    },
+    {
+     "say": "If price rebounds upper algorithmic resistance stands at 1243.27 dollars.",
+     "show": "Resistance 1243.27",
+     "figure": "1243.27"
+    },
+    {
+     "say": "System exits highlight ongoing capital rotation out of hardware names. Follow for tomorrow's update.",
+     "show": "Capital Shift",
+     "figure": ""
+    }
+   ],
+   "origin": "Marco Casario EXTRA",
+   "source_video": "Dopo il CROLLO: quali Opportunità con l'AI di Quantaste",
+   "narration": "Micron plunged 33.9% in thirty days. Micron score fell to 58 while Nvidia dropped to 41 on momentum data. Both semiconductor leaders crossed below the 60 threshold triggering exit signals. If price rebounds upper algorithmic resistance stands at 1243.27 dollars. System exits highlight ongoing capital rotation out of hardware names. Follow for tomorrow's update.",
+   "ticker": "MU",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Micron drops to score 58 triggering exit rules alongside Nvidia as tech sector rotates.",
+   "hashtags": [
+    "#Micron",
+    "#MU",
+    "#Nvidia",
+    "#Stocks",
+    "#Trading",
+    "#Finance"
+   ]
+  },
+  {
+   "levels": [
+    109.58,
+    128.3
+   ],
+   "history": null,
+   "title": "Veralto at Score 97: Up 16% Target 128.30",
+   "hook": "Veralto +16%",
+   "beats": [
+    {
+     "say": "Veralto surged 16% over the last month.",
+     "show": "Veralto +16%",
+     "figure": "+16%"
+    },
+    {
+     "say": "The stock reached a high score of 97 matching Thermo Fisher.",
+     "show": "Score 97",
+     "figure": "97"
+    },
+    {
+     "say": "Price acceleration remains strong despite lower overall fundamental scores.",
+     "show": "Price Momentum",
+     "figure": ""
+    },
+    {
+     "say": "If support at 109.58 holds the key upper resistance sits at 128.30 dollars.",
+     "show": "Resistance 128.30",
+     "figure": "128.30"
+    },
+    {
+     "say": "Balancing price acceleration and fundamentals identifies top performing assets. Follow for tomorrow's update.",
+     "show": "Asset Selection",
+     "figure": ""
+    }
+   ],
+   "origin": "Marco Casario EXTRA",
+   "source_video": "Dopo il CROLLO: quali Opportunità con l'AI di Quantaste",
+   "narration": "Veralto surged 16% over the last month. The stock reached a high score of 97 matching Thermo Fisher. Price acceleration remains strong despite lower overall fundamental scores. If support at 109.58 holds the key upper resistance sits at 128.30 dollars. Balancing price acceleration and fundamentals identifies top performing assets. Follow for tomorrow's update.",
+   "ticker": "VLTO",
+   "sentiment": "bullish",
+   "sources": [],
+   "caption": "Veralto surges 16% with quantitative score 97 with technical resistance at 128.30 dollars.",
+   "hashtags": [
+    "#Veralto",
+    "#VLTO",
+    "#Stocks",
+    "#Investing",
+    "#Trading",
+    "#Finance"
+   ]
+  },
+  {
+   "levels": [],
+   "history": null,
+   "title": "S&P 500 Score 96: Resists Tech 22% Plunge",
+   "hook": "S&P 500 Score 96",
+   "beats": [
+    {
+     "say": "S&P 500 holds a score of 96 despite market pullbacks.",
+     "show": "S&P 500 Score 96",
+     "figure": "96"
+    },
+    {
+     "say": "The broad index fell only 6.4% while semiconductor funds lost 22%.",
+     "show": "S&P 500 -6.4%",
+     "figure": "-6.4%"
+    },
+    {
+     "say": "Tech heavy Nasdaq dropped to a score of 32 reflecting hardware weakness.",
+     "show": "Nasdaq Score 32",
+     "figure": "32"
+    },
+    {
+     "say": "If S&P 500 momentum holds the broader market avoids a full breakdown.",
+     "show": "Market Resilience",
+     "figure": ""
+    },
+    {
+     "say": "Data shows tech weakness is isolated rather than systemic. Follow for tomorrow's update.",
+     "show": "Isolated Drawdown",
+     "figure": ""
+    }
+   ],
+   "origin": "Marco Casario EXTRA",
+   "source_video": "Dopo il CROLLO: quali Opportunità con l'AI di Quantaste",
+   "narration": "S&P 500 holds a score of 96 despite market pullbacks. The broad index fell only 6.4% while semiconductor funds lost 22%. Tech heavy Nasdaq dropped to a score of 32 reflecting hardware weakness. If S&P 500 momentum holds the broader market avoids a full breakdown. Data shows tech weakness is isolated rather than systemic. Follow for tomorrow's update.",
+   "ticker": "^GSPC",
+   "sentiment": "neutral",
+   "sources": [],
+   "caption": "S&P 500 maintains high quantitative score of 96 showing strength over tech heavy benchmarks.",
+   "hashtags": [
+    "#SP500",
+    "#Nasdaq",
+    "#Stocks",
+    "#Investing",
+    "#Trading",
+    "#Finance"
+   ]
+  },
+  {
+   "levels": [],
+   "history": null,
+   "title": "VIX Hits 40: Triggering Automated Cuts",
+   "hook": "VIX Near 40",
+   "beats": [
+    {
+     "say": "VIX volatility spiked near 40 during market stress.",
+     "show": "VIX Near 40",
+     "figure": "40"
+    },
+    {
+     "say": "Crossing above 35 forced negative gamma market makers into delta hedging.",
+     "show": "VIX Above 35",
+     "figure": "35"
+    },
+    {
+     "say": "Systematic trend funds automatically halved equity positions as volatility doubled.",
+     "show": "Automated Selling",
+     "figure": ""
+    },
+    {
+     "say": "If VIX remains elevated above 30 institutional liquidation continues.",
+     "show": "Elevated Volatility",
+     "figure": "30"
+    },
+    {
+     "say": "Institutional risk rules accelerate speed during market declines. Follow for tomorrow's update.",
+     "show": "Systemic Risk",
+     "figure": ""
+    }
+   ],
+   "origin": "Marco Casario EXTRA",
+   "source_video": "Dopo il CROLLO: quali Opportunità con l'AI di Quantaste",
+   "narration": "VIX volatility spiked near 40 during market stress. Crossing above 35 forced negative gamma market makers into delta hedging. Systematic trend funds automatically halved equity positions as volatility doubled. If VIX remains elevated above 30 institutional liquidation continues. Institutional risk rules accelerate speed during market declines. Follow for tomorrow's update.",
+   "ticker": "^VIX",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "VIX surging near 40 forces systematic liquidation across institutional trend portfolios.",
+   "hashtags": [
+    "#VIX",
+    "#Volatility",
+    "#Stocks",
+    "#Trading",
+    "#Finance",
+    "#Markets"
+   ]
+  },
+  {
+   "levels": [],
+   "history": null,
+   "title": "Marvell Drops 44%: Over 100 Billion Lost",
+   "hook": "Marvell -44%",
+   "beats": [
+    {
+     "say": "Marvell dropped 44% over a single month.",
+     "show": "Marvell -44%",
+     "figure": "-44%"
+    },
+    {
+     "say": "Twelve mega cap tech firms lost over 100 billion dollars each.",
+     "show": "100 Billion Loss",
+     "figure": "100"
+    },
+    {
+     "say": "Intel fell 39.8% while Micron lost 33.9% over the same timeframe.",
+     "show": "Intel -39.8%",
+     "figure": "-39.8%"
+    },
+    {
+     "say": "If hardware pressure persists tech capital destruction expands further.",
+     "show": "Sector Destruction",
+     "figure": ""
+    },
+    {
+     "say": "Quantitative screening highlights heavy concentration in large tech names. Follow for tomorrow's update.",
+     "show": "Concentrated Risk",
+     "figure": ""
+    }
+   ],
+   "origin": "Marco Casario EXTRA",
+   "source_video": "Dopo il CROLLO: quali Opportunità con l'AI di Quantaste",
+   "narration": "Marvell dropped 44% over a single month. Twelve mega cap tech firms lost over 100 billion dollars each. Intel fell 39.8% while Micron lost 33.9% over the same timeframe. If hardware pressure persists tech capital destruction expands further. Quantitative screening highlights heavy concentration in large tech names. Follow for tomorrow's update.",
+   "ticker": "MRVL",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Marvell drops 44% leading major monthly drawdowns across top US technology firms.",
+   "hashtags": [
+    "#Marvell",
+    "#MRVL",
+    "#Intel",
+    "#Micron",
+    "#Stocks",
+    "#Finance"
+   ]
+  },
+  {
+   "levels": [],
+   "history": null,
+   "title": "Macro Risk Drops to 20: Equities Cut",
+   "hook": "Macro Risk 20",
+   "beats": [
+    {
+     "say": "Macro risk indicator dropped from 50 down to 20.",
+     "show": "Macro Risk 20",
+     "figure": "20"
+    },
+    {
+     "say": "Macro metrics shifted fast from neutral into extreme risk off mode.",
+     "show": "Risk-Off Shift",
+     "figure": ""
+    },
+    {
+     "say": "Asset model cut equity exposure from 50% to 25% while cash rose to 40%.",
+     "show": "Equities at 25%",
+     "figure": "25%"
+    },
+    {
+     "say": "As long as macro readings stay below 30 conservative allocations remain active.",
+     "show": "Conservative Stance",
+     "figure": "30"
+    },
+    {
+     "say": "Macro quantitative indicators protect capital ahead of heavy market pressure. Follow for tomorrow's update.",
+     "show": "Capital Defense",
+     "figure": ""
+    }
+   ],
+   "origin": "Marco Casario EXTRA",
+   "source_video": "Dopo il CROLLO: quali Opportunità con l'AI di Quantaste",
+   "narration": "Macro risk indicator dropped from 50 down to 20. Macro metrics shifted fast from neutral into extreme risk off mode. Asset model cut equity exposure from 50% to 25% while cash rose to 40%. As long as macro readings stay below 30 conservative allocations remain active. Macro quantitative indicators protect capital ahead of heavy market pressure. Follow for tomorrow's update.",
+   "ticker": null,
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Macro risk indicator drops to 20 triggering defensive portfolio reallocation into cash.",
+   "hashtags": [
+    "#Macroeconomy",
+    "#AssetAllocation",
+    "#Stocks",
+    "#Investing",
+    "#Trading",
+    "#Finance"
+   ]
+  },
+  {
+   "levels": [],
+   "history": null,
+   "title": "Consumer Staples Score 70: Tech Rotation",
+   "hook": "Staples Score 70",
+   "beats": [
+    {
+     "say": "Consumer Staples lead sectors with a quant score of 70.",
+     "show": "Staples Score 70",
+     "figure": "70"
+    },
+    {
+     "say": "Defensive sectors outperform technology which dropped to the bottom at 46.",
+     "show": "Tech at 46",
+     "figure": "46"
+    },
+    {
+     "say": "Utilities rank second at score 62 attracting defensive safe haven flows.",
+     "show": "Utilities Score 62",
+     "figure": "62"
+    },
+    {
+     "say": "While technology stays below score 50 defensive sectors preserve leadership.",
+     "show": "Defensive Lead",
+     "figure": ""
+    },
+    {
+     "say": "Capital reallocation favors low volatility sectors during tech corrections. Follow for tomorrow's update.",
+     "show": "Sector Rotation",
+     "figure": ""
+    }
+   ],
+   "origin": "Marco Casario EXTRA",
+   "source_video": "Dopo il CROLLO: quali Opportunità con l'AI di Quantaste",
+   "narration": "Consumer Staples lead sectors with a quant score of 70. Defensive sectors outperform technology which dropped to the bottom at 46. Utilities rank second at score 62 attracting defensive safe haven flows. While technology stays below score 50 defensive sectors preserve leadership. Capital reallocation favors low volatility sectors during tech corrections. Follow for tomorrow's update.",
+   "ticker": null,
+   "sentiment": "neutral",
+   "sources": [],
+   "caption": "Capital rotates toward defensive sectors as technology falls to the bottom of quant rankings.",
+   "hashtags": [
+    "#SectorRotation",
+    "#Stocks",
+    "#Investing",
+    "#Trading",
+    "#Finance",
+    "#Markets"
+   ]
+  }
+ ],
+ "carousels": {
+  "it": {
+   "topic": "Crollo Tech e Valutazioni AI",
+   "caption": "L'S&P 500 resiste mentre i chip crollano del 22%. Le valutazioni AI di oggi sono davvero come la bolla dot-com del 2000? Segui per l'aggiornamento di domani.",
+   "sentiment": "neutral",
+   "ticker": "^NDX",
+   "slides": [
+    {
+     "title": "Nasdaq -83%: la storia si ripete?",
+     "body": "Confrontiamo il crollo tech del 2000 con la correzione dell'intelligenza artificiale di oggi."
+    },
+    {
+     "title": "Dot-Com vs AI oggi",
+     "body": "Nel 2000 il Nasdaq aveva un P/E di 75,8x. Oggi i leader AI viaggiano a 16,3x."
+    },
+    {
+     "title": "S&P 500 a quota 96",
+     "body": "L'S&P 500 perde solo il 6,4% ed evidenzia una forza quantitativa ben superiore ai chip."
+    },
+    {
+     "title": "Semiconduttori in stallo",
+     "body": "Nvidia ha perso il 49% dai massimi con il punteggio quantitativo sceso a 41."
+    },
+    {
+     "title": "Regola d'uscita a 60",
+     "body": "L'uscita sistematica sul settore chip al taglio della soglia 60 ha evitato il ribasso."
+    },
+    {
+     "title": "Il quadro macro attuale",
+     "body": "L'indicatore di rischio è sceso da 50 a 20 imponendo la riduzione delle azioni al 25%."
+    },
+    {
+     "title": "Gestione del rischio",
+     "body": "La disciplina quantitativa protegge i portafogli durante le rotazioni di settore. Segui per l'aggiornamento di domani."
+    }
+   ],
+   "hashtags": [
+    "#SP500",
+    "#Nasdaq",
+    "#Nvidia",
+    "#Borsa",
+    "#Investimenti",
+    "#Trading",
+    "#Finanza",
+    "#AI"
+   ]
+  },
+  "en": {
+   "topic": "Tech Selloff and AI Valuations",
+   "caption": "S&P 500 stays strong while chip stocks plunge 22%. Are current AI valuations repeating the 2000 dot-com crash? Follow for tomorrow's update.",
+   "sentiment": "neutral",
+   "ticker": "^NDX",
+   "slides": [
+    {
+     "title": "Nasdaq Down 83%: History Repeating?",
+     "body": "Comparing the 2000 dot-com bubble crash to today's artificial intelligence market correction."
+    },
+    {
+     "title": "Dot-Com vs Today's AI",
+     "body": "In March 2000 Nasdaq P/E hit 75.8x. Today key AI leaders average just 16.3x."
+    },
+    {
+     "title": "S&P 500 Holds Strong",
+     "body": "The S&P 500 lost just 6.4% and keeps a top quantitative score of 96."
+    },
+    {
+     "title": "Chip Sector Collapses",
+     "body": "Nvidia dropped 49% from its peak as its quantitative score fell to 41."
+    },
+    {
+     "title": "Strict Exit Rule at 60",
+     "body": "Exiting semiconductor positions when score crossed below 60 avoided major losses."
+    },
+    {
+     "title": "Macro Risk Signals Off",
+     "body": "The macro risk index dropped from 50 to 20 triggering equity cuts to 25%."
+    },
+    {
+     "title": "Systemic Risk Controls",
+     "body": "Quantitative rules protect capital during sharp market sector rotations. Follow for tomorrow's update."
+    }
+   ],
+   "hashtags": [
+    "#SP500",
+    "#Nasdaq",
+    "#Nvidia",
+    "#Stocks",
+    "#Investing",
+    "#Trading",
+    "#Finance",
+    "#AI"
+   ]
+  }
+ }
+}
