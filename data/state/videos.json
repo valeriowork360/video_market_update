@@ -529,5 +529,32 @@
   "first_seen": "2026-11-27T04:32:53.535946+00:00",
   "tries": 1,
   "done_at": "2026-11-27T04:33:49.621739+00:00"
+ },
+ "VUJYoayX7es": {
+  "status": "pending",
+  "attempts": 0,
+  "channel": "Jeremy Lefebvre Clips",
+  "title": "AMD Stock! BAD NEWS on the Way?",
+  "first_seen": "2026-11-27T14:52:05.085100+00:00",
+  "tries": 1,
+  "last_error": "Gemini non riesce ad aprire questo video adesso (live appena finita, video riservato o rimosso)"
+ },
+ "cvBfm8frS7I": {
+  "status": "pending",
+  "attempts": 0,
+  "channel": "Jeremy Lefebvre Clips",
+  "title": "The DECEMBER Stock Market! What's Coming NEXT...",
+  "first_seen": "2026-11-27T14:52:06.469705+00:00",
+  "tries": 1,
+  "last_error": "Gemini non riesce ad aprire questo video adesso (live appena finita, video riservato o rimosso)"
+ },
+ "AqOWziMo2zg": {
+  "status": "pending",
+  "attempts": 0,
+  "channel": "Jeremy Lefebvre Clips",
+  "title": "EVERY STOCK I OWN! My FULL Portfolio Revealed",
+  "first_seen": "2026-11-27T14:52:13.429241+00:00",
+  "tries": 1,
+  "last_error": "Gemini non riesce ad aprire questo video adesso (live appena finita, video riservato o rimosso)"
  }
 }
