@@ -8,6 +8,7 @@ only completes what is missing.
   python -m mp.social            python -m mp.social --offline   (test, no AI)
 """
 import os
+import re
 import sys
 import time
 import traceback
@@ -102,11 +103,22 @@ def one_video(note, st, offline):
     return problems
 
 
+_TOP = re.compile(r"nasdaq|s&p|sp500|spx|dow|nvidia|nvda|chip|semicond|micron|amd|bitcoin|btc|vix", re.I)
+_WEAK = re.compile(r"\bgold\b|silver|dollar|dxy|\boro\b|argento|dollaro", re.I)
+
+
+def _appeal(sh):
+    """Order of the openings: what our audience watches most comes first (channel data)."""
+    text = f"{sh.get('title', '')} {sh['beats'][0]['show']} {sh['beats'][0]['say']}"
+    return 0 if _TOP.search(text) else (2 if _WEAK.search(text) else 1)
+
+
 def hooks_short(shorts, car):
     """ONE short per video: the opening (cover + hook line) of every point, one after another."""
-    beats = [dict(sh["beats"][0], show=sh.get("hook") or sh["beats"][0]["show"]) for sh in shorts if sh.get("beats")]
+    shorts = sorted([sh for sh in shorts if sh.get("beats")], key=_appeal)
+    beats = [dict(sh["beats"][0], show=sh.get("hook") or sh["beats"][0]["show"]) for sh in shorts]
     first = shorts[0]
-    title = (car or {}).get("topic") or first["title"]
+    title = first["title"] or (car or {}).get("topic")
     caption = (car or {}).get("caption") or first.get("caption", "")
     tags = (car or {}).get("hashtags") or first.get("hashtags", [])
     sent = [s.get("sentiment") for s in shorts]

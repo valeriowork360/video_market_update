@@ -123,6 +123,12 @@ each about a different point. The number follows the content: a long, dense vide
 {n} shorts, a short or thin one only 2 or 3. NEVER pad: no short without a real point, no two
 shorts on the same point. Skip greetings, promotions and repetition. Strongest first.
 
+WHAT OUR AUDIENCE WATCHES (from our channel data): moves of the big indices (Nasdaq, S&P 500),
+AI chips and Nvidia, Bitcoin, and fear gauges such as the VIX - always with a figure ("Nasdaq DOWN
+15%", "VIX HITS 30", "Nvidia -29%"). Vague hooks without a number ("Dollar strength", "Temporary
+bounce") are rejected. Gold, silver and the dollar get a short ONLY when the move is big (10% or
+more, or a record); otherwise skip them.
+
 THE MOST VALUABLE PARTS are the ones marked kind "setup" (levels drawn on a chart) and
 "history" (a past period compared with today): every one of them gets its own short, placed
 first, and keeps ALL its substance:
@@ -162,7 +168,7 @@ where every carousel language block is:
   Middle slides: title max 5 words, body max 26 words, one idea with its number or fact.
   Last slide: the takeaway in one sentence + invite to follow.
 and every short language block is:
-  {{"title": "max 60 characters, curiosity without lying",
+  {{"title": "max 60 characters, shaped as \"[Asset] Drops X%: ...\" or \"[Asset] at [level]: ...\" (the asset and its number first)",
     "beats": [{{"say": "what the voice says", "show": "2-4 words", "figure": "key number or \"\""}}],
     "caption": "1-2 sentence post caption", "hashtags": ["#5-8"]}}
 
@@ -480,6 +486,10 @@ def _short_ok(sh, lang):
     _language_check(blob, lang)
     _names_check(blob)
     _voice_check(blob)
+    b0 = sh["beats"][0]
+    if not re.search(r"\d", b0["show"] + " " + b0.get("figure", "")):
+        raise llm.LLMError(f"hook without a number or level: \"{b0['show']}\" - the first beat's show must "
+                           "contain the asset AND its key figure (\"Nasdaq DOWN 15%\", \"VIX HITS 30\")")
 
 
 def _one_short(raw, common, origin, source):
