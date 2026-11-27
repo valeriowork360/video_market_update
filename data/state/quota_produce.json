@@ -1,9 +1,13 @@
 {
- "day": "2026-11-25",
+ "day": "2026-11-26",
  "requests": {
-  "gemini-3.5-flash-lite": 5,
-  "gemini-3.1-flash-lite": 1
+  "gemini-3.8-flash": 4,
+  "gemini-3.7-flash": 2,
+  "gemini-3.6-flash": 1
  },
- "exhausted": {},
+ "exhausted": {
+  "gemini-3.8-flash": "quota giornaliera",
+  "gemini-3.7-flash": "quota giornaliera"
+ },
  "video_seconds": 0
 }
