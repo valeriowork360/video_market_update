@@ -1,0 +1,636 @@
+{
+ "it": [
+  {
+   "levels": [
+    71200.0,
+    55000.0
+   ],
+   "history": null,
+   "title": "Bitcoin dentro il pattern megaphone: supporto a 71.200 $",
+   "hook": "Bitcoin 71.200 $",
+   "beats": [
+    {
+     "say": "Bitcoin rischia una correzione profonda se cede 71.200 dollari.",
+     "show": "Bitcoin 71.200 $",
+     "figure": "71.200 $"
+    },
+    {
+     "say": "Il grafico giornaliero mostra un'ampia struttura a megafono con massimi crescenti e minimi decrescenti.",
+     "show": "PATTERN MEGAFONO",
+     "figure": ""
+    },
+    {
+     "say": "Questa configurazione segnala un'espansione della volatilità e mantiene la tendenza macro al ribasso.",
+     "show": "VOLATILITÀ MACRO",
+     "figure": ""
+    },
+    {
+     "say": "La tenuta di 71.200 dollari permette un rimbalzo verso 75.000.",
+     "show": "RIMBALZO A 75.000 $",
+     "figure": "75.000 $"
+    },
+    {
+     "say": "La perdita definitiva di quota 71.200 apre la strada al minimo di 55.000 dollari.",
+     "show": "SUPPORTO A 55.000 $",
+     "figure": "55.000 $"
+    },
+    {
+     "say": "La struttura ribassista resta attiva fino al recupero delle resistenze chiave. Segui per l'aggiornamento di domani.",
+     "show": "TREND RIBASSISTA",
+     "figure": ""
+    }
+   ],
+   "origin": "Jason Pizzino",
+   "source_video": "Bitcoin: This Is Why Price ISN'T Going Up (Double Bluff Low)",
+   "narration": "Bitcoin rischia una correzione profonda se cede 71.200 dollari. Il grafico giornaliero mostra un'ampia struttura a megafono con massimi crescenti e minimi decrescenti. Questa configurazione segnala un'espansione della volatilità e mantiene la tendenza macro al ribasso. La tenuta di 71.200 dollari permette un rimbalzo verso 75.000. La perdita definitiva di quota 71.200 apre la strada al minimo di 55.000 dollari. La struttura ribassista resta attiva fino al recupero delle resistenze chiave. Segui per l'aggiornamento di domani.",
+   "ticker": "BTC-USD",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Bitcoin si muove all'interno di una formazione a megafono con perno a 71.200 dollari.",
+   "hashtags": [
+    "#Bitcoin",
+    "#BTC",
+    "#Criptovalute",
+    "#Trading",
+    "#AnalisiTecnica"
+   ]
+  },
+  {
+   "levels": [
+    58000.0,
+    57700.0
+   ],
+   "history": null,
+   "title": "Bitcoin e il doppio bluff: segnali a 57.700 $",
+   "hook": "DOPPIO BLUFF BTC",
+   "beats": [
+    {
+     "say": "Bitcoin segnala esaurimento della pressione di vendita a 57.700 dollari.",
+     "show": "DOPPIO BLUFF BTC",
+     "figure": "57.700 $"
+    },
+    {
+     "say": "Il pattern del doppio bluff compare quando il prezzo tocca un nuovo minimo locale mentre il sentiment inizia a divergere.",
+     "show": "NUOVO MINIMO",
+     "figure": "58.000 $"
+    },
+    {
+     "say": "Nel test tra 58.000 e 57.700 dollari la spinta ribassista ha rallentato sensibilmente.",
+     "show": "VENDITE IN CALO",
+     "figure": ""
+    },
+    {
+     "say": "L'indice di paura ed estrema avidità è rimasto compresso tra 11 e 13 durante i minimi.",
+     "show": "INDICE TRA 11 E 13",
+     "figure": "11-13"
+    },
+    {
+     "say": "La tenuta di questi livelli prepara un rimbalzo tecnico di più settimane.",
+     "show": "RIMBALZO TECNICO",
+     "figure": ""
+    },
+    {
+     "say": "Una reazione rapida dai minimi conferma l'inversione di breve termine. Segui per l'aggiornamento di domani.",
+     "show": "CONFERMA REVERSAL",
+     "figure": ""
+    }
+   ],
+   "origin": "Jason Pizzino",
+   "source_video": "Bitcoin: This Is Why Price ISN'T Going Up (Double Bluff Low)",
+   "narration": "Bitcoin segnala esaurimento della pressione di vendita a 57.700 dollari. Il pattern del doppio bluff compare quando il prezzo tocca un nuovo minimo locale mentre il sentiment inizia a divergere. Nel test tra 58.000 e 57.700 dollari la spinta ribassista ha rallentato sensibilmente. L'indice di paura ed estrema avidità è rimasto compresso tra 11 e 13 durante i minimi. La tenuta di questi livelli prepara un rimbalzo tecnico di più settimane. Una reazione rapida dai minimi conferma l'inversione di breve termine. Segui per l'aggiornamento di domani.",
+   "ticker": "BTC-USD",
+   "sentiment": "bullish",
+   "sources": [],
+   "caption": "La divergenza tra prezzo e sentiment a 57.700 dollari delinea un potenziale doppio bluff su Bitcoin.",
+   "hashtags": [
+    "#Bitcoin",
+    "#BTC",
+    "#CryptoNews",
+    "#TradingView",
+    "#AnalisiMercati"
+   ]
+  },
+  {
+   "levels": [],
+   "history": {
+    "symbol": "BTC-USD",
+    "start": "2018-11",
+    "end": "2018-12"
+   },
+   "title": "Bitcoin nel 2018: il crollo del 49% e la ripartenza",
+   "hook": "CROLLO DEL -49%",
+   "beats": [
+    {
+     "say": "Nel 2018 Bitcoin ha perso il 49% in appena un mese.",
+     "show": "CROLLO DEL -49%",
+     "figure": "-49%"
+    },
+    {
+     "say": "A novembre 2018 il prezzo stazionava a 6.411 dollari prima di un collasso fulmineo.",
+     "show": "MASSIMO A 6.411 $",
+     "figure": "6.411 $"
+    },
+    {
+     "say": "A dicembre 2018 la caduta ha toccato il minimo a 3.253 dollari.",
+     "show": "MINIMO A 3.253 $",
+     "figure": "3.253 $"
+    },
+    {
+     "say": "I crolli nei mercati ribassisti sono violenti e concentrati in poche settimane.",
+     "show": "COLLASSO RAPIDO",
+     "figure": "1 MESE"
+    },
+    {
+     "say": "Al contrario, i rimbalzi correttivi impiegano più del doppio del tempo per svilupparsi.",
+     "show": "RECUPERO LENTO",
+     "figure": "2X TEMPO"
+    },
+    {
+     "say": "La dinamica attuale ripete i tempi lunghi di costruzione della base. Segui per l'aggiornamento di domani.",
+     "show": "LEZIONE DEL 2018",
+     "figure": ""
+    }
+   ],
+   "origin": "Jason Pizzino",
+   "source_video": "Bitcoin: This Is Why Price ISN'T Going Up (Double Bluff Low)",
+   "narration": "Nel 2018 Bitcoin ha perso il 49% in appena un mese. A novembre 2018 il prezzo stazionava a 6.411 dollari prima di un collasso fulmineo. A dicembre 2018 la caduta ha toccato il minimo a 3.253 dollari. I crolli nei mercati ribassisti sono violenti e concentrati in poche settimane. Al contrario, i rimbalzi correttivi impiegano più del doppio del tempo per svilupparsi. La dinamica attuale ripete i tempi lunghi di costruzione della base. Segui per l'aggiornamento di domani.",
+   "ticker": "BTC-USD",
+   "sentiment": "neutral",
+   "sources": [],
+   "caption": "Il precedente storico del 2018 dimostra che i rimbalzi richiedono il doppio del tempo rispetto ai crolli.",
+   "hashtags": [
+    "#Bitcoin",
+    "#BTC",
+    "#StoriaCrypto",
+    "#MercatiFinanziari",
+    "#BearMarket"
+   ]
+  },
+  {
+   "levels": [],
+   "history": {
+    "symbol": "BTC-USD",
+    "start": "2018-11",
+    "end": "2019-04"
+   },
+   "title": "I minimi del quarto trimestre: il ciclo 2018-2019",
+   "hook": "MINIMI DI FINE ANNO",
+   "beats": [
+    {
+     "say": "I minimi storici di Bitcoin si concentrano spesso nel quarto trimestre.",
+     "show": "MINIMI DI FINE ANNO",
+     "figure": "Q4"
+    },
+    {
+     "say": "Nel ciclo 2018 il prezzo è sceso da 6.411 dollari al minimo di 3.253 a dicembre.",
+     "show": "DA 6.411 A 3.253 $",
+     "figure": "3.253 $"
+    },
+    {
+     "say": "Dopo il collasso, il mercato ha consolidato tra dicembre e gennaio costruendo minimi crescenti.",
+     "show": "CONSOLIDAMENTO",
+     "figure": ""
+    },
+    {
+     "say": "Ad aprile 2019 la quotazione ha completato il recupero salendo a 5.403 dollari.",
+     "show": "RIMBALZO A 5.403 $",
+     "figure": "5.403 $"
+    },
+    {
+     "say": "La fase attuale rispecchia la tipica transizione tra capitulazione di novembre e ripartenza primaverile.",
+     "show": "CICLO RIPETUTO",
+     "figure": ""
+    },
+    {
+     "say": "La conferma definitiva richiede il superamento delle resistenze macro. Segui per l'aggiornamento di domani.",
+     "show": "CONFERMA NECESSARIA",
+     "figure": ""
+    }
+   ],
+   "origin": "Jason Pizzino",
+   "source_video": "Bitcoin: This Is Why Price ISN'T Going Up (Double Bluff Low)",
+   "narration": "I minimi storici di Bitcoin si concentrano spesso nel quarto trimestre. Nel ciclo 2018 il prezzo è sceso da 6.411 dollari al minimo di 3.253 a dicembre. Dopo il collasso, il mercato ha consolidato tra dicembre e gennaio costruendo minimi crescenti. Ad aprile 2019 la quotazione ha completato il recupero salendo a 5.403 dollari. La fase attuale rispecchia la tipica transizione tra capitulazione di novembre e ripartenza primaverile. La conferma definitiva richiede il superamento delle resistenze macro. Segui per l'aggiornamento di domani.",
+   "ticker": "BTC-USD",
+   "sentiment": "neutral",
+   "sources": [],
+   "caption": "I cicli storici mostrano la convergenza dei minimi nel quarto trimestre prima della ripartenza.",
+   "hashtags": [
+    "#Bitcoin",
+    "#BTC",
+    "#CicliCrypto",
+    "#AnalisiGrafica",
+    "#Investimenti"
+   ]
+  },
+  {
+   "levels": [
+    7300.0,
+    7400.0
+   ],
+   "history": null,
+   "title": "S&P 500: resistenze chiave tra 7.300 e 7.400 punti",
+   "hook": "S&P 500 A 7.300",
+   "beats": [
+    {
+     "say": "L'indice S&P 500 affronta la resistenza decisiva tra 7.300 e 7.400 punti.",
+     "show": "S&P 500 A 7.300",
+     "figure": "7.300"
+    },
+    {
+     "say": "I future tentano di formare un doppio minimo dopo una correzione del 12,5% dai massimi.",
+     "show": "DOPPIO MINIMO",
+     "figure": "-12,5%"
+    },
+    {
+     "say": "I dati sui tassi stimano una probabilità vicina al 100% di ulteriori rialzi nella riunione del 9 dicembre.",
+     "show": "TASSI AL 100%",
+     "figure": "9 DICEMBRE"
+    },
+    {
+     "say": "Senza un breakout oltre 7.400 punti permane il rischio di un nuovo test dei minimi.",
+     "show": "MURO A 7.400",
+     "figure": "7.400"
+    },
+    {
+     "say": "Solo il superamento di questa barriera invalida la struttura ribassista. Segui per l'aggiornamento di domani.",
+     "show": "LIVELLO CHIAVE",
+     "figure": ""
+    }
+   ],
+   "origin": "Jason Pizzino",
+   "source_video": "Bitcoin: This Is Why Price ISN'T Going Up (Double Bluff Low)",
+   "narration": "L'indice S&P 500 affronta la resistenza decisiva tra 7.300 e 7.400 punti. I future tentano di formare un doppio minimo dopo una correzione del 12,5% dai massimi. I dati sui tassi stimano una probabilità vicina al 100% di ulteriori rialzi nella riunione del 9 dicembre. Senza un breakout oltre 7.400 punti permane il rischio di un nuovo test dei minimi. Solo il superamento di questa barriera invalida la struttura ribassista. Segui per l'aggiornamento di domani.",
+   "ticker": "ES=F",
+   "sentiment": "neutral",
+   "sources": [],
+   "caption": "I future su S&P 500 cercano il rimbalzo ma la barriera tra 7.300 e 7.400 punti frena la salita.",
+   "hashtags": [
+    "#SP500",
+    "#BorsaUSA",
+    "#WallStreet",
+    "#Fed",
+    "#TassiInteresse"
+   ]
+  }
+ ],
+ "en": [
+  {
+   "levels": [
+    71200.0,
+    55000.0
+   ],
+   "history": null,
+   "title": "Bitcoin megaphone structure: key support at $71,200",
+   "hook": "Bitcoin $71,200",
+   "beats": [
+    {
+     "say": "Bitcoin risks a deeper slide if it loses $71,200.",
+     "show": "Bitcoin $71,200",
+     "figure": "$71,200"
+    },
+    {
+     "say": "The daily chart shows an expanding megaphone pattern with higher highs and lower lows.",
+     "show": "MEGAPHONE PATTERN",
+     "figure": ""
+    },
+    {
+     "say": "This formation signals escalating volatility while keeping the macro downtrend dominant.",
+     "show": "MACRO VOLATILITY",
+     "figure": ""
+    },
+    {
+     "say": "Holding $71,200 allows room for a push toward $75,000.",
+     "show": "TARGET $75,000",
+     "figure": "$75,000"
+    },
+    {
+     "say": "A breakdown below $71,200 exposes the lower support at $55,000.",
+     "show": "SUPPORT AT $55,000",
+     "figure": "$55,000"
+    },
+    {
+     "say": "The macro downtrend remains intact until key resistances clear. Follow for tomorrow's update.",
+     "show": "DOWNTREND INTACT",
+     "figure": ""
+    }
+   ],
+   "origin": "Jason Pizzino",
+   "source_video": "Bitcoin: This Is Why Price ISN'T Going Up (Double Bluff Low)",
+   "narration": "Bitcoin risks a deeper slide if it loses $71,200. The daily chart shows an expanding megaphone pattern with higher highs and lower lows. This formation signals escalating volatility while keeping the macro downtrend dominant. Holding $71,200 allows room for a push toward $75,000. A breakdown below $71,200 exposes the lower support at $55,000. The macro downtrend remains intact until key resistances clear. Follow for tomorrow's update.",
+   "ticker": "BTC-USD",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Bitcoin trades inside an expanding megaphone pattern centered on key support at $71,200.",
+   "hashtags": [
+    "#Bitcoin",
+    "#BTC",
+    "#Crypto",
+    "#Trading",
+    "#TechnicalAnalysis"
+   ]
+  },
+  {
+   "levels": [
+    58000.0,
+    57700.0
+   ],
+   "history": null,
+   "title": "Bitcoin double bluff low: key levels at $57,700",
+   "hook": "DOUBLE BLUFF BTC",
+   "beats": [
+    {
+     "say": "Bitcoin marks selling exhaustion around $57,700.",
+     "show": "DOUBLE BLUFF BTC",
+     "figure": "$57,700"
+    },
+    {
+     "say": "A double bluff appears when price hits a lower low while underlying sentiment diverges.",
+     "show": "NEW LOCAL LOW",
+     "figure": "$58,000"
+    },
+    {
+     "say": "Between $58,000 and $57,700, downward pressure slowed despite extreme market fear.",
+     "show": "SELLING SLOWDOWN",
+     "figure": ""
+    },
+    {
+     "say": "The Fear and Greed Index held between 11 and 13 through consecutive tests.",
+     "show": "INDEX AT 11-13",
+     "figure": "11-13"
+    },
+    {
+     "say": "Holding these price boundaries sets up a multi-week recovery rally.",
+     "show": "MULTI-WEEK BOUNCE",
+     "figure": ""
+    },
+    {
+     "say": "A swift bounce off these lows confirms short-term trend reversal. Follow for tomorrow's update.",
+     "show": "REVERSAL CONFIRMED",
+     "figure": ""
+    }
+   ],
+   "origin": "Jason Pizzino",
+   "source_video": "Bitcoin: This Is Why Price ISN'T Going Up (Double Bluff Low)",
+   "narration": "Bitcoin marks selling exhaustion around $57,700. A double bluff appears when price hits a lower low while underlying sentiment diverges. Between $58,000 and $57,700, downward pressure slowed despite extreme market fear. The Fear and Greed Index held between 11 and 13 through consecutive tests. Holding these price boundaries sets up a multi-week recovery rally. A swift bounce off these lows confirms short-term trend reversal. Follow for tomorrow's update.",
+   "ticker": "BTC-USD",
+   "sentiment": "bullish",
+   "sources": [],
+   "caption": "Diverging sentiment readings around $57,700 highlight a classic double bluff bottom pattern on Bitcoin.",
+   "hashtags": [
+    "#Bitcoin",
+    "#BTC",
+    "#Crypto",
+    "#Trading",
+    "#ChartAnalysis"
+   ]
+  },
+  {
+   "levels": [],
+   "history": {
+    "symbol": "BTC-USD",
+    "start": "2018-11",
+    "end": "2018-12"
+   },
+   "title": "Bitcoin 2018 crash: why rallies take twice as long",
+   "hook": "CRASH OF -49%",
+   "beats": [
+    {
+     "say": "In 2018 Bitcoin plummeted 49% in just one month.",
+     "show": "CRASH OF -49%",
+     "figure": "-49%"
+    },
+    {
+     "say": "In November 2018 price traded at $6,411 before capitulating rapidly.",
+     "show": "PEAK AT $6,411",
+     "figure": "$6,411"
+    },
+    {
+     "say": "By December 2018 it reached its cyclical low at $3,253.",
+     "show": "LOW AT $3,253",
+     "figure": "$3,253"
+    },
+    {
+     "say": "Bear market crashes strike fast, destroying price within weeks.",
+     "show": "RAPID DUMP",
+     "figure": "1 MONTH"
+    },
+    {
+     "say": "Corrective rallies require more than twice the time to advance.",
+     "show": "SLOW RECOVERY",
+     "figure": "2X TIME"
+    },
+    {
+     "say": "Current price action reflects this identical slow base-building phase. Follow for tomorrow's update.",
+     "show": "2018 LESSON",
+     "figure": ""
+    }
+   ],
+   "origin": "Jason Pizzino",
+   "source_video": "Bitcoin: This Is Why Price ISN'T Going Up (Double Bluff Low)",
+   "narration": "In 2018 Bitcoin plummeted 49% in just one month. In November 2018 price traded at $6,411 before capitulating rapidly. By December 2018 it reached its cyclical low at $3,253. Bear market crashes strike fast, destroying price within weeks. Corrective rallies require more than twice the time to advance. Current price action reflects this identical slow base-building phase. Follow for tomorrow's update.",
+   "ticker": "BTC-USD",
+   "sentiment": "neutral",
+   "sources": [],
+   "caption": "Historical data from 2018 shows bear market recoveries take significantly longer than downward drops.",
+   "hashtags": [
+    "#Bitcoin",
+    "#BTC",
+    "#CryptoHistory",
+    "#TradingStrategy",
+    "#BearMarket"
+   ]
+  },
+  {
+   "levels": [],
+   "history": {
+    "symbol": "BTC-USD",
+    "start": "2018-11",
+    "end": "2019-04"
+   },
+   "title": "Bitcoin Q4 cycle bottoms: the 2018-2019 blueprint",
+   "hook": "Q4 CYCLE BOTTOMS",
+   "beats": [
+    {
+     "say": "Bitcoin cycle lows historically cluster in the fourth quarter.",
+     "show": "Q4 CYCLE BOTTOMS",
+     "figure": "Q4"
+    },
+    {
+     "say": "In late 2018 price sank from $6,411 to bottom at $3,253 in December.",
+     "show": "FROM $6,411 TO $3,253",
+     "figure": "$3,253"
+    },
+    {
+     "say": "Months of consolidation followed, printing higher lows into early 2019.",
+     "show": "BASE BUILDING",
+     "figure": ""
+    },
+    {
+     "say": "By April 2019 Bitcoin broke out to $5,403, initiating a broad advance.",
+     "show": "RALLY TO $5,403",
+     "figure": "$5,403"
+    },
+    {
+     "say": "Current late-year action mirrors this exact transition from capitulation to recovery.",
+     "show": "HISTORICAL PATTERN",
+     "figure": ""
+    },
+    {
+     "say": "Sustained upside still depends on clearing major macro hurdles. Follow for tomorrow's update.",
+     "show": "WATCH RESISTANCE",
+     "figure": ""
+    }
+   ],
+   "origin": "Jason Pizzino",
+   "source_video": "Bitcoin: This Is Why Price ISN'T Going Up (Double Bluff Low)",
+   "narration": "Bitcoin cycle lows historically cluster in the fourth quarter. In late 2018 price sank from $6,411 to bottom at $3,253 in December. Months of consolidation followed, printing higher lows into early 2019. By April 2019 Bitcoin broke out to $5,403, initiating a broad advance. Current late-year action mirrors this exact transition from capitulation to recovery. Sustained upside still depends on clearing major macro hurdles. Follow for tomorrow's update.",
+   "ticker": "BTC-USD",
+   "sentiment": "neutral",
+   "sources": [],
+   "caption": "Historical halving cycle patterns reveal consistent fourth-quarter capitulation followed by spring rallies.",
+   "hashtags": [
+    "#Bitcoin",
+    "#BTC",
+    "#CycleAnalysis",
+    "#CryptoMarkets",
+    "#Investing"
+   ]
+  },
+  {
+   "levels": [
+    7300.0,
+    7400.0
+   ],
+   "history": null,
+   "title": "S&P 500 futures test resistance at 7,300 to 7,400",
+   "hook": "S&P 500 AT 7,300",
+   "beats": [
+    {
+     "say": "S&P 500 faces decisive resistance between 7,300 and 7,400 points.",
+     "show": "S&P 500 AT 7,300",
+     "figure": "7,300"
+    },
+    {
+     "say": "Futures attempt a double-bottom pattern following a 12.5% drawdown from record peaks.",
+     "show": "DOUBLE BOTTOM",
+     "figure": "-12.5%"
+    },
+    {
+     "say": "Rate hike odds stand near 100% ahead of the December 9 meeting.",
+     "show": "FED WATCH 100%",
+     "figure": "DEC 9"
+    },
+    {
+     "say": "Failing to clear 7,400 points leaves indices vulnerable to retesting support.",
+     "show": "BARRIER AT 7,400",
+     "figure": "7,400"
+    },
+    {
+     "say": "A clean push above 7,400 is required to invalidate the topping structure. Follow for tomorrow's update.",
+     "show": "KEY PIVOT",
+     "figure": ""
+    }
+   ],
+   "origin": "Jason Pizzino",
+   "source_video": "Bitcoin: This Is Why Price ISN'T Going Up (Double Bluff Low)",
+   "narration": "S&P 500 faces decisive resistance between 7,300 and 7,400 points. Futures attempt a double-bottom pattern following a 12.5% drawdown from record peaks. Rate hike odds stand near 100% ahead of the December 9 meeting. Failing to clear 7,400 points leaves indices vulnerable to retesting support. A clean push above 7,400 is required to invalidate the topping structure. Follow for tomorrow's update.",
+   "ticker": "ES=F",
+   "sentiment": "neutral",
+   "sources": [],
+   "caption": "S&P 500 futures are forming a bottom attempt, but clearing 7,300 to 7,400 points remains crucial.",
+   "hashtags": [
+    "#SP500",
+    "#StockMarket",
+    "#WallStreet",
+    "#FederalReserve",
+    "#InterestRates"
+   ]
+  }
+ ],
+ "carousels": {
+  "it": {
+   "topic": "Bitcoin e mercati: livelli e cicli",
+   "caption": "Analisi tecnica e ciclica su Bitcoin e S&P 500 tra supporti macro e precedenti storici. Segui per l'aggiornamento di domani.",
+   "sentiment": "neutral",
+   "ticker": "BTC-USD",
+   "slides": [
+    {
+     "title": "Bitcoin e il bivio di fine anno",
+     "body": "I livelli tecnici di Bitcoin e i precedenti ciclici rivelano i punti di svolta attuali."
+    },
+    {
+     "title": "Supporto a 71.200 dollari",
+     "body": "Il pattern a megafono evidenzia forte volatilità: la rottura di 71.200 dollari espone il supporto a 55.000."
+    },
+    {
+     "title": "Il doppio bluff a 57.700",
+     "body": "La divergenza tra prezzo e sentiment a 57.700 dollari segnala esaurimento della pressione ribassista."
+    },
+    {
+     "title": "La lezione del 2018",
+     "body": "Dopo il crollo del 49% a 3.253 dollari, i rimbalzi correttivi hanno impiegato il doppio del tempo per consolidare."
+    },
+    {
+     "title": "Resistenza S&P 500",
+     "body": "I future azionari tentano il doppio minimo, ma la conferma rialzista necessita del superamento di 7.300-7.400 punti."
+    },
+    {
+     "title": "I livelli da monitorare",
+     "body": "La struttura macro resta selettiva fino alla rottura delle resistenze. Segui per l'aggiornamento di domani."
+    }
+   ],
+   "hashtags": [
+    "#Bitcoin",
+    "#BTC",
+    "#AnalisiTecnica",
+    "#SP500",
+    "#Criptovalute",
+    "#Trading",
+    "#MercatiFinanziari",
+    "#Grafici"
+   ]
+  },
+  "en": {
+   "topic": "Bitcoin macro levels and historical cycles",
+   "caption": "Technical breakdown of Bitcoin and S&P 500 key levels alongside historical cycle parallels. Follow for tomorrow's update.",
+   "sentiment": "neutral",
+   "ticker": "BTC-USD",
+   "slides": [
+    {
+     "title": "Bitcoin at a critical cycle crossroad",
+     "body": "Technical boundaries and historical cycles point to crucial macro inflection zones."
+    },
+    {
+     "title": "Megaphone support at $71,200",
+     "body": "Escalating volatility shapes the chart: losing $71,200 risks a decline toward $55,000."
+    },
+    {
+     "title": "Double bluff at $57,700",
+     "body": "Price divergence and extreme fear readings around $57,700 highlight slowing seller momentum."
+    },
+    {
+     "title": "The 2018 crash benchmark",
+     "body": "After dropping 49% to $3,253 in December 2018, bear market recoveries required double the time to unfold."
+    },
+    {
+     "title": "S&P 500 resistance zone",
+     "body": "Equities build a double bottom, but buyers must reclaim 7,300 to 7,400 points to confirm strength."
+    },
+    {
+     "title": "Key pivots on watch",
+     "body": "Macro direction hinges on these specific chart boundaries. Follow for tomorrow's update."
+    }
+   ],
+   "hashtags": [
+    "#Bitcoin",
+    "#BTC",
+    "#TechnicalAnalysis",
+    "#SP500",
+    "#Crypto",
+    "#Trading",
+    "#MarketUpdate",
+    "#PriceAction"
+   ]
+  }
+ }
+}
