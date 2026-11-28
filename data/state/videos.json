@@ -572,7 +572,7 @@
   "channel": "0xTalks",
   "title": "ALT IN SALDO? | 0xFriday | 27 Novembre 2026",
   "first_seen": "2026-11-27T23:15:16.823380+00:00",
-  "tries": 1,
+  "tries": 2,
   "last_error": "Gemini non riesce ad aprire questo video adesso (live appena finita, video riservato o rimosso)"
  },
  "RunXZnmIsR0": {
@@ -599,6 +599,33 @@
   "channel": "Jeremy Lefebvre Clips",
   "title": "TOP 5 STOCKS TO BUY in December 2026!",
   "first_seen": "2026-11-27T23:15:31.039867+00:00",
+  "tries": 1,
+  "last_error": "Gemini non riesce ad aprire questo video adesso (live appena finita, video riservato o rimosso)"
+ },
+ "x7sR1vNJXfw": {
+  "status": "pending",
+  "attempts": 0,
+  "channel": "Jeremy Lefebvre Clips",
+  "title": "AMD STOCK Just Took an INTERESTING Turn!",
+  "first_seen": "2026-11-28T04:32:16.001458+00:00",
+  "tries": 1,
+  "last_error": "Gemini non riesce ad aprire questo video adesso (live appena finita, video riservato o rimosso)"
+ },
+ "QYr7rgs3Z8Q": {
+  "status": "pending",
+  "attempts": 0,
+  "channel": "Jeremy Lefebvre Clips",
+  "title": "MARKET WARNING! Don't Get Trapped This Year-End Season",
+  "first_seen": "2026-11-28T04:32:17.947410+00:00",
+  "tries": 1,
+  "last_error": "Gemini non riesce ad aprire questo video adesso (live appena finita, video riservato o rimosso)"
+ },
+ "X7ABxr_0d2M": {
+  "status": "pending",
+  "attempts": 0,
+  "channel": "Jeremy Lefebvre Clips",
+  "title": "Pure Panic in Market!",
+  "first_seen": "2026-11-28T04:32:24.995949+00:00",
   "tries": 1,
   "last_error": "Gemini non riesce ad aprire questo video adesso (live appena finita, video riservato o rimosso)"
  }
