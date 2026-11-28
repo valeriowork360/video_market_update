@@ -1,0 +1,522 @@
+{
+ "it": [
+  {
+   "levels": [
+    76000.0,
+    72000.0,
+    80000.0
+   ],
+   "history": {
+    "symbol": "BTC-USD",
+    "start": "2018-11",
+    "end": "2022-11"
+   },
+   "title": "Bitcoin a 76.000 dollari: il test del ciclo storico",
+   "hook": "Bitcoin A 76.000$",
+   "beats": [
+    {
+     "say": "Bitcoin a 76.000 dollari sta replicando la stagionalità dei minimi storici.",
+     "show": "Bitcoin A 76.000$",
+     "figure": "76.000 $"
+    },
+    {
+     "say": "Tra novembre 2021 e novembre 2022 il prezzo crollò del 75%, passando da 65.467 a 16.292 dollari in 12 mesi.",
+     "show": "CROLLO DEL 75%",
+     "figure": "-75%"
+    },
+    {
+     "say": "I minimi di ciclo del 2018 e del 2022 si sono formati proprio tra novembre e dicembre.",
+     "show": "MINIMI DI CICLO",
+     "figure": ""
+    },
+    {
+     "say": "Se il supporto a 76.000 dollari regge, il rimbalzo punterà verso 78.000 e 80.000 dollari.",
+     "show": "TARGET A 80.000$",
+     "figure": "80.000 $"
+    },
+    {
+     "say": "Sotto 76.000 dollari il livello chiave da difendere scende subito a 72.000.",
+     "show": "SUPPORTO A 72.000$",
+     "figure": "72.000 $"
+    },
+    {
+     "say": "La compressione di volatilità prelude al prossimo movimento direzionale.",
+     "show": "VOLATILITÀ COMPRESSA",
+     "figure": ""
+    },
+    {
+     "say": "La storia indica accumulazione prima della rottura. Segui per domani.",
+     "show": "TEST FINALE",
+     "figure": ""
+    }
+   ],
+   "origin": "0xTalks",
+   "source_video": "ALT IN SALDO? | 0xFriday | 27 Novembre 2026",
+   "narration": "Bitcoin a 76.000 dollari sta replicando la stagionalità dei minimi storici. Tra novembre 2021 e novembre 2022 il prezzo crollò del 75%, passando da 65.467 a 16.292 dollari in 12 mesi. I minimi di ciclo del 2018 e del 2022 si sono formati proprio tra novembre e dicembre. Se il supporto a 76.000 dollari regge, il rimbalzo punterà verso 78.000 e 80.000 dollari. Sotto 76.000 dollari il livello chiave da difendere scende subito a 72.000. La compressione di volatilità prelude al prossimo movimento direzionale. La storia indica accumulazione prima della rottura. Segui per domani.",
+   "ticker": "BTC-USD",
+   "sentiment": "neutral",
+   "sources": [],
+   "caption": "Bitcoin testa il supporto chiave a 76.000 dollari replicando i minimi ciclici di novembre e dicembre.",
+   "hashtags": [
+    "#Bitcoin",
+    "#BTC",
+    "#Criptovalute",
+    "#Trading",
+    "#AnalisiTecnica"
+   ]
+  },
+  {
+   "levels": [
+    3000.0,
+    4500.0
+   ],
+   "history": null,
+   "title": "Ethereum a 3.000 dollari: setup tecnico e resistenza",
+   "hook": "Ethereum A 3.000$",
+   "beats": [
+    {
+     "say": "Ethereum a 3.000 dollari definisce il pavimento critico di medio termine.",
+     "show": "Ethereum A 3.000$",
+     "figure": "3.000 $"
+    },
+    {
+     "say": "La struttura grafica continua a fare da barometro per l'intero comparto altcoin.",
+     "show": "STRUTTURA CHIAVE",
+     "figure": ""
+    },
+    {
+     "say": "Il consolidamento in corso nasconde una forte divergenza rispetto alla debolezza generale.",
+     "show": "DIVERGENZA GRAFICA",
+     "figure": ""
+    },
+    {
+     "say": "La tenuta di 3.000 dollari apre la strada a un retest della resistenza a 4.500.",
+     "show": "RESISTENZA A 4.500$",
+     "figure": "4.500 $"
+    },
+    {
+     "say": "Sotto 3.000 dollari l'intero scenario rialzista viene invalidato. Segui per domani.",
+     "show": "LIVELLO CRITICO",
+     "figure": ""
+    }
+   ],
+   "origin": "0xTalks",
+   "source_video": "ALT IN SALDO? | 0xFriday | 27 Novembre 2026",
+   "narration": "Ethereum a 3.000 dollari definisce il pavimento critico di medio termine. La struttura grafica continua a fare da barometro per l'intero comparto altcoin. Il consolidamento in corso nasconde una forte divergenza rispetto alla debolezza generale. La tenuta di 3.000 dollari apre la strada a un retest della resistenza a 4.500. Sotto 3.000 dollari l'intero scenario rialzista viene invalidato. Segui per domani.",
+   "ticker": "ETH-USD",
+   "sentiment": "neutral",
+   "sources": [],
+   "caption": "Ethereum difende la soglia dei 3.000 dollari per tentare l'allungo verso la resistenza a 4.500.",
+   "hashtags": [
+    "#Ethereum",
+    "#ETH",
+    "#Crypto",
+    "#Altcoin",
+    "#Trading"
+   ]
+  },
+  {
+   "levels": [
+    64000.0,
+    50000.0
+   ],
+   "history": null,
+   "title": "Bitcoin a 64.000 dollari: rischio discesa verso 50.000",
+   "hook": "Bitcoin A 64.000$",
+   "beats": [
+    {
+     "say": "Bitcoin a 64.000 dollari evidenzia una struttura di breve termine ancora ribassista.",
+     "show": "Bitcoin A 64.000$",
+     "figure": "64.000 $"
+    },
+    {
+     "say": "Ogni rimbalzo recente manca di volumi sufficienti per confermare una vera inversione.",
+     "show": "RIMBALZO DEBOLE",
+     "figure": ""
+    },
+    {
+     "say": "I dati GEX mostrano gamma negativa persistente proprio attorno a 50.000 dollari.",
+     "show": "GAMMA NEGATIVA",
+     "figure": "50.000 $"
+    },
+    {
+     "say": "Se il range a 64.000 dollari viene perso, il target ribassista è a 50.000.",
+     "show": "SUPPORTO A 50.000$",
+     "figure": "50.000 $"
+    },
+    {
+     "say": "Inseguire i movimenti impulsivi ora comporta rischi asimmetrici. Segui per domani.",
+     "show": "GESTIONE RISCHIO",
+     "figure": ""
+    }
+   ],
+   "origin": "0xTalks",
+   "source_video": "ALT IN SALDO? | 0xFriday | 27 Novembre 2026",
+   "narration": "Bitcoin a 64.000 dollari evidenzia una struttura di breve termine ancora ribassista. Ogni rimbalzo recente manca di volumi sufficienti per confermare una vera inversione. I dati GEX mostrano gamma negativa persistente proprio attorno a 50.000 dollari. Se il range a 64.000 dollari viene perso, il target ribassista è a 50.000. Inseguire i movimenti impulsivi ora comporta rischi asimmetrici. Segui per domani.",
+   "ticker": "BTC-USD",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Bitcoin mostra debolezza nel range a 64.000 dollari: la concentrazione di gamma punta verso 50.000.",
+   "hashtags": [
+    "#Bitcoin",
+    "#BTC",
+    "#Crypto",
+    "#Derivati",
+    "#Trading"
+   ]
+  },
+  {
+   "levels": [
+    100.0,
+    60.0
+   ],
+   "history": null,
+   "title": "Hyperliquid: 800 milioni di ricavi e target a 100 dollari",
+   "hook": "800 MILIONI RICAVI",
+   "beats": [
+    {
+     "say": "Hyperliquid registra 800 milioni di dollari di ricavi annualizzati.",
+     "show": "800 MILIONI RICAVI",
+     "figure": "800 mln $"
+    },
+    {
+     "say": "Il protocollo ha totalizzato 67 milioni negli ultimi 30 giorni e 1,24 miliardi di buyback.",
+     "show": "1,24 MILIARDI BUYBACK",
+     "figure": "1,24 mld $"
+    },
+    {
+     "say": "La contrazione di liquidità nelle stablecoin non ha fermato la crescita del business.",
+     "show": "CRESCITA COSTANTE",
+     "figure": ""
+    },
+    {
+     "say": "Comprare verso 100 dollari offre un profilo di rischio diverso rispetto all'accumulo a 60.",
+     "show": "ACCUMULO A 60$",
+     "figure": "60 $"
+    },
+    {
+     "say": "I fondamentali restano solidi nonostante l'incertezza generale. Segui per domani.",
+     "show": "TARGET A 100$",
+     "figure": "100 $"
+    }
+   ],
+   "origin": "0xTalks",
+   "source_video": "ALT IN SALDO? | 0xFriday | 27 Novembre 2026",
+   "narration": "Hyperliquid registra 800 milioni di dollari di ricavi annualizzati. Il protocollo ha totalizzato 67 milioni negli ultimi 30 giorni e 1,24 miliardi di buyback. La contrazione di liquidità nelle stablecoin non ha fermato la crescita del business. Comprare verso 100 dollari offre un profilo di rischio diverso rispetto all'accumulo a 60. I fondamentali restano solidi nonostante l'incertezza generale. Segui per domani.",
+   "ticker": "HYPE",
+   "sentiment": "bullish",
+   "sources": [],
+   "caption": "Hyperliquid tocca 800 milioni di dollari di ricavi annualizzati con 1,24 miliardi di buyback complessivi.",
+   "hashtags": [
+    "#Hyperliquid",
+    "#HYPE",
+    "#DeFi",
+    "#Crypto",
+    "#Web3"
+   ]
+  }
+ ],
+ "en": [
+  {
+   "levels": [
+    76000.0,
+    72000.0,
+    80000.0
+   ],
+   "history": {
+    "symbol": "BTC-USD",
+    "start": "2018-11",
+    "end": "2022-11"
+   },
+   "title": "Bitcoin at $76,000: The Historic Cycle Test",
+   "hook": "Bitcoin AT $76,000",
+   "beats": [
+    {
+     "say": "Bitcoin at $76,000 is mirroring its classic cycle bottom seasonality.",
+     "show": "Bitcoin AT $76,000",
+     "figure": "$76,000"
+    },
+    {
+     "say": "Between November 2021 and November 2022, price dropped 75%, tumbling from $65,467 to $16,292 in 12 months.",
+     "show": "75% CRASH",
+     "figure": "-75%"
+    },
+    {
+     "say": "Major cycle bottoms in 2018 and 2022 both printed between November and December.",
+     "show": "CYCLE BOTTOMS",
+     "figure": ""
+    },
+    {
+     "say": "If the $76,000 support holds, expect a retest toward $78,000 and $80,000.",
+     "show": "TARGET $80,000",
+     "figure": "$80,000"
+    },
+    {
+     "say": "If $76,000 fails, the next line of defense sits at $72,000.",
+     "show": "SUPPORT AT $72,000",
+     "figure": "$72,000"
+    },
+    {
+     "say": "Volatility compression usually triggers the next secular breakout.",
+     "show": "VOLATILITY SQUEEZE",
+     "figure": ""
+    },
+    {
+     "say": "Cycle history favors patient accumulation. Follow for tomorrow.",
+     "show": "FINAL TEST",
+     "figure": ""
+    }
+   ],
+   "origin": "0xTalks",
+   "source_video": "ALT IN SALDO? | 0xFriday | 27 Novembre 2026",
+   "narration": "Bitcoin at $76,000 is mirroring its classic cycle bottom seasonality. Between November 2021 and November 2022, price dropped 75%, tumbling from $65,467 to $16,292 in 12 months. Major cycle bottoms in 2018 and 2022 both printed between November and December. If the $76,000 support holds, expect a retest toward $78,000 and $80,000. If $76,000 fails, the next line of defense sits at $72,000. Volatility compression usually triggers the next secular breakout. Cycle history favors patient accumulation. Follow for tomorrow.",
+   "ticker": "BTC-USD",
+   "sentiment": "neutral",
+   "sources": [],
+   "caption": "Bitcoin tests key support at $76,000 following historic November cycle lows.",
+   "hashtags": [
+    "#Bitcoin",
+    "#BTC",
+    "#Crypto",
+    "#Trading",
+    "#MarketCycle"
+   ]
+  },
+  {
+   "levels": [
+    3000.0,
+    4500.0
+   ],
+   "history": null,
+   "title": "Ethereum at $3,000: Key Setup and Target",
+   "hook": "Ethereum AT $3,000",
+   "beats": [
+    {
+     "say": "Ethereum at $3,000 marks the critical floor for medium-term structure.",
+     "show": "Ethereum AT $3,000",
+     "figure": "$3,000"
+    },
+    {
+     "say": "Price action here dictates the broader trajectory of the altcoin market.",
+     "show": "MARKET BELLWETHER",
+     "figure": ""
+    },
+    {
+     "say": "This tight consolidation hides emerging strength against broader market uncertainty.",
+     "show": "HIDDEN STRENGTH",
+     "figure": ""
+    },
+    {
+     "say": "Holding $3,000 sets up a direct path toward the $4,500 resistance.",
+     "show": "RESISTANCE AT $4,500",
+     "figure": "$4,500"
+    },
+    {
+     "say": "Losing $3,000 completely invalidates the bullish setup. Follow for tomorrow.",
+     "show": "CRITICAL FLOOR",
+     "figure": ""
+    }
+   ],
+   "origin": "0xTalks",
+   "source_video": "ALT IN SALDO? | 0xFriday | 27 Novembre 2026",
+   "narration": "Ethereum at $3,000 marks the critical floor for medium-term structure. Price action here dictates the broader trajectory of the altcoin market. This tight consolidation hides emerging strength against broader market uncertainty. Holding $3,000 sets up a direct path toward the $4,500 resistance. Losing $3,000 completely invalidates the bullish setup. Follow for tomorrow.",
+   "ticker": "ETH-USD",
+   "sentiment": "neutral",
+   "sources": [],
+   "caption": "Ethereum defends $3,000 support as traders watch for a breakout toward $4,500 resistance.",
+   "hashtags": [
+    "#Ethereum",
+    "#ETH",
+    "#Crypto",
+    "#Trading",
+    "#Altcoins"
+   ]
+  },
+  {
+   "levels": [
+    64000.0,
+    50000.0
+   ],
+   "history": null,
+   "title": "Bitcoin at $64,000: Downside Risk to $50,000",
+   "hook": "Bitcoin AT $64,000",
+   "beats": [
+    {
+     "say": "Bitcoin at $64,000 remains locked in a short-term bearish structure.",
+     "show": "Bitcoin AT $64,000",
+     "figure": "$64,000"
+    },
+    {
+     "say": "Recent bounces lack the volume profile required to signal a genuine reversal.",
+     "show": "WEAK BOUNCE",
+     "figure": ""
+    },
+    {
+     "say": "Options gamma data shows heavy negative gamma concentrated at the $50,000 strike.",
+     "show": "NEGATIVE GAMMA",
+     "figure": "$50,000"
+    },
+    {
+     "say": "Losing the $64,000 range risks a liquidity sweep down to $50,000.",
+     "show": "DOWNSIDE TO $50,000",
+     "figure": "$50,000"
+    },
+    {
+     "say": "Chasing impulsive breakouts right now offers poor asymmetry. Follow for tomorrow.",
+     "show": "MANAGE RISK",
+     "figure": ""
+    }
+   ],
+   "origin": "0xTalks",
+   "source_video": "ALT IN SALDO? | 0xFriday | 27 Novembre 2026",
+   "narration": "Bitcoin at $64,000 remains locked in a short-term bearish structure. Recent bounces lack the volume profile required to signal a genuine reversal. Options gamma data shows heavy negative gamma concentrated at the $50,000 strike. Losing the $64,000 range risks a liquidity sweep down to $50,000. Chasing impulsive breakouts right now offers poor asymmetry. Follow for tomorrow.",
+   "ticker": "BTC-USD",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Bitcoin trades cautiously at $64,000 as options data warns of downside gravitational pull to $50,000.",
+   "hashtags": [
+    "#Bitcoin",
+    "#BTC",
+    "#Crypto",
+    "#Options",
+    "#Trading"
+   ]
+  },
+  {
+   "levels": [
+    100.0,
+    60.0
+   ],
+   "history": null,
+   "title": "Hyperliquid: $800M Annualized Revenue and Valuation",
+   "hook": "$800M REVENUE",
+   "beats": [
+    {
+     "say": "Hyperliquid is generating $800 million in annualized protocol revenue.",
+     "show": "$800M REVENUE",
+     "figure": "$800M"
+    },
+    {
+     "say": "The platform recorded $67 million in monthly revenue alongside $1.24 billion in cumulative buybacks.",
+     "show": "$1.24B BUYBACKS",
+     "figure": "$1.24B"
+    },
+    {
+     "say": "DefiLlama metrics prove real cash flow continues even as stablecoin liquidity contracts.",
+     "show": "REAL CASH FLOW",
+     "figure": ""
+    },
+    {
+     "say": "Entering near $100 presents very different risk compared to accumulating at $60.",
+     "show": "ACCUMULATION AT $60",
+     "figure": "$60"
+    },
+    {
+     "say": "Strong cash generation supports long-term protocol valuation. Follow for tomorrow.",
+     "show": "TARGET $100",
+     "figure": "$100"
+    }
+   ],
+   "origin": "0xTalks",
+   "source_video": "ALT IN SALDO? | 0xFriday | 27 Novembre 2026",
+   "narration": "Hyperliquid is generating $800 million in annualized protocol revenue. The platform recorded $67 million in monthly revenue alongside $1.24 billion in cumulative buybacks. DefiLlama metrics prove real cash flow continues even as stablecoin liquidity contracts. Entering near $100 presents very different risk compared to accumulating at $60. Strong cash generation supports long-term protocol valuation. Follow for tomorrow.",
+   "ticker": "HYPE",
+   "sentiment": "bullish",
+   "sources": [],
+   "caption": "Hyperliquid hits $800M in annualized revenue and $1.24B in cumulative buybacks.",
+   "hashtags": [
+    "#Hyperliquid",
+    "#HYPE",
+    "#DeFi",
+    "#Crypto",
+    "#Trading"
+   ]
+  }
+ ],
+ "carousels": {
+  "it": {
+   "topic": "Analisi ciclica e setup di mercato",
+   "caption": "Dall'analisi storica dei minimi di Bitcoin ai livelli chiave su Ethereum e Hyperliquid. Ecco i dati fondamentali da monitorare. Segui per l'aggiornamento di domani.",
+   "sentiment": "neutral",
+   "ticker": "BTC-USD",
+   "slides": [
+    {
+     "title": "Bitcoin A 76.000 DOLLARI: IL SETUP",
+     "body": "I minimi ciclici storici e i livelli tecnici da monitorare nelle prossime settimane."
+    },
+    {
+     "title": "La stagionalità dei minimi",
+     "body": "Tra novembre 2021 e novembre 2022 Bitcoin perse il 75%. I minimi storici si concentrano tra novembre e dicembre."
+    },
+    {
+     "title": "I livelli di Bitcoin",
+     "body": "Il supporto a 76.000 dollari apre la strada a 80.000. In caso di rottura, il pavimento critico si trova a 72.000 dollari."
+    },
+    {
+     "title": "Ethereum difende i 3.000",
+     "body": "Ethereum consolida sopra 3.000 dollari. La tenuta del supporto mantiene aperto il target verso la resistenza a 4.500 dollari."
+    },
+    {
+     "title": "Hyperliquid fa cassa",
+     "body": "Hyperliquid raggiunge 800 milioni di dollari di ricavi annualizzati e 1,24 miliardi di buyback, sfidando il calo di liquidità."
+    },
+    {
+     "title": "La gestione del rischio",
+     "body": "Evitare la leva eccessiva e attendere la conferma dei supporti. Segui per l'aggiornamento di domani."
+    }
+   ],
+   "hashtags": [
+    "#Bitcoin",
+    "#Ethereum",
+    "#Hyperliquid",
+    "#Crypto",
+    "#Trading",
+    "#DeFi",
+    "#AnalisiTecnica",
+    "#MercatiFinanziari"
+   ]
+  },
+  "en": {
+   "topic": "Cycle Analysis and Market Setups",
+   "caption": "From Bitcoin historical cycle bottoms to key price levels on Ethereum and Hyperliquid. Key data to navigate the current market. Follow for tomorrow's update.",
+   "sentiment": "neutral",
+   "ticker": "BTC-USD",
+   "slides": [
+    {
+     "title": "Bitcoin AT $76,000: MACRO SETUP",
+     "body": "Historical bottom patterns and key technical levels to watch across the crypto market."
+    },
+    {
+     "title": "Cycle Bottom Seasonality",
+     "body": "Between November 2021 and November 2022 Bitcoin dropped 75%. Major cycle lows historically form around November and December."
+    },
+    {
+     "title": "Bitcoin Price Framework",
+     "body": "Holding $76,000 targets a recovery to $80,000. If breached, the next major support zone sits at $72,000."
+    },
+    {
+     "title": "Ethereum Holds $3,000",
+     "body": "Ethereum continues to defend $3,000 support. Maintaining this base keeps the path open toward $4,500 resistance."
+    },
+    {
+     "title": "Hyperliquid Protocol Growth",
+     "body": "Hyperliquid reaches $800 million in annualized revenue and $1.24 billion in cumulative buybacks despite liquidity tightening."
+    },
+    {
+     "title": "Risk Management Focus",
+     "body": "Avoid high leverage and wait for clear range confirmations. Follow for tomorrow's update."
+    }
+   ],
+   "hashtags": [
+    "#Bitcoin",
+    "#Ethereum",
+    "#Hyperliquid",
+    "#Crypto",
+    "#Trading",
+    "#DeFi",
+    "#TechnicalAnalysis",
+    "#MarketUpdate"
+   ]
+  }
+ }
+}

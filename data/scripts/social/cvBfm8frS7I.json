@@ -1,0 +1,512 @@
+{
+ "it": [
+  {
+   "levels": [],
+   "history": {
+    "symbol": "^IXIC",
+    "start": "2008-12",
+    "end": "2025-12"
+   },
+   "title": "Nasdaq a dicembre: la trappola del 9,5%",
+   "hook": "TRAPPOLA DICEMBRE",
+   "beats": [
+    {
+     "say": "Il Nasdaq può perdere il 9,5% a dicembre, ma la storia sorprende.",
+     "show": "TRAPPOLA DICEMBRE",
+     "figure": "-9,5%"
+    },
+    {
+     "say": "Negli ultimi dieci anni, sette chiusure di dicembre sono state positive.",
+     "show": "7 SU 10 VERDI",
+     "figure": "7/10"
+    },
+    {
+     "say": "Il 2020 e il 2023 hanno segnato rialzi superiori al 5,5%.",
+     "show": "RALLY DEL 5,6%",
+     "figure": "5,6%"
+    },
+    {
+     "say": "Nel 2018 l'indice è crollato del 9,5% a causa di vendite indiscriminate.",
+     "show": "CROLLO 2018",
+     "figure": "-9,5%"
+    },
+    {
+     "say": "Quest'anno le forti minusvalenze sui semiconduttori minacciano la solita stagionalità rialzista.",
+     "show": "RISCHIO VENDITE",
+     "figure": ""
+    },
+    {
+     "say": "Monitorare la tenuta dei supporti prima di anticipare il rimbalzo. Segui per l'aggiornamento di domani.",
+     "show": "ATTENZIONE AI LIVELLI",
+     "figure": ""
+    }
+   ],
+   "origin": "Jeremy Lefebvre",
+   "source_video": "The DECEMBER Stock Market! What's Coming NEXT...",
+   "narration": "Il Nasdaq può perdere il 9,5% a dicembre, ma la storia sorprende. Negli ultimi dieci anni, sette chiusure di dicembre sono state positive. Il 2020 e il 2023 hanno segnato rialzi superiori al 5,5%. Nel 2018 l'indice è crollato del 9,5% a causa di vendite indiscriminate. Quest'anno le forti minusvalenze sui semiconduttori minacciano la solita stagionalità rialzista. Monitorare la tenuta dei supporti prima di anticipare il rimbalzo. Segui per l'aggiornamento di domani.",
+   "ticker": "^IXIC",
+   "sentiment": "neutral",
+   "sources": [],
+   "caption": "Dicembre non è sempre rialzista per il Nasdaq: nel 2018 perse il 9,5%. Quest'anno la pressione fiscale sui semiconduttori aumenta i rischi.",
+   "hashtags": [
+    "#Nasdaq",
+    "#Borsa",
+    "#Mercati",
+    "#Tech",
+    "#Trading",
+    "#Investimenti"
+   ]
+  },
+  {
+   "levels": [
+    120.0
+   ],
+   "history": null,
+   "title": "Nvidia verso 120 dollari: livello cruciale",
+   "hook": "Nvidia A 120 $",
+   "beats": [
+    {
+     "say": "Nvidia punta verso 120 dollari sotto la forte pressione fiscale.",
+     "show": "Nvidia A 120 $",
+     "figure": "120 $"
+    },
+    {
+     "say": "I titoli dei semiconduttori affrontano vendite forzate per contabilizzare le perdite annuali.",
+     "show": "VENDITE FISCALI",
+     "figure": ""
+    },
+    {
+     "say": "I profitti societari restano enormi, ma nel breve termine comanda la psicologia.",
+     "show": "UTILI VS SENTIMENT",
+     "figure": ""
+    },
+    {
+     "say": "Se il sentiment negativo prosegue, Nvidia andrà a ritestare 120 dollari.",
+     "show": "TEST A 120 $",
+     "figure": "120 $"
+    },
+    {
+     "say": "La tenuta di 120 dollari eviterà un'ulteriore estensione del ribasso.",
+     "show": "LIVELLO CHIAVE",
+     "figure": "120 $"
+    },
+    {
+     "say": "Serve pazienza finché i volumi di vendita non rallentano. Segui per l'aggiornamento di domani.",
+     "show": "ATTENDI CONFERMA",
+     "figure": ""
+    }
+   ],
+   "origin": "Jeremy Lefebvre",
+   "source_video": "The DECEMBER Stock Market! What's Coming NEXT...",
+   "narration": "Nvidia punta verso 120 dollari sotto la forte pressione fiscale. I titoli dei semiconduttori affrontano vendite forzate per contabilizzare le perdite annuali. I profitti societari restano enormi, ma nel breve termine comanda la psicologia. Se il sentiment negativo prosegue, Nvidia andrà a ritestare 120 dollari. La tenuta di 120 dollari eviterà un'ulteriore estensione del ribasso. Serve pazienza finché i volumi di vendita non rallentano. Segui per l'aggiornamento di domani.",
+   "ticker": "NVDA",
+   "sentiment": "neutral",
+   "sources": [],
+   "caption": "Nvidia risente delle vendite fiscali di fine anno. Il livello a 120 dollari diventa il supporto chiave da difendere.",
+   "hashtags": [
+    "#Nvidia",
+    "#NVDA",
+    "#Chip",
+    "#Azioni",
+    "#WallStreet",
+    "#Semiconduttori"
+   ]
+  },
+  {
+   "levels": [],
+   "history": null,
+   "title": "Nvidia crolla del 33%: fuga dai chip",
+   "hook": "Nvidia -33%",
+   "beats": [
+    {
+     "say": "Nvidia cede il 33% da giugno: il comparto chip collassa.",
+     "show": "Nvidia -33%",
+     "figure": "-33%"
+    },
+    {
+     "say": "AMD perde il 22%, Taiwan Semiconductor il 23% e il Nasdaq il 15%.",
+     "show": "CROLLO CHIP",
+     "figure": "-22%"
+    },
+    {
+     "say": "L'eccessivo affollamento dei primi mesi ha intrappolato milioni di posizioni in perdita.",
+     "show": "TRADE AFFOLLATO",
+     "figure": ""
+    },
+    {
+     "say": "Gli investitori scaricano i titoli tecnologici per realizzare minusvalenze fiscali a dicembre.",
+     "show": "VENDITE FINE ANNO",
+     "figure": ""
+    },
+    {
+     "say": "La debolezza sui semiconduttori continuerà per tutto il mese. Segui per l'aggiornamento di domani.",
+     "show": "DICEMBRE NERO",
+     "figure": ""
+    }
+   ],
+   "origin": "Jeremy Lefebvre",
+   "source_video": "The DECEMBER Stock Market! What's Coming NEXT...",
+   "narration": "Nvidia cede il 33% da giugno: il comparto chip collassa. AMD perde il 22%, Taiwan Semiconductor il 23% e il Nasdaq il 15%. L'eccessivo affollamento dei primi mesi ha intrappolato milioni di posizioni in perdita. Gli investitori scaricano i titoli tecnologici per realizzare minusvalenze fiscali a dicembre. La debolezza sui semiconduttori continuerà per tutto il mese. Segui per l'aggiornamento di domani.",
+   "ticker": "NVDA",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Nvidia perde il 33% e trascina al ribasso i semiconduttori, con AMD a -22%. Le vendite fiscali pesano sui mercati fino a fine anno.",
+   "hashtags": [
+    "#Nvidia",
+    "#AMD",
+    "#Nasdaq",
+    "#Borsa",
+    "#Semiconduttori",
+    "#Investimenti"
+   ]
+  },
+  {
+   "levels": [
+    57000.0
+   ],
+   "history": null,
+   "title": "Bitcoin a 58.000 dollari: supporto a 57.000",
+   "hook": "Bitcoin 58.000 $",
+   "beats": [
+    {
+     "say": "Bitcoin scende a 58.000 dollari mentre crollano crypto e materie prime.",
+     "show": "Bitcoin 58.000 $",
+     "figure": "58.000 $"
+    },
+    {
+     "say": "Ethereum arretra a 1.600 dollari, mentre l'argento perde il 65% dai massimi.",
+     "show": "LIQUIDAZIONI",
+     "figure": "1.600 $"
+    },
+    {
+     "say": "Non è una debolezza isolata: la fuga dal rischio investe tutti gli asset speculativi.",
+     "show": "FUGA DAL RISCHIO",
+     "figure": "-65%"
+    },
+    {
+     "say": "Se Bitcoin perde 58.000 dollari, il supporto cruciale si colloca a 57.000.",
+     "show": "SUPPORTO 57.000 $",
+     "figure": "57.000 $"
+    },
+    {
+     "say": "La rottura di 57.000 dollari spalancherebbe la strada a nuovi minimi. Segui per l'aggiornamento di domani.",
+     "show": "RISCHIO ROTTURA",
+     "figure": "57.000 $"
+    }
+   ],
+   "origin": "Jeremy Lefebvre",
+   "source_video": "The DECEMBER Stock Market! What's Coming NEXT...",
+   "narration": "Bitcoin scende a 58.000 dollari mentre crollano crypto e materie prime. Ethereum arretra a 1.600 dollari, mentre l'argento perde il 65% dai massimi. Non è una debolezza isolata: la fuga dal rischio investe tutti gli asset speculativi. Se Bitcoin perde 58.000 dollari, il supporto cruciale si colloca a 57.000. La rottura di 57.000 dollari spalancherebbe la strada a nuovi minimi. Segui per l'aggiornamento di domani.",
+   "ticker": "BTC-USD",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Bitcoin scivola verso 58.000 dollari e mette alla prova il supporto di 57.000. Il calo coinvolge l'intero comparto speculativo.",
+   "hashtags": [
+    "#Bitcoin",
+    "#BTC",
+    "#Ethereum",
+    "#Crypto",
+    "#Mercati",
+    "#Trading"
+   ]
+  }
+ ],
+ "en": [
+  {
+   "levels": [],
+   "history": {
+    "symbol": "^IXIC",
+    "start": "2008-12",
+    "end": "2025-12"
+   },
+   "title": "Nasdaq in December: The 9.5% Trap",
+   "hook": "DECEMBER TRAP",
+   "beats": [
+    {
+     "say": "Nasdaq dropped 9.5% in bad Decembers, but history shows another side.",
+     "show": "DECEMBER TRAP",
+     "figure": "-9.5%"
+    },
+    {
+     "say": "Seven out of the last ten years delivered positive December returns for tech.",
+     "show": "7 OF 10 GREEN",
+     "figure": "7/10"
+    },
+    {
+     "say": "Years like 2020 and 2023 produced solid rallies above 5.5%.",
+     "show": "5.6% GAIN",
+     "figure": "5.6%"
+    },
+    {
+     "say": "In December 2018, aggressive year-end liquidations triggered a steep 9.5% drop.",
+     "show": "2018 CRASH",
+     "figure": "-9.5%"
+    },
+    {
+     "say": "Massive underwater positions in semiconductors now threaten the usual seasonal strength.",
+     "show": "TAX PRESSURE",
+     "figure": ""
+    },
+    {
+     "say": "Watch index support closely before buying this seasonal dip. Follow for tomorrow's update.",
+     "show": "WATCH SUPPORT",
+     "figure": ""
+    }
+   ],
+   "origin": "Jeremy Lefebvre",
+   "source_video": "The DECEMBER Stock Market! What's Coming NEXT...",
+   "narration": "Nasdaq dropped 9.5% in bad Decembers, but history shows another side. Seven out of the last ten years delivered positive December returns for tech. Years like 2020 and 2023 produced solid rallies above 5.5%. In December 2018, aggressive year-end liquidations triggered a steep 9.5% drop. Massive underwater positions in semiconductors now threaten the usual seasonal strength. Watch index support closely before buying this seasonal dip. Follow for tomorrow's update.",
+   "ticker": "^IXIC",
+   "sentiment": "neutral",
+   "sources": [],
+   "caption": "December seasonality favored Nasdaq in 7 of the last 10 years, but 2018 showed a 9.5% drop. Tax-loss selling could complicate this year.",
+   "hashtags": [
+    "#Nasdaq",
+    "#StockMarket",
+    "#TechStocks",
+    "#Trading",
+    "#Economy",
+    "#Investing"
+   ]
+  },
+  {
+   "levels": [
+    120.0
+   ],
+   "history": null,
+   "title": "Nvidia Eyes $120: Crucial Floor Ahead",
+   "hook": "Nvidia AT $120",
+   "beats": [
+    {
+     "say": "Nvidia is testing lower levels toward $120 under heavy selling pressure.",
+     "show": "Nvidia AT $120",
+     "figure": "$120"
+    },
+    {
+     "say": "Semiconductor stocks face aggressive year-end liquidations to lock in losses.",
+     "show": "TAX HARVESTING",
+     "figure": ""
+    },
+    {
+     "say": "Underlying earnings remain massive, but market sentiment dictates short-term prices.",
+     "show": "SENTIMENT RULES",
+     "figure": ""
+    },
+    {
+     "say": "If downside momentum continues, Nvidia will retest support at $120.",
+     "show": "RETEST $120",
+     "figure": "$120"
+    },
+    {
+     "say": "Defending $120 is essential to prevent a wider technical decline.",
+     "show": "CRITICAL FLOOR",
+     "figure": "$120"
+    },
+    {
+     "say": "Patience is needed until liquidation volume dries up. Follow for tomorrow's update.",
+     "show": "WAIT FOR BASE",
+     "figure": ""
+    }
+   ],
+   "origin": "Jeremy Lefebvre",
+   "source_video": "The DECEMBER Stock Market! What's Coming NEXT...",
+   "narration": "Nvidia is testing lower levels toward $120 under heavy selling pressure. Semiconductor stocks face aggressive year-end liquidations to lock in losses. Underlying earnings remain massive, but market sentiment dictates short-term prices. If downside momentum continues, Nvidia will retest support at $120. Defending $120 is essential to prevent a wider technical decline. Patience is needed until liquidation volume dries up. Follow for tomorrow's update.",
+   "ticker": "NVDA",
+   "sentiment": "neutral",
+   "sources": [],
+   "caption": "Nvidia continues to face aggressive tax-loss selling pressure. The $120 level is the critical technical line to monitor.",
+   "hashtags": [
+    "#Nvidia",
+    "#NVDA",
+    "#Semiconductors",
+    "#StockMarket",
+    "#Tech",
+    "#Trading"
+   ]
+  },
+  {
+   "levels": [],
+   "history": null,
+   "title": "Nvidia Drops 33%: Tech Sell-Off Accelerates",
+   "hook": "Nvidia DOWN 33%",
+   "beats": [
+    {
+     "say": "Nvidia is down 33% since June as semiconductor leaders bleed.",
+     "show": "Nvidia DOWN 33%",
+     "figure": "-33%"
+    },
+    {
+     "say": "AMD lost 22%, Taiwan Semiconductor fell 23%, and Nasdaq dropped 15%.",
+     "show": "CHIP BLOODPATH",
+     "figure": "-22%"
+    },
+    {
+     "say": "Extreme positioning early this year trapped an overwhelming number of traders underwater.",
+     "show": "TRAPPED BUYERS",
+     "figure": ""
+    },
+    {
+     "say": "Investors are rapidly dumping losing tech names for year-end tax deductions.",
+     "show": "TAX SELLING",
+     "figure": ""
+    },
+    {
+     "say": "Pressure on chipmakers will persist through December. Follow for tomorrow's update.",
+     "show": "PRESSURE STAYS",
+     "figure": ""
+    }
+   ],
+   "origin": "Jeremy Lefebvre",
+   "source_video": "The DECEMBER Stock Market! What's Coming NEXT...",
+   "narration": "Nvidia is down 33% since June as semiconductor leaders bleed. AMD lost 22%, Taiwan Semiconductor fell 23%, and Nasdaq dropped 15%. Extreme positioning early this year trapped an overwhelming number of traders underwater. Investors are rapidly dumping losing tech names for year-end tax deductions. Pressure on chipmakers will persist through December. Follow for tomorrow's update.",
+   "ticker": "NVDA",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Nvidia has pulled back 33% from its highs, while AMD dropped 22%. Heavy tax-loss harvesting continues to pressure the tech sector.",
+   "hashtags": [
+    "#Nvidia",
+    "#AMD",
+    "#Nasdaq",
+    "#Semiconductors",
+    "#StockMarket",
+    "#Tech"
+   ]
+  },
+  {
+   "levels": [
+    57000.0
+   ],
+   "history": null,
+   "title": "Bitcoin at $58,000: Testing $57,000 Support",
+   "hook": "Bitcoin $58,000",
+   "beats": [
+    {
+     "say": "Bitcoin drops to $58,000 as crypto and commodities suffer severe drawdowns.",
+     "show": "Bitcoin $58,000",
+     "figure": "$58,000"
+    },
+    {
+     "say": "Ethereum retreated to $1,600, while silver sits in a 65% drawdown.",
+     "show": "DEEP DRAWDOWN",
+     "figure": "$1,600"
+    },
+    {
+     "say": "This weakness is broad: speculative capital is fleeing across multiple markets.",
+     "show": "BROAD EXIT",
+     "figure": "-65%"
+    },
+    {
+     "say": "If Bitcoin fails to defend $58,000, primary support rests at $57,000.",
+     "show": "SUPPORT $57,000",
+     "figure": "$57,000"
+    },
+    {
+     "say": "Losing $57,000 exposes the market to an extended breakdown. Follow for tomorrow's update.",
+     "show": "WATCH $57,000",
+     "figure": "$57,000"
+    }
+   ],
+   "origin": "Jeremy Lefebvre",
+   "source_video": "The DECEMBER Stock Market! What's Coming NEXT...",
+   "narration": "Bitcoin drops to $58,000 as crypto and commodities suffer severe drawdowns. Ethereum retreated to $1,600, while silver sits in a 65% drawdown. This weakness is broad: speculative capital is fleeing across multiple markets. If Bitcoin fails to defend $58,000, primary support rests at $57,000. Losing $57,000 exposes the market to an extended breakdown. Follow for tomorrow's update.",
+   "ticker": "BTC-USD",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "Bitcoin trades around $58,000 with critical technical support sitting at $57,000. Broader commodities and crypto remain under heavy pressure.",
+   "hashtags": [
+    "#Bitcoin",
+    "#BTC",
+    "#Ethereum",
+    "#Crypto",
+    "#Markets",
+    "#Trading"
+   ]
+  }
+ ],
+ "carousels": {
+  "it": {
+   "topic": "La trappola di dicembre sui mercati",
+   "caption": "I mercati affrontano un dicembre complesso tra vendite fiscali sui chip e test dei supporti per Bitcoin. Analisi e livelli chiave da monitorare. Segui per l'aggiornamento di domani.",
+   "sentiment": "neutral",
+   "ticker": "^IXIC",
+   "slides": [
+    {
+     "title": "Dicembre sui mercati: trappola in arrivo?",
+     "body": "La stagionalità storica e le pesanti perdite sui semiconduttori preparano una chiusura d'anno ad alta volatilità."
+    },
+    {
+     "title": "Nasdaq: la statistica di dicembre",
+     "body": "Sette degli ultimi dieci anni sono stati positivi, ma nel 2018 l'indice perse il 9,5% sotto forti vendite."
+    },
+    {
+     "title": "Semiconduttori sotto pressione",
+     "body": "Da giugno Nvidia crolla del 33%, AMD perde il 22% e Taiwan Semiconductor il 23% per le minusvalenze fiscali."
+    },
+    {
+     "title": "Nvidia: supporto a 120 dollari",
+     "body": "Nonostante gli utili societari record, il sentiment negativo spinge il titolo verso il test cruciale dei 120 dollari."
+    },
+    {
+     "title": "Bitcoin mette alla prova 57.000",
+     "body": "Bitcoin scende a 58.000 dollari ed Ethereum a 1.600. La perdita di 57.000 dollari aprirebbe una correzione più profonda."
+    },
+    {
+     "title": "Gestire la volatilità di fine anno",
+     "body": "Le vendite fiscali domineranno dicembre: monitorare i supporti chiave prima di intervenire. Segui per l'aggiornamento di domani."
+    }
+   ],
+   "hashtags": [
+    "#Nasdaq",
+    "#Nvidia",
+    "#Bitcoin",
+    "#Borsa",
+    "#Mercati",
+    "#Trading",
+    "#Investimenti",
+    "#Finanza"
+   ]
+  },
+  "en": {
+   "topic": "The December Market Trap",
+   "caption": "Markets face a volatile December driven by semiconductor tax-loss harvesting and critical technical retests across tech and crypto. Follow for tomorrow's update.",
+   "sentiment": "neutral",
+   "ticker": "^IXIC",
+   "slides": [
+    {
+     "title": "December Markets: What Is Coming Next?",
+     "body": "Historical index patterns and massive tech drawdowns create an unpredictable setup for year-end trading."
+    },
+    {
+     "title": "Nasdaq: The December Historical Trap",
+     "body": "Seven of the last ten years finished green, yet December 2018 saw a brutal 9.5% drop."
+    },
+    {
+     "title": "Chip Stocks in Freefall",
+     "body": "Nvidia is down 33% since June, AMD lost 22%, and Taiwan Semiconductor fell 23% under aggressive selling."
+    },
+    {
+     "title": "Nvidia Setup: $120 Key Floor",
+     "body": "Long-term earnings power remains intact, but sentiment-driven tax-loss selling threatens a retest of $120 support."
+    },
+    {
+     "title": "Bitcoin Tests $57,000 Support",
+     "body": "Bitcoin trades at $58,000 with Ethereum at $1,600. Losing $57,000 would trigger a much sharper market correction."
+    },
+    {
+     "title": "Prepare for a Shaky Month",
+     "body": "Expect heavy tax-loss selling to dictate price action until support levels confirm. Follow for tomorrow's update."
+    }
+   ],
+   "hashtags": [
+    "#Nasdaq",
+    "#Nvidia",
+    "#Bitcoin",
+    "#StockMarket",
+    "#Crypto",
+    "#Trading",
+    "#Investing",
+    "#Tech"
+   ]
+  }
+ }
+}

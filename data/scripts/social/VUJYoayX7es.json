@@ -1,0 +1,626 @@
+{
+ "it": [
+  {
+   "levels": [
+    35.5
+   ],
+   "history": null,
+   "title": "AMD a quota 35,5%: volano i data center",
+   "hook": "AMD VOLA +97%",
+   "beats": [
+    {
+     "say": "I ricavi data center di AMD sono balzati del 97%.",
+     "show": "AMD VOLA +97%",
+     "figure": "+97%"
+    },
+    {
+     "say": "La quota nei server CPU è salita dal 27,8% al 35,5%.",
+     "show": "QUOTA AL 35,5%",
+     "figure": "35,5%"
+    },
+    {
+     "say": "I titoli allarmistici ignorano la velocità con cui il cloud adotta questi chip.",
+     "show": "ADOZIONE CLOUD",
+     "figure": ""
+    },
+    {
+     "say": "La guidance per il quarto trimestre punta decisa a 17 miliardi di dollari.",
+     "show": "TARGET 17 MLD",
+     "figure": "17 mld $"
+    },
+    {
+     "say": "Mantenere quota 35,5% crea una solida protezione contro i tetti all'export.",
+     "show": "CUSCINETTO EXPORT",
+     "figure": "35,5%"
+    },
+    {
+     "say": "La crescita reale supera il rumore di breve termine. Segui per l'aggiornamento di domani.",
+     "show": "CRESCITA REALE",
+     "figure": ""
+    }
+   ],
+   "origin": "Jeremy Lefebvre",
+   "source_video": "AMD Stock! BAD NEWS on the Way?",
+   "narration": "I ricavi data center di AMD sono balzati del 97%. La quota nei server CPU è salita dal 27,8% al 35,5%. I titoli allarmistici ignorano la velocità con cui il cloud adotta questi chip. La guidance per il quarto trimestre punta decisa a 17 miliardi di dollari. Mantenere quota 35,5% crea una solida protezione contro i tetti all'export. La crescita reale supera il rumore di breve termine. Segui per l'aggiornamento di domani.",
+   "ticker": "AMD",
+   "sentiment": "bullish",
+   "sources": [],
+   "caption": "AMD cresce del 97% nei data center e porta la quota server CPU al 35,5%. Segui per l'aggiornamento di domani.",
+   "hashtags": [
+    "#AMD",
+    "#Semiconduttori",
+    "#DataCenter",
+    "#TechStock",
+    "#BorsaUSA",
+    "#Investimenti"
+   ]
+  },
+  {
+   "levels": [
+    329.0,
+    90.0
+   ],
+   "history": {
+    "symbol": "META",
+    "start": "2022-01",
+    "end": "2022-12"
+   },
+   "title": "Meta giù del 73%: il crollo tech del 2022",
+   "hook": "META GIÙ 73%",
+   "beats": [
+    {
+     "say": "Meta è crollata del 73% in soli dieci mesi nel 2022.",
+     "show": "META GIÙ 73%",
+     "figure": "-73%"
+    },
+    {
+     "say": "L'azione è precipitata da 329 dollari a gennaio fino a 90 a ottobre.",
+     "show": "DA 329 A 90",
+     "figure": "90 $"
+    },
+    {
+     "say": "Il massimo pessimismo prezzava una crisi irreversibile proprio sui minimi assoluti.",
+     "show": "MASSIMO PANICO",
+     "figure": ""
+    },
+    {
+     "say": "Nello stesso ciclo anche Shopify è sprofondata fino a 25 dollari.",
+     "show": "RESET TECH",
+     "figure": "25 $"
+    },
+    {
+     "say": "I crolli più violenti del passato hanno preparato i rimbalzi più ampi.",
+     "show": "MINIMI STORICI",
+     "figure": ""
+    },
+    {
+     "say": "Il sentiment tocca il fondo prima del recupero degli utili. Segui per l'aggiornamento di domani.",
+     "show": "LEZIONE STORICA",
+     "figure": ""
+    }
+   ],
+   "origin": "Jeremy Lefebvre",
+   "source_video": "AMD Stock! BAD NEWS on the Way?",
+   "narration": "Meta è crollata del 73% in soli dieci mesi nel 2022. L'azione è precipitata da 329 dollari a gennaio fino a 90 a ottobre. Il massimo pessimismo prezzava una crisi irreversibile proprio sui minimi assoluti. Nello stesso ciclo anche Shopify è sprofondata fino a 25 dollari. I crolli più violenti del passato hanno preparato i rimbalzi più ampi. Il sentiment tocca il fondo prima del recupero degli utili. Segui per l'aggiornamento di domani.",
+   "ticker": "META",
+   "sentiment": "neutral",
+   "sources": [],
+   "caption": "Nel 2022 Meta ha perso il 73% toccando quota 90 dollari prima di recuperare. Segui per l'aggiornamento di domani.",
+   "hashtags": [
+    "#Meta",
+    "#TechStocks",
+    "#BorsaUSA",
+    "#Investimenti",
+    "#Nasdaq",
+    "#Trading"
+   ]
+  },
+  {
+   "levels": [
+    550.0,
+    480.0
+   ],
+   "history": null,
+   "title": "AMD perde il 13% in 30 minuti: report shock",
+   "hook": "AMD -13% FLASH",
+   "beats": [
+    {
+     "say": "AMD è crollata del 13% in trenta minuti su accuse di violazioni all'export.",
+     "show": "AMD -13% FLASH",
+     "figure": "-13%"
+    },
+    {
+     "say": "Il titolo è sceso da 550 a 480 dollari, chiudendo la seduta a -7,7%.",
+     "show": "DA 550 A 480",
+     "figure": "-7,7%"
+    },
+    {
+     "say": "Il report ribassista ammette di non avere prove certe su infrazioni reali.",
+     "show": "ZERO PROVE",
+     "figure": ""
+    },
+    {
+     "say": "Il supporto chiave da difendere nel breve resta fissato a 480 dollari.",
+     "show": "SUPPORTO 480",
+     "figure": "480 $"
+    },
+    {
+     "say": "I crolli basati su indiscrezioni creano forte volatilità tecnica. Segui per l'aggiornamento di domani.",
+     "show": "VOLATILITÀ ALTA",
+     "figure": ""
+    }
+   ],
+   "origin": "Jeremy Lefebvre",
+   "source_video": "AMD Stock! BAD NEWS on the Way?",
+   "narration": "AMD è crollata del 13% in trenta minuti su accuse di violazioni all'export. Il titolo è sceso da 550 a 480 dollari, chiudendo la seduta a -7,7%. Il report ribassista ammette di non avere prove certe su infrazioni reali. Il supporto chiave da difendere nel breve resta fissato a 480 dollari. I crolli basati su indiscrezioni creano forte volatilità tecnica. Segui per l'aggiornamento di domani.",
+   "ticker": "AMD",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "AMD crolla fino a 480 dollari dopo accuse su vendite di chip verso la Cina. Segui per l'aggiornamento di domani.",
+   "hashtags": [
+    "#AMD",
+    "#Semiconduttori",
+    "#BorsaUSA",
+    "#Trading",
+    "#Nasdaq",
+    "#TechStock"
+   ]
+  },
+  {
+   "levels": [
+    38.0
+   ],
+   "history": null,
+   "title": "S&P 500: l'intelligenza artificiale vale il 38%",
+   "hook": "AI AL 38%",
+   "beats": [
+    {
+     "say": "I primi 10 titoli legati all'intelligenza artificiale pesano per il 38% sull'S&P 500.",
+     "show": "AI AL 38%",
+     "figure": "38%"
+    },
+    {
+     "say": "La concentrazione dell'indice principale sui giganti tecnologici ha toccato livelli estremi.",
+     "show": "PESO RECORD",
+     "figure": ""
+    },
+    {
+     "say": "Sui minimi storici l'S&P 500 scambiava a 16,4 volte gli utili futuri.",
+     "show": "P/E A 16,4",
+     "figure": "16,4x"
+    },
+    {
+     "say": "Una correzione di pochi leader può trascinare al ribasso l'intero indice.",
+     "show": "RISCHIO INDICE",
+     "figure": ""
+    },
+    {
+     "say": "L'andamento di mercato dipende quasi esclusivamente dai chip AI. Segui per l'aggiornamento di domani.",
+     "show": "DIPENDENZA AI",
+     "figure": ""
+    }
+   ],
+   "origin": "Jeremy Lefebvre",
+   "source_video": "AMD Stock! BAD NEWS on the Way?",
+   "narration": "I primi 10 titoli legati all'intelligenza artificiale pesano per il 38% sull'S&P 500. La concentrazione dell'indice principale sui giganti tecnologici ha toccato livelli estremi. Sui minimi storici l'S&P 500 scambiava a 16,4 volte gli utili futuri. Una correzione di pochi leader può trascinare al ribasso l'intero indice. L'andamento di mercato dipende quasi esclusivamente dai chip AI. Segui per l'aggiornamento di domani.",
+   "ticker": "^GSPC",
+   "sentiment": "neutral",
+   "sources": [],
+   "caption": "Il 38% dell'S&P 500 è concentrato nei 10 principali titoli AI. Segui per l'aggiornamento di domani.",
+   "hashtags": [
+    "#SP500",
+    "#IntelligenzaArtificiale",
+    "#BorsaUSA",
+    "#Investimenti",
+    "#WallStreet",
+    "#Mercati"
+   ]
+  },
+  {
+   "levels": [
+    125.0,
+    200.0
+   ],
+   "history": null,
+   "title": "Nvidia nel canale tra 125 e 200 dollari",
+   "hook": "NVDA 125-200",
+   "beats": [
+    {
+     "say": "Nvidia si muove all'interno di un canale compreso tra 125 e 200 dollari.",
+     "show": "NVDA 125-200",
+     "figure": "125-200 $"
+    },
+    {
+     "say": "I continui acquisti sui minimi ritardano la formazione di un fondo di mercato chiaro.",
+     "show": "BUY THE DIP",
+     "figure": ""
+    },
+    {
+     "say": "L'eccessivo ottimismo impedisce la capitolazione necessaria per una vera ripartenza rialzista.",
+     "show": "TROPPO OTTIMISMO",
+     "figure": ""
+    },
+    {
+     "say": "Se il titolo perde slancio, il supporto chiave si trova a 125 dollari.",
+     "show": "SUPPORTO 125",
+     "figure": "125 $"
+    },
+    {
+     "say": "La resistenza a 200 dollari delimita l'area di consolidamento. Segui per l'aggiornamento di domani.",
+     "show": "TETTO A 200",
+     "figure": "200 $"
+    }
+   ],
+   "origin": "Jeremy Lefebvre",
+   "source_video": "AMD Stock! BAD NEWS on the Way?",
+   "narration": "Nvidia si muove all'interno di un canale compreso tra 125 e 200 dollari. I continui acquisti sui minimi ritardano la formazione di un fondo di mercato chiaro. L'eccessivo ottimismo impedisce la capitolazione necessaria per una vera ripartenza rialzista. Se il titolo perde slancio, il supporto chiave si trova a 125 dollari. La resistenza a 200 dollari delimita l'area di consolidamento. Segui per l'aggiornamento di domani.",
+   "ticker": "NVDA",
+   "sentiment": "neutral",
+   "sources": [],
+   "caption": "Nvidia consolida all'interno del canale tra 125 e 200 dollari. Segui per l'aggiornamento di domani.",
+   "hashtags": [
+    "#Nvidia",
+    "#Semiconduttori",
+    "#BorsaUSA",
+    "#Trading",
+    "#Azioni",
+    "#WallStreet"
+   ]
+  }
+ ],
+ "en": [
+  {
+   "levels": [
+    35.5
+   ],
+   "history": null,
+   "title": "AMD Data Center Up 97%: Server Share Jumps",
+   "hook": "AMD SURGES 97%",
+   "beats": [
+    {
+     "say": "AMD data center revenue surged 97% year over year.",
+     "show": "AMD SURGES 97%",
+     "figure": "+97%"
+    },
+    {
+     "say": "Server CPU market share climbed from 27.8% up to 35.5%.",
+     "show": "SHARE AT 35.5%",
+     "figure": "35.5%"
+    },
+    {
+     "say": "Headline panic misses how fast hyperscalers are deploying these chips.",
+     "show": "CLOUD ADOPTION",
+     "figure": ""
+    },
+    {
+     "say": "Fourth quarter data center guidance targets a massive 17 billion dollars.",
+     "show": "GUIDANCE 17B",
+     "figure": "$17B"
+    },
+    {
+     "say": "Holding 35.5% server share provides a strong buffer against export caps.",
+     "show": "EXPORT BUFFER",
+     "figure": "35.5%"
+    },
+    {
+     "say": "Operational expansion outweighs short-term controversy. Follow for tomorrow's update.",
+     "show": "CORE EXPANSION",
+     "figure": ""
+    }
+   ],
+   "origin": "Jeremy Lefebvre",
+   "source_video": "AMD Stock! BAD NEWS on the Way?",
+   "narration": "AMD data center revenue surged 97% year over year. Server CPU market share climbed from 27.8% up to 35.5%. Headline panic misses how fast hyperscalers are deploying these chips. Fourth quarter data center guidance targets a massive 17 billion dollars. Holding 35.5% server share provides a strong buffer against export caps. Operational expansion outweighs short-term controversy. Follow for tomorrow's update.",
+   "ticker": "AMD",
+   "sentiment": "bullish",
+   "sources": [],
+   "caption": "AMD expands server CPU market share to 35.5% while data center revenue climbs 97%. Follow for tomorrow's update.",
+   "hashtags": [
+    "#AMD",
+    "#Semiconductors",
+    "#DataCenter",
+    "#TechStocks",
+    "#StockMarket",
+    "#Investing"
+   ]
+  },
+  {
+   "levels": [
+    329.0,
+    90.0
+   ],
+   "history": {
+    "symbol": "META",
+    "start": "2022-01",
+    "end": "2022-12"
+   },
+   "title": "Meta Crashed 73%: The 2022 Tech Playbook",
+   "hook": "META DROPS 73%",
+   "beats": [
+    {
+     "say": "Meta collapsed 73% in just ten months during 2022.",
+     "show": "META DROPS 73%",
+     "figure": "-73%"
+    },
+    {
+     "say": "The stock plummeted from 329 dollars in January to 90 by October.",
+     "show": "329 DOWN TO 90",
+     "figure": "$90"
+    },
+    {
+     "say": "Peak pessimism priced in permanent decline right at the market trough.",
+     "show": "TROUGH PANIC",
+     "figure": ""
+    },
+    {
+     "say": "During that same flush, Shopify crashed down to 25 dollars.",
+     "show": "TECH FLUSH",
+     "figure": "$25"
+    },
+    {
+     "say": "Severe drawdowns have historically preceded major multi-year expansions.",
+     "show": "HISTORIC LOWS",
+     "figure": ""
+    },
+    {
+     "say": "Sentiment bottoms long before corporate earnings rebound. Follow for tomorrow's update.",
+     "show": "MARKET CYCLE",
+     "figure": ""
+    }
+   ],
+   "origin": "Jeremy Lefebvre",
+   "source_video": "AMD Stock! BAD NEWS on the Way?",
+   "narration": "Meta collapsed 73% in just ten months during 2022. The stock plummeted from 329 dollars in January to 90 by October. Peak pessimism priced in permanent decline right at the market trough. During that same flush, Shopify crashed down to 25 dollars. Severe drawdowns have historically preceded major multi-year expansions. Sentiment bottoms long before corporate earnings rebound. Follow for tomorrow's update.",
+   "ticker": "META",
+   "sentiment": "neutral",
+   "sources": [],
+   "caption": "Meta dropped 73% to $90 in 2022 during a historic valuation reset. Follow for tomorrow's update.",
+   "hashtags": [
+    "#Meta",
+    "#TechStocks",
+    "#StockMarket",
+    "#Investing",
+    "#Nasdaq",
+    "#Trading"
+   ]
+  },
+  {
+   "levels": [
+    550.0,
+    480.0
+   ],
+   "history": null,
+   "title": "AMD Drops 13% in 30 Minutes: Short Report",
+   "hook": "AMD PLUNGES 13%",
+   "beats": [
+    {
+     "say": "AMD plunged 13% in thirty minutes on illegal export allegations.",
+     "show": "AMD PLUNGES 13%",
+     "figure": "-13%"
+    },
+    {
+     "say": "The stock dropped from 550 dollars down to 480, finishing down 7.7%.",
+     "show": "550 TO 480",
+     "figure": "-7.7%"
+    },
+    {
+     "say": "The short report admitted its records prove no direct export violations.",
+     "show": "NO PROOF",
+     "figure": ""
+    },
+    {
+     "say": "Immediate support sits directly at the 480-dollar price level.",
+     "show": "SUPPORT AT 480",
+     "figure": "$480"
+    },
+    {
+     "say": "Fast plunges on unconfirmed claims trigger aggressive swings. Follow for tomorrow's update.",
+     "show": "HIGH VOLATILITY",
+     "figure": ""
+    }
+   ],
+   "origin": "Jeremy Lefebvre",
+   "source_video": "AMD Stock! BAD NEWS on the Way?",
+   "narration": "AMD plunged 13% in thirty minutes on illegal export allegations. The stock dropped from 550 dollars down to 480, finishing down 7.7%. The short report admitted its records prove no direct export violations. Immediate support sits directly at the 480-dollar price level. Fast plunges on unconfirmed claims trigger aggressive swings. Follow for tomorrow's update.",
+   "ticker": "AMD",
+   "sentiment": "bearish",
+   "sources": [],
+   "caption": "AMD slid 13% intraday to $480 following an aggressive short report. Follow for tomorrow's update.",
+   "hashtags": [
+    "#AMD",
+    "#Semiconductors",
+    "#StockMarket",
+    "#Trading",
+    "#Nasdaq",
+    "#TechStocks"
+   ]
+  },
+  {
+   "levels": [
+    38.0
+   ],
+   "history": null,
+   "title": "S&P 500 AI Concentration Hits 38%: High Risk",
+   "hook": "AI HITS 38%",
+   "beats": [
+    {
+     "say": "Top 10 AI-driven stocks now make up 38% of the S&P 500.",
+     "show": "AI HITS 38%",
+     "figure": "38%"
+    },
+    {
+     "say": "Index concentration in mega-cap technology has reached an extreme imbalance.",
+     "show": "INDEX SKEW",
+     "figure": ""
+    },
+    {
+     "say": "At prior valuation troughs the S&P 500 traded at 16.4 times forward earnings.",
+     "show": "P/E AT 16.4",
+     "figure": "16.4x"
+    },
+    {
+     "say": "A sudden drawdown across top names leaves the entire index vulnerable.",
+     "show": "BROADER RISK",
+     "figure": ""
+    },
+    {
+     "say": "Broad market returns now hinge entirely on semiconductor momentum. Follow for tomorrow's update.",
+     "show": "CHIP IMPACT",
+     "figure": ""
+    }
+   ],
+   "origin": "Jeremy Lefebvre",
+   "source_video": "AMD Stock! BAD NEWS on the Way?",
+   "narration": "Top 10 AI-driven stocks now make up 38% of the S&P 500. Index concentration in mega-cap technology has reached an extreme imbalance. At prior valuation troughs the S&P 500 traded at 16.4 times forward earnings. A sudden drawdown across top names leaves the entire index vulnerable. Broad market returns now hinge entirely on semiconductor momentum. Follow for tomorrow's update.",
+   "ticker": "^GSPC",
+   "sentiment": "neutral",
+   "sources": [],
+   "caption": "The top 10 AI stocks represent 38% of the S&P 500, elevating broad market concentration. Follow for tomorrow's update.",
+   "hashtags": [
+    "#SP500",
+    "#ArtificialIntelligence",
+    "#StockMarket",
+    "#Investing",
+    "#WallStreet",
+    "#TechStocks"
+   ]
+  },
+  {
+   "levels": [
+    125.0,
+    200.0
+   ],
+   "history": null,
+   "title": "Nvidia in 125 to 200 Range: Key Channel",
+   "hook": "NVDA 125 TO 200",
+   "beats": [
+    {
+     "say": "Nvidia trades within an expected channel between 125 and 200 dollars.",
+     "show": "NVDA 125 TO 200",
+     "figure": "$125-$200"
+    },
+    {
+     "say": "Aggressive dip buying prevents the stock from establishing a clear market bottom.",
+     "show": "BUY THE DIP",
+     "figure": ""
+    },
+    {
+     "say": "Persistent bullish sentiment delays the true capitulation needed for a fresh run.",
+     "show": "STUBBORN SENTIMENT",
+     "figure": ""
+    },
+    {
+     "say": "If downside pressure returns, critical support sits firmly at 125 dollars.",
+     "show": "SUPPORT AT 125",
+     "figure": "$125"
+    },
+    {
+     "say": "Resistance near 200 dollars caps the current sideways trading range. Follow for tomorrow's update.",
+     "show": "CAP AT 200",
+     "figure": "$200"
+    }
+   ],
+   "origin": "Jeremy Lefebvre",
+   "source_video": "AMD Stock! BAD NEWS on the Way?",
+   "narration": "Nvidia trades within an expected channel between 125 and 200 dollars. Aggressive dip buying prevents the stock from establishing a clear market bottom. Persistent bullish sentiment delays the true capitulation needed for a fresh run. If downside pressure returns, critical support sits firmly at 125 dollars. Resistance near 200 dollars caps the current sideways trading range. Follow for tomorrow's update.",
+   "ticker": "NVDA",
+   "sentiment": "neutral",
+   "sources": [],
+   "caption": "Nvidia is projected to trade between $125 support and $200 resistance. Follow for tomorrow's update.",
+   "hashtags": [
+    "#Nvidia",
+    "#Semiconductors",
+    "#StockMarket",
+    "#Trading",
+    "#WallStreet",
+    "#TechStocks"
+   ]
+  }
+ ],
+ "carousels": {
+  "it": {
+   "topic": "AMD, crolli tech e concentrazione S&P 500",
+   "caption": "Dalla volatilità su AMD ai dati storici di Meta nel 2022, ecco i numeri chiave del comparto tecnologico. Segui per l'aggiornamento di domani.",
+   "sentiment": "bullish",
+   "ticker": "AMD",
+   "slides": [
+    {
+     "title": "AMD, Nvidia e crolli tech storici",
+     "body": "Ecco cosa rivelano quota server, crolli del 2022 e concentrazione dell'S&P 500."
+    },
+    {
+     "title": "Flash crash del 13%",
+     "body": "AMD è scesa del 13% in trenta minuti fino a 480 dollari su accuse non confermate prima di stabilizzarsi."
+    },
+    {
+     "title": "Data center a +97%",
+     "body": "La quota server CPU di AMD è salita al 35,5%, sostenuta da 17 miliardi di dollari di guidance."
+    },
+    {
+     "title": "Il crollo del 73%",
+     "body": "Nel 2022 Meta è crollata del 73% da 329 a 90 dollari in dieci mesi prima di recuperare."
+    },
+    {
+     "title": "AI al 38% dell'indice",
+     "body": "I primi 10 titoli legati all'intelligenza artificiale pesano per il 38% sull'S&P 500, amplificando la volatilità."
+    },
+    {
+     "title": "Canale 125-200 per Nvidia",
+     "body": "Nvidia oscilla tra 125 e 200 dollari. I fondamentali contano più delle vendite emotive. Segui per l'aggiornamento di domani."
+    }
+   ],
+   "hashtags": [
+    "#AMD",
+    "#Nvidia",
+    "#Meta",
+    "#SP500",
+    "#BorsaUSA",
+    "#Investimenti",
+    "#Trading",
+    "#TechStock"
+   ]
+  },
+  "en": {
+   "topic": "AMD Setup, Meta Drawdown, Index AI",
+   "caption": "From AMD server gains to Meta's 2022 crash, here are the critical levels shaping tech stocks. Follow for tomorrow's update.",
+   "sentiment": "bullish",
+   "ticker": "AMD",
+   "slides": [
+    {
+     "title": "AMD Drop, Nvidia Range, Tech Drawdowns",
+     "body": "Here is what server share gains, 2022 crashes, and AI concentration reveal about tech."
+    },
+    {
+     "title": "The 13% Flash Drop",
+     "body": "AMD plunged 13% in thirty minutes to 480 dollars on unconfirmed export claims before finding buyers."
+    },
+    {
+     "title": "Data Center Surges 97%",
+     "body": "AMD server CPU share expanded to 35.5%, backed by 17 billion dollars in fourth quarter data center guidance."
+    },
+    {
+     "title": "The 73% Tech Drawdown",
+     "body": "In 2022 Meta dropped 73% from 329 to 90 dollars over ten months before staging a massive multi-year recovery."
+    },
+    {
+     "title": "AI Stocks Hit 38%",
+     "body": "The top 10 AI names now drive 38% of the S&P 500, creating outsized index volatility."
+    },
+    {
+     "title": "Nvidia 125-200 Channel",
+     "body": "Nvidia is projected to trade between 125 and 200 dollars. Focus on operational metrics, not panic. Follow for tomorrow's update."
+    }
+   ],
+   "hashtags": [
+    "#AMD",
+    "#Nvidia",
+    "#Meta",
+    "#SP500",
+    "#StockMarket",
+    "#Investing",
+    "#TechStocks",
+    "#Trading"
+   ]
+  }
+ }
+}
