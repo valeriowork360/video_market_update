@@ -1,0 +1,50 @@
+{
+ "shorts": [],
+ "carousels": [
+  {
+   "topic": "Weekly Market Rebound and Liquidity Check",
+   "caption": "Wall Street mounted a sharp holiday comeback, but major resistance levels and contracting liquidity remain unresolved. Key levels across equities, gold, and digital assets define the trend ahead. Follow for tomorrow's update.",
+   "sentiment": "neutral",
+   "ticker": null,
+   "hashtags": [
+    "#StockMarket",
+    "#SP500",
+    "#Bitcoin",
+    "#Nvidia",
+    "#Gold",
+    "#MacroEconomy",
+    "#Crypto",
+    "#Nasdaq",
+    "#Finance",
+    "#Investing"
+   ],
+   "slides": [
+    {
+     "title": "S&P 500 Hits 7,297: Real Rebound?",
+     "body": "Here is what the weekly moves in stocks, gold, and Bitcoin mean for the trend ahead."
+    },
+    {
+     "title": "Wall Street Relief Rally",
+     "body": "The S&P 500 gained 1.7% to 7,297, facing resistance at 7,350. A decisive move above 7,300 is needed to establish a bottom."
+    },
+    {
+     "title": "Nvidia Swings Thirty Percent",
+     "body": "Nvidia rebounded 30% from its trough after a 48% drop. Year-end portfolio rebalancing keeps semiconductor valuations vulnerable to fresh downside tests."
+    },
+    {
+     "title": "Gold Under Paper Pressure",
+     "body": "Gold sits near $3,640 after forced liquidations. Paper derivative volume exceeds physical trade by 165 times, while central banks bought 321 tonnes."
+    },
+    {
+     "title": "Bitcoin Defends Structural Support",
+     "body": "Bitcoin trades near $59,673, testing support at $58,000. Reclaiming $67,000 is required to confirm a reversal, with stablecoin supply down $20 billion."
+    },
+    {
+     "title": "Key Macro Week Ahead",
+     "body": "Upcoming jobs data will determine if equities can clear structural resistance. Follow for tomorrow's update."
+    }
+   ]
+  }
+ ],
+ "model": "gemini-3.8-flash"
+}

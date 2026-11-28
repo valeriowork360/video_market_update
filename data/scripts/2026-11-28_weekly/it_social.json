@@ -1,0 +1,49 @@
+{
+ "shorts": [],
+ "carousels": [
+  {
+   "topic": "Il riepilogo settimanale dei mercati",
+   "caption": "La settimana registra una marcata divergenza tra la risalita degli indici azionari e la debolezza del comparto cripto. I livelli volumetrici attuali determineranno la prosecuzione del trend nelle prossime sedute. Segui per l'aggiornamento di domani.",
+   "sentiment": "neutral",
+   "ticker": null,
+   "hashtags": [
+    "#finanza",
+    "#mercati",
+    "#wallstreet",
+    "#sp500",
+    "#bitcoin",
+    "#cripto",
+    "#nvidia",
+    "#economia",
+    "#borsa"
+   ],
+   "slides": [
+    {
+     "title": "Wall Street rimbalza a 7.297 punti",
+     "body": "Ecco i numeri chiave e le soglie tecniche decisive che hanno definito l'ultima ottava sui mercati globali."
+    },
+    {
+     "title": "Azionario americano in ripresa",
+     "body": "L'S&P 500 sale dell'1,7% a 7.297 punti. La soglia dei 7.300 punti resta lo spartiacque fondamentale per neutralizzare la fase correttiva."
+    },
+    {
+     "title": "Volatilità record su Nvidia",
+     "body": "Nvidia mette a segno un rimbalzo del 33% dopo aver toccato una flessione complessiva del 49% rispetto ai massimi storici."
+    },
+    {
+     "title": "Bitcoin sotto 60.000 dollari",
+     "body": "Bitcoin arretra a 59.673 dollari confermando il canale ribassista. Il livello di resistenza principale si trova a quota 67.000 dollari."
+    },
+    {
+     "title": "Fuga da Sky Protocol",
+     "body": "Nella finanza decentralizzata un unico indirizzo ha convertito 1,49 miliardi di USDS in nove minuti, azzerando i margini di stabilità del protocollo."
+    },
+    {
+     "title": "Sintesi e prossimi livelli",
+     "body": "La tenuta dei 7.300 punti sull'S&P 500 e dei 58.500 su Bitcoin guiderà l'avvio di dicembre. Segui per l'aggiornamento di domani."
+    }
+   ]
+  }
+ ],
+ "model": "gemini-3.8-flash"
+}
