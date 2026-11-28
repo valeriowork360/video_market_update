@@ -1,0 +1,177 @@
+{
+ "title": "Wall Street Surges as S&P 500 Hits 7,297 While Bitcoin Slips Below $60K",
+ "description": "Wall Street logs its best Thanksgiving week in over a year with the S&P 500 reaching 7,297 and the VIX crashing to 23.8.\nUnder the surface, semiconductor stocks face extreme divergence as defensive sectors lead and Bitcoin struggles under $60,000.\nMacro headwinds, Black Friday consumer data, and European airline bankruptcies shape market sentiment.\nSources: Marco Casario EXTRA, Yahoo Finance, Investing.com, CNBC.",
+ "tags": [
+  "Stock Market",
+  "S&P 500",
+  "Nasdaq",
+  "Nvidia",
+  "Bitcoin",
+  "VIX",
+  "Gold",
+  "Stock Market News",
+  "Macro Economy",
+  "Crypto News"
+ ],
+ "thumbnail_text": "S&P 500 AT 7,297",
+ "mood": "neutral",
+ "segments": [
+  {
+   "id": "s1",
+   "kind": "hook",
+   "heading": "Wall Street Bounces Back",
+   "narration": "Wall Street wraps up its best week in over a year as the S&P 500 rebounds above 7,290. Underneath the surface, semiconductor divergence remains severe, and defensive sectors are taking the wheel. Plus, major airline bankruptcies hit Europe, and Bitcoin drops below $60,000.",
+   "bullets": [
+    "S&P 500 posts weekly surge",
+    "Semiconductors diverge from indices",
+    "Bitcoin struggles below $60,000"
+   ],
+   "ticker": "^GSPC",
+   "sentiment": "bullish",
+   "sources": [
+    "Yahoo Finance",
+    "Investing.com"
+   ]
+  },
+  {
+   "id": "s2",
+   "kind": "market",
+   "heading": "Market Snapshot",
+   "narration": "A broad rebound swept across equity benchmarks into the holiday weekend. The S&P 500 gained 1.6% to finish at 7,297, while the Nasdaq climbed 2.3% to 24,130. The Dow Jones added 1.2% to 50,775, capping its strongest weekly run since 2022. Volatility collapsed, with the VIX dropping 11.2% down to 23.8, extending a five-day decline of over 33%. In fixed income, the 10-year Treasury yield rose to 4.9%. Commodities showed stark division: gold jumped 3.8% to $3,669 per ounce, while WTI crude oil slipped 0.7% to $83. In crypto, Bitcoin dipped 0.9% to $59,928 and Ethereum fell 1.5% to $1,662.",
+   "bullets": [
+    "S&P 500 advances 1.6% to 7,297",
+    "VIX collapses 11.2% to 23.8",
+    "Gold surges 3.8% toward $3,669",
+    "Bitcoin declines below $60,000"
+   ],
+   "ticker": "^GSPC",
+   "sentiment": "bullish",
+   "sources": [
+    "Yahoo Finance",
+    "Investing.com"
+   ]
+  },
+  {
+   "id": "s3",
+   "kind": "topic",
+   "heading": "Tech Fracture Under Surface",
+   "narration": "Headline index gains mask an aggressive defensive rotation inside equities. While broad benchmark metrics retain technical stability, semiconductor and high-beta tech funds remain down 20% to 49% from their recent peaks. Marvell Technology Group sits near the bottom of large-cap tech performance, dropping 44% over the past month. Macro risk indicators dropped from a neutral 50 in early October to an extreme risk-off level of 20 by late November. Consumer Staples and Utilities now lead market rankings, while Information Technology sits in last place. Today's tech sector differs fundamentally from the dot-com bubble because underlying profits remain genuine, but capital is visibly migrating toward defensive balance sheets until market breadth repairs itself.",
+   "bullets": [
+    "Semiconductor ETFs down 20% to 49%",
+    "Marvell plunges 44% over month",
+    "Risk-Off indicator drops to 20",
+    "Staples and Utilities lead rankings"
+   ],
+   "ticker": null,
+   "sentiment": "bearish",
+   "sources": [
+    "Marco Casario EXTRA"
+   ]
+  },
+  {
+   "id": "s4",
+   "kind": "topic",
+   "heading": "Nvidia Volatility & Scrutiny",
+   "narration": "Nvidia remains the epicenter of semiconductor turbulence, recording five separate single-day swings of 5% or more during November. Despite the recent rebound, the stock remains down nearly 28% for the month. Policy scrutiny from Washington is ramping up as Jensen Huang prepares to head to Capitol Hill. U.S. officials are emphasizing domestic chip supremacy while balancing export controls and AI trade boundaries. Massive options volumes and rapid two-way repricing reflect lingering institutional caution. The path for artificial intelligence hardware hinges on the regulatory parameters set by lawmakers and the durability of corporate capital spending heading into early 2027.",
+   "bullets": [
+    "Five daily 5% swings in November",
+    "Stock down 28% for the month",
+    "CEO heads to Capitol Hill",
+    "Trade policy drives price volatility"
+   ],
+   "ticker": "NVDA",
+   "sentiment": "neutral",
+   "sources": [
+    "Yahoo Finance",
+    "MarketWatch"
+   ]
+  },
+  {
+   "id": "s5",
+   "kind": "topic",
+   "heading": "Holiday Spend vs Inflation",
+   "narration": "The critical holiday shopping season opened with Black Friday online spending projected to top $13 billion. While top-line spending appears sturdy, retail trends reveal widespread consumer fatigue under elevated prices. Shoppers are gravitating strictly toward heavy markdowns and value products, scaling back discretionary purchases as energy costs and inflation pinch household budgets. Commercial margins are facing intense pressure from these discounts. Meanwhile, high operating costs continue to claim corporate victims. European budget carrier Norse Atlantic filed for bankruptcy after failing to secure capital amid elevated fuel expenses. Retail volume may hold, but compressed margins suggest macroeconomic strain is far from resolved.",
+   "bullets": [
+    "Online sales targeted at $13 billion",
+    "Shoppers prioritize deep discounts",
+    "Norse Atlantic files for bankruptcy",
+    "Fuel and inflation pressure margins"
+   ],
+   "ticker": null,
+   "sentiment": "neutral",
+   "sources": [
+    "CNBC",
+    "Investing.com"
+   ]
+  },
+  {
+   "id": "s6",
+   "kind": "topic",
+   "heading": "Crypto Trapped Below Support",
+   "narration": "Digital assets completely detached from the equity rebound over the Thanksgiving holiday. Bitcoin fell 0.9% to $59,928, slipping back below the critical psychological marker of $60,000. Over the past five days, Bitcoin has shed 2%, failing to find upside momentum despite collapsing stock volatility. Ethereum displayed sharper weakness, dropping 1.5% to $1,662 and losing 3.4% across the five-day period. Liquidity across centralized books remains thin, leaving prices susceptible to sharp downward sweeps. Unless Bitcoin reclaims the $62,000 zone with confirmed trading volume, the risk remains skewed toward retesting deeper multi-month support bands.",
+   "bullets": [
+    "Bitcoin slips below $60,000",
+    "Ethereum down 1.5% to $1,662",
+    "Five-day crypto lag persists",
+    "Overhead resistance sits at $62,000"
+   ],
+   "ticker": "BTC-USD",
+   "sentiment": "bearish",
+   "sources": [
+    "Investing.com",
+    "Yahoo Finance"
+   ]
+  },
+  {
+   "id": "s7",
+   "kind": "ahead",
+   "heading": "What Moves Markets Ahead",
+   "narration": "Macro catalysts will dictate the next leg of market direction as traders return from the holiday. Investors are watching for upcoming Federal Reserve rate announcements and monetary policy guidance from the Bank of Japan, both of which have the potential to rattle bond markets and foreign exchange pairs. The 10-year Treasury yield is parked at 4.9%, making any bond auction weakness a direct threat to equity valuations. Maintaining the S&P 500 above 7,200 will depend on whether central banks signal rate relief or persistent monetary restraint.",
+   "bullets": [
+    "Fed policy guidance on deck",
+    "Bank of Japan decisions ahead",
+    "10Y Treasury yield tests 4.9%",
+    "Key S&P 500 support at 7,200"
+   ],
+   "ticker": "^TNX",
+   "sentiment": "neutral",
+   "sources": [
+    "Marco Casario EXTRA",
+    "Yahoo Finance"
+   ]
+  },
+  {
+   "id": "s8",
+   "kind": "curious",
+   "heading": "Runway Wing Clip",
+   "narration": "Holiday travel disruptions took an unusual turn on the ground at Reagan National Airport in Washington. Two American Airlines passenger jets clipped wings on an active taxiway during holiday traffic. Ground crews reported minor damage and flight delays, with zero passenger injuries. Congested infrastructure remains under spotlight as travel demand tests terminal limits.",
+   "bullets": [
+    "Two passenger jets clip wings",
+    "Incident at Reagan National Airport",
+    "Minor damage and no injuries reported"
+   ],
+   "ticker": null,
+   "sentiment": "neutral",
+   "sources": [
+    "Investing.com"
+   ]
+  },
+  {
+   "id": "s9",
+   "kind": "outro",
+   "heading": "Daily Briefing Wrap",
+   "narration": "This briefing is strictly for educational purposes and is not financial advice. Stay ahead of shifting market trends every single day. Follow for tomorrow's update.",
+   "bullets": [
+    "Daily Briefing complete",
+    "Follow for tomorrow's update"
+   ],
+   "ticker": null,
+   "sentiment": "neutral",
+   "sources": []
+  }
+ ],
+ "words": 710,
+ "model": "gemini-3.8-flash",
+ "n_notes": 1,
+ "n_news": 144
+}
