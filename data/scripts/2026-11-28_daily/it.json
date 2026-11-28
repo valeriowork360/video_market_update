@@ -1,30 +1,30 @@
 {
- "title": "Wall Street rimbalza, Bitcoin sotto 60.000$ e oro a 3.668$",
- "description": "Wall Street archivia la settimana del Ringraziamento con un forte recupero guidato dal settore tecnologico.\nMentre l'indice VIX arretra a 23,8 punti, Bitcoin torna sotto i 60.000 dollari e l'oro mette a segno un balzo del 3,8%.\nAnalisi dei flussi settoriali difensivi, livelli chiave e catalizzatori in arrivo sui mercati finanziari.\nFonti e contributi: Marco Casario EXTRA, Investing.com, Yahoo Finance, CNBC.",
+ "title": "Wall Street chiude la settimana migliore dell'anno, Bitcoin a 59.940$",
+ "description": "Wall Street archivia un poderoso rimbalzo guidato dai semiconduttori, mentre l'indicatore macro scende in territorio di avversione al rischio.\nBitcoin scivola sotto i 60.000 dollari ed esplodono le vendite del Black Friday.\nAnalisi e dati di mercato del 28 novembre 2026.\nFonti: Marco Casario EXTRA, Yahoo Finance, Investing.com, CNBC.",
  "tags": [
+  "mercati finanziari",
   "S&P 500",
   "Nasdaq",
+  "Nvidia",
   "Bitcoin",
-  "Oro",
-  "Wall Street",
-  "VIX",
-  "Borsa",
-  "Mercati Finanziari",
-  "Semiconduttori",
-  "Economia"
+  "intelligenza artificiale",
+  "Black Friday",
+  "oro",
+  "tassi di interesse",
+  "Wall Street"
  ],
- "thumbnail_text": "Wall Street a 7.297!",
+ "thumbnail_text": "RALLY TECH MA BTC CEDE",
  "mood": "neutral",
  "segments": [
   {
    "id": "s1",
    "kind": "hook",
    "heading": "Rimbalzo record a Wall Street",
-   "narration": "Wall Street chiude la migliore settimana del Ringraziamento degli ultimi anni, spinta dal recupero violento dei semiconduttori e dal crollo della volatilità. Ma sotto la superficie la rotazione difensiva resta profonda, mentre Bitcoin scivola sotto 60.000 dollari e l'oro mette a segno un balzo improvviso.",
+   "narration": "Wall Street chiude la settimana del Ringraziamento con il rialzo più ampio dell'ultimo anno, trainata dal recupero dei titoli tecnologici. Tuttavia, l'avversione al rischio resta su livelli critici, mentre Bitcoin perde la soglia dei 60.000 dollari e i consumi mostrano segnali contrastanti.",
    "bullets": [
-    "Wall Street chiude settimana record",
-    "Bitcoin scivola sotto 60.000 dollari",
-    "Oro in forte allungo"
+    "Settimana record per Wall Street",
+    "Tech in forte ripresa",
+    "Bitcoin scivola sotto 60.000$"
    ],
    "ticker": "^GSPC",
    "sentiment": "bullish",
@@ -37,32 +37,48 @@
    "id": "s2",
    "kind": "market",
    "heading": "I numeri della seduta",
-   "narration": "La chiusura settimanale regala una decisa boccata d'ossigeno ai listini azionari americani. L'S&P 500 avanza dell'1,6% fermandosi a 7.297 punti, mentre il Nasdaq Composite corre del 2,3% a 24.130 punti. Anche il Dow Jones guadagna l'1,2%, superando quota 50.774 punti. In Europa il FTSE MIB mette a segno un solido più 1,9% salendo a 49.276 punti. A guidare la distensione è soprattutto la violenta ritirata della paura: l'indice di volatilità VIX crolla dell'11,2% chiudendo a 23,8 punti, dopo essere salito vicino a quota 40 solo pochi giorni fa. Sul fronte obbligazionario, il rendimento del decennale americano risale al 4,94%, mentre il cambio euro dollaro si mantiene stabile a 1,097.",
+   "narration": "L'indice S&P 500 sale dell'1,6% a 7.297 punti. Il Nasdaq allunga del 2,3% a quota 24.130, mentre il Dow Jones guadagna l'1,2% a 50.775 punti. In Europa, il FTSE MIB conclude con un progresso dell'1,9% a 49.276 punti. La volatilità segna un netto calo: l'indice VIX scende dell'11,2% a quota 24. Sul fronte obbligazionario, il rendimento del decennale americano si attesta al 4,9%. Nelle materie prime, l'oro registra una forte impennata del 3,8% a 3.669 dollari l'oncia, mentre il petrolio WTI flette a 83 dollari al barile. Nel comparto crypto, Bitcoin cede lo 0,9% a 59.940 dollari ed Ethereum perde l'1,5% a 1.662 dollari.",
    "bullets": [
-    "S&P 500 sale a 7.297 punti",
-    "Nasdaq Composite vola a 24.130",
-    "FTSE MIB in rialzo a 49.276",
-    "VIX in discesa a 23,8"
+    "S&P 500 a 7.297 punti (+1,6%)",
+    "Nasdaq guadagna il 2,3%",
+    "VIX in discesa a 24 punti",
+    "Oro balza a 3.669 dollari"
    ],
    "ticker": null,
    "sentiment": "bullish",
    "sources": [
-    "Yahoo Finance",
-    "Investing.com"
+    "Yahoo Finance"
    ]
   },
   {
    "id": "s3",
    "kind": "topic",
-   "heading": "La frattura sui semiconduttori",
-   "narration": "Il rialzo dell'ottava appena conclusa è stato trainato dal ritorno degli acquisti sui titoli tecnologici e legati all'intelligenza artificiale, reduci da vendite pesanti. Molti semiconduttori e i principali indici di settore hanno accumulato perdite tra il 20% e il 49% dai rispettivi massimi recenti. Il caso più evidente riguarda titoli come Marvell Technology Group, che ha registrato una flessione del 44% nell'ultimo mese. A differenza della bolla speculativa del 2000, le valutazioni attuali delle grandi aziende tech poggiano su utili reali e flussi di cassa solidi, non su pure promesse. Tuttavia, la dispersione interna al mercato azionario è estrema: mentre l'indice S&P 500 mostra una tenuta quantitativa molto solida, il comparto dei chip resta ancora fragile e necessita di conferme volumetriche stabili prima di decretare la fine definitiva della correzione.",
+   "heading": "Tecnologici e avversione al rischio",
+   "narration": "Nonostante la decisa ripartenza degli indici nell'ultima seduta, il quadro quantitativo evidenzia una profonda divergenza tra i settori. I principali comparti tecnologici e dei chip hanno accusato correzioni tra il 20% e il 49% rispetto ai massimi recenti. Mentre l'indice generale S&P 500 mantiene una struttura solida, i panieri legati al settore dei semiconduttori evidenziano un punteggio di forza relativa nettamente inferiore. L'indicatore macro di propensione al rischio è sceso da quota 50 di inizio ottobre a un valore di 20 il 27 novembre, segnalando un posizionamento difensivo diffuso. I settori legati ai beni di prima necessità e alle utenze guidano la classifica per stabilità, mentre l'informatica si trova all'ultimo posto nella graduatoria quantitativa.",
    "bullets": [
-    "Semiconduttori tra il -20% e -49%",
-    "Marvell cede il 44% mensile",
-    "Utili reali diversi dal 2000",
-    "Divergenza quantitativa su S&P 500"
+    "Chip in calo dai massimi",
+    "Indicatore rischio scende a 20",
+    "Beni difensivi al vertice",
+    "Tecnologia fanalino di coda"
    ],
    "ticker": "^IXIC",
+   "sentiment": "neutral",
+   "sources": [
+    "Marco Casario EXTRA"
+   ]
+  },
+  {
+   "id": "s4",
+   "kind": "topic",
+   "heading": "Semiconduttori e confronti storici",
+   "narration": "Nel comparto dei semiconduttori, le perdite dell'ultimo mese riflettono vendite selettive sui titoli a grande capitalizzazione. Marvell Technology guida i ribassi con una flessione del 44% in un mese. Nvidia, dopo aver subito oscillazioni giornaliere superiori al 5% per ben cinque volte nel corso di novembre, cerca di consolidare. Il fondatore di Nvidia si prepara a un'audizione al Congresso degli Stati Uniti sui temi della sicurezza strategica. A differenza della bolla speculativa del 2000, le valutazioni correnti del settore dell'intelligenza artificiale poggiano su utili reali e flussi di cassa concreti. La correzione attuale ha scaricato l'eccesso di ipercomprato, ma per una ripartenza strutturale serve la conferma di una rotazione verso i titoli a crescita sostenuta.",
+   "bullets": [
+    "Marvell cede il 44% mensile",
+    "Nvidia consolida dopo forti oscillazioni",
+    "Huang atteso a Washington",
+    "Utili reali diversi dal 2000"
+   ],
+   "ticker": "NVDA",
    "sentiment": "neutral",
    "sources": [
     "Marco Casario EXTRA",
@@ -70,32 +86,33 @@
    ]
   },
   {
-   "id": "s4",
+   "id": "s5",
    "kind": "topic",
-   "heading": "Settori difensivi e Risk-Off",
-   "narration": "Nonostante il rimbalzo degli indici, i modelli quantitativi e macroeconomici descrivono un quadro di marcata prudenza. L'indicatore macroeconomico di propensione al rischio, neutrale a quota 50 a inizio ottobre, è scivolato a quota 20, segnalando una condizione estrema di avversione al rischio. Nelle classifiche settoriali, il comparto della tecnologia dell'informazione scivola all'ultimo posto, mentre la leadership di mercato è saldamente nelle mani dei beni di prima necessità e delle utility. Questa divergenza indica che i grandi portafogli stanno continuando a riposizionarsi su asset a minore volatilità e a dividendo elevato, utilizzando i rimbalzi del Nasdaq per ribilanciare l'esposizione. La struttura ideale di allocazione rimane quella che separa un nucleo stabile da posizioni satellitari più reattive, limitando l'impatto di improvvisi scossoni sul capitale complessivo.",
+   "heading": "Consumi record al Black Friday",
+   "narration": "Il quadro macroeconomico guarda ora alla tenuta della spesa dei consumatori statunitensi. Le vendite online del Black Friday superano i 13 miliardi di dollari, segnando un nuovo record. Tuttavia, dietro ai volumi complessivi emerge una crescente ricerca di sconti aggressivi. L'aumento dei prezzi dei prodotti alimentari, dei viaggi e dei beni di consumo costringe le famiglie americane a rivedere le priorità di spesa in vista delle festività. L'impatto dei costi energetici e l'inflazione persistente comprimono il reddito disponibile. Per la grande distribuzione, la capacità di difendere i margini di profitto dipenderà interamente dalla gestione delle scorte e dal mantenimento del traffico nei canali digitali.",
    "bullets": [
-    "Indicatore Risk-Off scende a 20",
-    "Tech all'ultimo posto settoriale",
-    "Beni essenziali e utility leader",
-    "Ribilanciamento verso asset difensivi"
+    "Black Friday oltre 13 miliardi",
+    "Caccia continua a sconti e offerte",
+    "Inflazione sui bilanci familiari",
+    "Margini della distribuzione sotto esame"
    ],
-   "ticker": "^GSPC",
-   "sentiment": "bearish",
+   "ticker": null,
+   "sentiment": "neutral",
    "sources": [
-    "Marco Casario EXTRA"
+    "Investing.com",
+    "CNBC"
    ]
   },
   {
-   "id": "s5",
+   "id": "s6",
    "kind": "topic",
-   "heading": "Bitcoin perde i 60.000 dollari",
-   "narration": "Il comparto delle criptovalute non partecipa al clima di festa visto a Wall Street. Bitcoin cede lo 0,9% scivolando a 59.928 dollari, incapace di sostenere la soglia psicologica dei 60.000 dollari riconquistata brevemente nelle scorse sedute. La pressione in uscita non si placa neppure su Ethereum, che arretra dell'1,5% a 1.662 dollari. La mancata correlazione con il recupero delle azioni ad alto beta dimostra che sul settore pesano ancora le conseguenze dei recenti riscatti istituzionali e della contrazione di liquidità nelle piattaforme decentralizzate. Senza un ritorno convinto sopra 62.000 dollari, l'area di supporto compresa tra 58.000 e 59.000 dollari resta il livello critico da preservare per evitare un'accelerazione verso i minimi dell'autunno.",
+   "heading": "Bitcoin cede i 60.000 dollari",
+   "narration": "Il mercato delle criptovalute non segue il rimbalzo dei listini azionari. Bitcoin rompe al ribasso la soglia psicologica dei 60.000 dollari, scendendo a 59.940 dollari. La debolezza si estende anche a Ethereum, che scambia a 1.662 dollari con una perdita giornaliera dell'1,5%. Il mancato recupero dei 62.000 dollari mantiene la pressione ribassista intatta. Il supporto principale si colloca nella fascia compresa tra 58.000 e 59.000 dollari: una rottura decisa aprirebbe lo spazio per discese verso l'area dei 52.000 dollari. Nel frattempo, i flussi di liquidità continuano a premiare i beni rifugio tradizionali: l'oro registra una nuova accelerazione, confermando la preferenza istituzionale per la copertura patrimoniale rispetto agli asset digitali.",
    "bullets": [
-    "Bitcoin a 59.928 dollari",
-    "Ethereum flette a 1.662 dollari",
-    "Resistenza chiave a 62.000 dollari",
-    "Supporto critico a 58.000 dollari"
+    "Bitcoin sotto 60.000 dollari",
+    "Ethereum cede a 1.662$",
+    "Supporto chiave a 58.000-59.000$",
+    "Oro preferito come copertura"
    ],
    "ticker": "BTC-USD",
    "sentiment": "bearish",
@@ -104,34 +121,17 @@
    ]
   },
   {
-   "id": "s6",
-   "kind": "topic",
-   "heading": "Oro a 3.669 e consumi record",
-   "narration": "Giornata brillante per i metalli preziosi. L'oro mette a segno un balzo del 3,8% risalendo con decisione a 3.668 dollari l'oncia, confermando la sua funzione di copertura globale contro l'inflazione persistente e l'incertezza geopolitica. Il petrolio WTI rimane invece debole, chiudendo a 83 dollari al barile con un calo dello 0,7%. Nel frattempo, sul fronte dell'economia reale, la stagione delle vendite natalizie si è aperta con segnali contrastanti. La spesa online per il Black Friday negli Stati Uniti si avvia a superare i 13 miliardi di dollari, segnando un nuovo record nominale. Tuttavia, i consumatori concentrano gli acquisti sulla caccia a forti sconti, compressi dall'aumento dei costi generali su cibo e servizi, riflettendo un potere d'acquisto ancora sotto pressione.",
-   "bullets": [
-    "Oro in rally a 3.668 dollari",
-    "Petrolio WTI cede a 83 dollari",
-    "Black Friday online oltre 13 miliardi",
-    "Spesa condizionata dai rincari"
-   ],
-   "ticker": "GC=F",
-   "sentiment": "bullish",
-   "sources": [
-    "Investing.com",
-    "CNBC"
-   ]
-  },
-  {
    "id": "s7",
    "kind": "ahead",
-   "heading": "I prossimi catalizzatori",
-   "narration": "Per le prossime sedute l'attenzione dei mercati si sposterà sulle comunicazioni di politica monetaria e sui verbali delle banche centrali. Gli annunci sui tassi della Federal Reserve e le mosse della Bank of Japan saranno i catalizzatori principali per orientare le aspettative sui rendimenti obbligazionari globali. A Washington cresce inoltre l'attesa per l'audizione parlamentare di Jensen Huang a Capitol Hill sul futuro dell'intelligenza artificiale e sui vincoli tecnologici internazionali. Fino a quando i tassi sui Treasury decennali resteranno ancorati a ridosso del 5%, la volatilità sui listini tecnologici rimarrà elevata.",
+   "heading": "I catalizzatori della settimana",
+   "narration": "Nei prossimi giorni l'attenzione sarà rivolta alle comunicazioni delle banche centrali. Gli annunci sui tassi da parte della Federal Reserve e le decisioni di politica monetaria della Banca del Giappone rappresentano i nodi cruciali per l'orientamento dei flussi globali. Inoltre, i dati definitivi sulle vendite del Cyber Monday e i riscontri sull'attività manifatturiera chiariranno la tenuta dell'economia statunitense. Sul fronte aziendale, i riflettori rimangono puntati sulle testimonianze a Washington relative all'intelligenza artificiale e ai vincoli sull'esportazione di componenti avanzate.",
    "bullets": [
-    "Focus su Federal Reserve e Bank of Japan",
-    "Jensen Huang atteso a Capitol Hill",
-    "Rendimento decennale vicino al 5%"
+    "Annunci tassi della Fed",
+    "Banca del Giappone in focus",
+    "Verifica dati Cyber Monday",
+    "Audizioni a Washington sui chip"
    ],
-   "ticker": "^TNX",
+   "ticker": null,
    "sentiment": "neutral",
    "sources": [
     "Marco Casario EXTRA",
@@ -141,12 +141,13 @@
   {
    "id": "s8",
    "kind": "curious",
-   "heading": "Contatto tra aerei a Washington",
-   "narration": "Curioso incidente sulla pista del Ronald Reagan National Airport di Washington. Due aerei di linea di American Airlines hanno agganciato le rispettive estremità alari durante la manovra di rullaggio verso la piazzola di sosta. Nessun ferito a bordo, ma tanto ritardo e una rapida apertura d'indagine da parte delle autorità di volo americane.",
+   "heading": "Collisione all'aeroporto di Washington",
+   "narration": "Episodio insolito all'aeroporto nazionale Reagan di Washington: due velivoli della compagnia American Airlines si sono toccati con le ali durante le manovre di rullaggio sulla pista. L'incidente ha provocato ritardi operativi ma nessun ferito, aprendo un'indagine tecnica sulle procedure di movimentazione a terra.",
    "bullets": [
-    "Ali agganciate in pista a Washington",
-    "Coinvolti due aerei American Airlines",
-    "Aperta indagine dalle autorità"
+    "Aerei American Airlines a contatto",
+    "Impatto sulle ali in pista",
+    "Nessun ferito tra i passeggeri",
+    "Indagine aperta sulle manovre"
    ],
    "ticker": null,
    "sentiment": "neutral",
@@ -157,19 +158,21 @@
   {
    "id": "s9",
    "kind": "outro",
-   "heading": "Segui Coin Ticker 360",
-   "narration": "Questo contenuto ha finalità puramente informative e non costituisce in alcun modo una consulenza finanziaria. Iscriviti al canale e attiva la campanella per non perdere l'aggiornamento dei mercati di domani.",
+   "heading": "Conclusioni",
+   "narration": "Queste informazioni non costituiscono una consulenza finanziaria né un invito all'investimento. Segui per l'aggiornamento di domani.",
    "bullets": [
     "Nessun consiglio finanziario",
-    "Segui per l'aggiornamento di domani"
+    "Segui per il prossimo video"
    ],
    "ticker": null,
    "sentiment": "neutral",
-   "sources": []
+   "sources": [
+    "Coin Ticker 360"
+   ]
   }
  ],
- "words": 811,
+ "words": 726,
  "model": "gemini-3.8-flash",
  "n_notes": 1,
- "n_news": 149
+ "n_news": 148
 }
