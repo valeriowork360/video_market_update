@@ -531,22 +531,22 @@
   "done_at": "2026-11-27T04:33:49.621739+00:00"
  },
  "VUJYoayX7es": {
-  "status": "pending",
+  "status": "done",
   "attempts": 0,
   "channel": "Jeremy Lefebvre Clips",
   "title": "AMD Stock! BAD NEWS on the Way?",
   "first_seen": "2026-11-27T14:52:05.085100+00:00",
-  "tries": 1,
-  "last_error": "Gemini non riesce ad aprire questo video adesso (live appena finita, video riservato o rimosso)"
+  "tries": 2,
+  "done_at": "2026-11-28T13:39:38.025816+00:00"
  },
  "cvBfm8frS7I": {
-  "status": "pending",
+  "status": "done",
   "attempts": 0,
   "channel": "Jeremy Lefebvre Clips",
   "title": "The DECEMBER Stock Market! What's Coming NEXT...",
   "first_seen": "2026-11-27T14:52:06.469705+00:00",
-  "tries": 1,
-  "last_error": "Gemini non riesce ad aprire questo video adesso (live appena finita, video riservato o rimosso)"
+  "tries": 2,
+  "done_at": "2026-11-28T13:39:03.360906+00:00"
  },
  "AqOWziMo2zg": {
   "status": "pending",
@@ -567,13 +567,13 @@
   "done_at": "2026-11-27T23:15:16.822247+00:00"
  },
  "W3kw1SGge_M": {
-  "status": "pending",
+  "status": "done",
   "attempts": 0,
   "channel": "0xTalks",
   "title": "ALT IN SALDO? | 0xFriday | 27 Novembre 2026",
   "first_seen": "2026-11-27T23:15:16.823380+00:00",
-  "tries": 2,
-  "last_error": "Gemini non riesce ad aprire questo video adesso (live appena finita, video riservato o rimosso)"
+  "tries": 3,
+  "done_at": "2026-11-28T13:41:25.837943+00:00"
  },
  "RunXZnmIsR0": {
   "status": "pending",
@@ -626,7 +626,7 @@
   "channel": "Jeremy Lefebvre Clips",
   "title": "Pure Panic in Market!",
   "first_seen": "2026-11-28T04:32:24.995949+00:00",
-  "tries": 1,
+  "tries": 2,
   "last_error": "Gemini non riesce ad aprire questo video adesso (live appena finita, video riservato o rimosso)"
  }
 }

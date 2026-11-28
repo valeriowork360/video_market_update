@@ -1,0 +1,160 @@
+{
+ "market_relevance": 10,
+ "scope": "global",
+ "kind": "market update",
+ "summary": "The author analyses semiconductor stock performance since June first, highlighting severe tax-loss harvesting pressures and broader regional Asian tech instability. He discusses historical December Nasdaq data, preparing his portfolio for a messy period while noting widespread commodity and crypto drawdowns. Furthermore, he reviews CNBC coverage of Anthropic's public debut, comparing the current tech correction to historical trends like Cisco in 1997. He defends data center valuations, explaining that short-term semiconductor weakness does not invalidate long-term fundamentals. Finally, he emphasizes that short-term market sentiment is driven by psychology rather than long-term earnings power, while remaining ready to buy market dips.",
+ "digest_it": "L'autore esamina la pressione delle vendite per minusvalenze sui titoli tecnologici e discute l'instabilità in Asia. Analizza i dati storici di dicembre per il Nasdaq preparandosi a una fase volatile, pur restando pronto a comprare eventuali ribassi. Successivamente, paragona la correzione attuale ai cicli storici passati, difende gli investimenti nei data center e spiega che la debolezza a breve termine dei semiconduttori è un fattore emotivo e temporaneo.",
+ "author_tone": "cautious",
+ "tone_evidence": "He expresses concern over tax-loss harvesting, prepares his portfolio for a shaky, messy December, and urges investors to understand that short-term volatility is driven by sentiment rather than structural failure.",
+ "key_points": [
+  {
+   "point": "Nasdaq is down 15% and individual semiconductor stocks like Nvidia are down 33% and AMD 22% since June 1st.",
+   "timestamp": ""
+  },
+  {
+   "point": "SoftBank shares fell 14.48% on November 20, 2026, following the Anthropic IPO.",
+   "timestamp": ""
+  },
+  {
+   "point": "Nasdaq December returns over the past 10 years show 7 out of 10 years were positive.",
+   "timestamp": ""
+  },
+  {
+   "point": "Bitcoin is trading around 58,000 dollars and gold is in a 35% drawdown from 2026 highs.",
+   "timestamp": ""
+  },
+  {
+   "point": "Silver is currently experiencing a 65% drawdown from 2026 highs.",
+   "timestamp": ""
+  },
+  {
+   "point": "Anthropic public debut mirrors Cisco's 50% fall in 1997 before massive recovery.",
+   "timestamp": ""
+  },
+  {
+   "point": "10 gigawatts of data center capacity equals building 450,000 homes.",
+   "timestamp": ""
+  },
+  {
+   "point": "Short-term market direction depends entirely on sentiment rather than valuation.",
+   "timestamp": ""
+  }
+ ],
+ "moments": [
+  {
+   "timestamp": "00:10",
+   "topic": "Semiconductor sell-off analysis",
+   "claim": "Semiconductor stocks experienced heavy over-crowding and profit-taking since June first, driving significant tax-loss selling.",
+   "details": "The speaker points to chart data showing Nasdaq down 15%, AMD down 22%, Taiwan Semiconductor down 23%, and Nvidia down 33% since June 1st. He highlights that intense crowding in the first half of the year left investors heavily underwater and exposed to brutal year-end tax loss harvesting.",
+   "surprise": "Iren is down 80% since June first.",
+   "kind": "opinion",
+   "ticker": "^IXIC",
+   "conclusion": "Tax-loss harvesting will continue to weigh on these over-crowded tech trades through December."
+  },
+  {
+   "timestamp": "02:46",
+   "topic": "Asian tech instability",
+   "claim": "Asian tech markets face ongoing instability driven by Softbank struggles and South Korean market issues.",
+   "details": "Softbank shares dropped 14.48% on November 20, 2026, following Anthropic's market debut, marking its worst daily drop in over two years. The speaker notes that restoring overall market confidence requires resolving these regional headwinds tied to semiconductor chip plays and IPO activity.",
+   "surprise": "Softbank suffered its worst daily drop in over two years after the Anthropic IPO.",
+   "kind": "news",
+   "conclusion": "Overall market calm depends on achieving stability in Asian technology and semiconductor sectors."
+  },
+  {
+   "timestamp": "07:47",
+   "topic": "Nasdaq December seasonal data",
+   "claim": "Historical Nasdaq December returns show seven out of the last ten years were positive, though tax-loss selling complicates the outlook.",
+   "details": "Reviewing December performance from 2008 to 2025, the speaker notes five out of ten years produced large gains, such as 5.5% in 2023 and 5.6% in 2020. However, he warns that cumulative tax-loss selling makes securing a green December much harder this year.",
+   "surprise": "December 2018 recorded a 9.5% decline for the Nasdaq.",
+   "kind": "history",
+   "ticker": "^IXIC",
+   "conclusion": "While history suggests potential gains, current tax-loss pressures point towards a potentially shaky month."
+  },
+  {
+   "timestamp": "11:20",
+   "topic": "Broad asset crash update",
+   "claim": "Cryptocurrencies and commodities are currently experiencing severe drawdowns from their recent highs.",
+   "details": "The speaker reviews recent pricing data showing Bitcoin trading around 58,000 dollars with potential support at 57,000 dollars, and Ethereum down to 1,600 dollars. Meanwhile, gold is in a 35% drawdown and silver sits in a 65% drawdown from 2026 highs.",
+   "surprise": "Silver has dropped 65% from its 2026 highs.",
+   "kind": "opinion",
+   "ticker": "BTC-USD",
+   "scenario": "If Bitcoin loses 58,000, it could drop further to test 57,000 support.",
+   "conclusion": "Commodities and crypto are seeing broad, unexpected weakness across the board.",
+   "levels": [
+    {
+     "value": 57000.0,
+     "label": "support"
+    }
+   ]
+  },
+  {
+   "timestamp": "12:20",
+   "topic": "Anthropic debut and tech correction",
+   "claim": "Tom Lee compares the current tech correction to Cisco's 1997 pullback.",
+   "details": "CNBC highlights Anthropic's public debut and subsequent valuation concerns. Tom Lee calls it a healthy correction comparable to Cisco falling nearly 50% before rallying.",
+   "surprise": "Anthropic fell significantly shortly after its market debut.",
+   "kind": "news",
+   "ticker": "ANT",
+   "conclusion": "The correction creates long-term opportunities despite near-term pain."
+  },
+  {
+   "timestamp": "13:00",
+   "topic": "Data center infrastructure scale",
+   "claim": "Data center investments represent massive economic drivers comparable to housing booms.",
+   "details": "Discussion shifts to the massive financial commitments required for AI data centers. Ten gigawatts of power usage in a state equals the construction of 450,000 homes.",
+   "surprise": "Data center electricity consumption rivals major residential construction booms.",
+   "kind": "opinion",
+   "conclusion": "Losing data center capacity would create a severe economic black hole."
+  },
+  {
+   "timestamp": "18:44",
+   "topic": "Semiconductor stock outlook",
+   "claim": "Semiconductor stocks face short-term pressure but remain long-term winners.",
+   "details": "Jeremy reviews semiconductor charts, noting ongoing tax-loss harvesting in December. He explains that despite near-term downside risks, companies like Nvidia and AMD continue to generate massive profits.",
+   "surprise": "Short-term valuation metrics do not matter during sentiment-driven pullbacks.",
+   "kind": "setup",
+   "ticker": "NVDA",
+   "scenario": "If sentiment remains negative, stocks can retest lower supports before recovering.",
+   "conclusion": "Short-term weakness is temporary; long-term earnings growth remains intact.",
+   "levels": [
+    {
+     "value": 120.0,
+     "label": "target"
+    }
+   ]
+  }
+ ],
+ "tickers": [
+  "^IXIC",
+  "AMD",
+  "NVDA",
+  "BTC-USD",
+  "ANT",
+  "MU",
+  "INTC"
+ ],
+ "predictions": [
+  "Expect a shaky and messy December due to ongoing tax-loss selling pressure",
+  "Semiconductor stocks will experience tax-loss harvesting in December followed by a rebound."
+ ],
+ "catalysts": [
+  "Year-end tax loss harvesting through December",
+  "December tax-loss harvesting"
+ ],
+ "rumors": [],
+ "curiosities": [
+  "Silver is seeing an unprecedented 65% drawdown from 2026 highs while traditional equities undergo severe tax-loss pressure.",
+  "Ten gigawatts of data center capacity equals 450,000 new homes in energy demand."
+ ],
+ "promo": false,
+ "language": "en",
+ "video_id": "cvBfm8frS7I",
+ "title": "The DECEMBER Stock Market! What's Coming NEXT...",
+ "author": "Jeremy Lefebvre Clips",
+ "url": "https://www.youtube.com/watch?v=cvBfm8frS7I",
+ "published": "2026-11-28T12:00:15+00:00",
+ "duration_min": 21,
+ "partial": false,
+ "analysed_at": "2026-11-28T13:39:03.360450+00:00",
+ "model": "gemini-3.5-flash-lite"
+}
